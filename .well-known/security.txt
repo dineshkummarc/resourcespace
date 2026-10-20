@@ -1,3 +1,3 @@
-Contact: https://www.resourcespace.com/bug_report
+Contact: https://rhss.info/resourceDAM/bug_report
 Expires: 2027-01-16T22:59:00.000Z
-Policy: https://www.resourcespace.com/bug_report
+Policy: https://rhss.info/resourceDAM/bug_report
