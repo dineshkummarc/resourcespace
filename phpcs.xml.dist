@@ -4,7 +4,7 @@
     xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/PHPCSStandards/PHP_CodeSniffer/master/phpcs.xsd"
     name="ResourceSpace Standard"
 >
-    <description>The coding standard for ResourceSpace - https://www.resourcespace.com/knowledge-base/developers/coding_standards</description>
+    <description>The coding standard for ResourceSpace - https://rhss.info/resourceDAM/knowledge-base/developers/coding_standards</description>
 
     <!-- Note that this doesn't work for the following command line values: v, l, d, sniffs and standard -->
     <arg name="extensions" value="php" />
