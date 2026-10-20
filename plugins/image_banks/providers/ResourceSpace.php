@@ -7,7 +7,7 @@ namespace ImageBanks;
 use RuntimeException;
 use SplFileInfo;
 
-class ResourceSpace extends Provider implements MultipleInstanceProviderInterface
+class resourceDAM extends Provider implements MultipleInstanceProviderInterface
     {
     /**
      * Only valid instances
@@ -22,7 +22,7 @@ class ResourceSpace extends Provider implements MultipleInstanceProviderInterfac
             $this->name = "ResourceSpace";
             $this->configs = [
                 'resourcespace_instances_cfg' => '',
-                // Loaded from global ResourceSpace configs
+                // Loaded from global resourceDAM configs
                 'default_sort' => 'relevance',
                 'popularity_sort' => true,
                 'orderbyrating' => false,
@@ -174,7 +174,7 @@ class ResourceSpace extends Provider implements MultipleInstanceProviderInterfac
         }
 
     /**
-     * Helper method to use ResourceSpace API
+     * Helper method to use resourceDAM API
      *
      * @param string $function API binding function name
      * @param array $data Request payload
