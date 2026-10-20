@@ -26,7 +26,7 @@ $admina = new_user("1202admina");
 $_POST['fullname'] = "Admin A";
 $_POST['approved'] = "1";
 $_POST['username'] = "1202admina";
-$_POST['email'] = "1202admina@dummy.resourcespace.com";
+$_POST['email'] = "1202admina@dummy.resourcedam.com";
 $_POST['usergroup'] = $parentgroupa;
 save_user($admina);
 
@@ -34,7 +34,7 @@ $adminb = new_user("1202adminb");
 $_POST['fullname'] = "Admin B";
 $_POST['approved'] = "1";
 $_POST['username'] = "1202adminb";
-$_POST['email'] = "1202adminb@dummy.resourcespace.com";
+$_POST['email'] = "1202adminb@dummy.resourcedam.com";
 $_POST['usergroup'] = $parentgroupb;
 save_user($adminb);
 $adminbdata = get_user($adminb);
@@ -43,7 +43,7 @@ $childa = new_user("1202childa");
 $_POST['fullname'] = "Child A";
 $_POST['approved'] = "1";
 $_POST['username'] = "1202childa";
-$_POST['email'] = "1202childa@dummy.resourcespace.com";
+$_POST['email'] = "1202childa@dummy.resourcedam.com";
 $_POST['usergroup'] = $childgroupa;
 save_user($childa);
 

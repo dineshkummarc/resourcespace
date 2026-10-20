@@ -25,18 +25,18 @@ $test_1201_setup_user = function (array $info) use ($test_id) {
 $active_user = $test_1201_setup_user([
     'username' => 'test_1201_user1',
     'fullname' => 'User One',
-    'email' => 'userone@dummy.resourcespace.com',
+    'email' => 'userone@dummy.resourcedam.com',
 ]);
 $user_not_approved = $test_1201_setup_user([
     'username' => 'test_1201_user2',
     'fullname' => 'User Two',
-    'email' => 'usertwo@dummy.resourcespace.com',
+    'email' => 'usertwo@dummy.resourcedam.com',
     'approved' => '0',
 ]);
 $expired_user = $test_1201_setup_user([
     'username' => 'test_1201_user3',
     'fullname' => 'User Three',
-    'email' => 'userthree@dummy.resourcespace.com',
+    'email' => 'userthree@dummy.resourcedam.com',
     'account_expires' => '2022-10-01',
 ]);
 $user_w_invalid_email = $test_1201_setup_user([

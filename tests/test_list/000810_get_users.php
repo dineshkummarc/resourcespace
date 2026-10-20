@@ -17,25 +17,25 @@ $_POST['fullname'] = "User One";
 
 $_POST['approved'] = "1";
 $_POST['username'] = "user1";
-$_POST['email'] = "userone@dummy.resourcespace.com";
+$_POST['email'] = "userone@dummy.resourcedam.com";
 $_POST['usergroup'] = "1";
 save_user($user1);
 
 $_POST['approved'] = "1";
 $_POST['username'] = "user2";
-$_POST['email'] = "usertwo@dummy.resourcespace.com";
+$_POST['email'] = "usertwo@dummy.resourcedam.com";
 $_POST['usergroup'] = "2";
 save_user($user2);
 
 unset($_POST['approved']);
 $_POST['username'] = "user3";
-$_POST['email'] = "userthree@dummy.resourcespace.com";
+$_POST['email'] = "userthree@dummy.resourcedam.com";
 $_POST['usergroup'] = "2";
 save_user($user3);
 
 $_POST['approved'] = "1";
 $_POST['username'] = "user4";
-$_POST['email'] = "userfour@dummy.resourcespace.com";
+$_POST['email'] = "userfour@dummy.resourcedam.com";
 $_POST['usergroup'] = "2";
 save_user($user4);
 
@@ -81,7 +81,7 @@ $supervisor = new_user("supervisor");
 $_POST['fullname'] = "Supervisor";
 $_POST['approved'] = "1";
 $_POST['username'] = "supervisor";
-$_POST['email'] = "supervisor@dummy.resourcespace.com";
+$_POST['email'] = "supervisor@dummy.resourcedam.com";
 $_POST['usergroup'] = $group_supervisor;
 save_user($supervisor);
 
@@ -95,7 +95,7 @@ $subordinate = new_user("subordinate");
 $_POST['fullname'] = "Subordinate";
 $_POST['approved'] = "1";
 $_POST['username'] = "subordinate";
-$_POST['email'] = "subordinate@dummy.resourcespace.com";
+$_POST['email'] = "subordinate@dummy.resourcedam.com";
 $_POST['usergroup'] = $group_subordinate;
 save_user($subordinate);
 
@@ -109,7 +109,7 @@ $independent = new_user("independent");
 $_POST['fullname'] = "Independent";
 $_POST['approved'] = "1";
 $_POST['username'] = "independent";
-$_POST['email'] = "independent@dummy.resourcespace.com";
+$_POST['email'] = "independent@dummy.resourcedam.com";
 $_POST['usergroup'] = $group_independent;
 save_user($independent);
 
