@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Check whether the current ResourceSpace search can be handled by Typesense.
+ * Check whether the current resourceDAM search can be handled by Typesense.
  *
- * @param string $search The original search string after ResourceSpace preprocessing.
+ * @param string $search The original search string after resourceDAM preprocessing.
  * @param array $keywords Parsed search keywords.
  * @param array $node_bucket Included node search buckets.
  * @param array $node_bucket_not Excluded node search buckets.
@@ -49,15 +49,15 @@ function typesense_search_supported(
 
 
 /**
- * Run a ResourceSpace search using Typesense and return ResourceSpace-compatible results.
+ * Run a resourceDAM search using Typesense and return ResourceSpace-compatible results.
  *
  * @param string $search Search string.
  * @param mixed $restypes Resource type filter.
  * @param array $archive Archive state filter.
  * @param mixed $fetchrows Result limit or chunk details.
  * @param bool $return_refs_only Whether only resource refs should be returned.
- * @param PreparedStatementQuery $select Existing ResourceSpace SELECT fields.
- * @param string $order_by The order by SQL from the standard ResourceSpace search construction.
+ * @param PreparedStatementQuery $select Existing resourceDAM SELECT fields.
+ * @param string $order_by The order by SQL from the standard resourceDAM search construction.
  *
  * @return array|false ResourceSpace-compatible results, or false to fall back to core search.
  */
@@ -124,7 +124,7 @@ function typesense_search_get_refs(
         $search = substr($search, 0, -1);
     }
 
-    // Order by - convert the ResourceSpace SQL order to a Typesense compatible order
+    // Order by - convert the resourceDAM SQL order to a Typesense compatible order
     $sort_by="_text_match";
     if (substr($order_by,0,5)=="field" . $date_field) {$sort_by="date";}
     if (substr($order_by,0,5)=="r.ref") {$sort_by="resource";}
@@ -177,7 +177,7 @@ function typesense_search_get_refs(
 
 
 /**
- * Build a Typesense filter expression for simple ResourceSpace filters.
+ * Build a Typesense filter expression for simple resourceDAM filters.
  *
  * @param mixed $restypes Resource type filter.
  * @param array $archive Archive state filter.
@@ -218,14 +218,14 @@ function typesense_search_filter_by($restypes, array $archive): string
 
 
 /**
- * Hydrate Typesense resource refs into the standard ResourceSpace search result structure.
+ * Hydrate Typesense resource refs into the standard resourceDAM search result structure.
  *
  * @param array $refs Ordered resource refs from Typesense.
  * @param int $total Total number of matches reported by Typesense.
  * @param mixed $fetchrows Result limit or chunk details.
  * @param bool $return_refs_only Whether only resource refs should be returned.
- * @param PreparedStatementQuery $select Existing ResourceSpace SELECT fields.
- * @param string $order_by The order by SQL from the standard ResourceSpace search construction.
+ * @param PreparedStatementQuery $select Existing resourceDAM SELECT fields.
+ * @param string $order_by The order by SQL from the standard resourceDAM search construction.
  *
  * @return array ResourceSpace-compatible search results.
  */
@@ -431,7 +431,7 @@ function typesense_search_ensure_collection(): bool
 
 
 /**
- * Build a Typesense document for a ResourceSpace resource.
+ * Build a Typesense document for a resourceDAM resource.
  *
  * @param int $resource Resource ID.
  *
@@ -507,7 +507,7 @@ function typesense_search_get_document_data(int $resource)
 
 
 /**
- * Index a single ResourceSpace resource in Typesense.
+ * Index a single resourceDAM resource in Typesense.
  *
  * @param int $resource Resource ID.
  *
@@ -654,10 +654,10 @@ function typesense_search_index_document(array $document): bool
 
 
 /**
- * Synchronise ResourceSpace related keywords to Typesense synonyms.
+ * Synchronise resourceDAM related keywords to Typesense synonyms.
  *
  * Creates or updates synonym groups in the configured Typesense collection
- * based on ResourceSpace related keyword relationships so that searches
+ * based on resourceDAM related keyword relationships so that searches
  * automatically match related terms using OR-style expansion.
  *
  * @return bool True if the sync completed successfully.

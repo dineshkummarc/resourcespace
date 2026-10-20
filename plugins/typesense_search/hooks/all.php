@@ -3,9 +3,9 @@
 include_once __DIR__ . '/../include/typesense_search_functions.php';
 
 /**
- * Intercept ResourceSpace searches and optionally handle them using Typesense.
+ * Intercept resourceDAM searches and optionally handle them using Typesense.
  *
- * Returning false allows normal MySQL-based ResourceSpace search processing
+ * Returning false allows normal MySQL-based resourceDAM search processing
  * to continue.
  *
  * @param string                 $search                  Original search string.
@@ -26,9 +26,9 @@ include_once __DIR__ . '/../include/typesense_search_functions.php';
  * @param bool                   $returnsql               Whether SQL should be returned instead of results.
  * @param mixed                  $access                  Access filter override.
  * @param bool                   $smartsearch             Whether smart search mode is active.
- * @param PreparedStatementQuery $sql_filter              Existing ResourceSpace filter SQL.
- * @param PreparedStatementQuery $sql_join                Existing ResourceSpace JOIN SQL.
- * @param PreparedStatementQuery $select                  Existing ResourceSpace SELECT SQL.
+ * @param PreparedStatementQuery $sql_filter              Existing resourceDAM filter SQL.
+ * @param PreparedStatementQuery $sql_join                Existing resourceDAM JOIN SQL.
+ * @param PreparedStatementQuery $select                  Existing resourceDAM SELECT SQL.
  *
  * @return array|false ResourceSpace-compatible search results, or false to fall back to core search.
  */
