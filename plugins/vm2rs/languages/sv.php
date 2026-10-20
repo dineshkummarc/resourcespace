@@ -8,4 +8,4 @@ $lang["vm2rs_online_preview"]='Onlineförhandsvisning';
 $lang["vm2rs_youtube_video"]='Youtube-video';
 $lang["plugin-vm2rs-title"]='Vimeo till resourceDAM';
 $lang["plugin-vm2rs-desc"]='Möjliggör inbäddning av videor från Vimeo.';
-$lang["page-title_vm2rs_setup"] = 'Ställ in Vimeo till ResourceSpace-plugin';
+$lang["page-title_vm2rs_setup"] = 'Ställ in Vimeo till ResourceDAM-plugin';
