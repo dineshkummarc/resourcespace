@@ -31,7 +31,7 @@ $lang["simplesaml_custom_attribute_label"] = 'Χαρακτηριστικό SSO (
 $lang["simplesaml_usercomment"] = 'Δημιουργήθηκε από το πρόσθετο SimpleSAML';
 $lang["origin_simplesaml"] = 'Πρόσθετο SimpleSAML';
 $lang["simplesaml_lib_path_label"] = 'Διαδρομή βιβλιοθήκης SAML (παρακαλώ καθορίστε την πλήρη διαδρομή του διακομιστή)';
-$lang["simplesaml_login"] = 'Χρησιμοποιήστε τα διαπιστευτήρια SAML για να συνδεθείτε στο ResourceSpace; (Αυτό ισχύει μόνο εάν η παραπάνω επιλογή είναι ενεργοποιημένη)';
+$lang["simplesaml_login"] = 'Χρησιμοποιήστε τα διαπιστευτήρια SAML για να συνδεθείτε στο ResourceDAM; (Αυτό ισχύει μόνο εάν η παραπάνω επιλογή είναι ενεργοποιημένη)';
 $lang["simplesaml_create_new_match_email"] = 'Αντιστοίχιση email: Πριν δημιουργήσετε νέους χρήστες, ελέγξτε εάν το email του χρήστη SAML αντιστοιχεί σε ένα υπάρχον email λογαριασμού RS. Εάν βρεθεί αντιστοιχία, ο χρήστης SAML θα \'υιοθετήσει\' αυτόν τον λογαριασμό';
 $lang["simplesaml_allow_duplicate_email"] = 'Να επιτρέπεται η δημιουργία νέων λογαριασμών αν υπάρχουν ήδη λογαριασμοί resourceDAM με την ίδια διεύθυνση email; (αυτό αντικαθίσταται αν έχει οριστεί η αντιστοιχία email-match παραπάνω και βρεθεί μια αντιστοιχία)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - Διένεξη προσπάθειας σύνδεσης με email';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Ενεργοποιήστ�
 $lang["simplesaml_authorisation_claim_name_label"] = 'Όνομα χαρακτηριστικού (δήλωσης/αξίωσης)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Τιμή χαρακτηριστικού (δήλωσης/αξίωσης)';
 $lang["simplesaml_authorisation_login_error"] = 'Δεν έχετε πρόσβαση σε αυτήν την εφαρμογή! Παρακαλούμε επικοινωνήστε με τον διαχειριστή του λογαριασμού σας!';
-$lang["simplesaml_authorisation_version_error"] = 'ΣΗΜΑΝΤΙΚΟ: Η διαμόρφωση του SimpleSAML σας χρειάζεται ενημέρωση. Παρακαλούμε ανατρέξτε στην ενότητα \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Μεταφορά του SP για χρήση της διαμόρφωσης του ResourceSpace</a>\' της Βάσης Γνώσεων για περισσότερες πληροφορίες';
+$lang["simplesaml_authorisation_version_error"] = 'ΣΗΜΑΝΤΙΚΟ: Η διαμόρφωση του SimpleSAML σας χρειάζεται ενημέρωση. Παρακαλούμε ανατρέξτε στην ενότητα \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Μεταφορά του SP για χρήση της διαμόρφωσης του ResourceDAM</a>\' της Βάσης Γνώσεων για περισσότερες πληροφορίες';
 $lang["simplesaml_healthcheck_error"] = 'Σφάλμα προσθέτου SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Χρησιμοποιήστε τα κανονικά αρχεία διαμόρφωσης του resourceDAM για να ορίσετε τη διαμόρφωση του SP και των μεταδεδομένων; Εάν αυτό είναι ψευδές, τότε απαιτείται χειροκίνητη επεξεργασία των αρχείων.';
 $lang["simplesaml_sp_generate_config"] = 'Δημιουργία ρυθμίσεων SP (Service Provider)';

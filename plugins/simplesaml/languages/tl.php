@@ -32,7 +32,7 @@ $lang["simplesaml_custom_attribute_label"] = 'SSO attribute - ';
 $lang["simplesaml_usercomment"] = 'Ginawa ng SimpleSAML plugin';
 $lang["origin_simplesaml"] = 'SimpleSAML plugin';
 $lang["simplesaml_lib_path_label"] = 'SAML lib path (mangyaring tukuyin ang buong landas ng server)';
-$lang["simplesaml_login"] = 'Gamitin ang SAML na kredensyal upang mag-login sa ResourceSpace? (Ito ay may kaugnayan lamang kung ang nabanggit na opsyon ay naka-enable)';
+$lang["simplesaml_login"] = 'Gamitin ang SAML na kredensyal upang mag-login sa ResourceDAM? (Ito ay may kaugnayan lamang kung ang nabanggit na opsyon ay naka-enable)';
 $lang["simplesaml_create_new_match_email"] = 'Email-match: Bago lumikha ng mga bagong gumagamit, suriin kung ang email ng SAML user ay tumutugma sa isang umiiral na email ng RS account. Kung may natagpuang tugma, ang SAML user ay \'aamponin\' ang account na iyon';
 $lang["simplesaml_allow_duplicate_email"] = 'Payagan ang mga bagong account na malikha kung may umiiral na mga account sa resourceDAM na may parehong email address? (ito ay pinapawalang-bisa kung ang email-match ay itinakda sa itaas at may isang tugma na natagpuan)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - nagkakontradiksyon na pagtatangkang mag-login gamit ang email';
@@ -48,7 +48,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Paganahin ang resourceDAM
 $lang["simplesaml_authorisation_claim_name_label"] = 'Pangalan ng Katangian (pagsasakdal/ paghahabol)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Halaga ng Katangian (pagsasakdal/pag-angkin)';
 $lang["simplesaml_authorisation_login_error"] = 'Wala kang access sa application na ito! Mangyaring makipag-ugnayan sa administrator para sa iyong account!';
-$lang["simplesaml_authorisation_version_error"] = 'MAHALAGA: Kailangan i-update ang iyong SimpleSAML na configuration. Mangyaring sumangguni sa \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Paglipat ng SP upang gamitin ang configuration ng ResourceSpace</a>\' na seksyon ng Knowledge Base para sa karagdagang impormasyon';
+$lang["simplesaml_authorisation_version_error"] = 'MAHALAGA: Kailangan i-update ang iyong SimpleSAML na configuration. Mangyaring sumangguni sa \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Paglipat ng SP upang gamitin ang configuration ng ResourceDAM</a>\' na seksyon ng Knowledge Base para sa karagdagang impormasyon';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML plugin error';
 $lang["simplesaml_rsconfig"] = 'Gamitin ang mga karaniwang configuration file ng resourceDAM upang itakda ang SP configuration at metadata? Kung ito ay itinakda sa false, kinakailangan ang manu-manong pag-edit ng mga file';
 $lang["simplesaml_sp_generate_config"] = 'Bumuo ng SP config';

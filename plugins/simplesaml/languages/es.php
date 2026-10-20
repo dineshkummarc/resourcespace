@@ -30,7 +30,7 @@ $lang["simplesaml_custom_attribute_label"] = 'Atributo SSO';
 $lang["simplesaml_usercomment"] = 'Creado por el plugin SimpleSAML';
 $lang["origin_simplesaml"] = 'Plugin de SimpleSAML';
 $lang["simplesaml_lib_path_label"] = 'Ruta de la librería SAML (por favor especifique la ruta completa del servidor)';
-$lang["simplesaml_login"] = '¿Utilizar credenciales SAML para iniciar sesión en ResourceSpace? (Esto solo es relevante si la opción anterior está habilitada)';
+$lang["simplesaml_login"] = '¿Utilizar credenciales SAML para iniciar sesión en ResourceDAM? (Esto solo es relevante si la opción anterior está habilitada)';
 $lang["simplesaml_create_new_match_email"] = 'Coincidencia de correo electrónico: Antes de crear nuevos usuarios, compruebe si el correo electrónico del usuario SAML coincide con el correo electrónico de una cuenta existente en RS. Si se encuentra una coincidencia, el usuario SAML "adoptará" esa cuenta';
 $lang["simplesaml_allow_duplicate_email"] = '¿Permitir la creación de nuevas cuentas si ya existen cuentas de resourceDAM con la misma dirección de correo electrónico? (esto se anula si se establece una coincidencia de correo electrónico arriba y se encuentra una coincidencia)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - intento de inicio de sesión con correo electrónico en conflicto';
@@ -46,7 +46,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Habilitar que resourceDAM
 $lang["simplesaml_authorisation_claim_name_label"] = 'Nombre del atributo (afirmación/reclamo)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Valor de atributo (afirmación/reclamo)';
 $lang["simplesaml_authorisation_login_error"] = '¡No tienes acceso a esta aplicación! ¡Por favor, contacta al administrador de tu cuenta!';
-$lang["simplesaml_authorisation_version_error"] = 'IMPORTANTE: Su configuración de SimpleSAML debe ser actualizada. Por favor, consulte la sección \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migración del SP para usar la configuración de ResourceSpace</a>\' en la Base de Conocimientos para obtener más información';
+$lang["simplesaml_authorisation_version_error"] = 'IMPORTANTE: Su configuración de SimpleSAML debe ser actualizada. Por favor, consulte la sección \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migración del SP para usar la configuración de ResourceDAM</a>\' en la Base de Conocimientos para obtener más información';
 $lang["simplesaml_healthcheck_error"] = 'Error del plugin SimpleSAML';
 $lang["simplesaml_rsconfig"] = '¿Usar archivos de configuración estándar de resourceDAM para establecer la configuración de SP y los metadatos? Si se establece en falso, entonces se requiere la edición manual de los archivos';
 $lang["simplesaml_sp_generate_config"] = 'Generar configuración de SP';

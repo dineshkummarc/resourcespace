@@ -30,7 +30,7 @@ $lang["simplesaml_custom_attributes"] = 'Priodweddau arferol i gofrestru yn erby
 $lang["simplesaml_usercomment"] = 'Crewyd gan plug-in SimpleSAML';
 $lang["origin_simplesaml"] = 'SimpleSAML plugin';
 $lang["simplesaml_lib_path_label"] = 'Llwybr llyfrgell SAML (os gwelwch yn dda nodwch llwybr llawn y gweinydd)';
-$lang["simplesaml_login"] = 'Defnyddiwch ddilysiadau SAML i fewngofnodi i ResourceSpace? (Dim ond os yw\'r opsiwn uchod wedi\'i alluogi)';
+$lang["simplesaml_login"] = 'Defnyddiwch ddilysiadau SAML i fewngofnodi i ResourceDAM? (Dim ond os yw\'r opsiwn uchod wedi\'i alluogi)';
 $lang["simplesaml_create_new_match_email"] = 'Email-cydweddu: Cyn creu defnyddwyr newydd, gwirio os yw e-bost defnyddiwr SAML yn cydweddu â chyfrif RS presennol. Os ceir cydweddiad, bydd y defnyddiwr SAML yn \'dderbyn\' y cyfrif hwnnw';
 $lang["simplesaml_allow_duplicate_email"] = 'Caniatáu i greu cyfrifon newydd os oes cyfrifon resourceDAM presennol gyda\'r un cyfeiriad e-bost? (mae hyn yn cael ei orfodi os yw\'r cyfeiriad e-bost yn cyfateb yn y fan uchod a chanfyddir un cyfateb)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - ymdrech logio e-bost gwrthdaro';
@@ -81,7 +81,7 @@ $lang["simplesaml_idp_cert_expired"] = 'Mae tystysgrif IdP %idpname wedi dod i b
 $lang["simplesaml_idp_cert_expires"] = 'Mae tystysgrif IdP %idpname yn dod i ben ar %expiretime';
 $lang["simplesaml_check_idp_cert_expiry"] = 'Gwiriwch ddirwygiad tystysgrif IdP?';
 $lang["simplesaml_custom_attribute_label"] = 'atribwt SSO';
-$lang["simplesaml_authorisation_version_error"] = 'PWYSIG: Mae angen diweddaru eich ffurfweddiad SimpleSAML. Cyfeiriwch at adran \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Mudo\'r SP i ddefnyddio ffurfweddiad ResourceSpace</a>\' o\'r Gofod Gwybodaeth am ragor o wybodaeth';
+$lang["simplesaml_authorisation_version_error"] = 'PWYSIG: Mae angen diweddaru eich ffurfweddiad SimpleSAML. Cyfeiriwch at adran \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Mudo\'r SP i ddefnyddio ffurfweddiad ResourceDAM</a>\' o\'r Gofod Gwybodaeth am ragor o wybodaeth';
 $lang["simplesaml_sp_auth.adminpassword"] = 'SP Test site admin password';
 $lang["simplesaml_acs_url"] = 'ACS URL / Reply URL';
 

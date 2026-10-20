@@ -31,7 +31,7 @@ $lang["simplesaml_custom_attribute_label"] = 'سمة SSO -';
 $lang["simplesaml_usercomment"] = 'تم إنشاؤه بواسطة مكوّن إضافي SimpleSAML';
 $lang["origin_simplesaml"] = 'ملحق SimpleSAML';
 $lang["simplesaml_lib_path_label"] = 'مسار مكتبة SAML (يرجى تحديد المسار الكامل للخادم)';
-$lang["simplesaml_login"] = 'استخدم بيانات اعتماد SAML لتسجيل الدخول إلى ResourceSpace؟ (هذا مطلوب فقط إذا تم تمكين الخيار أعلاه)';
+$lang["simplesaml_login"] = 'استخدم بيانات اعتماد SAML لتسجيل الدخول إلى ResourceDAM؟ (هذا مطلوب فقط إذا تم تمكين الخيار أعلاه)';
 $lang["simplesaml_create_new_match_email"] = 'تطابق البريد الإلكتروني: قبل إنشاء مستخدمين جدد، تحقق مما إذا كان بريد المستخدم في SAML يتطابق مع بريد حساب RS الحالي. إذا تم العثور على تطابق، سيتم للمستخدم في SAML \'اعتماد\' ذلك الحساب';
 $lang["simplesaml_allow_duplicate_email"] = 'السماح بإنشاء حسابات جديدة إذا كانت هناك حسابات موجودة في resourceDAM بنفس عنوان البريد الإلكتروني؟ (يتم تجاوز هذا إذا تم تعيين تطابق البريد الإلكتروني أعلاه وتم العثور على تطابق واحد)';
 $lang["simplesaml_multiple_email_match_subject"] = 'محاولة تسجيل دخول بريد إلكتروني متعارضة - resourceDAM SAML';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'تمكين resourceDAM م
 $lang["simplesaml_authorisation_claim_name_label"] = 'اسم السمة (الادعاء / المطالبة)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'قيمة السمة (الادعاء / المطالبة)';
 $lang["simplesaml_authorisation_login_error"] = 'ليس لديك صلاحية الوصول إلى هذا التطبيق! يرجى الاتصال بمدير الحساب الخاص بك!';
-$lang["simplesaml_authorisation_version_error"] = 'مهم: يجب تحديث تكوين SimpleSAML الخاص بك. يرجى الرجوع إلى قسم "ترحيل SP لاستخدام تكوين ResourceSpace" في قاعدة المعرفة على الرابط التالي: \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>.</a>\' لمزيد من المعلومات';
+$lang["simplesaml_authorisation_version_error"] = 'مهم: يجب تحديث تكوين SimpleSAML الخاص بك. يرجى الرجوع إلى قسم "ترحيل SP لاستخدام تكوين ResourceDAM" في قاعدة المعرفة على الرابط التالي: \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>.</a>\' لمزيد من المعلومات';
 $lang["simplesaml_healthcheck_error"] = 'خطأ في ملحق SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'استخدم ملفات تكوين resourceDAM القياسية لتعيين تكوين SP والبيانات الوصفية؟ إذا تم تعيين هذا على "false" ، فسيتطلب ذلك تحرير الملفات يدويًا';
 $lang["simplesaml_sp_generate_config"] = 'توليد تكوين SP';

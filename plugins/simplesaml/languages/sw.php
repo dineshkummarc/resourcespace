@@ -31,7 +31,7 @@ $lang["simplesaml_custom_attribute_label"] = 'Sifa ya SSO -';
 $lang["simplesaml_usercomment"] = 'Imeundwa na programu-jalizi ya SimpleSAML';
 $lang["origin_simplesaml"] = 'Programu-jalizi ya SimpleSAML';
 $lang["simplesaml_lib_path_label"] = 'Njia ya maktaba ya SAML (tafadhali taja njia kamili ya seva)';
-$lang["simplesaml_login"] = 'Tumia vitambulisho vya SAML kuingia kwenye ResourceSpace? (Hii inahusika tu ikiwa chaguo la juu limewezeshwa)';
+$lang["simplesaml_login"] = 'Tumia vitambulisho vya SAML kuingia kwenye ResourceDAM? (Hii inahusika tu ikiwa chaguo la juu limewezeshwa)';
 $lang["simplesaml_create_new_match_email"] = 'Barua pepe-sawa: Kabla ya kuunda watumiaji wapya, angalia kama barua pepe ya mtumiaji wa SAML inalingana na barua pepe ya akaunti ya RS iliyopo. Ikiwa mfanano unapatikana, mtumiaji wa SAML atachukua akaunti hiyo.';
 $lang["simplesaml_allow_duplicate_email"] = 'Ruhusu akaunti mpya kuundwa ikiwa kuna akaunti za resourceDAM zilizopo na anwani ya barua pepe sawa? (hii inazimwa ikiwa mechi ya barua pepe imewekwa juu na mechi moja inapatikana)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - jaribio la kuingia kwa barua pepe linalokinzana';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Wezesha resourceDAM kusan
 $lang["simplesaml_authorisation_claim_name_label"] = 'Jina la sifa (madai/ dai)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Thamani ya sifa (madai/ dai)';
 $lang["simplesaml_authorisation_login_error"] = 'Huna ruhusa ya kufikia programu hii! Tafadhali wasiliana na msimamizi wa akaunti yako!';
-$lang["simplesaml_authorisation_version_error"] = 'MUHIMU: Usanidi wako wa SimpleSAML unahitaji kusasishwa. Tafadhali rejelea sehemu ya \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Kuhamisha SP kutumia usanidi wa ResourceSpace</a>\' katika Msingi wa Maarifa kwa maelezo zaidi.';
+$lang["simplesaml_authorisation_version_error"] = 'MUHIMU: Usanidi wako wa SimpleSAML unahitaji kusasishwa. Tafadhali rejelea sehemu ya \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Kuhamisha SP kutumia usanidi wa ResourceDAM</a>\' katika Msingi wa Maarifa kwa maelezo zaidi.';
 $lang["simplesaml_healthcheck_error"] = 'Hitilafu ya programu-jalizi ya SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Tumia faili za usanidi wa resourceDAM za kawaida kuweka usanidi wa SP na metadata? Ikiwa hii imewekwa kuwa ya uongo basi uhariri wa faili kwa mkono unahitajika';
 $lang["simplesaml_sp_generate_config"] = 'Tengeneza usanidi wa SP';

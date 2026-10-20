@@ -31,7 +31,7 @@ $lang["simplesaml_custom_attribute_label"] = 'Thuộc tính SSO -';
 $lang["simplesaml_usercomment"] = 'Được tạo bởi plugin SimpleSAML';
 $lang["origin_simplesaml"] = 'SimpleSAML plugin';
 $lang["simplesaml_lib_path_label"] = 'Đường dẫn thư viện SAML (vui lòng chỉ định đường dẫn đầy đủ trên máy chủ)';
-$lang["simplesaml_login"] = 'Sử dụng thông tin xác thực SAML để đăng nhập vào ResourceSpace? (Điều này chỉ có liên quan nếu tùy chọn trên được bật)';
+$lang["simplesaml_login"] = 'Sử dụng thông tin xác thực SAML để đăng nhập vào ResourceDAM? (Điều này chỉ có liên quan nếu tùy chọn trên được bật)';
 $lang["simplesaml_create_new_match_email"] = 'Email-khớp: Trước khi tạo người dùng mới, hãy kiểm tra xem email người dùng SAML có khớp với email tài khoản RS hiện có không. Nếu tìm thấy sự khớp, người dùng SAML sẽ \'nhận\' tài khoản đó';
 $lang["simplesaml_allow_duplicate_email"] = 'Cho phép tạo tài khoản mới nếu có tài khoản resourceDAM hiện có với cùng địa chỉ email? (điều này sẽ bị ghi đè nếu email-match được thiết lập ở trên và một kết quả trùng khớp được tìm thấy)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - cố gắng đăng nhập email xung đột';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Cho phép resourceDAM đ�
 $lang["simplesaml_authorisation_claim_name_label"] = 'Tên thuộc tính (khẳng định/yêu cầu)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Giá trị thuộc tính (khẳng định/yêu cầu)';
 $lang["simplesaml_authorisation_login_error"] = 'Bạn không có quyền truy cập vào ứng dụng này! Vui lòng liên hệ với quản trị viên cho tài khoản của bạn!';
-$lang["simplesaml_authorisation_version_error"] = 'QUAN TRỌNG: Cấu hình SimpleSAML của bạn cần được cập nhật. Vui lòng tham khảo phần \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Di chuyển SP để sử dụng cấu hình ResourceSpace</a>\' trong Cơ sở Kiến thức để biết thêm thông tin';
+$lang["simplesaml_authorisation_version_error"] = 'QUAN TRỌNG: Cấu hình SimpleSAML của bạn cần được cập nhật. Vui lòng tham khảo phần \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Di chuyển SP để sử dụng cấu hình ResourceDAM</a>\' trong Cơ sở Kiến thức để biết thêm thông tin';
 $lang["simplesaml_healthcheck_error"] = 'Lỗi plugin SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Sử dụng các tệp cấu hình resourceDAM tiêu chuẩn để thiết lập cấu hình SP và siêu dữ liệu? Nếu điều này được đặt thành sai thì cần chỉnh sửa thủ công các tệp';
 $lang["simplesaml_sp_generate_config"] = 'Tạo cấu hình SP';

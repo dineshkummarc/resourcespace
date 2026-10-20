@@ -30,7 +30,7 @@ $lang["simplesaml_custom_attribute_label"] = 'Atribut SSO -';
 $lang["simplesaml_usercomment"] = 'Dibuat oleh plugin SimpleSAML';
 $lang["origin_simplesaml"] = 'Plugin SimpleSAML dalam Bahasa Indonesia dapat diterjemahkan menjadi "Plugin SimpleSAML"';
 $lang["simplesaml_lib_path_label"] = 'Jalur pustaka SAML (harap tentukan jalur server lengkap)';
-$lang["simplesaml_login"] = 'Gunakan kredensial SAML untuk masuk ke ResourceSpace? (Ini hanya relevan jika opsi di atas diaktifkan)';
+$lang["simplesaml_login"] = 'Gunakan kredensial SAML untuk masuk ke ResourceDAM? (Ini hanya relevan jika opsi di atas diaktifkan)';
 $lang["simplesaml_create_new_match_email"] = 'Cocokan Email: Sebelum membuat pengguna baru, periksa apakah email pengguna SAML cocok dengan email akun RS yang sudah ada. Jika ada yang cocok, pengguna SAML akan \'mengambil alih\' akun tersebut';
 $lang["simplesaml_allow_duplicate_email"] = 'Izinkan pembuatan akun baru jika ada akun resourceDAM yang sudah ada dengan alamat email yang sama? (ini akan digantikan jika email-match diatur di atas dan satu kecocokan ditemukan)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - upaya login email yang bertentangan';
@@ -46,7 +46,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Mengaktifkan resourceDAM 
 $lang["simplesaml_authorisation_claim_name_label"] = 'Nama atribut (pernyataan/klaim)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Nilai Atribut (pernyataan/klaim)';
 $lang["simplesaml_authorisation_login_error"] = 'Anda tidak memiliki akses ke aplikasi ini! Silakan hubungi administrator untuk akun Anda!';
-$lang["simplesaml_authorisation_version_error"] = 'PENTING: Konfigurasi SimpleSAML Anda perlu diperbarui. Silakan lihat bagian \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrasi SP untuk menggunakan konfigurasi ResourceSpace</a>\' di Basis Pengetahuan untuk informasi lebih lanjut';
+$lang["simplesaml_authorisation_version_error"] = 'PENTING: Konfigurasi SimpleSAML Anda perlu diperbarui. Silakan lihat bagian \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrasi SP untuk menggunakan konfigurasi ResourceDAM</a>\' di Basis Pengetahuan untuk informasi lebih lanjut';
 $lang["simplesaml_healthcheck_error"] = 'Kesalahan plugin SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Gunakan file konfigurasi standar resourceDAM untuk mengatur konfigurasi SP dan metadata? Jika ini diatur ke false maka pengeditan manual file diperlukan';
 $lang["simplesaml_sp_generate_config"] = 'Membuat konfigurasi SP';

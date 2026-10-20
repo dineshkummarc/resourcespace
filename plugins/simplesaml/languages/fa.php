@@ -31,7 +31,7 @@ $lang["simplesaml_custom_attribute_label"] = 'ویژگی SSO -';
 $lang["simplesaml_usercomment"] = 'ایجاد شده توسط افزونه SimpleSAML';
 $lang["origin_simplesaml"] = 'پلاگین SimpleSAML';
 $lang["simplesaml_lib_path_label"] = 'مسیر کتابخانه SAML (لطفاً مسیر کامل سرور را مشخص کنید)';
-$lang["simplesaml_login"] = 'استفاده از اعتبارنامه‌های SAML برای ورود به ResourceSpace؟ (این فقط در صورتی مرتبط است که گزینه بالا فعال باشد)';
+$lang["simplesaml_login"] = 'استفاده از اعتبارنامه‌های SAML برای ورود به ResourceDAM؟ (این فقط در صورتی مرتبط است که گزینه بالا فعال باشد)';
 $lang["simplesaml_create_new_match_email"] = 'تطابق ایمیل: قبل از ایجاد کاربران جدید، بررسی کنید که آیا ایمیل کاربر SAML با ایمیل حساب موجود در RS مطابقت دارد. اگر تطابقی یافت شود، کاربر SAML آن حساب را "پذیرفته" خواهد کرد.';
 $lang["simplesaml_allow_duplicate_email"] = 'اجازه دهید حساب‌های جدید ایجاد شوند اگر حساب‌های resourceDAM موجود با همان آدرس ایمیل وجود داشته باشند؟ (این تنظیم نادیده گرفته می‌شود اگر تطابق ایمیل در بالا تنظیم شده باشد و یک تطابق پیدا شود)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - تلاش ورود با ایمیل متناقض';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'فعال‌سازی resou
 $lang["simplesaml_authorisation_claim_name_label"] = 'نام ویژگی (ادعا/ اظهار)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'مقدار ویژگی (ادعا/ اظهار)';
 $lang["simplesaml_authorisation_login_error"] = 'شما به این برنامه دسترسی ندارید! لطفاً با مدیر حساب خود تماس بگیرید!';
-$lang["simplesaml_authorisation_version_error"] = 'مهم: پیکربندی SimpleSAML شما نیاز به به‌روزرسانی دارد. لطفاً به بخش \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> مهاجرت SP برای استفاده از پیکربندی ResourceSpace</a>\' در پایگاه دانش برای اطلاعات بیشتر مراجعه کنید.';
+$lang["simplesaml_authorisation_version_error"] = 'مهم: پیکربندی SimpleSAML شما نیاز به به‌روزرسانی دارد. لطفاً به بخش \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> مهاجرت SP برای استفاده از پیکربندی ResourceDAM</a>\' در پایگاه دانش برای اطلاعات بیشتر مراجعه کنید.';
 $lang["simplesaml_healthcheck_error"] = 'خطای افزونه SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'از فایل‌های پیکربندی استاندارد resourceDAM برای تنظیم پیکربندی SP و فراداده استفاده کنید؟ اگر این به false تنظیم شود، ویرایش دستی فایل‌ها لازم است';
 $lang["simplesaml_sp_generate_config"] = 'تولید پیکربندی SP';

@@ -31,7 +31,7 @@ $lang["simplesaml_custom_attribute_label"] = 'Atribút SSO -';
 $lang["simplesaml_usercomment"] = 'Vytvorené pomocou doplnku SimpleSAML';
 $lang["origin_simplesaml"] = 'Plugin SimpleSAML';
 $lang["simplesaml_lib_path_label"] = 'Cesta knižnice SAML (prosím, uveďte úplnú cestu na serveri)';
-$lang["simplesaml_login"] = 'Použite SAML poverenia na prihlásenie do ResourceSpace? (Toto je relevantné iba ak je vyššie uvedená možnosť povolená)';
+$lang["simplesaml_login"] = 'Použite SAML poverenia na prihlásenie do ResourceDAM? (Toto je relevantné iba ak je vyššie uvedená možnosť povolená)';
 $lang["simplesaml_create_new_match_email"] = 'Zhoda e-mailov: Pred vytvorením nových používateľov skontrolujte, či sa e-mail SAML používateľa zhoduje s existujúcim e-mailom RS účtu. Ak sa zhoda nájde, SAML používateľ prevezme tento účet';
 $lang["simplesaml_allow_duplicate_email"] = 'Povolit vytváranie nových účtov, ak existujú už existujúce účty v resourceDAM s rovnakou e-mailovou adresou? (toto sa prekryje, ak je nastavené zhodovanie e-mailov a nájde sa jedna zhoda)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - konfliktný pokus o prihlásenie cez email';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Povolite konfiguráciu re
 $lang["simplesaml_authorisation_claim_name_label"] = 'Názov atribútu (tvrdenie/nárok)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Hodnota atribútu (tvrdenie/hlásenie)';
 $lang["simplesaml_authorisation_login_error"] = 'Nemáte prístup k tejto aplikácii! Prosím, kontaktujte administrátora vášho účtu!';
-$lang["simplesaml_authorisation_version_error"] = 'DÔLEŽITÉ: Vaša konfigurácia SimpleSAML musí byť aktualizovaná. Pre viac informácií sa pozrite do sekcie „Migrácia SP na použitie konfigurácie ResourceSpace“ v báze znalostí na adrese \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>\'';
+$lang["simplesaml_authorisation_version_error"] = 'DÔLEŽITÉ: Vaša konfigurácia SimpleSAML musí byť aktualizovaná. Pre viac informácií sa pozrite do sekcie „Migrácia SP na použitie konfigurácie ResourceDAM“ v báze znalostí na adrese \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>\'';
 $lang["simplesaml_healthcheck_error"] = 'Chyba pluginu SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Použite štandardné konfiguračné súbory resourceDAM na nastavenie konfigurácie SP a metadát? Ak je to nastavené na false, potom je potrebné manuálne upravovať súbory';
 $lang["simplesaml_sp_generate_config"] = 'Vytvoriť konfiguráciu SP';

@@ -32,7 +32,7 @@ $lang["simplesaml_custom_attribute_label"] = 'خصائص SSO - ';
 $lang["simplesaml_usercomment"] = 'دروستکراوە لەلایەن پلاگینەکانی SimpleSAML';
 $lang["origin_simplesaml"] = 'پلاگینەکانی SimpleSAML';
 $lang["simplesaml_lib_path_label"] = 'ڕێڕەوی Lib SAML (تکایە ڕێڕەوی سێرڤەرەکە بە تەواوی دیاری بکە)';
-$lang["simplesaml_login"] = 'ئایا دەتەوێت بەکاربردنی ناسنامەکانی SAML بۆ چوونە ژوورەوە لە ResourceSpace؟ (ئەم هەڵبژاردنە تەنها ئەگەر سەرەوە چالاک کراوە)';
+$lang["simplesaml_login"] = 'ئایا دەتەوێت بەکاربردنی ناسنامەکانی SAML بۆ چوونە ژوورەوە لە ResourceDAM؟ (ئەم هەڵبژاردنە تەنها ئەگەر سەرەوە چالاک کراوە)';
 $lang["simplesaml_create_new_match_email"] = 'پەیوەندی ئیمەیل: پێش دروستکردنی بەکارهێنەران نوێ، بپرسە ئەگەر ئیمەیلەکانی بەکارهێنەری SAML پەیوەندیدارە بە ئیمەیلەکانی هەژماری RS. ئەگەر پەیوەندیەکە بدۆزرێت، بەکارهێنەری SAML ئەو هەژمارە بە ';
 $lang["simplesaml_allow_duplicate_email"] = 'ئایا ڕێگە دەدرێت هەژمارە نوێکان دروست بکرێن ئەگەر هەژمارەکانی resourceDAM بەهمانەوە هەیە؟ (ئەمە لەگەڵ ئەوە دەگۆڕدرێت ئەگەر پەیوەندی ئیمەیل لە سەرەوە دیاری کراوە و یەک پەیوەندی بدۆزرێت)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - هەوڵدان بە پەیوەندی ئیمەیلەکان کێشەی هەژمارەکان';
@@ -48,7 +48,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceDAM ڕێگە دە
 $lang["simplesaml_authorisation_claim_name_label"] = 'ناوی پارامەتیری (دەستەواژە/ داواکاری)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'نرخی تایبەتمەندی (ادعای / داواکاری)';
 $lang["simplesaml_authorisation_login_error"] = 'تۆ دەسترس نەدراوە بۆ ئەم بەرنامەیە! تکایە پەیوەندیدانی بەڕێوەبەرایەتی هەژمارەکەت بکە!';
-$lang["simplesaml_authorisation_version_error"] = 'گرینگە: ڕێکخستنی SimpleSAML یەکەت پێویستە نوێکرابێت. تکایە بە بەکارهێنانی بەش <a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>گواستنەوەی SP بۆ بەکارهێنانی ڕێکخستنی ResourceSpace</a> لە بنکەی زانیاری بەرز بکە بۆ زانیاری زیاتر';
+$lang["simplesaml_authorisation_version_error"] = 'گرینگە: ڕێکخستنی SimpleSAML یەکەت پێویستە نوێکرابێت. تکایە بە بەکارهێنانی بەش <a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>گواستنەوەی SP بۆ بەکارهێنانی ڕێکخستنی ResourceDAM</a> لە بنکەی زانیاری بەرز بکە بۆ زانیاری زیاتر';
 $lang["simplesaml_healthcheck_error"] = 'هەڵەی پلاگین SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'بەکارهێنانی فایلەکانی ڕێکخستنی ستانداردی resourceDAM بۆ ڕێکخستنی SP و مەتا داتایەکان؟ ئەگەر ئەمە ڕاست بێت بە فالس، پێویستە فایلەکان بە دەستی دەستکاری بکرێن';
 $lang["simplesaml_sp_generate_config"] = 'هەڵبژاردنی ڕێکخستنی SP دروست بکە';

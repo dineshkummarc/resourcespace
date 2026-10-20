@@ -31,7 +31,7 @@ $lang['simplesaml_custom_attribute_label'] = 'SSO attribute - ';
 $lang["simplesaml_usercomment"] = "Created by SimpleSAML plugin";
 $lang["origin_simplesaml"] = "SimpleSAML plugin";
 $lang['simplesaml_lib_path_label'] = 'SAML lib path (please specify full server path)';
-$lang['simplesaml_login'] = 'Use SAML credentials to login to ResourceSpace? (This is only relevant if above option is enabled)';
+$lang['simplesaml_login'] = 'Use SAML credentials to login to ResourceDAM? (This is only relevant if above option is enabled)';
 
 $lang['simplesaml_create_new_match_email'] = "Email-match: Before creating new users, check if the SAML user email matches an existing RS account email. If a match is found the SAML user will 'adopt' that account";
 $lang['simplesaml_allow_duplicate_email'] = "Allow new accounts to be created if there are existing resourceDAM accounts with the same email address? (this is overridden if email-match is set above and one match is found)";

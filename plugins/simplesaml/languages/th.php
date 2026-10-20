@@ -31,7 +31,7 @@ $lang["simplesaml_custom_attribute_label"] = 'คุณสมบัติ SSO';
 $lang["simplesaml_usercomment"] = 'สร้างโดยปลั๊กอิน SimpleSAML';
 $lang["origin_simplesaml"] = 'SimpleSAML plugin';
 $lang["simplesaml_lib_path_label"] = 'เส้นทางไลบรารี SAML (กรุณาระบุเส้นทางเซิร์ฟเวอร์ทั้งหมด)';
-$lang["simplesaml_login"] = 'ใช้ข้อมูลรับรอง SAML เพื่อลงชื่อเข้าใช้ ResourceSpace? (สิ่งนี้มีความเกี่ยวข้องเฉพาะเมื่อเปิดใช้งานตัวเลือกข้างต้น)';
+$lang["simplesaml_login"] = 'ใช้ข้อมูลรับรอง SAML เพื่อลงชื่อเข้าใช้ ResourceDAM? (สิ่งนี้มีความเกี่ยวข้องเฉพาะเมื่อเปิดใช้งานตัวเลือกข้างต้น)';
 $lang["simplesaml_create_new_match_email"] = 'การจับคู่อีเมล: ก่อนที่จะสร้างผู้ใช้ใหม่ ให้ตรวจสอบว่าอีเมลผู้ใช้ SAML ตรงกับอีเมลบัญชี RS ที่มีอยู่หรือไม่ หากพบการจับคู่ ผู้ใช้ SAML จะ \'นำเข้ามา\' บัญชีนั้น';
 $lang["simplesaml_allow_duplicate_email"] = 'อนุญาตให้สร้างบัญชีใหม่ได้หากมีบัญชี resourceDAM ที่มีอยู่แล้วที่ใช้อีเมลเดียวกัน? (จะถูกแทนที่หากมีการตั้งค่า email-match ข้างต้นและพบการจับคู่หนึ่งรายการ)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - การพยายามเข้าสู่ระบบด้วยอีเมลที่ขัดแย้งกัน';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'เปิดใช้ง�
 $lang["simplesaml_authorisation_claim_name_label"] = 'ชื่อคุณลักษณะ (การยืนยัน/การเรียกร้อง)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'ค่าแอตทริบิวต์ (การยืนยัน/การเรียกร้อง)';
 $lang["simplesaml_authorisation_login_error"] = 'คุณไม่มีสิทธิ์เข้าถึงแอปพลิเคชันนี้! กรุณาติดต่อผู้ดูแลระบบสำหรับบัญชีของคุณ!';
-$lang["simplesaml_authorisation_version_error"] = 'สำคัญ: การตั้งค่า SimpleSAML ของคุณต้องได้รับการอัปเดต โปรดดูที่ \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> การย้าย SP เพื่อใช้การตั้งค่า ResourceSpace</a>\' ในส่วนของฐานความรู้เพื่อข้อมูลเพิ่มเติม';
+$lang["simplesaml_authorisation_version_error"] = 'สำคัญ: การตั้งค่า SimpleSAML ของคุณต้องได้รับการอัปเดต โปรดดูที่ \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> การย้าย SP เพื่อใช้การตั้งค่า ResourceDAM</a>\' ในส่วนของฐานความรู้เพื่อข้อมูลเพิ่มเติม';
 $lang["simplesaml_healthcheck_error"] = 'ข้อผิดพลาดปลั๊กอิน SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'ใช้ไฟล์การกำหนดค่ามาตรฐานของ resourceDAM เพื่อตั้งค่าการกำหนดค่า SP และข้อมูลเมตา หากตั้งค่าเป็นเท็จ จะต้องมีการแก้ไขไฟล์ด้วยตนเอง';
 $lang["simplesaml_sp_generate_config"] = 'สร้างการกำหนดค่า SP';
