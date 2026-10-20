@@ -1,6 +1,6 @@
 <?php
 
-use Montala\ResourceSpace\CommandPlaceholderArg;
+use Montala\ResourceDAM\CommandPlaceholderArg;
 
 include_once dirname(__DIR__, 3) . '/include/image_processing.php';
 
