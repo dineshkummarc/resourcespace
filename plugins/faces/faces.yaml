@@ -7,5 +7,5 @@ icon: scan-face
 icon-colour: seagreen
 category: AI
 config_url: /plugins/faces/pages/setup.php
-info_url: https://www.resourcespace.com/knowledge-base/plugins/faces
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/faces
 disable_group_select: 1
