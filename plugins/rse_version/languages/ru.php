@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Откатить состояние';
 $lang["rse_version_rstate_changes"]='Откат состояния для коллекции #%COLLECTION путем повторного воспроизведения событий до, но не включая выбранную запись.';
 $lang["rse_version_invalid_time"]='Откат к времени до [date] не поддерживается';
 $lang["plugin-rse_version-title"]='Контроль версий';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Контроль версий';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Контроль версий';
 $lang["page-title_rse_version_revert"] = 'Вернуть версию ресурса';
 $lang["page-title_rse_version_setup"] = 'Настройка плагина версии';

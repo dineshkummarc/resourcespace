@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Tilbakestill tilstand';
 $lang["rse_version_rstate_changes"]='Gjenoppretter tilstand for samling #%COLLECTION ved å spille av hendelser opp til, men ikke inkludert valgt post.';
 $lang["rse_version_invalid_time"]='Å gå tilbake til en tid før [date] støttes ikke';
 $lang["plugin-rse_version-title"]='Versjonskontroll';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Versjonskontroll';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Versjonskontroll';
 $lang["page-title_rse_version_revert"] = 'Tilbakestill ressursversjon';
 $lang["page-title_rse_version_setup"] = 'Konfigurer versjonsplugin';

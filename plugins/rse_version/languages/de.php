@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Zurücksetzen des Status';
 $lang["rse_version_rstate_changes"]='Rückgängigmachen des Zustands für die Sammlung #%COLLECTION durch Wiedergabe von Ereignissen bis zum, aber ohne das ausgewählte Datensatz einzuschließen.';
 $lang["rse_version_invalid_time"]='Die Rückkehr zu einem Zeitpunkt vor dem [date] wird nicht unterstützt';
 $lang["plugin-rse_version-title"]='Versionskontrolle';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Versionskontrolle';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Versionskontrolle';
 $lang["page-title_rse_version_revert"] = 'Ressourcenversion zurücksetzen';
 $lang["page-title_rse_version_setup"] = 'Version Plugin einrichten';

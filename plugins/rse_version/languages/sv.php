@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Återgå till tidigare tillstånd';
 $lang["rse_version_rstate_changes"]='Återställer tillståndet för samlingen #%COLLECTION genom att spela upp händelser fram till, men inte inklusive det valda registret.';
 $lang["rse_version_invalid_time"]='Att återgå till en tid före [date] stöds inte';
 $lang["plugin-rse_version-title"]='Versionskontroll';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Versionskontroll';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Versionskontroll';
 $lang["page-title_rse_version_revert"] = 'Återställ resursversion';
 $lang["page-title_rse_version_setup"] = 'Installationsversion Plugin';

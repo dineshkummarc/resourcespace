@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Revenire la starea anterioară';
 $lang["rse_version_rstate_changes"]='Revenirea stării pentru colecția #%COLLECTION prin reluarea evenimentelor până la, dar fără a include înregistrarea selectată.';
 $lang["rse_version_invalid_time"]='Revenirea la o dată anterioară de [date] nu este suportată';
 $lang["plugin-rse_version-title"]='Controlul versiunilor';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Controlul versiunilor';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Controlul versiunilor';
 $lang["page-title_rse_version_revert"] = 'Restabilire versiunea resursei';
 $lang["page-title_rse_version_setup"] = 'Configurare Plugin Versiune';

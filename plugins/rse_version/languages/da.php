@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Tilbagefør tilstand';
 $lang["rse_version_rstate_changes"]='Gendanner tilstand for samling #%COLLECTION ved at genafspille begivenheder op til, men ikke inklusiv den valgte post.';
 $lang["rse_version_invalid_time"]='At vende tilbage til en tid før [date] understøttes ikke';
 $lang["plugin-rse_version-title"]='Versionskontrol';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Versionskontrol';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Versionskontrol';
 $lang["page-title_rse_version_revert"] = 'Gendan ressourceversion';
 $lang["page-title_rse_version_setup"] = 'Opsætning af version plugin';

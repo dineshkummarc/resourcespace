@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Durumu geri al';
 $lang["rse_version_rstate_changes"]='Seçilen kaydı hariç tutarak olayları yeniden oynatarak #%COLLECTION koleksiyonunun durumunu geri alıyor.';
 $lang["rse_version_invalid_time"]='[date] tarihinden önceki bir zamana geri dönmek desteklenmiyor';
 $lang["plugin-rse_version-title"]='Sürüm Kontrolü';
-$lang["plugin-rse_version-desc"]='ResourceSpace Kurumsal - Sürüm Kontrolü';
+$lang["plugin-rse_version-desc"]='ResourceDAM Kurumsal - Sürüm Kontrolü';
 $lang["page-title_rse_version_revert"] = 'Kaynağı Versiyonunu Geri Al';
 $lang["page-title_rse_version_setup"] = 'Eklenti Sürümünü Ayarla';

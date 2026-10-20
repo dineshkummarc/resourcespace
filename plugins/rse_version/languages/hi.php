@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='स्थिति पुनः स्था�
 $lang["rse_version_rstate_changes"]='चयनित रिकॉर्ड को छोड़कर, घटनाओं को फिर से चलाकर संग्रह #%COLLECTION की स्थिति को पुनःस्थापित करना।';
 $lang["rse_version_invalid_time"]='[date] से पहले के समय में वापस जाना समर्थित नहीं है';
 $lang["plugin-rse_version-title"]='संस्करण नियंत्रण';
-$lang["plugin-rse_version-desc"]='ResourceSpace एंटरप्राइज - संस्करण नियंत्रण';
+$lang["plugin-rse_version-desc"]='ResourceDAM एंटरप्राइज - संस्करण नियंत्रण';
 $lang["page-title_rse_version_revert"] = 'संसाधन संस्करण को पूर्ववत करें';
 $lang["page-title_rse_version_setup"] = 'संस्करण प्लगइन सेटअप';

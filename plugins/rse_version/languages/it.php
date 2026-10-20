@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Ripristina stato';
 $lang["rse_version_rstate_changes"]='Ripristino dello stato della collezione #%COLLECTION mediante la riproduzione degli eventi fino al record selezionato escluso.';
 $lang["rse_version_invalid_time"]='Tornare indietro ad un momento precedente al [date] non è supportato';
 $lang["plugin-rse_version-title"]='Controllo delle Versioni';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Controllo delle Versioni';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Controllo delle Versioni';
 $lang["page-title_rse_version_revert"] = 'Ripristina Versione Risorsa';
 $lang["page-title_rse_version_setup"] = 'Imposta Plugin Versione';

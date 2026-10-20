@@ -18,6 +18,6 @@ $lang["rse_version_revert_state"]='Revertir l\'estat';
 $lang["rse_version_rstate_changes"]='Revertint l\'estat de la col·lecció #%COLLECTION reproduint esdeveniments fins a, però sense incloure el registre seleccionat.';
 $lang["rse_version_invalid_time"]='La reversió a un temps anterior a [date] no és compatible';
 $lang["plugin-rse_version-title"]='Control de versions';
-$lang["plugin-rse_version-desc"]='ResourceSpace Enterprise - Control de Versions';
+$lang["plugin-rse_version-desc"]='ResourceDAM Enterprise - Control de Versions';
 $lang["page-title_rse_version_revert"] = 'Revertir la versió del recurs';
 $lang["page-title_rse_version_setup"] = 'Configuració del complement de versió';
