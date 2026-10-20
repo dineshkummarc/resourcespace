@@ -4,7 +4,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Tömeges felhasználói importálás';
 $lang["csv_user_import_import"] = 'Importálás';
 $lang["csv_user_import"] = 'CSV felhasználó importálás';
-$lang["csv_user_import_intro"] = 'Használja ezt a funkciót, hogy egy felhasználói csoportot importáljon a ResourceSpace-be. Kérjük, figyeljen oda a CSV fájl formátumára, és kövesse az alábbi szabványokat:';
+$lang["csv_user_import_intro"] = 'Használja ezt a funkciót, hogy egy felhasználói csoportot importáljon a ResourceDAM-be. Kérjük, figyeljen oda a CSV fájl formátumára, és kövesse az alábbi szabványokat:';
 $lang["csv_user_import_upload_file"] = 'Fájl kiválasztása';
 $lang["csv_user_import_processing_file"] = 'FÁJL FOLYAMATBAN...';
 $lang["csv_user_import_error_found"] = 'Hiba(k) találva - megszakítás';
