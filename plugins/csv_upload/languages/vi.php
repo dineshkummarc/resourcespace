@@ -51,8 +51,8 @@ $lang["csv_upload_mapping_ignore"] = 'KHÔNG SỬ DỤNG';
 $lang["csv_upload_mapping_header"] = 'Tiêu đề cột';
 $lang["csv_upload_mapping_csv_data"] = 'Dữ liệu mẫu từ CSV';
 $lang["csv_upload_using_config"] = 'Sử dụng cấu hình CSV hiện có';
-$lang["csv_upload_process_offline"] = 'Xử lý tệp CSV ngoại tuyến? Điều này nên được sử dụng cho các tệp CSV lớn. Bạn sẽ được thông báo qua tin nhắn ResourceSpace khi quá trình xử lý hoàn tất';
-$lang["csv_upload_oj_created"] = 'Công việc tải lên CSV đã được tạo với ID công việc # [jobref]. <br/>Bạn sẽ nhận được thông báo hệ thống ResourceSpace khi công việc hoàn thành';
+$lang["csv_upload_process_offline"] = 'Xử lý tệp CSV ngoại tuyến? Điều này nên được sử dụng cho các tệp CSV lớn. Bạn sẽ được thông báo qua tin nhắn resourceDAM khi quá trình xử lý hoàn tất';
+$lang["csv_upload_oj_created"] = 'Công việc tải lên CSV đã được tạo với ID công việc # [jobref]. <br/>Bạn sẽ nhận được thông báo hệ thống resourceDAM khi công việc hoàn thành';
 $lang["csv_upload_oj_complete"] = 'Công việc tải lên CSV đã hoàn thành. Nhấp vào liên kết để xem tệp nhật ký đầy đủ';
 $lang["csv_upload_oj_failed"] = 'Công việc tải lên CSV đã thất bại. Nhấp vào liên kết để xem tệp nhật ký đầy đủ và kiểm tra lỗi';
 $lang["csv_upload_processing_x_meta_columns"] = 'Đang xử lý %count cột siêu dữ liệu';
@@ -61,8 +61,8 @@ $lang["csv_upload_error_in_progress"] = 'Xử lý bị hủy - tệp CSV này đ
 $lang["csv_upload_error_file_missing"] = 'Lỗi - Tệp CSV bị thiếu: [file]';
 $lang["csv_upload_full_messages_link"] = 'Chỉ hiển thị 1000 dòng đầu tiên, để tải xuống tệp nhật ký đầy đủ vui lòng nhấp vào <a href=\'[log_url]\' target=\'_blank\'>đây</a>';
 $lang["csv_upload_ignore_errors"] = 'Bỏ qua lỗi và xử lý tệp bất kể thế nào';
-$lang["csv_upload_process_offline_quick"] = 'Bỏ qua xác thực và xử lý tệp CSV ngoại tuyến? Điều này chỉ nên được sử dụng cho các tệp CSV lớn khi việc kiểm tra trên các tệp nhỏ hơn đã hoàn tất. Bạn sẽ được thông báo qua một tin nhắn ResourceSpace khi việc tải lên hoàn tất';
-$lang["csv_upload_force_offline"] = 'Tệp CSV lớn này có thể mất nhiều thời gian để xử lý nên sẽ được thực hiện ngoại tuyến. Bạn sẽ được thông báo qua tin nhắn ResourceSpace khi quá trình xử lý hoàn tất';
+$lang["csv_upload_process_offline_quick"] = 'Bỏ qua xác thực và xử lý tệp CSV ngoại tuyến? Điều này chỉ nên được sử dụng cho các tệp CSV lớn khi việc kiểm tra trên các tệp nhỏ hơn đã hoàn tất. Bạn sẽ được thông báo qua một tin nhắn resourceDAM khi việc tải lên hoàn tất';
+$lang["csv_upload_force_offline"] = 'Tệp CSV lớn này có thể mất nhiều thời gian để xử lý nên sẽ được thực hiện ngoại tuyến. Bạn sẽ được thông báo qua tin nhắn resourceDAM khi quá trình xử lý hoàn tất';
 $lang["csv_upload_recommend_offline"] = 'Tệp CSV lớn này có thể mất rất nhiều thời gian để xử lý. Nên bật các công việc ngoại tuyến nếu bạn cần xử lý các tệp CSV lớn';
 $lang["csv_upload_createdfromcsvupload"] = 'Được tạo từ plugin Tải lên CSV';
 

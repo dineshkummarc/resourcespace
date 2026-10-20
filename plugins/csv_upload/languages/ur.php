@@ -50,8 +50,8 @@ $lang["csv_upload_mapping_ignore"] = 'استعمال نہ کریں';
 $lang["csv_upload_mapping_header"] = 'کالم سرخی';
 $lang["csv_upload_mapping_csv_data"] = 'CSV سے نمونہ ڈیٹا';
 $lang["csv_upload_using_config"] = 'موجودہ CSV ترتیب استعمال کرنا';
-$lang["csv_upload_process_offline"] = 'کیا CSV فائل کو آف لائن پروسیس کریں؟ یہ بڑے CSV فائلوں کے لیے استعمال کیا جانا چاہیے۔ پروسیسنگ مکمل ہونے پر آپ کو ResourceSpace پیغام کے ذریعے مطلع کیا جائے گا۔';
-$lang["csv_upload_oj_created"] = 'CSV اپلوڈ کام [jobref] کے ساتھ تخلیق کیا گیا ہے۔ <br/>آپ کو ResourceSpace سسٹم پیغام موصول ہوگا جب کام مکمل ہو جائے گا۔';
+$lang["csv_upload_process_offline"] = 'کیا CSV فائل کو آف لائن پروسیس کریں؟ یہ بڑے CSV فائلوں کے لیے استعمال کیا جانا چاہیے۔ پروسیسنگ مکمل ہونے پر آپ کو resourceDAM پیغام کے ذریعے مطلع کیا جائے گا۔';
+$lang["csv_upload_oj_created"] = 'CSV اپلوڈ کام [jobref] کے ساتھ تخلیق کیا گیا ہے۔ <br/>آپ کو resourceDAM سسٹم پیغام موصول ہوگا جب کام مکمل ہو جائے گا۔';
 $lang["csv_upload_oj_complete"] = 'CSV اپلوڈ کام مکمل ہوا۔ مکمل لاگ فائل دیکھنے کے لیے لنک پر کلک کریں۔';
 $lang["csv_upload_oj_failed"] = 'CSV اپلوڈ کام ناکام ہوگیا۔ مکمل لاگ فائل دیکھنے اور غلطیوں کی جانچ کرنے کے لیے لنک پر کلک کریں۔';
 $lang["csv_upload_processing_x_meta_columns"] = '%count میٹا ڈیٹا کالمز پر عملدرآمد ہو رہا ہے';
@@ -60,8 +60,8 @@ $lang["csv_upload_error_in_progress"] = 'پروسیسنگ منسوخ - یہ CSV 
 $lang["csv_upload_error_file_missing"] = 'غلطی - CSV فائل غائب: [file]';
 $lang["csv_upload_full_messages_link"] = 'صرف پہلی 1000 لائنیں دکھائی جا رہی ہیں، مکمل لاگ فائل ڈاؤن لوڈ کرنے کے لیے براہ کرم <a href=\'[log_url]\' target=\'_blank\'>یہاں</a> کلک کریں۔';
 $lang["csv_upload_ignore_errors"] = 'غلطیوں کو نظرانداز کریں اور فائل کو بہرحال پروسیس کریں';
-$lang["csv_upload_process_offline_quick"] = 'تصدیق کو چھوڑیں اور CSV فائل کو آف لائن پروسیس کریں؟ یہ صرف بڑی CSV فائلوں کے لیے استعمال کیا جانا چاہیے جب چھوٹی فائلوں پر ٹیسٹنگ مکمل ہو چکی ہو۔ آپ کو اپ لوڈ مکمل ہونے پر ResourceSpace پیغام کے ذریعے مطلع کیا جائے گا۔';
-$lang["csv_upload_force_offline"] = 'یہ بڑا CSV فائل پروسیس کرنے میں کافی وقت لے سکتا ہے، اس لیے یہ آف لائن چلایا جائے گا۔ جب پروسیسنگ مکمل ہو جائے گی تو آپ کو ResourceSpace پیغام کے ذریعے مطلع کیا جائے گا۔';
+$lang["csv_upload_process_offline_quick"] = 'تصدیق کو چھوڑیں اور CSV فائل کو آف لائن پروسیس کریں؟ یہ صرف بڑی CSV فائلوں کے لیے استعمال کیا جانا چاہیے جب چھوٹی فائلوں پر ٹیسٹنگ مکمل ہو چکی ہو۔ آپ کو اپ لوڈ مکمل ہونے پر resourceDAM پیغام کے ذریعے مطلع کیا جائے گا۔';
+$lang["csv_upload_force_offline"] = 'یہ بڑا CSV فائل پروسیس کرنے میں کافی وقت لے سکتا ہے، اس لیے یہ آف لائن چلایا جائے گا۔ جب پروسیسنگ مکمل ہو جائے گی تو آپ کو resourceDAM پیغام کے ذریعے مطلع کیا جائے گا۔';
 $lang["csv_upload_recommend_offline"] = 'یہ بڑا CSV پروسیس کرنے میں بہت زیادہ وقت لے سکتا ہے۔ یہ تجویز کیا جاتا ہے کہ اگر آپ کو بڑے CSVs پروسیس کرنے کی ضرورت ہو تو آف لائن جابز کو فعال کریں۔';
 $lang["csv_upload_createdfromcsvupload"] = 'CSV اپلوڈ پلگ ان سے تخلیق کیا گیا';
 

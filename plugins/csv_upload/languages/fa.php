@@ -50,8 +50,8 @@ $lang["csv_upload_mapping_ignore"] = 'استفاده نکنید';
 $lang["csv_upload_mapping_header"] = 'عنوان ستون';
 $lang["csv_upload_mapping_csv_data"] = 'نمونه داده از CSV';
 $lang["csv_upload_using_config"] = 'استفاده از پیکربندی CSV موجود';
-$lang["csv_upload_process_offline"] = 'پردازش فایل CSV به صورت آفلاین؟ این گزینه باید برای فایل‌های CSV بزرگ استفاده شود. پس از اتمام پردازش، از طریق پیام ResourceSpace به شما اطلاع داده خواهد شد.';
-$lang["csv_upload_oj_created"] = 'کار آپلود CSV با شناسه کار # [jobref] ایجاد شد. <br/>شما یک پیام سیستم ResourceSpace دریافت خواهید کرد زمانی که کار به پایان رسید.';
+$lang["csv_upload_process_offline"] = 'پردازش فایل CSV به صورت آفلاین؟ این گزینه باید برای فایل‌های CSV بزرگ استفاده شود. پس از اتمام پردازش، از طریق پیام resourceDAM به شما اطلاع داده خواهد شد.';
+$lang["csv_upload_oj_created"] = 'کار آپلود CSV با شناسه کار # [jobref] ایجاد شد. <br/>شما یک پیام سیستم resourceDAM دریافت خواهید کرد زمانی که کار به پایان رسید.';
 $lang["csv_upload_oj_complete"] = 'کار آپلود CSV کامل شد. برای مشاهده فایل کامل گزارش روی لینک کلیک کنید';
 $lang["csv_upload_oj_failed"] = 'آپلود کار CSV ناموفق بود. برای مشاهده فایل کامل گزارش و بررسی خطاها روی لینک کلیک کنید';
 $lang["csv_upload_processing_x_meta_columns"] = 'در حال پردازش %count ستون‌های فراداده';
@@ -60,8 +60,8 @@ $lang["csv_upload_error_in_progress"] = 'پردازش متوقف شد - این �
 $lang["csv_upload_error_file_missing"] = 'خطا - فایل CSV مفقود است: [file]';
 $lang["csv_upload_full_messages_link"] = 'نمایش تنها 1000 خط اول، برای دانلود فایل کامل گزارش لطفاً <a href=\'[log_url]\' target=\'_blank\'>اینجا</a> کلیک کنید';
 $lang["csv_upload_ignore_errors"] = 'نادیده گرفتن خطاها و پردازش فایل به هر حال';
-$lang["csv_upload_process_offline_quick"] = 'رد شدن از اعتبارسنجی و پردازش فایل CSV به صورت آفلاین؟ این گزینه باید فقط برای فایل‌های CSV بزرگ استفاده شود زمانی که آزمایش روی فایل‌های کوچکتر تکمیل شده است. پس از اتمام بارگذاری، از طریق پیام ResourceSpace به شما اطلاع داده خواهد شد.';
-$lang["csv_upload_force_offline"] = 'این فایل CSV بزرگ ممکن است زمان زیادی برای پردازش نیاز داشته باشد، بنابراین به صورت آفلاین اجرا خواهد شد. پس از اتمام پردازش، از طریق یک پیام ResourceSpace به شما اطلاع داده خواهد شد.';
+$lang["csv_upload_process_offline_quick"] = 'رد شدن از اعتبارسنجی و پردازش فایل CSV به صورت آفلاین؟ این گزینه باید فقط برای فایل‌های CSV بزرگ استفاده شود زمانی که آزمایش روی فایل‌های کوچکتر تکمیل شده است. پس از اتمام بارگذاری، از طریق پیام resourceDAM به شما اطلاع داده خواهد شد.';
+$lang["csv_upload_force_offline"] = 'این فایل CSV بزرگ ممکن است زمان زیادی برای پردازش نیاز داشته باشد، بنابراین به صورت آفلاین اجرا خواهد شد. پس از اتمام پردازش، از طریق یک پیام resourceDAM به شما اطلاع داده خواهد شد.';
 $lang["csv_upload_recommend_offline"] = 'این فایل CSV بزرگ ممکن است زمان زیادی برای پردازش نیاز داشته باشد. توصیه می‌شود که اگر نیاز به پردازش فایل‌های CSV بزرگ دارید، کارهای آفلاین فعال شوند.';
 $lang["csv_upload_createdfromcsvupload"] = 'ایجاد شده از افزونه بارگذاری CSV';
 

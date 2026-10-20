@@ -51,8 +51,8 @@ $lang["csv_upload_mapping_ignore"] = 'NE HASZNÁLD';
 $lang["csv_upload_mapping_header"] = 'Oszlopfejléc';
 $lang["csv_upload_mapping_csv_data"] = 'Mintaadatok a CSV-ből';
 $lang["csv_upload_using_config"] = 'Meglévő CSV konfiguráció használata';
-$lang["csv_upload_process_offline"] = 'Feldolgozni a CSV fájlt offline? Ezt nagy CSV fájlokhoz kell használni. Értesítést kap a ResourceSpace üzenetén keresztül, amint a feldolgozás befejeződik.';
-$lang["csv_upload_oj_created"] = 'CSV feltöltési feladat létrehozva a következő feladatazonosítóval: [jobref]. <br/>A feladat befejezése után egy ResourceSpace rendszerüzenetet fog kapni.';
+$lang["csv_upload_process_offline"] = 'Feldolgozni a CSV fájlt offline? Ezt nagy CSV fájlokhoz kell használni. Értesítést kap a resourceDAM üzenetén keresztül, amint a feldolgozás befejeződik.';
+$lang["csv_upload_oj_created"] = 'CSV feltöltési feladat létrehozva a következő feladatazonosítóval: [jobref]. <br/>A feladat befejezése után egy resourceDAM rendszerüzenetet fog kapni.';
 $lang["csv_upload_oj_complete"] = 'CSV feltöltési feladat befejeződött. Kattintson a linkre a teljes naplófájl megtekintéséhez';
 $lang["csv_upload_oj_failed"] = 'CSV feltöltési feladat sikertelen. Kattintson a linkre a teljes naplófájl megtekintéséhez és a hibák ellenőrzéséhez';
 $lang["csv_upload_processing_x_meta_columns"] = 'Feldolgozás %count metaadat oszlop';
@@ -61,8 +61,8 @@ $lang["csv_upload_error_in_progress"] = 'A feldolgozás megszakítva - ez a CSV 
 $lang["csv_upload_error_file_missing"] = 'Hiba - CSV fájl hiányzik: [file]';
 $lang["csv_upload_full_messages_link"] = 'Csak az első 1000 sort mutatjuk, a teljes naplófájl letöltéséhez kérjük kattintson <a href=\'[log_url]\' target=\'_blank\'>ide</a>';
 $lang["csv_upload_ignore_errors"] = 'Hibák figyelmen kívül hagyása és a fájl feldolgozása így is';
-$lang["csv_upload_process_offline_quick"] = 'Hagyja figyelmen kívül az érvényesítést és dolgozza fel a CSV fájlt offline? Ezt csak nagy CSV fájlok esetén szabad használni, amikor a kisebb fájlokkal végzett tesztelés befejeződött. A feltöltés befejezése után értesítést kap a ResourceSpace üzenetén keresztül.';
-$lang["csv_upload_force_offline"] = 'Ez a nagy CSV hosszú ideig tarthat a feldolgozása, ezért offline módon fog futni. Értesítést fog kapni egy ResourceSpace üzenetben, amint a feldolgozás befejeződik.';
+$lang["csv_upload_process_offline_quick"] = 'Hagyja figyelmen kívül az érvényesítést és dolgozza fel a CSV fájlt offline? Ezt csak nagy CSV fájlok esetén szabad használni, amikor a kisebb fájlokkal végzett tesztelés befejeződött. A feltöltés befejezése után értesítést kap a resourceDAM üzenetén keresztül.';
+$lang["csv_upload_force_offline"] = 'Ez a nagy CSV hosszú ideig tarthat a feldolgozása, ezért offline módon fog futni. Értesítést fog kapni egy resourceDAM üzenetben, amint a feldolgozás befejeződik.';
 $lang["csv_upload_recommend_offline"] = 'Ez a nagy CSV fájl nagyon hosszú ideig tarthat a feldolgozása. Ajánlott, hogy offline feladatok legyenek engedélyezve, ha nagy CSV fájlokat kell feldolgoznia.';
 $lang["csv_upload_createdfromcsvupload"] = 'CSV feltöltő bővítményből létrehozva';
 

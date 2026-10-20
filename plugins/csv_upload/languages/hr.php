@@ -51,7 +51,7 @@ $lang["csv_upload_mapping_header"] = 'Naziv stupca';
 $lang["csv_upload_mapping_csv_data"] = 'Uzorak podataka iz CSV-a';
 $lang["csv_upload_using_config"] = 'Korištenje postojeće CSV konfiguracije';
 $lang["csv_upload_process_offline"] = 'Obraditi CSV datoteku izvan mreže? Ovo bi trebalo koristiti za velike CSV datoteke. Bit ćete obaviješteni putem poruke u ResourceSpaceu kada obrada bude završena';
-$lang["csv_upload_oj_created"] = 'CSV učitavanje posla kreirano s ID-om posla # [jobref]. <br/> Primit ćete poruku sustava ResourceSpace nakon što posao bude dovršen';
+$lang["csv_upload_oj_created"] = 'CSV učitavanje posla kreirano s ID-om posla # [jobref]. <br/> Primit ćete poruku sustava resourceDAM nakon što posao bude dovršen';
 $lang["csv_upload_oj_complete"] = 'CSV prijenos posla je završen. Kliknite na poveznicu kako biste vidjeli cjelokupnu datoteku zapisa';
 $lang["csv_upload_oj_failed"] = 'Neuspjeh CSV upload zadatka';
 $lang["csv_upload_processing_x_meta_columns"] = 'Obrada %count stupaca metapodataka';
@@ -61,7 +61,7 @@ $lang["csv_upload_error_file_missing"] = 'Greška - CSV datoteka nedostaje: [fil
 $lang["csv_upload_full_messages_link"] = 'Prikazujem samo prvih 1000 linija, za preuzimanje cijelog datotečnog zapisa kliknite <a href=\'[log_url]\' target=\'_blank\'>ovdje</a>';
 $lang["csv_upload_ignore_errors"] = 'Zanemari pogreške i obradi datoteku u svakom slučaju';
 $lang["csv_upload_process_offline_quick"] = 'Preskoči provjeru i obradi CSV datoteku izvan mreže? Ovo bi trebalo koristiti samo za velike CSV datoteke nakon što su testiranja na manjim datotekama završena. Bit ćete obaviješteni putem poruke u ResourceSpaceu kada se prijenos završi';
-$lang["csv_upload_force_offline"] = 'Ovaj veliki CSV datoteku može dugo trajati za obradu, stoga će se izvršiti izvan mreže. Bit ćete obaviješteni putem ResourceSpace poruke kada obrada bude završena';
+$lang["csv_upload_force_offline"] = 'Ovaj veliki CSV datoteku može dugo trajati za obradu, stoga će se izvršiti izvan mreže. Bit ćete obaviješteni putem resourceDAM poruke kada obrada bude završena';
 $lang["csv_upload_recommend_offline"] = 'Ovaj veliki CSV može dugo trajati u obradi. Preporučuje se omogućavanje offline poslova ako trebate obrađivati velike CSV datoteke';
 $lang["csv_upload_createdfromcsvupload"] = 'Stvoreno pomoću dodatka za učitavanje CSV datoteka';
 $lang["plugin-csv_upload-title"] = 'CSV prijenos';

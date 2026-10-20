@@ -50,8 +50,8 @@ $lang["csv_upload_mapping_ignore"] = 'ব্যবহার করবেন ন�
 $lang["csv_upload_mapping_header"] = 'কলাম শিরোনাম';
 $lang["csv_upload_mapping_csv_data"] = 'CSV থেকে নমুনা ডেটা';
 $lang["csv_upload_using_config"] = 'বিদ্যমান CSV কনফিগারেশন ব্যবহার করা হচ্ছে';
-$lang["csv_upload_process_offline"] = 'CSV ফাইল অফলাইনে প্রক্রিয়া করবেন? এটি বড় CSV ফাইলের জন্য ব্যবহার করা উচিত। প্রক্রিয়াকরণ সম্পন্ন হলে আপনাকে একটি ResourceSpace বার্তার মাধ্যমে জানানো হবে।';
-$lang["csv_upload_oj_created"] = 'CSV আপলোড কাজ তৈরি করা হয়েছে কাজের আইডি # [jobref] সহ। <br/>কাজটি সম্পন্ন হলে আপনি একটি ResourceSpace সিস্টেম বার্তা পাবেন।';
+$lang["csv_upload_process_offline"] = 'CSV ফাইল অফলাইনে প্রক্রিয়া করবেন? এটি বড় CSV ফাইলের জন্য ব্যবহার করা উচিত। প্রক্রিয়াকরণ সম্পন্ন হলে আপনাকে একটি resourceDAM বার্তার মাধ্যমে জানানো হবে।';
+$lang["csv_upload_oj_created"] = 'CSV আপলোড কাজ তৈরি করা হয়েছে কাজের আইডি # [jobref] সহ। <br/>কাজটি সম্পন্ন হলে আপনি একটি resourceDAM সিস্টেম বার্তা পাবেন।';
 $lang["csv_upload_oj_complete"] = 'CSV আপলোড কাজ সম্পন্ন হয়েছে। সম্পূর্ণ লগ ফাইল দেখতে লিঙ্কে ক্লিক করুন';
 $lang["csv_upload_oj_failed"] = 'CSV আপলোড কাজ ব্যর্থ হয়েছে। সম্পূর্ণ লগ ফাইল দেখতে এবং ত্রুটি পরীক্ষা করতে লিঙ্কে ক্লিক করুন।';
 $lang["csv_upload_processing_x_meta_columns"] = 'প্রক্রিয়াকরণ %count মেটাডেটা কলাম';
@@ -60,8 +60,8 @@ $lang["csv_upload_error_in_progress"] = 'প্রক্রিয়াকরণ
 $lang["csv_upload_error_file_missing"] = 'ত্রুটি - CSV ফাইল অনুপস্থিত: [file]';
 $lang["csv_upload_full_messages_link"] = 'শুধুমাত্র প্রথম ১০০০ লাইন দেখানো হচ্ছে, সম্পূর্ণ লগ ফাইল ডাউনলোড করতে অনুগ্রহ করে <a href=\'[log_url]\' target=\'_blank\'>এখানে</a> ক্লিক করুন।';
 $lang["csv_upload_ignore_errors"] = 'ত্রুটি উপেক্ষা করুন এবং যাই হোক ফাইল প্রক্রিয়া করুন';
-$lang["csv_upload_process_offline_quick"] = 'যাচাইকরণ এড়িয়ে যান এবং CSV ফাইল অফলাইনে প্রক্রিয়া করুন? এটি শুধুমাত্র বড় CSV ফাইলের জন্য ব্যবহার করা উচিত যখন ছোট ফাইলের উপর পরীক্ষা সম্পন্ন হয়েছে। আপলোড সম্পন্ন হলে আপনাকে একটি ResourceSpace বার্তার মাধ্যমে জানানো হবে।';
-$lang["csv_upload_force_offline"] = 'এই বড় CSV প্রক্রিয়া করতে অনেক সময় লাগতে পারে, তাই এটি অফলাইনে চালানো হবে। প্রক্রিয়াকরণ সম্পন্ন হলে আপনাকে একটি ResourceSpace বার্তার মাধ্যমে জানানো হবে।';
+$lang["csv_upload_process_offline_quick"] = 'যাচাইকরণ এড়িয়ে যান এবং CSV ফাইল অফলাইনে প্রক্রিয়া করুন? এটি শুধুমাত্র বড় CSV ফাইলের জন্য ব্যবহার করা উচিত যখন ছোট ফাইলের উপর পরীক্ষা সম্পন্ন হয়েছে। আপলোড সম্পন্ন হলে আপনাকে একটি resourceDAM বার্তার মাধ্যমে জানানো হবে।';
+$lang["csv_upload_force_offline"] = 'এই বড় CSV প্রক্রিয়া করতে অনেক সময় লাগতে পারে, তাই এটি অফলাইনে চালানো হবে। প্রক্রিয়াকরণ সম্পন্ন হলে আপনাকে একটি resourceDAM বার্তার মাধ্যমে জানানো হবে।';
 $lang["csv_upload_recommend_offline"] = 'এই বড় CSV প্রক্রিয়া করতে অনেক সময় লাগতে পারে। যদি আপনাকে বড় CSV প্রক্রিয়া করতে হয় তবে অফলাইন কাজগুলি সক্রিয় করার সুপারিশ করা হয়।';
 $lang["csv_upload_createdfromcsvupload"] = 'CSV আপলোড প্লাগইন থেকে তৈরি করা হয়েছে';
 

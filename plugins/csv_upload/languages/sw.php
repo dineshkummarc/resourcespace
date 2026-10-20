@@ -50,8 +50,8 @@ $lang["csv_upload_mapping_ignore"] = 'USITUMIE';
 $lang["csv_upload_mapping_header"] = 'Kichwa cha Safu';
 $lang["csv_upload_mapping_csv_data"] = 'Data ya sampuli kutoka CSV';
 $lang["csv_upload_using_config"] = 'Kutumia usanidi wa CSV uliopo';
-$lang["csv_upload_process_offline"] = 'Kushughulikia faili ya CSV nje ya mtandao? Hii inapaswa kutumika kwa faili kubwa za CSV. Utaarifiwa kupitia ujumbe wa ResourceSpace mara usindikaji utakapokamilika';
-$lang["csv_upload_oj_created"] = 'Kazi ya kupakia CSV imeundwa na kitambulisho cha kazi # [jobref]. <br/>Utapokea ujumbe wa mfumo wa ResourceSpace mara kazi itakapokamilika';
+$lang["csv_upload_process_offline"] = 'Kushughulikia faili ya CSV nje ya mtandao? Hii inapaswa kutumika kwa faili kubwa za CSV. Utaarifiwa kupitia ujumbe wa resourceDAM mara usindikaji utakapokamilika';
+$lang["csv_upload_oj_created"] = 'Kazi ya kupakia CSV imeundwa na kitambulisho cha kazi # [jobref]. <br/>Utapokea ujumbe wa mfumo wa resourceDAM mara kazi itakapokamilika';
 $lang["csv_upload_oj_complete"] = 'Kazi ya kupakia CSV imekamilika. Bofya kiungo ili kuona faili kamili ya kumbukumbu';
 $lang["csv_upload_oj_failed"] = 'Kazi ya kupakia CSV imeshindwa. Bofya kiungo ili kuona faili ya kumbukumbu kamili na kukagua makosa';
 $lang["csv_upload_processing_x_meta_columns"] = 'Inachakata safu za metadata %count';
@@ -60,8 +60,8 @@ $lang["csv_upload_error_in_progress"] = 'Usindikaji umesitishwa - faili hii ya C
 $lang["csv_upload_error_file_missing"] = 'Hitilafu - Faili la CSV linakosekana: [file]';
 $lang["csv_upload_full_messages_link"] = 'Inaonyesha mistari 1000 ya kwanza pekee, ili kupakua faili kamili ya kumbukumbu tafadhali bonyeza <a href=\'[log_url]\' target=\'_blank\'>hapa</a>';
 $lang["csv_upload_ignore_errors"] = 'Puuza makosa na endelea kuchakata faili hata hivyo';
-$lang["csv_upload_process_offline_quick"] = 'Ruka uthibitishaji na usindike faili ya CSV nje ya mtandao? Hii inapaswa kutumiwa tu kwa faili kubwa za CSV wakati majaribio kwenye faili ndogo yamekamilika. Utajulishwa kupitia ujumbe wa ResourceSpace mara tu upakiaji utakapokamilika.';
-$lang["csv_upload_force_offline"] = 'CSV hii kubwa inaweza kuchukua muda mrefu kuchakatwa hivyo itafanywa nje ya mtandao. Utaarifiwa kupitia ujumbe wa ResourceSpace mara uchakataji utakapokamilika.';
+$lang["csv_upload_process_offline_quick"] = 'Ruka uthibitishaji na usindike faili ya CSV nje ya mtandao? Hii inapaswa kutumiwa tu kwa faili kubwa za CSV wakati majaribio kwenye faili ndogo yamekamilika. Utajulishwa kupitia ujumbe wa resourceDAM mara tu upakiaji utakapokamilika.';
+$lang["csv_upload_force_offline"] = 'CSV hii kubwa inaweza kuchukua muda mrefu kuchakatwa hivyo itafanywa nje ya mtandao. Utaarifiwa kupitia ujumbe wa resourceDAM mara uchakataji utakapokamilika.';
 $lang["csv_upload_recommend_offline"] = 'CSV kubwa hii inaweza kuchukua muda mrefu sana kusindika. Inapendekezwa kuwa kazi za nje ya mtandao ziwezeshwe ikiwa unahitaji kusindika CSV kubwa.';
 $lang["csv_upload_createdfromcsvupload"] = 'Imeundwa kutoka kwa programu-jalizi ya Kupakia CSV';
 

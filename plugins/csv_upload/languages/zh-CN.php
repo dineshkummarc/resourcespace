@@ -61,7 +61,7 @@ $lang["csv_upload_error_file_missing"] = '错误 - CSV文件丢失：[file]。';
 $lang["csv_upload_full_messages_link"] = '仅显示前1000行，若需下载完整的日志文件，请点击<a href=\'[log_url]\' target=\'_blank\'>此处</a>。';
 $lang["csv_upload_ignore_errors"] = '忽略错误并继续处理文件。';
 $lang["csv_upload_process_offline_quick"] = '跳过验证并离线处理CSV文件？仅在测试较小文件后，用于大型CSV文件。上传完成后，您将通过ResourceSpace消息得到通知。';
-$lang["csv_upload_force_offline"] = '这个大型 CSV 文件可能需要很长时间才能处理完毕，因此将在离线状态下运行。处理完成后，您将通过 ResourceSpace 消息收到通知。';
+$lang["csv_upload_force_offline"] = '这个大型 CSV 文件可能需要很长时间才能处理完毕，因此将在离线状态下运行。处理完成后，您将通过 resourceDAM 消息收到通知。';
 $lang["csv_upload_recommend_offline"] = '这个大型 CSV 文件可能需要很长时间才能处理完毕。如果您需要处理大型 CSV 文件，建议启用离线作业。';
 $lang["csv_upload_createdfromcsvupload"] = '从CSV上传插件创建';
 $lang["plugin-csv_upload-title"] = 'CSV上传';

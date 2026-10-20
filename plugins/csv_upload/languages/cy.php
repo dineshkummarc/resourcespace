@@ -50,8 +50,8 @@ $lang["csv_upload_mapping_ignore"] = 'PEIDIW Â DEFNYDDIO';
 $lang["csv_upload_mapping_header"] = 'Penawd Colofn';
 $lang["csv_upload_mapping_csv_data"] = 'Data samplau o CSV';
 $lang["csv_upload_using_config"] = 'Defnyddio\'r gosodiad CSV presennol';
-$lang["csv_upload_process_offline"] = 'Ydych chi\'n hoffi prosesu ffeil CSV yn offlin? Dylid defnyddio hyn ar gyfer ffeiliau CSV mawr. Byddwch yn cael gwybodaeth trwy neges ResourceSpace unwaith y bydd y broses wedi\'i chwblhau';
-$lang["csv_upload_oj_created"] = 'Cafodd y swydd uwchlwytho CSV ei chreu gyda\'r ID swydd # [jobref]. <br/>Byddwch yn derbyn neges system ResourceSpace unwaith y bydd y swydd wedi\'i chwblhau';
+$lang["csv_upload_process_offline"] = 'Ydych chi\'n hoffi prosesu ffeil CSV yn offlin? Dylid defnyddio hyn ar gyfer ffeiliau CSV mawr. Byddwch yn cael gwybodaeth trwy neges resourceDAM unwaith y bydd y broses wedi\'i chwblhau';
+$lang["csv_upload_oj_created"] = 'Cafodd y swydd uwchlwytho CSV ei chreu gyda\'r ID swydd # [jobref]. <br/>Byddwch yn derbyn neges system resourceDAM unwaith y bydd y swydd wedi\'i chwblhau';
 $lang["csv_upload_oj_complete"] = 'Gorffennwyd y swydd llwytho CSV. Cliciwch ar y ddolen i weld y ffeil log lawn';
 $lang["csv_upload_oj_failed"] = 'Methu gwaith uwchlwytho CSV. Cliciwch ar y ddolen i weld y ffeil log llawn a gwirio am wallau';
 $lang["csv_upload_processing_x_meta_columns"] = 'Prosesu %count colofnau metadata';
@@ -60,8 +60,8 @@ $lang["csv_upload_error_in_progress"] = 'Gweithdrefn wedi\'i chanslo - mae\'r ff
 $lang["csv_upload_error_file_missing"] = 'Gwall - ffeil CSV yn absennol: [file]';
 $lang["csv_upload_full_messages_link"] = 'Yn dangos dim ond y 1000 llinell gyntaf, i lawrlwytho\'r log ffeil llawn, cliciwch <a href=\'[log_url]\' target=\'_blank\'>fan hyn</a>';
 $lang["csv_upload_ignore_errors"] = 'Anwybyddu gwallau a phrosesu\'r ffeil beth bynnag';
-$lang["csv_upload_process_offline_quick"] = 'Aros i ddilysu a phrosesu ffeil CSV yn offline? Dylid defnyddio hyn yn unig ar gyfer ffeiliau CSV mawr pan fydd profion ar ffeiliau llai wedi\'u cwblhau. Byddwch yn cael gwybodaeth trwy neges ResourceSpace unwaith y bydd y llwytho i fyny wedi\'i gwblhau.';
-$lang["csv_upload_force_offline"] = 'Gall y CSV mawr hwn gymryd amser hir i\'w brosesu felly bydd yn cael ei redeg yn offline. Byddwch yn cael gwybodaeth trwy neges ResourceSpace unwaith y bydd y broses wedi\'i chwblhau';
+$lang["csv_upload_process_offline_quick"] = 'Aros i ddilysu a phrosesu ffeil CSV yn offline? Dylid defnyddio hyn yn unig ar gyfer ffeiliau CSV mawr pan fydd profion ar ffeiliau llai wedi\'u cwblhau. Byddwch yn cael gwybodaeth trwy neges resourceDAM unwaith y bydd y llwytho i fyny wedi\'i gwblhau.';
+$lang["csv_upload_force_offline"] = 'Gall y CSV mawr hwn gymryd amser hir i\'w brosesu felly bydd yn cael ei redeg yn offline. Byddwch yn cael gwybodaeth trwy neges resourceDAM unwaith y bydd y broses wedi\'i chwblhau';
 $lang["csv_upload_recommend_offline"] = 'Gall y CSV mawr hwn gymryd amser hir iawn i\'w brosesu. Argymhellir bod swyddi all-lein yn cael eu galluogi os oes angen i chi brosesu CSVs mawr';
 $lang["csv_upload_createdfromcsvupload"] = 'Creuodd o\'r plugin Uwchlwytho CSV';
 
