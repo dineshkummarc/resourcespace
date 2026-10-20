@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Vimeo\'ya şu şekilde yayınlayacaksın
 $lang["vimeo_publish_delete_token"]='Farklı bir Vimeo hesabı kullanın (önce bu Vimeo hesabından çıkış yaptığınızdan emin olun)';
 $lang["vimeo_publish_button_text"]='Yayınla';
 $lang["vimeo_publish_legal_warning"]='\'OK\' tuşuna tıklayarak, içeriğin tüm haklarına sahip olduğunuzu veya içeriği kamuya açık hale getirmek için sahibinden yetki aldığınızı ve ayrıca içeriğin Vimeo\'nun https://vimeo.com/terms adresinde bulunan Hizmet Şartlarına uygun olduğunu onaylamış olursunuz.';
-$lang["vimeo_api_instructions_condition_1"]='ResourceSpace\'i bir uygulama olarak Vimeo\'ya kaydetmeniz ve bir OAuth istemci kimliği ve Gizli Anahtar almanız gerekecek';
+$lang["vimeo_api_instructions_condition_1"]='ResourceDAM\'i bir uygulama olarak Vimeo\'ya kaydetmeniz ve bir OAuth istemci kimliği ve Gizli Anahtar almanız gerekecek';
 $lang["vimeo_api_instructions_condition_2"]='Herhangi bir geçerli Vimeo hesabı ile Vimeo\'ya giriş yapın (bu sizin Vimeo hesabınızla ilgili olmak zorunda değildir), ardından <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a> adresine gidin';
 $lang["vimeo_api_instructions_condition_3"]='Sağ üst köşedeki "Yeni Uygulama"ya tıklayın';
 $lang["vimeo_api_instructions_condition_4"]='Tüm detayları doldurun.';
