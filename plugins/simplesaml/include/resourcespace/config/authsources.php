@@ -1,6 +1,6 @@
 <?php
 
-// Get authsources config from ResourceSpace config
+// Get authsources config from resourceDAM config
 global $simplesamlconfig;
 if (isset($simplesamlconfig['authsources'])) {
     foreach ($simplesamlconfig['authsources'] as $name => &$authsource) {

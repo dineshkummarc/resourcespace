@@ -193,7 +193,7 @@ function HookSimplesamlAllProvideusercredentials()
         }
     }
 
-    // If user is logged in or if SAML is not being used to login to ResourceSpace (just as a simple barrier,
+    // If user is logged in or if SAML is not being used to login to resourceDAM (just as a simple barrier,
     // usually with anonymous access configured) then use standard authentication if available
     if ($simplesaml_site_block && !simplesaml_is_authenticated()) {
         debug("simplesaml: site block enabled, performing SAML authentication");
@@ -726,7 +726,7 @@ function HookSimplesamlAllExtra_checks()
     }
     unset($GLOBALS['use_error_exception']);
 
-    // Check if SAML library needs updating (if pre-9.7 SP not using ResourceSpace config)
+    // Check if SAML library needs updating (if pre-9.7 SP not using resourceDAM config)
     $simplesaml_config_check = [
         'status' => 'FAIL',
         'info' => $GLOBALS['lang']['simplesaml_healthcheck_error'],
@@ -750,7 +750,7 @@ function HookSimplesamlAllExtra_checks()
 
     // Check for expired certificates
     if (isset($GLOBALS["simplesamlconfig"]["metadata"]) && $GLOBALS['simplesaml_check_idp_cert_expiry']) {
-        // Only possible to check if using ResourceSpace stored SAML config
+        // Only possible to check if using resourceDAM stored SAML config
         $idpindex = 1; // Some systems have multiple IdPs
         foreach ($GLOBALS["simplesamlconfig"]["metadata"] as $idpid => $idpdata) {
             $idpname = $idpid; // IdP may not have a friendly readable name configured

@@ -17,7 +17,7 @@ $lang["simplesaml_email_attribute"] = 'Sähköpostiosoitteen käyttöattribuutti
 $lang["simplesaml_group_attribute"] = 'Määritä ominaisuus, jota käytetään ryhmäjäsenyyden määrittämiseen';
 $lang["simplesaml_username_suffix"] = 'Jälkiliite, joka lisätään luotuihin käyttäjänimiin erottaakseen ne tavallisista ResourceSpace-tileistä';
 $lang["simplesaml_update_group"] = 'Päivitä käyttäjäryhmä jokaisella kirjautumiskerralla. Jos et käytä SSO-ryhmäattribuuttia määrittämään käyttöoikeuksia, aseta tämä arvo epätodeksi, jotta käyttäjät voidaan siirtää manuaalisesti ryhmien välillä';
-$lang["simplesaml_groupmapping"] = 'SAML - ResourceSpace -ryhmäkartoitus';
+$lang["simplesaml_groupmapping"] = 'SAML - resourceDAM -ryhmäkartoitus';
 $lang["simplesaml_fallback_group"] = 'Oletuskäyttäjäryhmä, jota käytetään vasta luotujen käyttäjien kohdalla';
 $lang["simplesaml_samlgroup"] = 'SAML-ryhmä';
 $lang["simplesaml_rsgroup"] = 'ResourceSpace-ryhmä';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Mahdollista ResourceSpace
 $lang["simplesaml_authorisation_claim_name_label"] = 'Attribuutin (väitteen/nimen) nimi';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Attribuutin (väitteen/ vaatimuksen) arvo';
 $lang["simplesaml_authorisation_login_error"] = 'Sinulla ei ole pääsyä tähän sovellukseen! Ota yhteyttä tilisi ylläpitäjään!';
-$lang["simplesaml_authorisation_version_error"] = 'TÄRKEÄÄ: SimpleSAML-konfiguraatiosi on päivitettävä. Katso lisätietoja Knowledge Basen \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrating the SP to use ResourceSpace configuration</a>\' -osasta';
+$lang["simplesaml_authorisation_version_error"] = 'TÄRKEÄÄ: SimpleSAML-konfiguraatiosi on päivitettävä. Katso lisätietoja Knowledge Basen \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrating the SP to use resourceDAM configuration</a>\' -osasta';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML-liitännäisen virhe';
 $lang["simplesaml_rsconfig"] = 'Käytä standardia ResourceSpace-konfiguraatiotiedostoa määrittääksesi SP-konfiguraation ja metatiedot. Jos tämä on asetettu epätodeksi, tiedostojen manuaalinen muokkaus on tarpeen';
 $lang["simplesaml_sp_generate_config"] = 'Tuota SP-määritys';

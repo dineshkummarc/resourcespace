@@ -91,7 +91,7 @@ foreach ($saml_settings as $saml_setting => $configvalue) {
 }
 
 if (getval('sp_submit', '') !== '' && enforcePostRequest(false)) {
-    // set up config and format it for admin user to copy into ResourceSpace config file
+    // set up config and format it for admin user to copy into resourceDAM config file
     if ($certpath == "" || $keypath == "") {
         foreach ($certreqdetails as $certreqdetail) {
             $certval =  getval($certreqdetail, "");

@@ -1,6 +1,6 @@
 <?php
 
-// Get IdP metadata config from ResourceSpace config
+// Get IdP metadata config from resourceDAM config
 global $simplesamlconfig;
 
 if (isset($simplesamlconfig['metadata'])) {

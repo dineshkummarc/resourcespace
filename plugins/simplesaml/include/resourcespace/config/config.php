@@ -3,7 +3,7 @@
 /** @var array $config */
 require dirname(__DIR__, 3) . '/lib/config/config.php.dist';
 
-// Set SimpleSAML config from ResourceSpace config options
+// Set SimpleSAML config from resourceDAM config options
 global $simplesamlconfig, $simplesaml_config_defaults;
 
 // Configure SimpleSAMLPHP default settings because the logic depends on the simplesaml plugins' own settings.
@@ -22,7 +22,7 @@ foreach ($simplesamlconfig['config'] as $option => $configvalue) {
     $config[$option] = $configvalue;
 }
 
-// Plain-text admin-passwords are no longer allowed to be used in SSP (since v2.3) but ResourceSpace existing config
+// Plain-text admin-passwords are no longer allowed to be used in SSP (since v2.3) but resourceDAM existing config
 // may still use it so convert it now on the fly (let it use the best algorithm available)
 if (is_null(password_get_info($config['auth.adminpassword'])['algo'])) {
     $cached_adminpassword_hash = get_sysvar('simplesaml_auth.adminpassword_hash', '');

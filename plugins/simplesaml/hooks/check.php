@@ -78,7 +78,7 @@ function HooksimplesamlCheckAddinstallationcheck()
 
     if (isset($GLOBALS["simplesamlconfig"]["metadata"]) && $GLOBALS['simplesaml_check_idp_cert_expiry']) {
         // Check expiry date of IdP certificates
-        // Only possible to check if using ResourceSpace stored SAML config
+        // Only possible to check if using resourceDAM stored SAML config
         ?>
         <tr>
             <td colspan='3'>

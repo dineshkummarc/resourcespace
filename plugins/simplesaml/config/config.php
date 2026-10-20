@@ -26,16 +26,16 @@ $simplesaml_create_new_match_email = false;
 $simplesaml_allow_duplicate_email = false;
 $simplesaml_multiple_email_notify = "";
 
-// Enable ResourceSpace to be configured with additional local authorisation of users based upon an extra attribute
+// Enable resourceDAM to be configured with additional local authorisation of users based upon an extra attribute
 // (ie. assertion/ claim) in the response from the IdP. This assertion will be used by the plugin to determine whether
-// the user is allowed to log in to ResourceSpace or not
+// the user is allowed to log in to resourceDAM or not
 $simplesaml_authorisation_claim_name = '';
 $simplesaml_authorisation_claim_value = '';
 
 /*
 Options are:-
  - 0 for Local SAML configuration files (legacy)
- - 1 for ResourceSpace configuration file (config.php)
+ - 1 for resourceDAM configuration file (config.php)
  - 2 for Metadata URL (XML)
 */
 $simplesaml_rsconfig = 1;
@@ -50,7 +50,7 @@ public folder instead (an alias).
 */
 $simplesaml_use_www = true;
 
-// When using ResourceSpace to store SAML config these setttings are initialised and set in the following pages:-
+// When using resourceDAM to store SAML config these setttings are initialised and set in the following pages:-
 // plugins/simplesaml/lib/lib/_autoload.php (normally a symlink for src/_autoload.php)
 // plugins/simplesaml/lib/src/_autoload.php
 // plugins/simplesaml/include/resourcespace/config/config.php

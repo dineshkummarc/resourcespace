@@ -15,9 +15,9 @@ $lang["simplesaml_fullname_attribute"] = "Attribute(s) to use for full name. If 
 $lang["simplesaml_fullname_separator"] = "If  joining fields for full name use this character as a separator";
 $lang["simplesaml_email_attribute"] = "Attribute to use for email address";
 $lang["simplesaml_group_attribute"] = "Attribute to use to determine group membership";
-$lang["simplesaml_username_suffix"] = "Suffix to add to created usernames to distinguish them from standard ResourceSpace accounts";
+$lang["simplesaml_username_suffix"] = "Suffix to add to created usernames to distinguish them from standard resourceDAM accounts";
 $lang["simplesaml_update_group"] = "Update user group at each logon. If not using SSO group attribute to determine access then set this to false so that users can be manually moved between groups ";
-$lang['simplesaml_groupmapping'] = "SAML - ResourceSpace Group Mapping";
+$lang['simplesaml_groupmapping'] = "SAML - resourceDAM Group Mapping";
 $lang['simplesaml_fallback_group'] = "Default user group that will be used for newly created users";
 $lang['simplesaml_samlgroup'] = "SAML group";
 $lang['simplesaml_rsgroup'] = "ResourceSpace Group";
@@ -34,7 +34,7 @@ $lang['simplesaml_lib_path_label'] = 'SAML lib path (please specify full server 
 $lang['simplesaml_login'] = 'Use SAML credentials to login to ResourceSpace? (This is only relevant if above option is enabled)';
 
 $lang['simplesaml_create_new_match_email'] = "Email-match: Before creating new users, check if the SAML user email matches an existing RS account email. If a match is found the SAML user will 'adopt' that account";
-$lang['simplesaml_allow_duplicate_email'] = "Allow new accounts to be created if there are existing ResourceSpace accounts with the same email address? (this is overridden if email-match is set above and one match is found)";
+$lang['simplesaml_allow_duplicate_email'] = "Allow new accounts to be created if there are existing resourceDAM accounts with the same email address? (this is overridden if email-match is set above and one match is found)";
 $lang['simplesaml_multiple_email_match_subject'] = "ResourceSpace SAML - conflicting email login attempt";
 $lang['simplesaml_multiple_email_match_text'] = "A new SAML user has accessed the system but there is already more than one account with the same email address.";
 $lang['simplesaml_multiple_email_notify'] = "Email address to notify if an email conflict is found";
@@ -45,13 +45,13 @@ $lang['simplesaml_duplicate_email_behaviour'] = "Duplicate account management";
 $lang['simplesaml_duplicate_email_behaviour_description'] = "This section controls what happens if a new SAML user logging in conflicts with an existing acount";
 
 $lang['simplesaml_authorisation_rules_header'] = 'Authorisation rule';
-$lang['simplesaml_authorisation_rules_description'] = 'Enable ResourceSpace to be configured with additional local authorisation of users based upon an extra attribute (ie. assertion/ claim) in the response from the IdP. This assertion will be used by the plugin to determine whether the user is allowed to log in to ResourceSpace or not.';
+$lang['simplesaml_authorisation_rules_description'] = 'Enable resourceDAM to be configured with additional local authorisation of users based upon an extra attribute (ie. assertion/ claim) in the response from the IdP. This assertion will be used by the plugin to determine whether the user is allowed to log in to resourceDAM or not.';
 $lang['simplesaml_authorisation_claim_name_label'] = 'Attribute (assertion/ claim) name';
 $lang['simplesaml_authorisation_claim_value_label'] = 'Attribute (assertion/ claim) value';
 $lang['simplesaml_authorisation_login_error'] = "You don't have access to this application! Please contact the administrator for your account!";
-$lang['simplesaml_authorisation_version_error'] = "IMPORTANT: Your SimpleSAML configuration needs to be updated. Please refer to the '<a href='https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate' target='_blank'> Migrating the SP to use ResourceSpace configuration</a>' section of the Knowledge Base for more information";
+$lang['simplesaml_authorisation_version_error'] = "IMPORTANT: Your SimpleSAML configuration needs to be updated. Please refer to the '<a href='https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate' target='_blank'> Migrating the SP to use resourceDAM configuration</a>' section of the Knowledge Base for more information";
 $lang['simplesaml_healthcheck_error'] = "SimpleSAML plugin error";
-$lang['simplesaml_rsconfig'] = "Use standard ResourceSpace configuration files to set SP configuration and metadata? If this set to false then manual editing of files is required";
+$lang['simplesaml_rsconfig'] = "Use standard resourceDAM configuration files to set SP configuration and metadata? If this set to false then manual editing of files is required";
 $lang['simplesaml_sp_generate_config'] = "Generate SP config";
 $lang['simplesaml_sp_config'] = "Service Provider (SP) Configuration";
 $lang['simplesaml_sp_data'] = "Service Provider (SP) Information";
@@ -60,7 +60,7 @@ $lang['simplesaml_idp_metadata_xml'] = "Paste in the IdP Metadata XML";
 $lang['simplesaml_sp_cert_path'] = "Path to SP certificate file (leave empty to generate but fill in cert details below)";
 $lang['simplesaml_sp_key_path'] = "Path to SP key file (.pem) (leave empty to generate)";
 $lang['simplesaml_sp_idp'] = "IdP identifier (leave blank if processing XML)";
-$lang['simplesaml_saml_config_output'] = "Paste this into your ResourceSpace config file";
+$lang['simplesaml_saml_config_output'] = "Paste this into your resourceDAM config file";
 $lang['simplesaml_sp_cert_info'] = "Certificate information (required)";
 $lang['simplesaml_sp_cert_countryname'] = "Country Code (2 characters only)";
 $lang['simplesaml_sp_cert_stateorprovincename'] = "State, county or province name";

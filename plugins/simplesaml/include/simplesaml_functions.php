@@ -312,7 +312,7 @@ function simplesaml_php_check(bool $with_config = true): bool
  * This is done by either:-
  * a) Adding config, authsources and metadata files manually to the configured lib folder ($simplesaml_lib_path) or
  * b) By setting the options in the $simplesamlconfig variable and then enabling the
- * plugin option 'Use ResourceSpace configuration to set SP configuration and metadata'
+ * plugin option 'Use resourceDAM configuration to set SP configuration and metadata'
  *
  * @return boolean
  */
