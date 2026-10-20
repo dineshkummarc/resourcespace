@@ -6,4 +6,4 @@ desc: Adds the capability to manage consent given by subjects featured within yo
 icon: user-check
 category: Compliance
 config_url: /plugins/consentmanager/pages/setup.php
-info_url: https://www.resourcespace.com/knowledge-base/plugins/consent-manager
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/consent-manager
