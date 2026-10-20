@@ -1,9 +1,9 @@
 {
-    "name": "montala/resourceDAM",
-    "description": "ResourceDAM is the Digital Asset Management software offering a convenient, productive and easy to use solution for organising and sharing files.",
-    "homepage": "https://rhss.info",
+    "name": "montala/resourcespace",
+    "description": "ResourceSpace is the Digital Asset Management software offering a convenient, productive and easy to use solution for organising and sharing files.",
+    "homepage": "https://www.resourcespace.com",
     "type": "project",
-    "license": "documentation/licenses/resourcedam.txt",
+    "license": "documentation/licenses/resourcespace.txt",
     "require": {
         "php": "^8.2",
         "ext-mbstring": "*",
@@ -98,10 +98,10 @@
         "build:applyDownstreamChanges": "Apply downstream changes to ResourceSpace dependencies. Any changes that the upstream has fixed should be removed from the list as we want minimum (to no) divergence from upstreams."
     },
     "support": {
-        "source": "https://svn.rhss.info/resourcedam/svn/rs/trunk/",
-        "docs": "https://rhss.info/resourceDAM/knowledge-base/",
+        "source": "https://svn.resourcespace.com/svn/rs/trunk/",
+        "docs": "https://www.resourcespace.com/knowledge-base/",
         "forum": "https://groups.google.com/g/resourcespace",
-        "issues": "https://rhss.info/resourceDAM/bug_report",
-        "security": "https://rhss.info/resourceDAM/bug_report"
+        "issues": "https://www.resourcespace.com/bug_report",
+        "security": "https://www.resourcespace.com/bug_report"
     }
 }
