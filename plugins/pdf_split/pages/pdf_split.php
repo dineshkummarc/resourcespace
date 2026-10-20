@@ -3,7 +3,7 @@ include '../../../include/boot.php';
 include '../../../include/authenticate.php'; 
 include_once '../../../include/image_processing.php';
 
-use Montala\ResourceSpace\CommandPlaceholderArg;
+use Montala\ResourceDAM\CommandPlaceholderArg;
 
 $ref = (int) getval("ref", 0, true, 'is_positive_int_loose');
 if ($ref === 0) {
