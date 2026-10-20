@@ -117,7 +117,7 @@ $lang['property-order_by'] = 'क्रमबद्ध करें';
 $lang['property-indexing'] = '<b>इंडेक्सिंग</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'यदि आप नीचे इंडेक्सिंग सक्षम करते हैं और फ़ील्ड में पहले से डेटा है, तो आपको <a target=_blank href=../tools/reindex_field.php?field=%ref>इस फ़ील्ड को पुनः इंडेक्स करना</a> होगा।';
 $lang['property-index_this_field'] = 'इस फ़ील्ड को इंडेक्स करें';
-$lang['information_index_warning'] = 'कृपया फील्ड इंडेक्सिंग पर विस्तृत जानकारी के लिए <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>ज्ञान आधार</a> देखें।';
+$lang['information_index_warning'] = 'कृपया फील्ड इंडेक्सिंग पर विस्तृत जानकारी के लिए <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>ज्ञान आधार</a> देखें।';
 $lang['information-enable_partial_indexing'] = 'आंशिक कीवर्ड अनुक्रमण (प्रिफिक्स+इनफिक्स अनुक्रमण) का उपयोग संयम से करना चाहिए क्योंकि इससे अनुक्रमण आकार में काफी वृद्धि होगी। विवरण के लिए नॉलेज बेस देखें।';
 $lang['property-enable_partial_indexing'] = 'आंशिक अनुक्रमण सक्षम करें';
 $lang['information-shorthand_name'] = 'महत्वपूर्ण: खोज पट्टी पर, उन्नत खोज में या खोज/संपादन फ़िल्टर में उपयोग के लिए फ़ील्ड को प्रदर्शित करने के लिए संक्षिप्त नाम सेट किया जाना चाहिए। इसमें केवल छोटे अक्षरों के वर्णमाला के अक्षर और/या संख्याएँ होनी चाहिए - कोई स्थान या प्रतीक नहीं।';
@@ -1130,7 +1130,7 @@ $lang['setup-successheader'] = 'बधाई हो!';
 $lang['setup-successdetails'] = 'आपकी प्रारंभिक ResourceSpace सेटअप पूरी हो गई है। अधिक कॉन्फ़िगरेशन विकल्पों के लिए \'include/config.default.php\' अवश्य देखें।';
 $lang['setup-successnextsteps'] = 'अगले कदम:';
 $lang['setup-successremovewrite'] = 'अब आप \'include/\' से लिखने की अनुमति हटा सकते हैं।';
-$lang['setup-visitwiki'] = 'अपनी स्थापना को अनुकूलित करने के बारे में अधिक जानकारी के लिए <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace ज्ञान आधार</a> पर जाएं।';
+$lang['setup-visitwiki'] = 'अपनी स्थापना को अनुकूलित करने के बारे में अधिक जानकारी के लिए <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace ज्ञान आधार</a> पर जाएं।';
 $lang['php-config-file'] = 'PHP कॉन्फ़िग: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'कॉन्फ़िगरेशन निर्देशिका में लिखने की अनुमति:';
 $lang['setup-checkstoragewrite'] = 'भंडारण निर्देशिका के लिए लिखने की अनुमति:';
@@ -1915,7 +1915,7 @@ $lang['download_limit_request_text'] = 'डाउनलोड सीमा प�
 $lang['page-title_user_group_management_edit'] = 'उपयोगकर्ता समूह संपादित करें';
 $lang['page-subtitle_user_group_management_edit'] = 'इस अनुभाग का उपयोग उपयोगकर्ता समूह गुणों को संशोधित करने के लिए करें।';
 $lang['action-title_remove_user_group_logo'] = 'उपयोगकर्ता समूह का लोगो हटाने के लिए टिक करें';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'कृपया उन्नत विकल्पों के लिए और सहायता के लिए <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>ज्ञान आधार</a> देखें।';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'कृपया उन्नत विकल्पों के लिए और सहायता के लिए <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>ज्ञान आधार</a> देखें।';
 $lang['page-title_web_edit'] = 'फ़ाइल संपादित करें';
 $lang['page-subtitle_web_edit'] = 'इस अनुभाग का उपयोग सीधे फ़ाइलों को संपादित करने के लिए करें - सावधानी से उपयोग करें।';
 $lang['page-title_user_group_permissions_edit'] = 'उपयोगकर्ता समूह अनुमतियाँ संपादित करें';
@@ -2030,7 +2030,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'द्वारा संचालित <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace ओपन सोर्स डिजिटल एसेट मैनेजमेंट</a>';
+$lang['all__footer'] = 'द्वारा संचालित <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace ओपन सोर्स डिजिटल एसेट मैनेजमेंट</a>';
 $lang['all__researchrequest'] = 'हमारे संसाधन टीम को आपके आवश्यक संसाधन खोजने दें।';
 $lang['change_language__introtext'] = 'कृपया नीचे अपनी भाषा चुनें।';
 $lang['collection_download__write_metadata_on_download_label'] = 'डाउनलोड की गई फ़ाइल(फ़ाइलों) में संसाधन मेटाडेटा एम्बेड करें? इसे सक्षम करने से आपका डाउनलोड धीमा हो जाएगा।';
@@ -2060,7 +2060,7 @@ $lang['download_click__introtext'] = 'संसाधन फ़ाइल डा�
 $lang['download_progress__introtext'] = 'आपकी डाउनलोड जल्द ही शुरू होगी। जब आपकी डाउनलोड पूरी हो जाए, तो जारी रखने के लिए नीचे दिए गए लिंक का उपयोग करें।';
 $lang['downloadfile_nofile'] = 'अनुरोधित फ़ाइल नहीं मिली।';
 $lang['edit__multiple'] = 'कृपया उन फ़ील्ड्स का चयन करें जिन्हें आप अधिलेखित करना चाहते हैं। जिन फ़ील्ड्स का आप चयन नहीं करेंगे, उन्हें अपरिवर्तित छोड़ा जाएगा।';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['home__restrictedtext'] = 'कृपया उन संसाधनों तक पहुँचने के लिए उस लिंक पर क्लिक करें जो आपको ई-मेल किया गया था।';
 $lang['home__restrictedtitle'] = 'ResourceSpace [ver] में आपका स्वागत है';
 $lang['home__welcometitle'] = 'ResourceSpace [ver] में आपका स्वागत है';
@@ -2486,7 +2486,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'व्यक्तिगत डेटा हो सकता है';
 $lang['api-test-tool'] = 'एपीआई परीक्षण उपकरण';
 $lang['api-function'] = 'एपीआई फ़ंक्शन';
-$lang['api-help'] = 'कृपया कार्यों के विवरण के लिए <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API दस्तावेज़</a> देखें। <strong>सावधान रहें - आपके द्वारा दर्ज किए गए किसी भी आदेश को आपके लाइव डेटा का उपयोग करके निष्पादित किया जाएगा।</strong>';
+$lang['api-help'] = 'कृपया कार्यों के विवरण के लिए <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API दस्तावेज़</a> देखें। <strong>सावधान रहें - आपके द्वारा दर्ज किए गए किसी भी आदेश को आपके लाइव डेटा का उपयोग करके निष्पादित किया जाएगा।</strong>';
 $lang['api-view-documentation'] = 'दस्तावेज़ देखें';
 $lang['api-php-code'] = 'PHP कोड';
 $lang['api-php-help'] = 'दिए गए मापदंडों के साथ दर्ज की गई API फ़ंक्शन को कॉल करने के लिए दूरस्थ प्रणाली पर नीचे दिए गए PHP कोड का उपयोग करें।';

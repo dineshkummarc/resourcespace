@@ -116,7 +116,7 @@ $lang['property-order_by'] = 'Seřadit podle';
 $lang['property-indexing'] = '<b>Indexování</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Pokud níže povolíte indexování a pole již obsahuje data, budete muset <a target=_blank href=../tools/reindex_field.php?field=%ref>znovu indexovat toto pole</a>.';
 $lang['property-index_this_field'] = 'Indexovat toto pole';
-$lang['information_index_warning'] = 'Podívejte se prosím na <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Knowledge Base</a> pro podrobné informace o indexování polí.';
+$lang['information_index_warning'] = 'Podívejte se prosím na <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Knowledge Base</a> pro podrobné informace o indexování polí.';
 $lang['information-enable_partial_indexing'] = 'Částečné indexování klíčových slov (prefix+infix indexování) by mělo být používáno střídmě, protože výrazně zvýší velikost indexu. Podrobnosti naleznete v databázi znalostí.';
 $lang['property-enable_partial_indexing'] = 'Povolit částečné indexování';
 $lang['information-shorthand_name'] = 'Důležité: Zkrácený název musí být nastaven, aby se pole zobrazilo na vyhledávacím panelu, v Pokročilém vyhledávání nebo aby bylo použito ve vyhledávacích/editačních filtrech. Musí obsahovat pouze malá písmena a/nebo čísla - žádné mezery nebo symboly.';
@@ -1126,7 +1126,7 @@ $lang['setup-successheader'] = 'Gratulujeme!';
 $lang['setup-successdetails'] = 'Vaše počáteční nastavení ResourceSpace je dokončeno. Nezapomeňte se podívat na \'include/config.default.php\' pro další možnosti konfigurace.';
 $lang['setup-successnextsteps'] = 'Další kroky:';
 $lang['setup-successremovewrite'] = 'Nyní můžete odebrat přístup k zápisu do \'include/\'.';
-$lang['setup-visitwiki'] = 'Navštivte <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace Knowledge Base</a> pro více informací o přizpůsobení vaší instalace.';
+$lang['setup-visitwiki'] = 'Navštivte <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Knowledge Base</a> pro více informací o přizpůsobení vaší instalace.';
 $lang['php-config-file'] = 'PHP konfigurace: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Přístup k zápisu do konfiguračního adresáře:';
 $lang['setup-checkstoragewrite'] = 'Přístup k zápisu do úložného adresáře:';
@@ -1912,7 +1912,7 @@ $lang['download_limit_request_text'] = 'Limit stahování dosažen: [downloaded]
 $lang['page-title_user_group_management_edit'] = 'Upravit uživatelskou skupinu';
 $lang['page-subtitle_user_group_management_edit'] = 'Použijte tuto sekci k úpravě vlastností uživatelské skupiny.';
 $lang['action-title_remove_user_group_logo'] = 'Zaškrtněte pro odstranění loga uživatelské skupiny';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Podívejte se prosím na <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Knowledge Base</a> pro další pomoc s pokročilými možnostmi.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Podívejte se prosím na <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Knowledge Base</a> pro další pomoc s pokročilými možnostmi.';
 $lang['page-title_web_edit'] = 'Upravit soubor';
 $lang['page-subtitle_web_edit'] = 'Použijte tuto sekci k přímé úpravě souborů - používejte s opatrností.';
 $lang['page-title_user_group_permissions_edit'] = 'Upravit oprávnění uživatelské skupiny';
@@ -2018,7 +2018,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Poháněno <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Poháněno <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Nechte náš tým zdrojů najít zdroje, které potřebujete.';
 $lang['change_language__introtext'] = 'Vyberte prosím svůj jazyk níže.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Vložit metadata zdroje do staženého souboru/souborů? Povolení této funkce zpomalí vaše stahování.';
@@ -2048,7 +2048,7 @@ $lang['download_click__introtext'] = 'Chcete-li stáhnout soubor zdroje, klikně
 $lang['download_progress__introtext'] = 'Váš stahování začne brzy. Po dokončení stahování použijte níže uvedené odkazy k pokračování.';
 $lang['downloadfile_nofile'] = 'Požadovaný soubor nebyl nalezen.';
 $lang['edit__multiple'] = 'Vyberte, která pole chcete přepsat. Pole, která nevyberete, zůstanou nedotčena.';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['home__restrictedtext'] = 'Klikněte prosím na odkaz, který vám byl zaslán e-mailem, abyste získali přístup k vybraným zdrojům.';
 $lang['home__restrictedtitle'] = 'Vítejte v ResourceSpace [ver]';
 $lang['home__welcometitle'] = 'Vítejte v ResourceSpace [ver]';
@@ -2471,7 +2471,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Může obsahovat osobní údaje';
 $lang['api-test-tool'] = 'Nástroj pro testování API';
 $lang['api-function'] = 'Funkce API';
-$lang['api-help'] = 'Podívejte se na <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">dokumentaci API</a> pro podrobnosti o funkcích. <strong>Buďte opatrní - jakékoliv příkazy, které zadáte, budou provedeny s vašimi živými daty.</strong>';
+$lang['api-help'] = 'Podívejte se na <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">dokumentaci API</a> pro podrobnosti o funkcích. <strong>Buďte opatrní - jakékoliv příkazy, které zadáte, budou provedeny s vašimi živými daty.</strong>';
 $lang['api-view-documentation'] = 'Zobrazit dokumentaci';
 $lang['api-php-code'] = 'PHP kód';
 $lang['api-php-help'] = 'Použijte níže uvedený PHP kód na vzdáleném systému k volání zadané API funkce s poskytnutými parametry.';

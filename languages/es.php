@@ -514,7 +514,7 @@ $lang['noexternalsharing'] = 'No hay compartición externa.';
 $lang['externalselectresourceaccess'] = 'Si el destinatario es un usuario externo, por favor especifique el nivel acceso que quiere establecer para este recurso.';
 $lang['externalselectresourceexpires'] = 'Si el destinatario es un usuario externo, por favor especifique una fecha de caducidad para la URL generada.';
 $lang['about__about'] = 'Imágenes y Palabras pretende ser un lugar...';
-$lang['all__footer'] = 'Accionado por el <a href="https://www.resourcespace.com/">ResourceSpace</a>';
+$lang['all__footer'] = 'Accionado por el <a href="https://rhss.info/resourcedam/">ResourceSpace</a>';
 $lang['all__researchrequest'] = 'Let our resources team find the resources you need.';
 $lang['change_language__introtext'] = 'Por favor, selecciona el idioma en el que deseas trabajar.';
 $lang['collection_edit__introtext'] = 'Organiza tu trabajo agrupando recursos. Crea tantas colecciones como necesites.
@@ -573,7 +573,7 @@ $lang['team_user__introtext'] = 'Utiliza esta sección para añadir, eliminar o 
 $lang['terms__introtext'] = 'Antes de iniciar el proceso de descarga debes aceptar los siguientes términos y condiciones de uso.
 
 ';
-$lang['themes__findpublic'] = 'Powered by <a href="https://www.resourcespace.com/">ResourceSpace</a>';
+$lang['themes__findpublic'] = 'Powered by <a href="https://rhss.info/resourcedam/">ResourceSpace</a>';
 $lang['themes__introtext'] = 'Los temas están formados por grupos con nuestros mejores materiales';
 $lang['themes__manage'] = 'Organiza y edita los temas disponibles en la red. Los temas aparecen organizados en colecciones. Para crear una nueva entrada e incluirla en un tema, debes pinchar en "Construye una colección" y elegir "Mis Colecciones" del menú principal. Recuerda incluir el nombre de un tema durante la configuración y crear una nueva colección. Puedes usar un nombre ya existente para agrupar la nueva colección en un apartado ya establecido (es importante asegurarse de que el nombre es exactamente el mismo) o elegir un nuevo título para crear una nueva categoría de temas. Nunca permitas a los usuarios que añadan o cambien materiales de las colecciones ya establecidas. Para editar el contenido de una entrada existente bajo un tema, elige “Editar una Colección”. Los iconos de esta colección aparecerán en el botón de la pantalla “Mis Colecciones”. Emplea las herramientas estándar para editar, mover o añadir material. Para cambiar el  nombre de un tema o mover una colección y que ésta aparezca ubicada en un tema diferente. Elige: “Editar Propiedades” y edita la categoría del tema o el nombre de la colección. Selecciona un nombre existente para el tema y así agruparlo en de las categorías existentes (asegúrate de que lo escribes exactamente igual), o elige un nuevo título para crear un nuevo tipo de tema. Para borrar una selección del tema. Elige: “Editar Propiedades” y borra las palabras de la caja de categorías del tema.';
 $lang['upload__introtext'] = '';
@@ -693,7 +693,7 @@ $lang['property-order_by'] = 'Ordenar por';
 $lang['property-indexing'] = 'Indexación';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Si habilita la indexación a continuación y el campo ya contiene datos, deberá <a target=_blank href=../tools/reindex_field.php?field=%ref>reindexar este campo</a>.';
 $lang['property-index_this_field'] = 'Indexar este campo';
-$lang['information_index_warning'] = 'Por favor, consulte la <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Base de Conocimientos</a> para obtener información detallada sobre la indexación de campos.';
+$lang['information_index_warning'] = 'Por favor, consulte la <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Base de Conocimientos</a> para obtener información detallada sobre la indexación de campos.';
 $lang['information-enable_partial_indexing'] = 'El indexado parcial de palabras clave (indexado de prefijo e infijo) debe usarse con moderación ya que aumentará significativamente el tamaño del índice. Consulte la Base de Conocimientos para obtener más detalles.';
 $lang['property-enable_partial_indexing'] = 'Habilitar indexación parcial';
 $lang['information-shorthand_name'] = 'Importante: El nombre abreviado debe establecerse para que el campo aparezca en la barra de búsqueda, en la búsqueda avanzada o para ser utilizado en filtros de búsqueda/edición. Debe contener solo caracteres alfabéticos en minúscula y/o números, sin espacios ni símbolos.';
@@ -1177,7 +1177,7 @@ $lang['setup-successheader'] = '¡Felicitaciones!';
 $lang['setup-successdetails'] = 'La configuración inicial de ResourceSpace está completa. Asegúrese de revisar \'include/config.default.php\' para más opciones de configuración.';
 $lang['setup-successnextsteps'] = 'Próximos pasos:';
 $lang['setup-successremovewrite'] = 'Ahora puedes quitar el acceso de escritura a \'include/\'.';
-$lang['setup-visitwiki'] = 'Visite la <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">Base de Conocimientos de ResourceSpace</a> para obtener más información sobre cómo personalizar su instalación.';
+$lang['setup-visitwiki'] = 'Visite la <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Base de Conocimientos de ResourceSpace</a> para obtener más información sobre cómo personalizar su instalación.';
 $lang['php-config-file'] = 'Configuración de PHP: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Acceso de escritura al directorio de configuración:';
 $lang['setup-checkstoragewrite'] = 'Acceso de escritura al directorio de almacenamiento:';
@@ -1920,7 +1920,7 @@ $lang['download_limit_request_text'] = 'Límite de descarga alcanzado: [download
 $lang['page-title_user_group_management_edit'] = 'Editar grupo de usuarios';
 $lang['page-subtitle_user_group_management_edit'] = 'Utilice esta sección para modificar las propiedades del grupo de usuarios.';
 $lang['action-title_remove_user_group_logo'] = 'Marque para eliminar el logotipo del grupo de usuarios';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Por favor, consulta la <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Base de Conocimientos</a> para obtener más ayuda con las opciones avanzadas.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Por favor, consulta la <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Base de Conocimientos</a> para obtener más ayuda con las opciones avanzadas.';
 $lang['page-title_web_edit'] = 'Editar archivo';
 $lang['page-subtitle_web_edit'] = 'Utilice esta sección para editar archivos directamente - use con precaución.';
 $lang['page-title_user_group_permissions_edit'] = 'Editar permisos del grupo de usuarios';
@@ -2366,7 +2366,7 @@ $lang['iiif_disabled'] = 'IIIF no está configurado';
 $lang['property-personal_data'] = 'Puede contener datos personales';
 $lang['api-test-tool'] = 'Herramienta de prueba de API';
 $lang['api-function'] = 'Función de API';
-$lang['api-help'] = 'Por favor, consulte la <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">documentación de la API</a> para obtener detalles específicos de la función. <strong>Tenga cuidado - cualquier comando que ingrese se ejecutará utilizando sus datos en vivo.</strong>';
+$lang['api-help'] = 'Por favor, consulte la <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">documentación de la API</a> para obtener detalles específicos de la función. <strong>Tenga cuidado - cualquier comando que ingrese se ejecutará utilizando sus datos en vivo.</strong>';
 $lang['api-view-documentation'] = 'Ver documentación';
 $lang['api-php-code'] = 'Código PHP';
 $lang['api-php-help'] = 'Pegue lo siguiente en el sistema remoto para llamar a la función API ingresada con los parámetros proporcionados.';
@@ -2689,7 +2689,7 @@ $lang['all__emailresourcerequest'] = '[lang_username] : [username] <br />
 [details]<br /><br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['dash'] = 'Tablero';
 $lang['last'] = 'Último';
 $lang['upgrade_script'] = 'Script de actualización';

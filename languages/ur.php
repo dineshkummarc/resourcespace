@@ -117,7 +117,7 @@ $lang['property-order_by'] = 'ترتیب دیں بذریعہ';
 $lang['property-indexing'] = '<b>انڈیکسنگ</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'اگر آپ نیچے انڈیکسنگ کو فعال کرتے ہیں اور فیلڈ میں پہلے سے ڈیٹا موجود ہے، تو آپ کو <a target=_blank href=../tools/reindex_field.php?field=%ref>اس فیلڈ کو دوبارہ انڈیکس کرنا</a> ہوگا۔';
 $lang['property-index_this_field'] = 'اس فیلڈ کو انڈیکس کریں';
-$lang['information_index_warning'] = 'براہ کرم فیلڈ انڈیکسنگ کے بارے میں تفصیلی معلومات کے لیے <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>علمی بنیاد</a> کا حوالہ دیں۔';
+$lang['information_index_warning'] = 'براہ کرم فیلڈ انڈیکسنگ کے بارے میں تفصیلی معلومات کے لیے <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>علمی بنیاد</a> کا حوالہ دیں۔';
 $lang['information-enable_partial_indexing'] = 'جزوی کلیدی لفظ کی انڈیکسنگ (پریفکس+انفکس انڈیکسنگ) کو احتیاط سے استعمال کرنا چاہیے کیونکہ یہ انڈیکس کے سائز کو نمایاں طور پر بڑھا دے گی۔ تفصیلات کے لیے نالج بیس دیکھیں۔';
 $lang['property-enable_partial_indexing'] = 'جزوی انڈیکسنگ کو فعال کریں';
 $lang['information-shorthand_name'] = 'اہم: فیلڈ کو سرچ بار، ایڈوانسڈ سرچ میں ظاہر ہونے یا سرچ/ایڈٹ فلٹرز میں استعمال ہونے کے لیے شارٹ ہینڈ نام سیٹ کرنا ضروری ہے۔ اس میں صرف چھوٹے حروف تہجی کے کردار اور/یا نمبر شامل ہونے چاہئیں - کوئی جگہ یا علامات نہیں۔';
@@ -1133,7 +1133,7 @@ $lang['setup-successheader'] = 'مبارک ہو!';
 $lang['setup-successdetails'] = 'آپ کی ابتدائی ResourceSpace ترتیب مکمل ہو گئی ہے۔ مزید ترتیب کے اختیارات کے لیے \'include/config.default.php\' کو ضرور دیکھیں۔';
 $lang['setup-successnextsteps'] = 'اگلے اقدامات:';
 $lang['setup-successremovewrite'] = 'آپ اب \'include/\' سے لکھنے کی رسائی ہٹا سکتے ہیں۔';
-$lang['setup-visitwiki'] = 'اپنی تنصیب کو حسب ضرورت بنانے کے بارے میں مزید معلومات کے لیے <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace نالج بیس</a> پر جائیں۔';
+$lang['setup-visitwiki'] = 'اپنی تنصیب کو حسب ضرورت بنانے کے بارے میں مزید معلومات کے لیے <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace نالج بیس</a> پر جائیں۔';
 $lang['php-config-file'] = 'PHP کنفیگ: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'کنفیگ ڈائریکٹری تک لکھنے کی رسائی:';
 $lang['setup-checkstoragewrite'] = 'اسٹوریج ڈائریکٹری تک لکھنے کی رسائی:';
@@ -1913,7 +1913,7 @@ $lang['download_limit_request_text'] = 'ڈاؤن لوڈ کی حد پہنچ گئ�
 $lang['page-title_user_group_management_edit'] = 'صارف گروپ میں ترمیم کریں';
 $lang['page-subtitle_user_group_management_edit'] = 'اس سیکشن کا استعمال صارف گروپ کی خصوصیات میں ترمیم کرنے کے لیے کریں۔';
 $lang['action-title_remove_user_group_logo'] = 'صارف گروپ کا لوگو ہٹانے کے لیے نشان لگائیں';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'براہ کرم ایڈوانسڈ آپشنز کے ساتھ مزید مدد کے لیے <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>نالج بیس</a> کا حوالہ دیں۔';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'براہ کرم ایڈوانسڈ آپشنز کے ساتھ مزید مدد کے لیے <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>نالج بیس</a> کا حوالہ دیں۔';
 $lang['page-title_web_edit'] = 'فائل میں ترمیم کریں';
 $lang['page-subtitle_web_edit'] = 'اس سیکشن کو فائلوں کو براہ راست ترمیم کرنے کے لئے استعمال کریں - احتیاط کے ساتھ استعمال کریں۔';
 $lang['page-title_user_group_permissions_edit'] = 'صارف گروپ کی اجازتیں ترمیم کریں';
@@ -2018,7 +2018,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'پاورڈ بائی <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace اوپن سورس ڈیجیٹل اثاثہ مینجمنٹ</a>';
+$lang['all__footer'] = 'پاورڈ بائی <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace اوپن سورس ڈیجیٹل اثاثہ مینجمنٹ</a>';
 $lang['all__researchrequest'] = 'ہمارے وسائل کی ٹیم کو آپ کی مطلوبہ وسائل تلاش کرنے دیں۔';
 $lang['change_language__introtext'] = 'براہ کرم نیچے اپنی زبان منتخب کریں۔';
 $lang['collection_download__write_metadata_on_download_label'] = 'کیا ڈاؤن لوڈ کی گئی فائل(فائلوں) میں وسائل کی میٹا ڈیٹا شامل کی جائے؟ اسے فعال کرنے سے آپ کی ڈاؤن لوڈ کی رفتار کم ہو جائے گی۔';
@@ -2482,7 +2482,7 @@ $lang['iiif_disabled'] = 'IIIF تشکیل نہیں دیا گیا ہے';
 $lang['property-personal_data'] = 'ذاتی ڈیٹا شامل ہو سکتا ہے';
 $lang['api-test-tool'] = 'API ٹیسٹ ٹول';
 $lang['api-function'] = 'API فنکشن';
-$lang['api-help'] = 'براہ کرم فنکشن کی تفصیلات کے لیے <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API دستاویزات</a> کا حوالہ دیں۔ <strong>احتیاط کریں - آپ کے درج کردہ کسی بھی کمانڈ کو آپ کے لائیو ڈیٹا کے ساتھ عمل میں لایا جائے گا۔</strong>';
+$lang['api-help'] = 'براہ کرم فنکشن کی تفصیلات کے لیے <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API دستاویزات</a> کا حوالہ دیں۔ <strong>احتیاط کریں - آپ کے درج کردہ کسی بھی کمانڈ کو آپ کے لائیو ڈیٹا کے ساتھ عمل میں لایا جائے گا۔</strong>';
 $lang['api-view-documentation'] = 'دستاویزات دیکھیں';
 $lang['api-php-code'] = 'PHP کوڈ';
 $lang['api-php-help'] = 'درج کردہ API فنکشن کو فراہم کردہ پیرامیٹرز کے ساتھ کال کرنے کے لیے نیچے دیا گیا PHP کوڈ دور دراز نظام پر استعمال کریں۔';
@@ -2779,7 +2779,7 @@ $lang['ui_removed_config_message'] = 'یہ اب کنفیگریشن فائل می
 $lang['language-es'] = 'ہسپانوی';
 $lang['map_nasagibs_group'] = 'NASA GIBS';
 $lang['merge_filename_title_spacer'] = 'اسپیسَر';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['iiif'] = 'IIIF';
 $lang['language-hi'] = 'Hindi';
 $lang['contact_sheet_footer_address'] = 'XXX مین اسٹریٹ، سٹی، ABC 123 - ٹیلیفون: (111) 000-8888 - فیکس: (000) 111-9999';

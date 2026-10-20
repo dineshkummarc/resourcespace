@@ -711,7 +711,7 @@ $lang['property-order_by'] = 'Sortiraj po';
 $lang['property-indexing'] = 'Indeksiranje';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Ako omogućite indeksiranje ispod i polje već sadrži podatke, morat ćete <a target=_blank href=../tools/reindex_field.php?field=%ref>ponovno indeksirati ovo polje</a>.';
 $lang['property-index_this_field'] = 'Indeksiraj ovaj polje';
-$lang['information_index_warning'] = 'Molimo pogledajte <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Bazu znanja</a> za detaljne informacije o indeksiranju polja.';
+$lang['information_index_warning'] = 'Molimo pogledajte <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Bazu znanja</a> za detaljne informacije o indeksiranju polja.';
 $lang['information-enable_partial_indexing'] = 'Djelomično indeksiranje ključnih riječi (indeksiranje prefiksa + infiksa) treba se koristiti štedljivo jer će značajno povećati veličinu indeksa. Pogledajte Bazu znanja za detalje.';
 $lang['property-enable_partial_indexing'] = 'Omogući djelomično indeksiranje';
 $lang['information-shorthand_name'] = 'Važno: Kratko ime mora biti postavljeno kako bi se polje pojavilo na traci za pretraživanje, u Naprednoj pretrazi ili kako bi se koristilo u filtrima za pretraživanje/uređivanje. Ono mora sadržavati samo mala alfabetska slova i/ili brojeve - bez razmaka ili simbola.';
@@ -1155,7 +1155,7 @@ $lang['userresourcesunsubmitted'] = 'Sljedeći resursi koje je dodao korisnik su
 $lang['userresourcesunsubmittednotification'] = 'Ovaj korisnik je promijenio status ovih resursa tako da više ne zahtijevaju pregled.';
 $lang['clicktoviewlog'] = 'Pregledaj zapisnik';
 $lang['phpextensions'] = 'PHP ekstenzije';
-$lang['setup-visitwiki'] = 'Posjetite <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace bazu znanja</a> za više informacija o prilagođavanju vaše instalacije.';
+$lang['setup-visitwiki'] = 'Posjetite <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace bazu znanja</a> za više informacija o prilagođavanju vaše instalacije.';
 $lang['php-config-file'] = 'PHP konfiguracija: \'%phpinifile\'';
 $lang['setup-mysqltestfailed'] = 'Test nije uspio (nije moguće provjeriti MySQL)';
 $lang['setup-admin_fullname'] = 'Puno ime administratora';
@@ -1837,7 +1837,7 @@ $lang['download_limit_request_text'] = 'Dosegnut je limit preuzimanja: [download
 $lang['page-title_user_group_management_edit'] = 'Uredi korisničku grupu';
 $lang['page-subtitle_user_group_management_edit'] = 'Koristite ovaj odjeljak za izmjenu svojstava korisničke grupe.';
 $lang['action-title_remove_user_group_logo'] = 'Označite za uklanjanje logotipa grupe korisnika';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Molimo pogledajte <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Bazu znanja</a> za daljnju pomoć s naprednim opcijama.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Molimo pogledajte <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Bazu znanja</a> za daljnju pomoć s naprednim opcijama.';
 $lang['page-title_web_edit'] = 'Uredi datoteku';
 $lang['page-subtitle_web_edit'] = 'Koristite ovaj odjeljak za izravno uređivanje datoteka - koristite oprezno.';
 $lang['page-title_user_group_permissions_edit'] = 'Uredi dozvole korisničke grupe';
@@ -1917,7 +1917,7 @@ $lang['action-move-down'] = 'Pomakni dolje';
 $lang['action-move-to'] = 'Premjesti u';
 $lang['delete_user_group_checkbox_alert_message'] = 'Molimo imajte na umu da će ova radnja također izbrisati sav tekst sadržaja koji je bio relevantan za ovu grupu korisnika. Pronađeno je [recordscount] zapisa u Upravljanju sadržajem.';
 $lang['about__about'] = 'Vaš tekst o stranici ide ovdje.';
-$lang['all__footer'] = 'Pokreće ga <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Pokreće ga <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Neka naš tim resursa pronađe resurse koje vam trebaju.';
 $lang['change_language__introtext'] = 'Molimo odaberite svoj jezik u nastavku.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Ugradi metapodatke resursa u preuzete datoteke? Omogućavanje ove opcije usporit će vaše preuzimanje.';
@@ -2334,7 +2334,7 @@ $lang['iiif_disabled'] = 'IIIF nije konfiguriran';
 $lang['property-personal_data'] = 'Može sadržavati osobne podatke';
 $lang['api-test-tool'] = 'Alat za testiranje API-ja';
 $lang['api-function'] = 'Funkcija API-ja';
-$lang['api-help'] = 'Molimo pogledajte <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">dokumentaciju API-ja</a> za detalje funkcija. <strong>Budite oprezni - sve naredbe koje unesete bit će izvršene koristeći vaše stvarne podatke.</strong>';
+$lang['api-help'] = 'Molimo pogledajte <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">dokumentaciju API-ja</a> za detalje funkcija. <strong>Budite oprezni - sve naredbe koje unesete bit će izvršene koristeći vaše stvarne podatke.</strong>';
 $lang['api-view-documentation'] = 'Pregledaj dokumentaciju';
 $lang['api-php-code'] = 'PHP kod';
 $lang['api-php-help'] = 'Zalijepite donji kod u udaljeni sustav kako biste pozvali unesenu API funkciju s priloženim parametrima.';
@@ -2632,7 +2632,7 @@ $lang['all__emailresourcerequest'] = '<br />
 [details]<br /><br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['research_request__introtext'] = 'Naši profesionalni istraživači su ovdje kako bi vam pomogli pronaći najbolje resurse za vaše projekte. Ispunite ovaj obrazac što je moguće temeljitije kako bismo mogli točno ispuniti vaše kriterije. <br /><br />Član istraživačkog tima bit će dodijeljen vašem zahtjevu. Održavat ćemo kontakt putem e-pošte tijekom cijelog procesa, a nakon što završimo istraživanje, dobit ćete e-poruku s poveznicom na sve resurse koje preporučujemo.';
 $lang['team_research__introtext'] = 'Organizirajte i upravljajte \'Zahtjevima za istraživanje\'. <br /><br />Odaberite \'uredi istraživanje\' kako biste pregledali detalje zahtjeva i dodijelili istraživanje članu tima. Moguće je temeljiti zahtjev za istraživanjem na prethodnoj kolekciji unosom ID-a kolekcije na ekranu za uređivanje. <br /><br />Nakon što je zahtjev za istraživanjem dodijeljen, odaberite \'uredi kolekciju\' kako biste dodali zahtjev za istraživanjem na panel \'Zadana kolekcija\'. Korištenjem standardnih alata, tada je moguće dodati resurse istraživanju. <br /><br />Nakon što je istraživanje završeno, odaberite \'uredi istraživanje\', promijenite status u završeno i automatski se šalje email korisniku koji je zatražio istraživanje. Email sadrži poveznicu na istraživanje i također se automatski dodaje na njihov panel \'Zadana kolekcija\'.';
 $lang['dash'] = 'Nadzorna ploča';

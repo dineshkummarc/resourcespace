@@ -1030,7 +1030,7 @@ $lang['property-order_by'] = 'Sorter etter';
 $lang['property-indexing'] = 'Indeksering';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Hvis du aktiverer indeksering nedenfor og feltet allerede inneholder data, må du <a target=_blank href=../tools/reindex_field.php?field=%ref>reindeksere dette feltet</a>.';
 $lang['property-index_this_field'] = 'Indekser dette feltet';
-$lang['information_index_warning'] = 'Vennligst se <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Kunnskapsbasen</a> for detaljert informasjon om feltindeksering.';
+$lang['information_index_warning'] = 'Vennligst se <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Kunnskapsbasen</a> for detaljert informasjon om feltindeksering.';
 $lang['information-enable_partial_indexing'] = 'Delvis nøkkelordindeksering (prefiks+infix-indeksering) bør brukes med forsiktighet da det vil øke indeksstørrelsen betydelig. Se Kunnskapsbasen for detaljer.';
 $lang['property-enable_partial_indexing'] = 'Aktiver delvis indeksering';
 $lang['information-shorthand_name'] = 'Viktig: Forkortet navn må settes for at feltet skal vises på søkelinjen, i Avansert søk eller brukes i søke-/redigeringsfiltre. Det må kun inneholde små bokstaver og/eller tall - ingen mellomrom eller symboler.';
@@ -1867,7 +1867,7 @@ $lang['download_limit_request_text'] = 'Nedlastingsgrensen er nådd: [downloaded
 $lang['page-title_user_group_management_edit'] = 'Rediger brukergruppe';
 $lang['page-subtitle_user_group_management_edit'] = 'Bruk denne delen til å endre egenskapene til brukergruppen.';
 $lang['action-title_remove_user_group_logo'] = 'Huk av for å fjerne logo for brukergruppe';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Vennligst se <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Kunnskapsbasen</a> for ytterligere hjelp med avanserte alternativer.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Vennligst se <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Kunnskapsbasen</a> for ytterligere hjelp med avanserte alternativer.';
 $lang['page-title_web_edit'] = 'Rediger fil';
 $lang['page-subtitle_web_edit'] = 'Bruk denne seksjonen til å redigere filer direkte - bruk med forsiktighet.';
 $lang['page-title_user_group_permissions_edit'] = 'Rediger tillatelser for brukergruppe';
@@ -1947,7 +1947,7 @@ $lang['action-move-down'] = 'Flytt ned';
 $lang['action-move-to'] = 'Flytt til';
 $lang['delete_user_group_checkbox_alert_message'] = 'Vennligst merk at denne handlingen også vil slette all innholdstekst som var relevant for denne brukergruppen. Det er funnet [recordscount] poster i Administrer innhold.';
 $lang['about__about'] = 'Din "om oss"-tekst går her.';
-$lang['all__footer'] = 'Drevet av <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Drevet av <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'La vårt ressursteam finne ressursene du trenger.';
 $lang['change_language__introtext'] = 'Vennligst velg språket ditt nedenfor.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Innebygg metadata for ressursen i den nedlastede filen/filene? Å aktivere dette vil bremse ned nedlastingen.';
@@ -2364,7 +2364,7 @@ $lang['iiif_disabled'] = 'IIIF er ikke konfigurert';
 $lang['property-personal_data'] = 'Kan inneholde personlige data';
 $lang['api-test-tool'] = 'API testverktøy';
 $lang['api-function'] = 'API-funksjon';
-$lang['api-help'] = 'Vennligst se <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API-dokumentasjonen</a> for funksjonsspesifikasjoner. <strong>Vær forsiktig - alle kommandoer du skriver inn vil bli utført med dine virkelige data.</strong>';
+$lang['api-help'] = 'Vennligst se <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API-dokumentasjonen</a> for funksjonsspesifikasjoner. <strong>Vær forsiktig - alle kommandoer du skriver inn vil bli utført med dine virkelige data.</strong>';
 $lang['api-view-documentation'] = 'Vis dokumentasjon';
 $lang['api-php-code'] = 'PHP-kode';
 $lang['api-php-help'] = 'Lim inn det nedenfor i det eksterne systemet for å kalle den angitte API-funksjonen med de gitte parameterne.';
@@ -2653,7 +2653,7 @@ $lang['all__emailnotifyresourcesunsubmitted'] = '<br />
 [lang_viewalluserpending] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['team_research__introtext'] = 'Organiser og administrer \'Forskningsforespørsler\'. <br /><br />Velg \'rediger forskning\' for å gjennomgå forespørselsdetaljene og tildele forskningen til et teammedlem. Det er mulig å basere en forskningsforespørsel på en tidligere samling ved å skrive inn samlings-ID-en i \'rediger\'-skjermen. <br /><br />Når forskningsforespørselen er tildelt, velg \'rediger samling\' for å legge forskningsforespørselen til \'Standard samling\'-panelet. Ved å bruke standardverktøyene er det da mulig å legge til ressurser til forskningen. <br /><br />Når forskningen er fullført, velg \'rediger forskning\', endre status til fullført og en e-post sendes automatisk til brukeren som ba om forskningen. E-posten inneholder en lenke til forskningen og den legges også automatisk til deres \'Standard samling\'-panel.';
 $lang['dash'] = 'Dashbord';
 $lang['upgrade_script'] = 'Oppgraderingsskript';

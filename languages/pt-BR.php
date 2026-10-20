@@ -675,7 +675,7 @@ $lang['property-order_by'] = 'Ordenar por';
 $lang['property-indexing'] = 'Indexação';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Se você habilitar a indexação abaixo e o campo já contiver dados, será necessário <a target=_blank href=../tools/reindex_field.php?field=%ref>reindexar este campo</a>.';
 $lang['property-index_this_field'] = 'Indexar este campo';
-$lang['information_index_warning'] = 'Por favor, consulte a <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Base de Conhecimento</a> para obter informações detalhadas sobre a indexação de campos.';
+$lang['information_index_warning'] = 'Por favor, consulte a <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Base de Conhecimento</a> para obter informações detalhadas sobre a indexação de campos.';
 $lang['property-enable_partial_indexing'] = 'Habilitar indexação parcial';
 $lang['information-shorthand_name'] = 'Importante: O nome abreviado deve ser definido para que o campo apareça na barra de pesquisa, na pesquisa avançada ou para ser usado em filtros de pesquisa/edição. Ele deve conter apenas caracteres alfabéticos minúsculos e/ou números - sem espaços ou símbolos.';
 $lang['property-shorthand_name'] = 'Nome abreviado';
@@ -1125,7 +1125,7 @@ $lang['setup-successheader'] = 'Parabéns!';
 $lang['setup-successdetails'] = 'Sua configuração inicial do ResourceSpace está completa. Certifique-se de verificar \'include/config.default.php\' para mais opções de configuração.';
 $lang['setup-successnextsteps'] = 'Próximos passos:';
 $lang['setup-successremovewrite'] = 'Agora você pode remover o acesso de escrita para \'include/\'.';
-$lang['setup-visitwiki'] = 'Visite a <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">Base de Conhecimento do ResourceSpace</a> para obter mais informações sobre personalização da sua instalação.';
+$lang['setup-visitwiki'] = 'Visite a <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Base de Conhecimento do ResourceSpace</a> para obter mais informações sobre personalização da sua instalação.';
 $lang['php-config-file'] = 'Configuração PHP: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Acesso de escrita ao diretório de configuração:';
 $lang['setup-checkstoragewrite'] = 'Acesso de escrita ao diretório de armazenamento:';
@@ -1861,7 +1861,7 @@ $lang['download_limit_request_text'] = 'Limite de download atingido: [downloaded
 $lang['page-title_user_group_management_edit'] = 'Editar grupo de usuários';
 $lang['page-subtitle_user_group_management_edit'] = 'Use esta seção para modificar as propriedades do grupo de usuários.';
 $lang['action-title_remove_user_group_logo'] = 'Marque para remover o logotipo do grupo de usuários';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Por favor, consulte a <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Base de Conhecimento</a> para obter ajuda adicional com as opções avançadas.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Por favor, consulte a <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Base de Conhecimento</a> para obter ajuda adicional com as opções avançadas.';
 $lang['page-title_web_edit'] = 'Editar arquivo';
 $lang['page-subtitle_web_edit'] = 'Use esta seção para editar arquivos diretamente - use com cautela.';
 $lang['page-title_user_group_permissions_edit'] = 'Editar permissões do grupo de usuários';
@@ -1942,7 +1942,7 @@ $lang['action-move-down'] = 'Mover para baixo';
 $lang['action-move-to'] = 'Mover para';
 $lang['delete_user_group_checkbox_alert_message'] = 'Por favor, observe que esta ação também irá excluir todo o conteúdo de texto que era relevante para este grupo de usuários. Há [recordscount] registros encontrados em Gerenciar Conteúdo';
 $lang['about__about'] = 'Seu texto sobre vai aqui.';
-$lang['all__footer'] = 'Desenvolvido por <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Desenvolvido por <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Deixe nossa equipe de recursos encontrar os recursos que você precisa.';
 $lang['change_language__introtext'] = 'Por favor, selecione seu idioma abaixo.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Incorporar metadados do recurso no(s) arquivo(s) baixado(s)? Habilitar isso irá diminuir a velocidade do download.';
@@ -2360,7 +2360,7 @@ $lang['iiif_disabled'] = 'IIIF não está configurado';
 $lang['property-personal_data'] = 'Pode conter dados pessoais';
 $lang['api-test-tool'] = 'Ferramenta de teste de API';
 $lang['api-function'] = 'Função de API';
-$lang['api-help'] = 'Por favor, consulte a <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">documentação da API</a> para obter detalhes sobre as funções. <strong>Cuidado - quaisquer comandos que você inserir serão executados usando seus dados ao vivo.</strong>';
+$lang['api-help'] = 'Por favor, consulte a <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">documentação da API</a> para obter detalhes sobre as funções. <strong>Cuidado - quaisquer comandos que você inserir serão executados usando seus dados ao vivo.</strong>';
 $lang['api-view-documentation'] = 'Visualizar documentação';
 $lang['api-php-code'] = 'Código PHP';
 $lang['api-php-help'] = 'Cole o texto abaixo no sistema remoto para chamar a função da API inserida com os parâmetros fornecidos.';
@@ -2668,7 +2668,7 @@ $lang['all__emailresourcerequest'] = '[lang_username] : [username] <br />
 [details]<br /><br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['themes__manage'] = 'Organize e edite as coleções em destaque disponíveis online. Coleções em destaque são coleções especialmente promovidas. <br /><br /> <strong>1 Para criar uma nova entrada em uma Coleção em Destaque - crie uma coleção</strong><br /> Escolha <strong>Minhas Coleções</strong> no menu principal superior e configure uma nova coleção <strong>pública</strong>. Lembre-se de incluir um nome de coleção em destaque durante a configuração. Use um nome de coleção em destaque existente para agrupar a coleção sob uma coleção em destaque atual (certifique-se de digitá-lo exatamente igual) ou escolha um novo título para criar uma nova coleção em destaque. Nunca permita que os usuários adicionem/removam recursos das coleções em destaque. <br /> <br /><strong>2 Para editar o conteúdo de uma entrada existente em uma coleção em destaque</strong><br /> Escolha <strong>editar coleção</strong>. Os itens dessa coleção aparecerão no painel <strong>Minhas Coleções</strong> na parte inferior da tela. Use as ferramentas padrão para editar, remover ou adicionar recursos. <br /> <br /><strong>3 Para alterar o nome de uma coleção em destaque ou mover uma coleção para aparecer sob uma coleção em destaque diferente</strong><br /> Escolha <strong>editar propriedades</strong> e edite a categoria da coleção em destaque ou o nome da coleção. Use um nome de coleção em destaque existente para agrupar a coleção sob uma coleção em destaque atual (certifique-se de digitá-lo exatamente igual) ou escolha um novo título para criar uma nova coleção em destaque. <br /> <br /><strong>4 Para remover uma coleção de uma coleção em destaque</strong><br /> Escolha <strong>editar propriedades</strong> e apague as palavras na caixa de categoria da coleção em destaque.';
 $lang['upgrade_script'] = 'Script de atualização';
 $lang['upgrade_026_notification'] = 'A atualização descontinuou algumas opções de configuração que seu %entity% está substituindo.

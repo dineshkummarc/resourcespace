@@ -1036,7 +1036,7 @@ $lang['setup-successheader'] = 'Blahoželáme!';
 $lang['setup-successdetails'] = 'Vaše počiatočné nastavenie ResourceSpace je dokončené. Nezabudnite sa pozrieť na \'include/default.config.php\', kde nájdete ďalšie možnosti konfigurácie.';
 $lang['setup-successnextsteps'] = 'Ďalšie kroky:';
 $lang['setup-successremovewrite'] = 'Teraz môžete odstrániť právo na zápis do priečinka „include/“.';
-$lang['setup-visitwiki'] = 'Navštívte <a target="_blank" href="https://www.resourcespace.com/knowledge-base/"> znalostnú základňu ResourceSpace </a> pre ďalšie informácie o prispôsobení inštalácie.';
+$lang['setup-visitwiki'] = 'Navštívte <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/"> znalostnú základňu ResourceSpace </a> pre ďalšie informácie o prispôsobení inštalácie.';
 $lang['php-config-file'] = 'PHP konfiguračný súbor: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Prístup na zápis do konfiguračného adresára:';
 $lang['setup-checkstoragewrite'] = 'Prístup na zápis do adresára úložiska zdrojov znalostí:';
@@ -1779,7 +1779,7 @@ $lang['all__comments_flag_notification_email_body'] = '';
 $lang['all__comments_flag_notification_email_subject'] = '';
 $lang['all__comments_policy'] = '';
 $lang['all__comments_removal_message'] = '';
-$lang['all__footer'] = 'Powered by <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Powered by <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Nechajte náš tím nájsť pre Vás potrebné zdroje.';
 $lang['change_language__introtext'] = 'Nižšie si zvoľte jazyk, prosím .';
 $lang['collection_download__write_metadata_on_download_label'] = 'Chcete do sťahovaných súborov vložiť metadáta zdrojov? Aktiváciou tejto voľby, môže dôjsť k spomaleniu sťahovania.';
@@ -2177,7 +2177,7 @@ $lang['iiif_disabled'] = 'IIIF nie je nakonfigurované';
 $lang['property-personal_data'] = 'Môže obsahovať osobné údaje';
 $lang['api-test-tool'] = 'Testovací nástroj API';
 $lang['api-function'] = 'Funkcia API';
-$lang['api-help'] = 'Prosím pozrite si <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">dokumentáciu API</a> pre detaily použitia. Buďte opatrní - zadané príkazy môžu ovplyvniť Vaše dáta';
+$lang['api-help'] = 'Prosím pozrite si <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">dokumentáciu API</a> pre detaily použitia. Buďte opatrní - zadané príkazy môžu ovplyvniť Vaše dáta';
 $lang['api-view-documentation'] = 'Zobraziť dokumentáciu';
 $lang['api-php-code'] = 'PHP kód';
 $lang['api-php-help'] = 'Vložte nižšie uvedené, do vzdialeného systému, pre zavolanie zadanej funkcie API s poskytnutými parametrami.';
@@ -2387,7 +2387,7 @@ $lang['intro-plupload_external_share'] = 'Pomocou tejto stránky nahrajte Vase s
 $lang['imagesize-largest'] = 'Največja razpoložljiva';
 $lang['property-support_non_correlated_sql'] = 'Podpora výsledkov vyhľadávania';
 $lang['icon_picker_placeholder'] = 'Napíšte pre filtrovanie';
-$lang['information_index_warning'] = 'Prosím, pozrite si <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Bázu znalostí</a> pre podrobné informácie o indexovaní polí.';
+$lang['information_index_warning'] = 'Prosím, pozrite si <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Bázu znalostí</a> pre podrobné informácie o indexovaní polí.';
 $lang['property-field_full_width'] = 'Zobraziť na celej šírke na stránke zobrazenia';
 $lang['property-system_date_help_text'] = 'Nie je možné toto vypnúť, pretože toto pole je nastavené ako systémové pole dátumu. Môžete to zmeniť pomocou konfigurácie alebo požiadania administrátora';
 $lang['property-icon'] = 'Ikona';
@@ -2556,7 +2556,7 @@ $lang['upload_complete_processing'] = 'Nahrávanie súboru dokončené. Spracov�
 $lang['upload_finished_processing'] = 'Dokončené spracovanie. Súbory: %COUNT%. Chyby: %ERRORS%';
 $lang['collection_download'] = 'Stiahnutie zbierky';
 $lang['selected_items_disk_usage'] = 'Využitý diskový priestor vybranými';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Prosím, pre ďalšiu pomoc s pokročilými možnosťami sa odkážte na <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Knowledge Base</a>.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Prosím, pre ďalšiu pomoc s pokročilými možnosťami sa odkážte na <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Knowledge Base</a>.';
 $lang['report_query_required'] = 'Vyžaduje sa dotaz na správu';
 $lang['admin_delete_field_error_scopes'] = 'Nemožno vymazať pole. Prosím, kontaktujte svojho systémového administrátora. Toto pole sa stále používa v týchto rozsahoch:';
 $lang['admin_resource_type_field_reorder_select_enable_reordering'] = 'Vyberte možnosť "Zobraziť v poradí zobrazenia" pre povolenie zmeny poradia zobrazenia';
@@ -2707,7 +2707,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['upgrade_script'] = 'Skript za nadgradnjo';
 $lang['upgrade_026_notification'] = 'Aktualizacija je zastarala nekatere možnosti konfiguracije, ki jih vaš %entity% prepisuje.
 

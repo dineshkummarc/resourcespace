@@ -117,7 +117,7 @@ $lang['property-order_by'] = 'Trefnu gan';
 $lang['property-indexing'] = '<b>Indexio</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Os ydych yn galluogi indexio isod ac mae\'r maes eisoes yn cynnwys data, bydd angen i chi <a target=_blank href=../tools/reindex_field.php?field=%ref>ail-gatalogio\'r maes hwn</a>.';
 $lang['property-index_this_field'] = 'Indexiwch y maes hwn';
-$lang['information_index_warning'] = 'Os gwelwch yn dda cyfeirwch at y <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Sefydliad Gwybodaeth</a> am wybodaeth fanwl ar ddynodi meysydd.';
+$lang['information_index_warning'] = 'Os gwelwch yn dda cyfeirwch at y <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Sefydliad Gwybodaeth</a> am wybodaeth fanwl ar ddynodi meysydd.';
 $lang['information-enable_partial_indexing'] = 'Dylid defnyddio indexio geiriau allweddol rhannol (indexio rhagddodiad + mewnosod) yn fras gan y bydd yn cynyddu maint yr index yn sylweddol. Gweler y Gronfa Gwybodaeth am fanylion. Mae\'r opsiwn hwn yn anaddas ar gyfer indexio cyflawn.';
 $lang['property-enable_partial_indexing'] = 'Galluogi indexio rhannol';
 $lang['information-enable_complete_indexing'] = 'Cofrestrwch werthoedd maes fel un allwedd ddi-dor ar gyfer y maes hwn. Mae\'r opsiwn hwn yn anaddas ar gyfer rhannol gofrestru.';
@@ -1116,7 +1116,7 @@ $lang['setup-successheader'] = 'Llongyfarchiadau!';
 $lang['setup-successdetails'] = 'Mae eich gosodiad cychwynnol ResourceSpace wedi\'i gwblhau. Gwnewch yn siŵr i edrych ar \'include/config.default.php\' am ragor o opsiynau gosod.';
 $lang['setup-successnextsteps'] = 'Camau nesaf:';
 $lang['setup-successremovewrite'] = 'Gallwch nawr ddileu mynediad ysgrifennu i \'include/\'.';
-$lang['setup-visitwiki'] = 'Ewch i\'r <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">Sefydliad Gwybodaeth ResourceSpace</a> am ragor o wybodaeth am addasu eich gosodiad.';
+$lang['setup-visitwiki'] = 'Ewch i\'r <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Sefydliad Gwybodaeth ResourceSpace</a> am ragor o wybodaeth am addasu eich gosodiad.';
 $lang['setup-checkconfigwrite'] = 'Amodau ysgrifennu i\'r cyfeiriadur config:';
 $lang['setup-checkstoragewrite'] = 'Awdurdod ysgrifennu i\'r cyfeiriadur storio:';
 $lang['setup-welcome'] = 'Croeso i ResourceSpace';
@@ -1872,7 +1872,7 @@ $lang['download_limit_request_text'] = 'Cyrhaeddwyd y terfyn lawrlwytho: [downlo
 $lang['page-title_user_group_management_edit'] = 'Golygu grŵp defnyddiwr';
 $lang['page-subtitle_user_group_management_edit'] = 'Defnyddiwch y rhan hon i addasu priodweddau grŵp defnyddiwr.';
 $lang['action-title_remove_user_group_logo'] = 'Ticiwch i ddileu logo grŵp defnyddiwr';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Os gwelwch yn dda cyfeiriwch at y <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Sefydliad Gwybodaeth</a> am gymorth pellach gyda\'r opsiynau Uwch.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Os gwelwch yn dda cyfeiriwch at y <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Sefydliad Gwybodaeth</a> am gymorth pellach gyda\'r opsiynau Uwch.';
 $lang['page-title_web_edit'] = 'Golygu ffeil';
 $lang['page-subtitle_web_edit'] = 'Defnyddiwch y rhan hon i olygu ffeiliau yn uniongyrchol - defnyddiwch gyda chofrestr.';
 $lang['page-title_user_group_permissions_edit'] = 'Golygu caniatadau grŵp defnyddiwr';
@@ -1965,7 +1965,7 @@ Mae [lang_haspostedresearchrequest]
 <a href="[url]">[url]</a>  
 <a href="[teamresearchurl]">[teamresearchurl]</a>  
 [text_footer]';
-$lang['all__footer'] = 'Wedi\'i bweru gan <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Wedi\'i bweru gan <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Gadewch i\'n tîm adnoddau ddod o hyd i\'r adnoddau sydd eu hangen arnoch.';
 $lang['change_language__introtext'] = 'Dewiswch eich iaith isod.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Ydych chi\'n siŵr eich bod am gynnwys metadata\'r adnodd yn y ffeil(iau) a lawrlwythwyd? Bydd galluogi hyn yn arafu eich lawrlwythiad.';
@@ -2415,7 +2415,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Efallai\'n cynnwys data personol';
 $lang['api-test-tool'] = 'offeryn prawf API';
 $lang['api-function'] = 'gweithrediad API';
-$lang['api-help'] = 'Os gwelwch yn dda cyfeirier at y <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">dokumentiaeth API</a> am fanylion y swyddogaethau. <strong>Byddwch yn ofalus - bydd unrhyw orchmynion a roddwch yn cael eu gweithredu gan ddefnyddio eich data byw.</strong>';
+$lang['api-help'] = 'Os gwelwch yn dda cyfeirier at y <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">dokumentiaeth API</a> am fanylion y swyddogaethau. <strong>Byddwch yn ofalus - bydd unrhyw orchmynion a roddwch yn cael eu gweithredu gan ddefnyddio eich data byw.</strong>';
 $lang['api-view-documentation'] = 'Gweld dogfennaeth';
 $lang['api-php-help'] = 'Defnyddiwch y cod PHP isod ar system bell i alw\'r swyddogaeth API a gofrestrwyd gyda\'r paramedrau a ddarparwyd.';
 $lang['api-curl-example'] = 'cURL enghraifft';
@@ -2746,7 +2746,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['all__passwordnewemailhtml'] = '[img_headerlogo][welcome]<br/><br/>Cliciwch ar y ddolen isod i osod cyfrinair newydd ar gyfer eich cyfrif.<br/><br/><a href="[url]" target="_blank" >[url]</a><br/><br/>Eich enw defnyddiwr newydd: [username]<br/><br/>[text_footer]';
 $lang['cpu_benchmark'] = 'meincnod CPU';
 $lang['report_breakdown_pie'] = 'Dadansoddiad pastai';

@@ -755,7 +755,7 @@ $lang['property-order_by'] = '並び替える (Binikaeru)';
 $lang['property-indexing'] = 'インデックス作成';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = '以下のインデックス化を有効にし、フィールドにすでにデータが含まれている場合は、<a target=_blank href=../tools/reindex_field.php?field=%ref>このフィールドを再インデックスする必要があります</a>。';
 $lang['property-index_this_field'] = 'このフィールドをインデックス化する。';
-$lang['information_index_warning'] = 'フィールドインデックスに関する詳細情報については、<a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>ナレッジベース</a>を参照してください。';
+$lang['information_index_warning'] = 'フィールドインデックスに関する詳細情報については、<a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>ナレッジベース</a>を参照してください。';
 $lang['information-enable_partial_indexing'] = '部分キーワードインデックス（プレフィックス+インフィックスインデックス）は、インデックスサイズを大幅に増加させるため、節度を持って使用する必要があります。詳細については、ナレッジベースを参照してください。';
 $lang['property-enable_partial_indexing'] = '部分的なインデックス作成を有効にする';
 $lang['information-shorthand_name'] = '重要: 検索バーにフィールドが表示されるようにするには、略称が設定されている必要があります。高度な検索や検索/編集フィルターで使用する場合も同様です。略称には、小文字のアルファベットと/または数字のみを含める必要があります。スペースや記号は使用できません。';
@@ -1899,7 +1899,7 @@ $lang['download_limit_request_text'] = 'ダウンロード制限に達しまし�
 $lang['page-title_user_group_management_edit'] = 'ユーザーグループの編集';
 $lang['page-subtitle_user_group_management_edit'] = 'このセクションを使用して、ユーザーグループのプロパティを変更してください。';
 $lang['action-title_remove_user_group_logo'] = 'ユーザーグループのロゴを削除するにはチェックしてください。';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = '高度なオプションに関する詳細なヘルプについては、<a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>ナレッジベース</a>を参照してください。';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = '高度なオプションに関する詳細なヘルプについては、<a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>ナレッジベース</a>を参照してください。';
 $lang['page-title_web_edit'] = 'ファイルを編集する';
 $lang['page-subtitle_web_edit'] = 'このセクションを使用してファイルを直接編集してください。注意して使用してください。';
 $lang['page-title_user_group_permissions_edit'] = 'ユーザーグループの権限を編集する。';
@@ -1979,7 +1979,7 @@ $lang['action-move-up'] = '上に移動する';
 $lang['action-move-down'] = '下に移動する';
 $lang['action-move-to'] = '移動する';
 $lang['delete_user_group_checkbox_alert_message'] = 'このアクションを実行すると、このユーザーグループに関連するすべてのコンテンツテキストも削除されることに注意してください。 管理コンテンツで[recordscount]件のレコードが見つかりました。';
-$lang['all__footer'] = 'Powered by <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace オープンソース デジタルアセット管理</a>';
+$lang['all__footer'] = 'Powered by <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace オープンソース デジタルアセット管理</a>';
 $lang['collection_download__write_metadata_on_download_label'] = 'ダウンロードされたファイルにリソースのメタデータを埋め込みますか？これを有効にすると、ダウンロードが遅くなります。';
 $lang['collection_email__introtextthemeshare'] = '以下のフォームに記入して、この特集コレクションカテゴリー内の特集コレクションをメールで送信してください。受信者は、各特集コレクションへのリンクが含まれたメールを受け取ります。';
 $lang['downloadfile_nofile'] = '要求されたファイルが見つかりませんでした。';
@@ -2351,7 +2351,7 @@ $lang['iiif_disabled'] = 'IIIFは設定されていません。';
 $lang['property-personal_data'] = '個人データを含む可能性があります。';
 $lang['api-test-tool'] = 'APIテストツール';
 $lang['api-function'] = 'API機能';
-$lang['api-help'] = '<a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">APIドキュメント</a>を参照して、関数の詳細を確認してください。 <strong>注意してください - 入力したコマンドはライブデータを使用して実行されます。</strong>';
+$lang['api-help'] = '<a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">APIドキュメント</a>を参照して、関数の詳細を確認してください。 <strong>注意してください - 入力したコマンドはライブデータを使用して実行されます。</strong>';
 $lang['api-view-documentation'] = 'ドキュメンテーションを表示する';
 $lang['api-php-code'] = 'PHPコード';
 $lang['api-php-help'] = '以下をリモートシステムに貼り付けて、入力されたAPI関数を提供されたパラメータで呼び出してください。';
@@ -2697,7 +2697,7 @@ $lang['all__emailresourcerequest'] = '<br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>
 ';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['upgrade_script'] = 'アップグレードスクリプト';
 $lang['upgrade_026_notification'] = 'アップグレードにより、%entity%が上書きしているいくつかの設定オプションが廃止されました。
 

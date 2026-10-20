@@ -120,7 +120,7 @@ $lang['property-order_by'] = '排序依據';
 $lang['property-indexing'] = '<b>索引化<\\/b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = '如果啟用或停用索引化，且該欄位已包含資料，您將需要<a target=_blank href=..\\/tools\\/reindex_field.php?field=%ref>重新索引此欄位<\\/a>。';
 $lang['property-index_this_field'] = '索引此欄位';
-$lang['information_index_warning'] = '請參閱 <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>知識庫</a> 以獲取有關欄位索引的詳細資訊。';
+$lang['information_index_warning'] = '請參閱 <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>知識庫</a> 以獲取有關欄位索引的詳細資訊。';
 $lang['information-enable_partial_indexing'] = '應謹慎使用部分關鍵字索引（前綴+中綴索引），因為它會顯著增加索引大小。詳情請參閱知識庫。此選項與完整索引不兼容。';
 $lang['property-enable_partial_indexing'] = '啟用部分索引';
 $lang['information-enable_complete_indexing'] = '將欄位值作為一個完整的關鍵字進行索引。此選項與部分索引不兼容。';
@@ -2007,7 +2007,7 @@ $lang['page-title_user_group_management_edit'] = '編輯用戶群組';
 $lang['page-subtitle_user_group_management_edit'] = '使用此部分來修改用戶群組屬性。';
 $lang['action-title_remove_user_group_logo'] = '勾選以移除用戶群組標誌';
 $lang['action-title_remove_user_group_logo_dark'] = '勾選以移除用戶群組標誌 - 深色';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = '請參考 <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>知識庫</a> 以獲取進階選項的進一步協助。';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = '請參考 <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>知識庫</a> 以獲取進階選項的進一步協助。';
 $lang['page-title_web_edit'] = '編輯檔案';
 $lang['page-subtitle_web_edit'] = '使用此區域直接編輯檔案 - 請謹慎操作。';
 $lang['page-title_user_group_permissions_edit'] = '編輯使用者群組權限';
@@ -2259,7 +2259,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 <br />
 [text_footer]
 ';
-$lang['all__footer'] = '由 <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace 開源數位資產管理</a> 提供技術支援';
+$lang['all__footer'] = '由 <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace 開源數位資產管理</a> 提供技術支援';
 $lang['all__researchrequest'] = '讓我們的資源團隊幫您找到所需的資源。';
 $lang['change_language__introtext'] = '請在下方選擇您的語言。';
 $lang['collection_download__write_metadata_on_download_label'] = '在下載的檔案中嵌入資源元資料？啟用此功能會降低下載速度。';
@@ -2804,7 +2804,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = '可能包含個人資料';
 $lang['api-test-tool'] = 'API 測試工具';
 $lang['api-function'] = 'API 功能';
-$lang['api-help'] = '請參考 <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API 文件</a> 了解功能細節。<strong>請小心 - 您輸入的任何指令都將使用您的實時資料執行。</strong>';
+$lang['api-help'] = '請參考 <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API 文件</a> 了解功能細節。<strong>請小心 - 您輸入的任何指令都將使用您的實時資料執行。</strong>';
 $lang['api-view-documentation'] = '查看文件';
 $lang['api-php-code'] = 'PHP 代碼';
 $lang['api-php-help'] = '在遠端系統上使用以下 PHP 代碼，調用輸入的 API 功能並傳遞提供的參數。';

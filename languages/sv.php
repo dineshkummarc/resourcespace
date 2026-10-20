@@ -1402,7 +1402,7 @@ $lang['download_usage_option_blocked'] = 'Detta användningsalternativ är inte 
 $lang['tagcloudtext'] = 'Med vilken metadata har materialen taggats? Ju oftare en tagg har använts desto större storlek har den i molnet.<br /><br />Klicka på valfri tagg om du vill göra en sökning.';
 $lang['tagcloud'] = 'Taggmoln';
 $lang['about__about'] = 'Din egen text för ’Om oss’ …';
-$lang['all__footer'] = '<a target="_blank" href="https://www.resourcespace.com/">ResourceSpace</a>: Digital materialförvaltning (dam) med öppen källkod';
+$lang['all__footer'] = '<a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace</a>: Digital materialförvaltning (dam) med öppen källkod';
 $lang['all__researchrequest'] = 'Låt vårt team hitta materialen du är ute efter.';
 $lang['change_language__introtext'] = 'Välj ditt önskade språk nedan.';
 $lang['collection_edit__introtext'] = 'Organisera och hantera dina material genom att dela upp dem i samlingar.
@@ -1483,7 +1483,7 @@ $lang['property-field_constraint-singlekeyword'] = 'Enkelval';
 $lang['property-field_raw_edtf'] = 'Om ett datumintervall anges i EDTF-format, lagra rådata i detta fält';
 $lang['property-options_edit_link'] = 'Hantera alternativ';
 $lang['property-automatic_nodes_ordering_label'] = 'Automatisk beställning';
-$lang['information_index_warning'] = 'Vänligen hänvisa till <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Kunskapsbasen</a> för detaljerad information om fältindexering.';
+$lang['information_index_warning'] = 'Vänligen hänvisa till <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Kunskapsbasen</a> för detaljerad information om fältindexering.';
 $lang['property-field_full_width'] = 'Visa i full bredd på visningssidan';
 $lang['property-system_date_help_text'] = 'Det går inte att inaktivera detta eftersom fältet är inställt som systemets specifika datumfält. Du kan ändra detta via konfiguration eller genom att fråga en administratör';
 $lang['property-push_metadata'] = 'Tryck metadata';
@@ -1953,7 +1953,7 @@ $lang['download_limit_request_text'] = 'Nedladdningsgränsen har nåtts: [downlo
 $lang['page-title_user_group_management_edit'] = 'Redigera användargrupp';
 $lang['page-subtitle_user_group_management_edit'] = 'Använd den här sektionen för att ändra egenskaperna för användargruppen.';
 $lang['action-title_remove_user_group_logo'] = 'Kryssa för att ta bort logotypen för användargrupp';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Vänligen hänvisa till <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Kunskapsdatabasen</a> för ytterligare hjälp med avancerade alternativ.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Vänligen hänvisa till <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Kunskapsdatabasen</a> för ytterligare hjälp med avancerade alternativ.';
 $lang['page-title_web_edit'] = 'Redigera fil';
 $lang['page-subtitle_web_edit'] = 'Använd den här sektionen för att redigera filer direkt - använd med försiktighet.';
 $lang['page-title_user_group_permissions_edit'] = 'Redigera användargruppens behörigheter';
@@ -2397,7 +2397,7 @@ $lang['iiif_disabled'] = 'IIIF är inte konfigurerat';
 $lang['property-personal_data'] = 'Kan innehålla personuppgifter';
 $lang['api-test-tool'] = 'API testverktyg';
 $lang['api-function'] = 'API-funktion';
-$lang['api-help'] = 'Vänligen hänvisa till <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API-dokumentationen</a> för funktionsspecifika detaljer. <strong>Var försiktig - alla kommandon du anger kommer att utföras med din live-data.</strong>';
+$lang['api-help'] = 'Vänligen hänvisa till <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API-dokumentationen</a> för funktionsspecifika detaljer. <strong>Var försiktig - alla kommandon du anger kommer att utföras med din live-data.</strong>';
 $lang['api-view-documentation'] = 'Visa dokumentation';
 $lang['api-php-code'] = 'PHP-kod';
 $lang['api-php-help'] = 'Klistra in följande i det fjärran systemet för att anropa den angivna API-funktionen med de tillhandahållna parametrarna.';
@@ -2676,7 +2676,7 @@ $lang['all__emailresourcerequest'] = '<br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>
 ';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['externalshare_using_permissions_from_user_group'] = 'Om du skickar e-post till externa användare, vänligen välj användargruppen som ska användas för åtkomst';
 $lang['dash'] = 'Instrumentpanel';
 $lang['upgrade_script'] = 'Uppgraderingsskript';

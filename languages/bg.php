@@ -120,7 +120,7 @@ $lang['property-order_by'] = 'Подреждане по';
 $lang['property-indexing'] = '<b>Индексиране<\\/b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Ако активирате или деактивирате индексирането и полето вече съдържа данни, ще трябва да <a target=_blank href=..\\/tools\\/reindex_field.php?field=%ref>преиндексирате това поле<\\/a>.';
 $lang['property-index_this_field'] = 'Индексирай това поле';
-$lang['information_index_warning'] = 'Моля, консултирайте се с <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Базата знания</a> за подробна информация за индексирането на полета.';
+$lang['information_index_warning'] = 'Моля, консултирайте се с <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Базата знания</a> за подробна информация за индексирането на полета.';
 $lang['information-enable_partial_indexing'] = 'Частичното индексиране на ключови думи (префиксно + инфиксно индексиране) трябва да се използва пестеливо, тъй като значително ще увеличи размера на индекса. Вижте Базата знания за подробности. Тази опция е несъвместима с пълното индексиране.';
 $lang['property-enable_partial_indexing'] = 'Разреши частично индексиране';
 $lang['information-enable_complete_indexing'] = 'Индексира стойностите на полето като едно непрекъснато ключова дума за това поле. Тази опция е несъвместима с частичното индексиране.';
@@ -2007,7 +2007,7 @@ $lang['page-title_user_group_management_edit'] = 'Редактиране на г
 $lang['page-subtitle_user_group_management_edit'] = 'Използвайте този раздел, за да промените свойствата на групата потребители.';
 $lang['action-title_remove_user_group_logo'] = 'Отбележете, за да премахнете логото на групата потребители';
 $lang['action-title_remove_user_group_logo_dark'] = 'Отбележете, за да премахнете логото на групата потребители - Тъмно';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Моля, консултирайте се с <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Базата знания</a> за допълнителна помощ относно разширените опции.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Моля, консултирайте се с <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Базата знания</a> за допълнителна помощ относно разширените опции.';
 $lang['page-title_web_edit'] = 'Редактиране на файл';
 $lang['page-subtitle_web_edit'] = 'Използвайте този раздел за директно редактиране на файлове - използвайте с повишено внимание.';
 $lang['page-title_user_group_permissions_edit'] = 'Редактиране на разрешенията за потребителска група';
@@ -2271,7 +2271,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 <br />
 [text_footer]
 ';
-$lang['all__footer'] = 'Задвижвано от <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Отворен код за управление на дигитални активи</a>';
+$lang['all__footer'] = 'Задвижвано от <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Отворен код за управление на дигитални активи</a>';
 $lang['all__researchrequest'] = 'Нека нашият екип за ресурси намери необходимите ви ресурси.';
 $lang['change_language__introtext'] = 'Моля, изберете езика си по-долу.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Вградете метаданните на ресурса във файла(ите), който/които изтегляте? Активирането на тази опция ще забави изтеглянето ви.';
@@ -2816,7 +2816,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Може да съдържа лични данни';
 $lang['api-test-tool'] = 'Инструмент за тест на API';
 $lang['api-function'] = 'Функция на API';
-$lang['api-help'] = 'Моля, консултирайте се с <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">документацията за API</a> за конкретика на функциите. <strong>Бъдете внимателни - всички команди, които въведете, ще бъдат изпълнени с вашите реални данни.</strong>';
+$lang['api-help'] = 'Моля, консултирайте се с <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">документацията за API</a> за конкретика на функциите. <strong>Бъдете внимателни - всички команди, които въведете, ще бъдат изпълнени с вашите реални данни.</strong>';
 $lang['api-view-documentation'] = 'Виж документацията';
 $lang['api-php-code'] = 'PHP код';
 $lang['api-php-help'] = 'Използвайте кода PHP по-долу на отдалечена система, за да извикате въведената API функция с предоставените параметри.';

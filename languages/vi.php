@@ -117,7 +117,7 @@ $lang['property-order_by'] = 'Sắp xếp theo';
 $lang['property-indexing'] = '<b>Chỉ mục</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Nếu bạn kích hoạt lập chỉ mục bên dưới và trường đã chứa dữ liệu, bạn sẽ cần phải <a target=_blank href=../tools/reindex_field.php?field=%ref>lập chỉ mục lại trường này</a>.';
 $lang['property-index_this_field'] = 'Lập chỉ mục trường này';
-$lang['information_index_warning'] = 'Vui lòng tham khảo <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Cơ sở tri thức</a> để biết thông tin chi tiết về việc lập chỉ mục trường.';
+$lang['information_index_warning'] = 'Vui lòng tham khảo <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Cơ sở tri thức</a> để biết thông tin chi tiết về việc lập chỉ mục trường.';
 $lang['information-enable_partial_indexing'] = 'Việc lập chỉ mục từ khóa một phần (lập chỉ mục tiền tố + lập chỉ mục trung tố) nên được sử dụng một cách tiết kiệm vì nó sẽ làm tăng đáng kể kích thước chỉ mục. Xem Cơ sở Kiến thức để biết chi tiết. Tùy chọn này không tương thích với lập chỉ mục hoàn chỉnh.';
 $lang['property-enable_partial_indexing'] = 'Bật lập chỉ mục một phần';
 $lang['information-enable_complete_indexing'] = 'Chỉ mục giá trị trường như một từ khóa không bị ngắt quãng cho trường này. Tùy chọn này không tương thích với việc lập chỉ mục một phần.';
@@ -1116,7 +1116,7 @@ $lang['setup-successheader'] = 'Chúc mừng!';
 $lang['setup-successdetails'] = 'Cài đặt ResourceSpace ban đầu của bạn đã hoàn tất. Hãy chắc chắn kiểm tra \'include/config.default.php\' để biết thêm tùy chọn cấu hình.';
 $lang['setup-successnextsteps'] = 'Các bước tiếp theo:';
 $lang['setup-successremovewrite'] = 'Bạn bây giờ có thể xóa quyền ghi đối với \'include/\'.';
-$lang['setup-visitwiki'] = 'Hãy truy cập <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">Cơ sở tri thức ResourceSpace</a> để biết thêm thông tin về việc tùy chỉnh cài đặt của bạn.';
+$lang['setup-visitwiki'] = 'Hãy truy cập <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Cơ sở tri thức ResourceSpace</a> để biết thêm thông tin về việc tùy chỉnh cài đặt của bạn.';
 $lang['setup-checkconfigwrite'] = 'Quyền ghi vào thư mục cấu hình';
 $lang['setup-checkstoragewrite'] = 'Quyền ghi vào thư mục lưu trữ:';
 $lang['setup-welcome'] = 'Chào mừng bạn đến với ResourceSpace';
@@ -1922,7 +1922,7 @@ $lang['download_limit_request_text'] = 'Đã đạt giới hạn tải xuống: 
 $lang['page-title_user_group_management_edit'] = 'Chỉnh sửa nhóm người dùng';
 $lang['page-subtitle_user_group_management_edit'] = 'Sử dụng phần này để chỉnh sửa thuộc tính nhóm người dùng.';
 $lang['action-title_remove_user_group_logo'] = 'Đánh dấu để xóa logo nhóm người dùng';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Vui lòng tham khảo <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Cơ sở tri thức</a> để biết thêm trợ giúp về các tùy chọn nâng cao.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Vui lòng tham khảo <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Cơ sở tri thức</a> để biết thêm trợ giúp về các tùy chọn nâng cao.';
 $lang['page-title_web_edit'] = 'Chỉnh sửa tệp';
 $lang['page-subtitle_web_edit'] = 'Sử dụng phần này để chỉnh sửa trực tiếp các tệp - sử dụng cẩn thận.';
 $lang['page-title_user_group_permissions_edit'] = 'Chỉnh sửa quyền nhóm người dùng';
@@ -2028,7 +2028,7 @@ $lang['all__emailresearchrequestcomplete'] = 'Vui lòng dịch: <br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Được cung cấp bởi <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Được cung cấp bởi <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Hãy để đội ngũ tài nguyên của chúng tôi tìm những tài nguyên bạn cần.';
 $lang['change_language__introtext'] = 'Vui lòng chọn ngôn ngữ của bạn bên dưới.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Nhúng siêu dữ liệu tài nguyên vào tệp tin đã tải xuống? Bật tùy chọn này sẽ làm chậm quá trình tải xuống của bạn.';
@@ -2058,7 +2058,7 @@ $lang['download_click__introtext'] = 'Để tải xuống tệp tài nguyên, h�
 $lang['download_progress__introtext'] = 'Tải xuống của bạn sẽ bắt đầu ngay. Khi tải xuống hoàn tất, hãy sử dụng các liên kết bên dưới để tiếp tục.';
 $lang['downloadfile_nofile'] = 'Tệp tin được yêu cầu không được tìm thấy';
 $lang['edit__multiple'] = 'Vui lòng chọn các trường mà bạn muốn ghi đè. Các trường bạn không chọn sẽ được giữ nguyên.';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['home__restrictedtext'] = 'Vui lòng nhấp vào liên kết mà bạn đã nhận qua email để truy cập các tài nguyên đã được chọn cho bạn.';
 $lang['home__restrictedtitle'] = 'Chào mừng bạn đến với ResourceSpace [ver]';
 $lang['home__welcometitle'] = 'Chào mừng bạn đến với ResourceSpace [ver]';
@@ -2483,7 +2483,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Có thể chứa dữ liệu cá nhân';
 $lang['api-test-tool'] = 'Công cụ kiểm tra API';
 $lang['api-function'] = 'Chức năng API';
-$lang['api-help'] = 'Vui lòng tham khảo <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">tài liệu API</a> để biết chi tiết về chức năng. <strong>Hãy cẩn thận - bất kỳ lệnh nào bạn nhập sẽ được thực thi bằng dữ liệu trực tiếp của bạn.</strong>';
+$lang['api-help'] = 'Vui lòng tham khảo <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">tài liệu API</a> để biết chi tiết về chức năng. <strong>Hãy cẩn thận - bất kỳ lệnh nào bạn nhập sẽ được thực thi bằng dữ liệu trực tiếp của bạn.</strong>';
 $lang['api-view-documentation'] = 'Xem tài liệu';
 $lang['api-php-code'] = 'PHP code';
 $lang['api-php-help'] = 'Sử dụng mã PHP bên dưới trên hệ thống từ xa để gọi hàm API đã nhập với các tham số được cung cấp.';

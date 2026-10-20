@@ -117,7 +117,7 @@ $lang['property-order_by'] = 'เรียงตาม';
 $lang['property-indexing'] = '<b>การจัดทำดัชนี</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'หากคุณเปิดใช้งานการจัดทำดัชนีด้านล่างและฟิลด์นั้นมีข้อมูลอยู่แล้ว คุณจะต้อง <a target=_blank href=../tools/reindex_field.php?field=%ref>จัดทำดัชนีฟิลด์นี้ใหม่</a>';
 $lang['property-index_this_field'] = 'จัดทำดัชนีฟิลด์นี้';
-$lang['information_index_warning'] = 'โปรดดูที่ <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>ฐานความรู้</a> สำหรับข้อมูลรายละเอียดเกี่ยวกับการจัดทำดัชนีฟิลด์';
+$lang['information_index_warning'] = 'โปรดดูที่ <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>ฐานความรู้</a> สำหรับข้อมูลรายละเอียดเกี่ยวกับการจัดทำดัชนีฟิลด์';
 $lang['information-enable_partial_indexing'] = 'การทำดัชนีคำบางส่วน (การทำดัชนีแบบ prefix+infix) ควรใช้ด้วยความระมัดระวังเนื่องจากจะทำให้ขนาดดัชนีเพิ่มขึ้นอย่างมาก ดูรายละเอียดได้ที่ Knowledge Base ตัวเลือกนี้ไม่สามารถใช้ร่วมกับการทำดัชนีแบบสมบูรณ์ได้';
 $lang['property-enable_partial_indexing'] = 'เปิดใช้งานการจัดทำดัชนีบางส่วน';
 $lang['information-enable_complete_indexing'] = 'จัดทำดัชนีค่าฟิลด์เป็นคำหลักที่ไม่ขาดตอนสำหรับฟิลด์นี้ ตัวเลือกนี้ไม่สามารถใช้ร่วมกับการจัดทำดัชนีบางส่วนได้';
@@ -1120,7 +1120,7 @@ $lang['setup-successheader'] = 'ขอแสดงความยินดี!';
 $lang['setup-successdetails'] = 'การตั้งค่า ResourceSpace เบื้องต้นของคุณเสร็จสมบูรณ์แล้ว อย่าลืมตรวจสอบ \'include/config.default.php\' เพื่อดูตัวเลือกการตั้งค่าเพิ่มเติม';
 $lang['setup-successnextsteps'] = 'ขั้นตอนถัดไป:';
 $lang['setup-successremovewrite'] = 'คุณสามารถลบการเข้าถึงการเขียนไปยัง \'include/\' ได้แล้ว';
-$lang['setup-visitwiki'] = 'เยี่ยมชม <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ฐานข้อมูลความรู้ของ ResourceSpace</a> เพื่อข้อมูลเพิ่มเติมเกี่ยวกับการปรับแต่งการติดตั้งของคุณ';
+$lang['setup-visitwiki'] = 'เยี่ยมชม <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ฐานข้อมูลความรู้ของ ResourceSpace</a> เพื่อข้อมูลเพิ่มเติมเกี่ยวกับการปรับแต่งการติดตั้งของคุณ';
 $lang['setup-checkconfigwrite'] = 'การเข้าถึงการเขียนไปยังไดเรกทอรีการกำหนดค่า';
 $lang['setup-checkstoragewrite'] = 'การเข้าถึงการเขียนไปยังไดเรกทอรีการจัดเก็บ:';
 $lang['setup-welcome'] = 'ยินดีต้อนรับสู่ ResourceSpace';
@@ -1883,7 +1883,7 @@ $lang['download_limit_request_text'] = 'ถึงขีดจำกัดกา�
 $lang['page-title_user_group_management_edit'] = 'แก้ไขกลุ่มผู้ใช้';
 $lang['page-subtitle_user_group_management_edit'] = 'ใช้ส่วนนี้เพื่อปรับเปลี่ยนคุณสมบัติของกลุ่มผู้ใช้';
 $lang['action-title_remove_user_group_logo'] = 'ติ๊กเพื่อลบโลโก้กลุ่มผู้ใช้';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'โปรดดูที่ <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>ฐานความรู้</a> สำหรับความช่วยเหลือเพิ่มเติมเกี่ยวกับตัวเลือกขั้นสูง';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'โปรดดูที่ <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>ฐานความรู้</a> สำหรับความช่วยเหลือเพิ่มเติมเกี่ยวกับตัวเลือกขั้นสูง';
 $lang['page-title_web_edit'] = 'แก้ไขไฟล์';
 $lang['page-subtitle_web_edit'] = 'ใช้ส่วนนี้เพื่อแก้ไขไฟล์โดยตรง - ใช้ด้วยความระมัดระวัง';
 $lang['page-title_user_group_permissions_edit'] = 'แก้ไขสิทธิ์กลุ่มผู้ใช้';
@@ -1975,7 +1975,7 @@ $lang['all__emailnewresearchrequestwaiting'] = '[username] ([userfullname] - [us
 <a href="[url]">[url]</a>  
 <a href="[teamresearchurl]">[teamresearchurl]</a>  
 [text_footer]';
-$lang['all__footer'] = 'ขับเคลื่อนโดย <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'ขับเคลื่อนโดย <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'ให้ทีมทรัพยากรของเราค้นหาทรัพยากรที่คุณต้องการ';
 $lang['change_language__introtext'] = 'กรุณาเลือกภาษาของคุณด้านล่าง';
 $lang['collection_download__write_metadata_on_download_label'] = 'ฝังข้อมูลเมตาของทรัพยากรในไฟล์ที่ดาวน์โหลดหรือไม่? การเปิดใช้งานนี้จะทำให้การดาวน์โหลดของคุณช้าลง';
@@ -2428,7 +2428,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'อาจมีข้อมูลส่วนบุคคล';
 $lang['api-test-tool'] = 'เครื่องมือทดสอบ API';
 $lang['api-function'] = 'ฟังก์ชัน API';
-$lang['api-help'] = 'กรุณาอ้างอิงถึง <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">เอกสาร API</a> สำหรับรายละเอียดฟังก์ชัน <strong>โปรดระมัดระวัง - คำสั่งใด ๆ ที่คุณป้อนจะถูกดำเนินการโดยใช้ข้อมูลจริงของคุณ</strong>';
+$lang['api-help'] = 'กรุณาอ้างอิงถึง <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">เอกสาร API</a> สำหรับรายละเอียดฟังก์ชัน <strong>โปรดระมัดระวัง - คำสั่งใด ๆ ที่คุณป้อนจะถูกดำเนินการโดยใช้ข้อมูลจริงของคุณ</strong>';
 $lang['api-view-documentation'] = 'ดูเอกสารประกอบ';
 $lang['api-php-help'] = 'ใช้โค้ด PHP ด้านล่างบนระบบระยะไกลเพื่อเรียกฟังก์ชัน API ที่ป้อนด้วยพารามิเตอร์ที่ให้มา';
 $lang['api-curl-example'] = 'cURL ตัวอย่าง';
@@ -2757,7 +2757,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['dash'] = 'แดช';
 $lang['api-php-code'] = 'PHP code';
 $lang['filter_is_in'] = 'IS';

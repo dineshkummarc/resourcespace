@@ -725,7 +725,7 @@ $lang['property-order_by'] = 'Sortér efter';
 $lang['property-indexing'] = 'Indeksering';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Hvis du aktiverer indeksering nedenfor, og feltet allerede indeholder data, skal du <a target=_blank href=../tools/reindex_field.php?field=%ref>genindeksere dette felt</a>.';
 $lang['property-index_this_field'] = 'Indeksér dette felt';
-$lang['information_index_warning'] = 'Venligst henvis til <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Videnbasen</a> for detaljeret information om feltindeksering.';
+$lang['information_index_warning'] = 'Venligst henvis til <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Videnbasen</a> for detaljeret information om feltindeksering.';
 $lang['information-enable_partial_indexing'] = 'Delvis nøgleordsindeksering (præfiks + infix indeksering) bør anvendes med måde, da det vil øge indeksstørrelsen betydeligt. Se vidensbasen for detaljer.';
 $lang['property-enable_partial_indexing'] = 'Aktivér delvis indeksering';
 $lang['information-shorthand_name'] = 'Vigtigt: Kortnavn skal angives for at feltet vises på søgefeltet, i Avanceret søgning eller for at blive brugt i søge-/redigeringsfiltre. Det skal kun indeholde små bogstaver og/eller tal - ingen mellemrum eller symboler.';
@@ -1845,7 +1845,7 @@ $lang['download_limit_request_text'] = 'Downloadgrænse nået: [downloaded]/[lim
 $lang['page-title_user_group_management_edit'] = 'Rediger brugergruppe';
 $lang['page-subtitle_user_group_management_edit'] = 'Brug denne sektion til at ændre egenskaberne for brugergruppen.';
 $lang['action-title_remove_user_group_logo'] = 'Markér for at fjerne brugergruppens logo';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Venligst henvis til <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Videnbasen</a> for yderligere hjælp med avancerede indstillinger.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Venligst henvis til <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Videnbasen</a> for yderligere hjælp med avancerede indstillinger.';
 $lang['page-title_web_edit'] = 'Rediger fil';
 $lang['page-subtitle_web_edit'] = 'Brug denne sektion til direkte at redigere filer - brug med forsigtighed.';
 $lang['page-title_user_group_permissions_edit'] = 'Rediger brugergruppens tilladelser';
@@ -1926,7 +1926,7 @@ $lang['action-move-down'] = 'Flyt ned';
 $lang['action-move-to'] = 'Flyt til';
 $lang['delete_user_group_checkbox_alert_message'] = 'Bemærk venligst, at denne handling også vil slette al indholdstekst, der var relevant for denne brugergruppe. Der er [recordscount] poster fundet i Administrer indhold.';
 $lang['about__about'] = 'Din "Om" tekst kommer her.';
-$lang['all__footer'] = 'Drevet af <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Drevet af <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Lad vores ressourceteam finde de ressourcer, du har brug for.';
 $lang['change_language__introtext'] = 'Vælg venligst dit sprog nedenfor.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Indlejr metadata for ressourcer i den downloadede fil/filer? Aktivering af denne funktion vil sænke downloadhastigheden.';
@@ -2340,7 +2340,7 @@ $lang['iiif_disabled'] = 'IIIF er ikke konfigureret';
 $lang['property-personal_data'] = 'Kan indeholde personlige oplysninger';
 $lang['api-test-tool'] = 'API testværktøj';
 $lang['api-function'] = 'API-funktion';
-$lang['api-help'] = 'Venligst henvis til <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API-dokumentationen</a> for funktionsspecifikationer. <strong>Vær forsigtig - alle kommandoer, du indtaster, vil blive udført ved hjælp af dine live data.</strong>';
+$lang['api-help'] = 'Venligst henvis til <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API-dokumentationen</a> for funktionsspecifikationer. <strong>Vær forsigtig - alle kommandoer, du indtaster, vil blive udført ved hjælp af dine live data.</strong>';
 $lang['api-view-documentation'] = 'Vis dokumentation';
 $lang['api-php-code'] = 'PHP-kode';
 $lang['api-php-help'] = 'Indsæt nedenstående i det eksterne system for at kalde den indtastede API-funktion med de angivne parametre.';
@@ -2643,7 +2643,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['team_research__introtext'] = 'Organiser og administrer \'Forskningsanmodninger\'. <br /><br />Vælg \'rediger forskning\' for at gennemgå anmodningsdetaljerne og tildele forskningen til et teammedlem. Det er muligt at basere en forskningsanmodning på en tidligere samling ved at indtaste samlings-ID\'et i \'rediger\' skærmen. <br /><br />Når forskningsanmodningen er tildelt, vælg \'rediger samling\' for at tilføje forskningsanmodningen til \'Standard samling\' panelet. Ved hjælp af standardværktøjerne er det derefter muligt at tilføje ressourcer til forskningen. <br /><br />Når forskningen er færdig, vælg \'rediger forskning\', ændre status til færdig, og en e-mail sendes automatisk til brugeren, der anmodede om forskningen. E-mailen indeholder et link til forskningen, og den tilføjes også automatisk til deres \'Standard samling\' panel.';
 $lang['dash'] = 'Dashbord';
 $lang['upgrade_script'] = 'Opgraderingsscript';

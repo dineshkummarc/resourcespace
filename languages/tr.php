@@ -116,7 +116,7 @@ $lang['property-order_by'] = 'Sırala';
 $lang['property-indexing'] = '<b>İndeksleme</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Eğer aşağıda dizinlemeyi etkinleştirirseniz ve alan zaten veri içeriyorsa, <a target=_blank href=../tools/reindex_field.php?field=%ref>bu alanı yeniden dizinlemeniz</a> gerekecektir.';
 $lang['property-index_this_field'] = 'Bu alanı dizine ekle';
-$lang['information_index_warning'] = 'Detaylı bilgi için lütfen <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Bilgi Bankası</a>\'na bakın.';
+$lang['information_index_warning'] = 'Detaylı bilgi için lütfen <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Bilgi Bankası</a>\'na bakın.';
 $lang['information-enable_partial_indexing'] = 'Anahtar kelime indekslemesi (ön ek+ara ek indekslemesi) dikkatli kullanılmalıdır çünkü indeks boyutunu önemli ölçüde artıracaktır. Detaylar için Bilgi Tabanına bakın.';
 $lang['property-enable_partial_indexing'] = 'Kısmi indekslemeyi etkinleştir';
 $lang['information-shorthand_name'] = 'Önemli: Alanın arama çubuğunda, Gelişmiş aramada veya arama/düzenleme filtrelerinde görünmesi için kısaltma adı ayarlanmalıdır. Sadece küçük harf alfabetik karakterler ve/veya sayılar içermelidir - boşluk veya sembol olmamalıdır.';
@@ -1128,7 +1128,7 @@ $lang['setup-successheader'] = 'Tebrikler!';
 $lang['setup-successdetails'] = 'İlk ResourceSpace kurulumunuz tamamlandı. Daha fazla yapılandırma seçeneği için \'include/config.default.php\' dosyasını kontrol ettiğinizden emin olun.';
 $lang['setup-successnextsteps'] = 'Sonraki adımlar:';
 $lang['setup-successremovewrite'] = 'Artık \'include/\' dizinine yazma erişimini kaldırabilirsiniz.';
-$lang['setup-visitwiki'] = 'Daha fazla bilgi için <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace Bilgi Tabanı</a>\'nı ziyaret edin.';
+$lang['setup-visitwiki'] = 'Daha fazla bilgi için <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Bilgi Tabanı</a>\'nı ziyaret edin.';
 $lang['php-config-file'] = 'PHP yapılandırması: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Yapılandırma dizinine yazma erişimi:';
 $lang['setup-checkstoragewrite'] = 'Depolama dizinine yazma erişimi:';
@@ -1913,7 +1913,7 @@ $lang['download_limit_request_text'] = 'İndirme sınırına ulaşıldı: [downl
 $lang['page-title_user_group_management_edit'] = 'Kullanıcı grubunu düzenle';
 $lang['page-subtitle_user_group_management_edit'] = 'Bu bölümü kullanıcı grubu özelliklerini değiştirmek için kullanın.';
 $lang['action-title_remove_user_group_logo'] = 'Kullanıcı grubu logosunu kaldırmak için işaretleyin';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Daha fazla yardım için lütfen <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Bilgi Bankası</a>\'na bakın.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Daha fazla yardım için lütfen <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Bilgi Bankası</a>\'na bakın.';
 $lang['page-title_web_edit'] = 'Dosyayı düzenle';
 $lang['page-subtitle_web_edit'] = 'Bu bölümü dosyaları doğrudan düzenlemek için kullanın - dikkatle kullanın.';
 $lang['page-title_user_group_permissions_edit'] = 'Kullanıcı grubu izinlerini düzenle';
@@ -2012,7 +2012,7 @@ $lang['all__emailnotifyresourcesapproved'] = '[lang_userresourcesapproved]
 [lang_viewcontributedsubittedl] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Tarafından desteklenmektedir <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Açık Kaynak Dijital Varlık Yönetimi</a>';
+$lang['all__footer'] = 'Tarafından desteklenmektedir <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Açık Kaynak Dijital Varlık Yönetimi</a>';
 $lang['all__researchrequest'] = 'Kaynaklar ekibimizin ihtiyaç duyduğunuz kaynakları bulmasına izin verin.';
 $lang['change_language__introtext'] = 'Lütfen aşağıdan dilinizi seçin.';
 $lang['collection_download__write_metadata_on_download_label'] = 'İndirilen dosyaya/dosyalara kaynak meta verilerini göm? Bunu etkinleştirmek indirme hızınızı yavaşlatacaktır.';
@@ -2042,7 +2042,7 @@ $lang['download_click__introtext'] = 'Kaynağı indirmek için aşağıdaki bağ
 $lang['download_progress__introtext'] = 'İndirme işleminiz kısa süre içinde başlayacak. İndirme tamamlandığında, devam etmek için aşağıdaki bağlantıları kullanın.';
 $lang['downloadfile_nofile'] = 'İstenen dosya bulunamadı.';
 $lang['edit__multiple'] = 'Lütfen üzerine yazmak istediğiniz alanları seçin. Seçmediğiniz alanlar olduğu gibi kalacaktır.';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['home__restrictedtext'] = 'Lütfen sizin için seçilen kaynaklara erişmek için size e-posta ile gönderilen bağlantıya tıklayın.';
 $lang['home__restrictedtitle'] = 'ResourceSpace [ver]\'e hoş geldiniz';
 $lang['home__welcometitle'] = 'ResourceSpace [ver]\'e hoş geldiniz';
@@ -2472,7 +2472,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Kişisel veri içerebilir';
 $lang['api-test-tool'] = 'API test aracı';
 $lang['api-function'] = 'API işlevi';
-$lang['api-help'] = 'Lütfen işlev ayrıntıları için <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API belgelerine</a> bakın. <strong>Dikkatli olun - girdiğiniz herhangi bir komut canlı verileriniz kullanılarak yürütülecektir.</strong>';
+$lang['api-help'] = 'Lütfen işlev ayrıntıları için <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API belgelerine</a> bakın. <strong>Dikkatli olun - girdiğiniz herhangi bir komut canlı verileriniz kullanılarak yürütülecektir.</strong>';
 $lang['api-view-documentation'] = 'Belgeleri görüntüle';
 $lang['api-php-code'] = 'PHP kodu';
 $lang['api-php-help'] = 'Aşağıdaki PHP kodunu, girilen API işlevini sağlanan parametrelerle çağırmak için uzak bir sistemde kullanın.';

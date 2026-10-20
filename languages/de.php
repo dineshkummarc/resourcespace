@@ -1473,7 +1473,7 @@ $lang['fieldhelp-permissions_filter'] = 'Sie können eine einzelne Berechtigung 
 $lang['page-title_user_group_management_edit'] = 'Benutzergruppe ändern';
 $lang['page-subtitle_user_group_management_edit'] = 'In diesem Bereich können Sie die Eigenschaften einer Benutzergruppe ändern.';
 $lang['action-title_remove_user_group_logo'] = 'Anwählen um das Benutzergruppenlogo zu entfernen';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Im <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>WIKI</a> finden Sie Informationen für weiterführende Optionen.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Im <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>WIKI</a> finden Sie Informationen für weiterführende Optionen.';
 $lang['page-title_report_management'] = 'Reporte verwalten';
 $lang['page-subtitle_report_management'] = 'In diesem Bereich können Sie Reporte hinzufügen, ändern und löschen.';
 $lang['action-title_create_report_called'] = 'Report mit Namen erstellen...';
@@ -1601,7 +1601,7 @@ $lang['property-field_constraint-singlekeyword'] = 'Einzelne Auswahl';
 $lang['property-field_raw_edtf'] = 'Wenn ein Datumsbereich im EDTF-Format eingegeben wird, speichern Sie die Rohdaten in diesem Feld';
 $lang['property-options_edit_link'] = 'Verwalten Sie Optionen';
 $lang['property-automatic_nodes_ordering_label'] = 'Automatische Bestellung';
-$lang['information_index_warning'] = 'Bitte beachten Sie die <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Wissensdatenbank</a> für detaillierte Informationen zur Feldindizierung.';
+$lang['information_index_warning'] = 'Bitte beachten Sie die <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Wissensdatenbank</a> für detaillierte Informationen zur Feldindizierung.';
 $lang['property-field_full_width'] = 'Anzeige in voller Breite auf der Ansichtsseite';
 $lang['property-system_date_help_text'] = 'Nicht möglich, dies zu deaktivieren, da dieses Feld als systemspezifisches Datumsfeld festgelegt ist. Sie können dies über die Konfiguration ändern oder einen Administrator um Hilfe bitten';
 $lang['property-push_metadata'] = 'Metadaten übertragen';
@@ -2052,7 +2052,7 @@ $lang['property-orphaned'] = 'Verwaist';
 $lang['admin_field_deleted'] = 'Gelöschtes Feld';
 $lang['action-move-to'] = 'Verschieben nach';
 $lang['delete_user_group_checkbox_alert_message'] = 'Bitte beachten Sie, dass diese Aktion auch alle Inhalte löschen wird, die für diese Benutzergruppe relevant waren. Es wurden [recordscount] Datensätze in "Inhalte verwalten" gefunden.';
-$lang['all__footer'] = 'Angetrieben von <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Angetrieben von <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['collection_download__write_metadata_on_download_label'] = 'Metadaten der Ressource in die heruntergeladenen Dateien einbetten? Wenn Sie dies aktivieren, wird Ihr Download langsamer.';
 $lang['collection_email__introtextthemeshare'] = 'Bitte füllen Sie das untenstehende Formular aus, um die vorgestellten Sammlungen in dieser vorgestellten Sammlungskategorie per E-Mail zu senden. Die Empfänger erhalten eine E-Mail mit Links zu jeder der vorgestellten Sammlungen.';
 $lang['downloadfile_nofile'] = 'Die angeforderte Datei wurde nicht gefunden.';
@@ -2404,7 +2404,7 @@ $lang['iiif_disabled'] = 'IIIF ist nicht konfiguriert';
 $lang['property-personal_data'] = 'Kann persönliche Daten enthalten';
 $lang['api-test-tool'] = 'API-Testwerkzeug';
 $lang['api-function'] = 'API-Funktion';
-$lang['api-help'] = 'Bitte beachten Sie die <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API-Dokumentation</a> für Funktionsspezifikationen. <strong>Seien Sie vorsichtig - alle Befehle, die Sie eingeben, werden mit Ihren Live-Daten ausgeführt.</strong>';
+$lang['api-help'] = 'Bitte beachten Sie die <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API-Dokumentation</a> für Funktionsspezifikationen. <strong>Seien Sie vorsichtig - alle Befehle, die Sie eingeben, werden mit Ihren Live-Daten ausgeführt.</strong>';
 $lang['api-view-documentation'] = 'Dokumentation anzeigen';
 $lang['api-php-code'] = 'PHP-Code';
 $lang['api-php-help'] = 'Fügen Sie das Folgende in das entfernte System ein, um die eingegebene API-Funktion mit den bereitgestellten Parametern aufzurufen.';
@@ -2689,7 +2689,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['dash'] = 'Armaturenbrett';
 $lang['last'] = 'Letzte';
 $lang['upgrade_script'] = 'Upgrade-Skript';

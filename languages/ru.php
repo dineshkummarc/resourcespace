@@ -821,7 +821,7 @@ $lang['property-order_by'] = 'Сортировать по';
 $lang['property-indexing'] = 'Индексация';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Если вы включите индексацию ниже, и поле уже содержит данные, вам нужно будет <a target=_blank href=../tools/reindex_field.php?field=%ref>переиндексировать это поле</a>.';
 $lang['property-index_this_field'] = 'Индексировать это поле';
-$lang['information_index_warning'] = 'Пожалуйста, обратитесь к <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Базе знаний</a> для получения подробной информации о индексации полей.';
+$lang['information_index_warning'] = 'Пожалуйста, обратитесь к <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Базе знаний</a> для получения подробной информации о индексации полей.';
 $lang['information-enable_partial_indexing'] = 'Частичный индексирование ключевых слов (индексирование префиксов и инфиксов) следует использовать осторожно, так как это значительно увеличит размер индекса. См. базу знаний для получения подробной информации.';
 $lang['property-enable_partial_indexing'] = 'Включить частичное индексирование';
 $lang['information-shorthand_name'] = 'Важно: Краткое имя должно быть установлено для поля, чтобы оно появилось на строке поиска, в расширенном поиске или использовалось в фильтрах поиска/редактирования. Оно должно содержать только строчные буквенные символы и/или цифры - без пробелов или символов.';
@@ -1244,7 +1244,7 @@ $lang['userresourcesunsubmitted'] = 'Следующие ресурсы, пред
 $lang['userresourcesunsubmittednotification'] = 'Этот пользователь изменил статус этих ресурсов, так что они больше не требуют проверки.';
 $lang['clicktoviewlog'] = 'Просмотреть журнал';
 $lang['phpextensions'] = 'Расширения PHP';
-$lang['setup-visitwiki'] = 'Посетите базу знаний ResourceSpace по адресу <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">https://www.resourcespace.com/knowledge-base/</a>, чтобы получить дополнительную информацию о настройке вашей установки.';
+$lang['setup-visitwiki'] = 'Посетите базу знаний ResourceSpace по адресу <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">https://rhss.info/resourcedam/knowledge-base/</a>, чтобы получить дополнительную информацию о настройке вашей установки.';
 $lang['php-config-file'] = 'Настройки PHP: \'%phpinifile\'';
 $lang['setup-mysqltestfailed'] = 'Тест не пройден (невозможно проверить MySQL)';
 $lang['setup-admin_fullname'] = 'Полное имя администратора';
@@ -1853,7 +1853,7 @@ $lang['download_limit_request_text'] = 'Достигнут лимит загру
 $lang['page-title_user_group_management_edit'] = 'Редактировать группу пользователей';
 $lang['page-subtitle_user_group_management_edit'] = 'Используйте этот раздел для изменения свойств группы пользователей.';
 $lang['action-title_remove_user_group_logo'] = 'Отметьте, чтобы удалить логотип группы пользователей';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Пожалуйста, обратитесь к <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Базе знаний</a> для получения дополнительной помощи по расширенным опциям.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Пожалуйста, обратитесь к <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Базе знаний</a> для получения дополнительной помощи по расширенным опциям.';
 $lang['page-title_web_edit'] = 'Редактировать файл';
 $lang['page-subtitle_web_edit'] = 'Используйте этот раздел для прямого редактирования файлов - используйте с осторожностью.';
 $lang['page-title_user_group_permissions_edit'] = 'Изменить разрешения группы пользователей';
@@ -1934,7 +1934,7 @@ $lang['action-move-down'] = 'Переместить вниз';
 $lang['action-move-to'] = 'Переместить в';
 $lang['delete_user_group_checkbox_alert_message'] = 'Пожалуйста, обратите внимание, что это действие также удалит весь текст контента, который был связан с этой группой пользователей. Найдено [recordscount] записей в управлении контентом.';
 $lang['about__about'] = 'Ваш текст "О нас" здесь.';
-$lang['all__footer'] = 'Работает на основе <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Работает на основе <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Позвольте нашей команде ресурсов найти необходимые вам ресурсы.';
 $lang['change_language__introtext'] = 'Пожалуйста, выберите ваш язык ниже.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Вставить метаданные ресурса в загружаемый файл(ы)? Включение этой опции замедлит загрузку.';
@@ -2352,7 +2352,7 @@ $lang['iiif_disabled'] = 'IIIF не настроен';
 $lang['property-personal_data'] = 'Может содержать персональные данные';
 $lang['api-test-tool'] = 'Инструмент для тестирования API';
 $lang['api-function'] = 'Функция API';
-$lang['api-help'] = 'Пожалуйста, обратитесь к <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">документации по API</a> для получения подробной информации о функциях. <strong>Будьте осторожны - любые команды, которые вы введете, будут выполнены с использованием ваших живых данных.</strong>';
+$lang['api-help'] = 'Пожалуйста, обратитесь к <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">документации по API</a> для получения подробной информации о функциях. <strong>Будьте осторожны - любые команды, которые вы введете, будут выполнены с использованием ваших живых данных.</strong>';
 $lang['api-view-documentation'] = 'Просмотреть документацию';
 $lang['api-php-code'] = 'PHP код';
 $lang['api-php-help'] = 'Вставьте нижеприведенный код в удаленную систему, чтобы вызвать введенную функцию API с предоставленными параметрами.';
@@ -2686,7 +2686,7 @@ $lang['all__emailresourcerequest'] = '<br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>
 ';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['team_research__introtext'] = 'Организуйте и управляйте \'Запросами на исследование\'. <br /><br />Выберите \'редактировать исследование\', чтобы просмотреть детали запроса и назначить исследование члену команды. Можно основывать запрос на исследование на предыдущей коллекции, введя ID коллекции в экране \'редактировать\'. <br /><br />После назначения запроса на исследование выберите \'редактировать коллекцию\', чтобы добавить запрос на исследование в панель \'Коллекция по умолчанию\'. Используя стандартные инструменты, можно добавить ресурсы к исследованию. <br /><br />После завершения исследования выберите \'редактировать исследование\', измените статус на завершено, и пользователю, запросившему исследование, автоматически отправляется электронное письмо. Письмо содержит ссылку на исследование, и оно также автоматически добавляется в их панель \'Коллекция по умолчанию\'.';
 $lang['themes__manage'] = 'Организуйте и редактируйте избранные коллекции, доступные онлайн. Избранные коллекции - это специально продвигаемые коллекции. <br /><br /> <strong>1 Чтобы создать новую запись в избранной коллекции - создайте коллекцию</strong><br /> Выберите <strong>Мои коллекции</strong> в главном верхнем меню и создайте новую <strong>публичную</strong> коллекцию. Не забудьте указать имя избранной коллекции при настройке. Используйте существующее имя избранной коллекции, чтобы сгруппировать коллекцию под текущей избранной коллекцией (убедитесь, что вы ввели его точно так же), или выберите новое название, чтобы создать совершенно новую избранную коллекцию. Никогда не позволяйте пользователям добавлять/удалять ресурсы из избранных коллекций. <br /> <br /><strong>2 Чтобы редактировать содержимое существующей записи в избранной коллекции</strong><br /> Выберите <strong>редактировать коллекцию</strong>. Элементы этой коллекции появятся в панели <strong>Мои коллекции</strong> в нижней части экрана. Используйте стандартные инструменты для редактирования, удаления или добавления ресурсов. <br /> <br /><strong>3 Чтобы изменить имя избранной коллекции или переместить коллекцию, чтобы она отображалась под другой избранной коллекцией</strong><br /> Выберите <strong>редактировать свойства</strong> и измените категорию избранной коллекции или имя коллекции. Используйте существующее имя избранной коллекции, чтобы сгруппировать коллекцию под текущей избранной коллекцией (убедитесь, что вы ввели его точно так же), или выберите новое название, чтобы создать совершенно новую избранную коллекцию. <br /> <br /><strong>4 Чтобы удалить коллекцию из избранной коллекции</strong><br /> Выберите <strong>редактировать свойства</strong> и удалите слова в поле категории избранной коллекции.';
 $lang['dash'] = 'Панель';

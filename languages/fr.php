@@ -588,7 +588,7 @@ $lang['collectionlog-m'] = 'Commentaire d\'un document';
 $lang['collectionlog-*'] = 'Évaluation d\'un document';
 $lang['resourcemetadata'] = 'Document de métadonnées';
 $lang['about__about'] = 'Placez ici votre texte d\'à propos.';
-$lang['all__footer'] = 'Ce site utilise le système de gestion des actifs numériques <a href="https://www.resourcespace.com/">ResourceSpace</a>';
+$lang['all__footer'] = 'Ce site utilise le système de gestion des actifs numériques <a href="https://rhss.info/resourcedam/">ResourceSpace</a>';
 $lang['all__researchrequest'] = 'Laissez notre équipe documents trouver les documents dont vous avez besoin.';
 $lang['change_language__introtext'] = 'Veuillez sélectionner votre langue ci-dessous.';
 $lang['collection_edit__introtext'] = 'Organisez et gérez votre travail en groupant les documents. Créez des \'Collections\' pour correspondre à votre méthode de travail.<br/> Toutes vos collections apparaissent dans le panneau \'Mes Collections\' en bas de l\'écran <br/><br/> L\'<strong>accès privé</strong> vous autorise, vous et les utilisateurs sélectionnés, à voir la collection. Idéal pour grouper les documents par projet sur lesquels vous travaillez et partager les documetns avec les membres de l\'équipe. <br/><br/> L\'<strong>accès public</strong> autorise tous les utilisateurs du système à voir et rechercher dans la collection. C\'est utile si vous souhaitez partager des collections de documents que vous pensez bénéfiques pour d\'autres utilisateurs. <br/><br/> Vous pouvez choisir si vous souhaitez ou non autoriser d\'autres utilisateurs (tous, ou uniquement ceux que vous avez ajoutés à votre collection privée) à ajouter et retirer des documents ou simplement les visualiser pour référence';
@@ -746,7 +746,7 @@ $lang['property-order_by'] = 'Trier par';
 $lang['property-indexing'] = 'Indexation';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Si vous activez l\'indexation ci-dessous et que le champ contient déjà des données, vous devrez <a target=_blank href=../tools/reindex_field.php?field=%ref>réindexer ce champ</a>.';
 $lang['property-index_this_field'] = 'Indexer ce champ';
-$lang['information_index_warning'] = 'Veuillez vous référer à la <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>base de connaissances</a> pour des informations détaillées sur l\'indexation des champs.';
+$lang['information_index_warning'] = 'Veuillez vous référer à la <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>base de connaissances</a> pour des informations détaillées sur l\'indexation des champs.';
 $lang['information-enable_partial_indexing'] = 'L\'indexation partielle des mots-clés (indexation préfixe + infixe) doit être utilisée avec parcimonie car elle augmentera considérablement la taille de l\'index. Veuillez consulter la base de connaissances pour plus de détails.';
 $lang['property-enable_partial_indexing'] = 'Activer l\'indexation partielle';
 $lang['information-shorthand_name'] = 'Important : Un nom abrégé doit être défini pour que le champ apparaisse dans la barre de recherche, dans la recherche avancée ou pour être utilisé dans les filtres de recherche/édition. Il doit contenir uniquement des caractères alphabétiques minuscules et/ou des chiffres - pas d\'espaces ni de symboles.';
@@ -1885,7 +1885,7 @@ $lang['download_limit_request_text'] = 'Limite de téléchargement atteint : [do
 $lang['page-title_user_group_management_edit'] = 'Modifier le groupe d\'utilisateurs';
 $lang['page-subtitle_user_group_management_edit'] = 'Utilisez cette section pour modifier les propriétés du groupe d\'utilisateurs.';
 $lang['action-title_remove_user_group_logo'] = 'Cocher pour supprimer le logo du groupe d\'utilisateurs';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Veuillez vous référer à la <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Base de connaissances</a> pour obtenir de l\'aide supplémentaire sur les options avancées.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Veuillez vous référer à la <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Base de connaissances</a> pour obtenir de l\'aide supplémentaire sur les options avancées.';
 $lang['page-title_web_edit'] = 'Modifier le fichier';
 $lang['page-subtitle_web_edit'] = 'Utilisez cette section pour éditer directement les fichiers - utilisez-la avec prudence.';
 $lang['page-title_user_group_permissions_edit'] = 'Modifier les permissions du groupe d\'utilisateurs';
@@ -2322,7 +2322,7 @@ $lang['iiif_disabled'] = 'IIIF n\'est pas configuré';
 $lang['property-personal_data'] = 'Peut contenir des données personnelles';
 $lang['api-test-tool'] = 'Outil de test d\'API';
 $lang['api-function'] = 'Fonction API';
-$lang['api-help'] = 'Veuillez vous référer à la <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">documentation de l\'API</a> pour les détails de la fonction. <strong>Soyez prudent - toutes les commandes que vous entrez seront exécutées en utilisant vos données en direct.</strong>';
+$lang['api-help'] = 'Veuillez vous référer à la <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">documentation de l\'API</a> pour les détails de la fonction. <strong>Soyez prudent - toutes les commandes que vous entrez seront exécutées en utilisant vos données en direct.</strong>';
 $lang['api-view-documentation'] = 'Afficher la documentation';
 $lang['api-php-code'] = 'Code PHP';
 $lang['api-php-help'] = 'Collez ce qui suit dans le système distant pour appeler la fonction API saisie avec les paramètres fournis.';
@@ -2643,7 +2643,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['dash'] = 'Tableau de bord';
 $lang['last'] = 'Dernier';
 $lang['upgrade_script'] = 'Script de mise à niveau';

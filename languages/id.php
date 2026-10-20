@@ -596,7 +596,7 @@ $lang['fieldtitle-notes'] = 'Catatan';
 $lang['fieldtitle-video_bitrate'] = 'Kecepatan bit video';
 $lang['information-permissions'] = 'CATATAN: Izin global dari konfigurasi mungkin juga berlaku';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Jika Anda mengaktifkan pengindeksan di bawah dan bidang tersebut sudah berisi data, Anda perlu <a target=_blank href=../tools/reindex_field.php?field=%ref>menyusun ulang indeks bidang ini</a>.';
-$lang['information_index_warning'] = 'Silakan merujuk ke <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Basis Pengetahuan</a> untuk informasi terperinci tentang indeks bidang.';
+$lang['information_index_warning'] = 'Silakan merujuk ke <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Basis Pengetahuan</a> untuk informasi terperinci tentang indeks bidang.';
 $lang['property-push_metadata'] = 'Mendorong metadata';
 $lang['strip'] = 'Strip';
 $lang['pluginmanager'] = 'Plugin (soket program)';
@@ -1864,7 +1864,7 @@ $lang['download_limit_request_text'] = 'Batas unduhan telah tercapai: [downloade
 $lang['page-title_user_group_management_edit'] = 'Mengedit grup pengguna';
 $lang['page-subtitle_user_group_management_edit'] = 'Gunakan bagian ini untuk memodifikasi properti grup pengguna.';
 $lang['action-title_remove_user_group_logo'] = 'Centang untuk menghapus logo grup pengguna';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Silakan merujuk ke <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Basis Pengetahuan</a> untuk bantuan lebih lanjut mengenai opsi Lanjutan.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Silakan merujuk ke <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Basis Pengetahuan</a> untuk bantuan lebih lanjut mengenai opsi Lanjutan.';
 $lang['page-title_web_edit'] = 'Mengedit berkas';
 $lang['page-title_user_group_permissions_edit'] = 'Mengedit izin grup pengguna';
 $lang['page-subtitle_user_group_permissions_edit'] = 'Gunakan bagian ini untuk memodifikasi izin grup pengguna.';
@@ -1943,7 +1943,7 @@ $lang['action-move-down'] = 'Pindah ke bawah';
 $lang['action-move-to'] = 'Pindah ke';
 $lang['delete_user_group_checkbox_alert_message'] = 'Harap dicatat bahwa tindakan ini juga akan menghapus semua teks konten yang relevan dengan grup pengguna ini. Ada [recordscount] catatan yang ditemukan dalam Kelola Konten.';
 $lang['about__about'] = 'Teks tentang Anda ditempatkan di sini.';
-$lang['all__footer'] = 'Didukung oleh <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Didukung oleh <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Biarkan tim sumber daya kami menemukan sumber daya yang Anda butuhkan.';
 $lang['change_language__introtext'] = 'Silakan pilih bahasa Anda di bawah ini.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Menanamkan metadata sumber daya dalam file yang diunduh? Mengaktifkan fitur ini akan memperlambat proses unduhan.';
@@ -2354,7 +2354,7 @@ $lang['iiif_disabled'] = 'IIIF tidak dikonfigurasi';
 $lang['property-personal_data'] = 'Mungkin mengandung data pribadi';
 $lang['api-test-tool'] = 'Alat uji API';
 $lang['api-function'] = 'Fungsi API';
-$lang['api-help'] = 'Silakan merujuk ke <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">dokumentasi API</a> untuk detail fungsi. <strong>Hati-hati - setiap perintah yang Anda masukkan akan dieksekusi menggunakan data langsung Anda.</strong>';
+$lang['api-help'] = 'Silakan merujuk ke <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">dokumentasi API</a> untuk detail fungsi. <strong>Hati-hati - setiap perintah yang Anda masukkan akan dieksekusi menggunakan data langsung Anda.</strong>';
 $lang['api-view-documentation'] = 'Melihat dokumentasi';
 $lang['api-php-code'] = 'Kode PHP';
 $lang['api-php-help'] = 'Tempelkan yang di bawah ini ke dalam sistem jarak jauh untuk memanggil fungsi API yang dimasukkan dengan parameter yang disediakan.';
@@ -2667,7 +2667,7 @@ $lang['all__emailresourcerequest'] = '[lang_username] : [username] <br />
 [details]<br /><br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['dash'] = 'Garis Bawah';
 $lang['upgrade_script'] = 'Skrip Pembaruan';
 $lang['upgrade_026_notification'] = 'Peningkatan ini telah menonaktifkan beberapa opsi konfigurasi yang sedang digantikan oleh %entity% Anda.

@@ -759,7 +759,7 @@ $lang['property-order_by'] = 'ترتيب حسب';
 $lang['property-indexing'] = '<b>الفهرسة</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'إذا قمت بتمكين الفهرسة أدناه وكان الحقل يحتوي بالفعل على بيانات، فستحتاج إلى <a target=_blank href=../tools/reindex_field.php?field=%ref>إعادة فهرسة هذا الحقل</a>.';
 $lang['property-index_this_field'] = 'فهرسة هذا الحقل';
-$lang['information_index_warning'] = 'يرجى الرجوع إلى <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>قاعدة المعرفة</a> للحصول على معلومات مفصلة حول فهرسة الحقول.';
+$lang['information_index_warning'] = 'يرجى الرجوع إلى <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>قاعدة المعرفة</a> للحصول على معلومات مفصلة حول فهرسة الحقول.';
 $lang['information-enable_partial_indexing'] = 'يجب استخدام فهرسة الكلمات الرئيسية الجزئية (فهرسة البادئة والوسط) بحذر حيث أنها ستزيد حجم الفهرس بشكل كبير. يرجى الرجوع إلى قاعدة المعرفة للحصول على التفاصيل.';
 $lang['property-enable_partial_indexing'] = 'تمكين فهرسة جزئية';
 $lang['information-shorthand_name'] = 'مهم: يجب تعيين اسم مختصر للحقل حتى يظهر على شريط البحث، في البحث المتقدم أو لاستخدامه في عوامل البحث/التحرير. يجب أن يحتوي على أحرف صغيرة فقط و/أو أرقام - بدون مسافات أو رموز.';
@@ -1854,7 +1854,7 @@ $lang['download_limit_request_text'] = 'تم الوصول إلى حد التنز
 $lang['page-title_user_group_management_edit'] = 'تحرير مجموعة المستخدمين';
 $lang['page-subtitle_user_group_management_edit'] = 'استخدم هذا القسم لتعديل خصائص مجموعة المستخدمين.';
 $lang['action-title_remove_user_group_logo'] = 'الصح علامة لإزالة شعار مجموعة المستخدمين';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'يرجى الرجوع إلى <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>قاعدة المعرفة</a> للحصول على مزيد من المساعدة في الخيارات المتقدمة.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'يرجى الرجوع إلى <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>قاعدة المعرفة</a> للحصول على مزيد من المساعدة في الخيارات المتقدمة.';
 $lang['page-title_web_edit'] = 'تعديل الملف';
 $lang['page-subtitle_web_edit'] = 'استخدم هذا القسم لتحرير الملفات مباشرة - استخدمه بحذر.';
 $lang['page-title_user_group_permissions_edit'] = 'تعديل صلاحيات مجموعة المستخدمين';
@@ -1935,7 +1935,7 @@ $lang['action-move-down'] = 'نزل';
 $lang['action-move-to'] = 'الانتقال إلى';
 $lang['delete_user_group_checkbox_alert_message'] = 'يرجى ملاحظة أن هذا الإجراء سيؤدي أيضًا إلى حذف جميع نصوص المحتوى التي كانت ذات صلة بهذه المجموعة من المستخدمين. تم العثور على [recordscount] سجلات في إدارة المحتوى.';
 $lang['about__about'] = 'يمكنك وضع نص حولك هنا.';
-$lang['all__footer'] = 'مدعوم بواسطة <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'مدعوم بواسطة <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'دع فريق مواردنا يجد لك الموارد التي تحتاجها.';
 $lang['change_language__introtext'] = 'يرجى اختيار لغتك أدناه.';
 $lang['collection_download__write_metadata_on_download_label'] = 'هل ترغب في تضمين بيانات التعريف الوصفية للمصدر في الملفات التي تم تنزيلها؟ يؤدي تمكين هذا الخيار إلى بطء عملية التنزيل.';
@@ -2358,7 +2358,7 @@ $lang['iiif_disabled'] = 'لم يتم تكوين IIIF';
 $lang['property-personal_data'] = 'قد يحتوي على بيانات شخصية';
 $lang['api-test-tool'] = 'أداة اختبار واجهة برمجة التطبيقات (API)';
 $lang['api-function'] = 'وظيفة API';
-$lang['api-help'] = 'يرجى الرجوع إلى <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">وثائق واجهة برمجة التطبيقات (API)</a> للحصول على تفاصيل الوظائف. <strong>كن حذرًا - سيتم تنفيذ أي أوامر تدخلها باستخدام بياناتك الحية.</strong>';
+$lang['api-help'] = 'يرجى الرجوع إلى <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">وثائق واجهة برمجة التطبيقات (API)</a> للحصول على تفاصيل الوظائف. <strong>كن حذرًا - سيتم تنفيذ أي أوامر تدخلها باستخدام بياناتك الحية.</strong>';
 $lang['api-view-documentation'] = 'عرض الوثائق';
 $lang['api-php-code'] = 'كود PHP';
 $lang['api-php-help'] = 'الصق ما يلي في النظام البعيد لاستدعاء وظيفة API المدخلة بالمعلمات المقدمة.';
@@ -2693,7 +2693,7 @@ $lang['all__emailresourcerequest'] = '<br />
 [lang_clicktoviewresource] <br /><br />
 <a href="[url]">[url]</a>
 ';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['dash'] = 'لوحة القيادة';
 $lang['upgrade_script'] = 'سكريبت الترقية';
 $lang['upgrade_026_notification'] = 'تم تحديث بعض خيارات التكوين التي تم تجاوزها بواسطة %entity% الخاص بك.

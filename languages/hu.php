@@ -117,7 +117,7 @@ $lang['property-order_by'] = 'Rendezés szerint';
 $lang['property-indexing'] = '<b>Indexálás</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Ha engedélyezed az alábbi indexelést, és a mező már tartalmaz adatokat, újra kell <a target=_blank href=../tools/reindex_field.php?field=%ref>indexelnie ezt a mezőt</a>.';
 $lang['property-index_this_field'] = 'Indexeld ezt a mezőt';
-$lang['information_index_warning'] = 'Kérlek, tekintsd meg a <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Tudásbázist</a> a mezőindexelés részletes információiért.';
+$lang['information_index_warning'] = 'Kérlek, tekintsd meg a <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Tudásbázist</a> a mezőindexelés részletes információiért.';
 $lang['information-enable_partial_indexing'] = 'A részleges kulcsszó-indexelést (prefix+infix indexelés) takarékosan kell használni, mivel jelentősen megnöveli az index méretét. Részletekért lásd a Tudásbázist. Ez az opció nem kompatibilis a teljes indexeléssel.';
 $lang['property-enable_partial_indexing'] = 'Részleges indexelés engedélyezése';
 $lang['information-enable_complete_indexing'] = 'Indexálja a mező értékeit egy töretlen kulcsszóként. Ez a lehetőség nem kompatibilis a részleges indexeléssel.';
@@ -1120,7 +1120,7 @@ $lang['setup-successheader'] = 'Gratulálok!';
 $lang['setup-successdetails'] = 'A kezdeti ResourceSpace beállításod befejeződött. Ne felejtsd el megnézni az \'include/config.default.php\' fájlt a további konfigurációs lehetőségekért.';
 $lang['setup-successnextsteps'] = 'Következő lépések:';
 $lang['setup-successremovewrite'] = 'Most már eltávolíthatod az írási hozzáférést az \'include/\'-hoz.';
-$lang['setup-visitwiki'] = 'Látogass el a <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace Tudásbázisba</a> a telepítése testreszabásával kapcsolatos további információkért.';
+$lang['setup-visitwiki'] = 'Látogass el a <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Tudásbázisba</a> a telepítése testreszabásával kapcsolatos további információkért.';
 $lang['php-config-file'] = 'PHP konfiguráció: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Írási hozzáférés a konfigurációs könyvtárhoz:';
 $lang['setup-checkstoragewrite'] = 'Írási hozzáférés a tárolási könyvtárhoz:';
@@ -1890,7 +1890,7 @@ $lang['download_limit_request_text'] = 'Letöltési korlát elérve: [downloaded
 $lang['page-title_user_group_management_edit'] = 'Felhasználói csoport szerkesztése';
 $lang['page-subtitle_user_group_management_edit'] = 'Itt tudod a felhasználói csoport tulajdonságait módosítani.';
 $lang['action-title_remove_user_group_logo'] = 'Jelöld be a felhasználói csoport logójának eltávolításához';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Kérlek, fordulj a <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Tudásbázishoz</a> további segítségért az bővített lehetőségekkel kapcsolatban.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Kérlek, fordulj a <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Tudásbázishoz</a> további segítségért az bővített lehetőségekkel kapcsolatban.';
 $lang['page-title_web_edit'] = 'Fájl szerkesztése';
 $lang['page-subtitle_web_edit'] = 'Használja ezt a szakaszt a fájlok közvetlen szerkesztésére - használja óvatosan.';
 $lang['page-title_user_group_permissions_edit'] = 'Felhasználói csoport jogosultságainak szerkesztése';
@@ -1983,7 +1983,7 @@ $lang['all__emailnewresearchrequestwaiting'] = '[username] ([userfullname] - [us
 <a href="[url]">[url]</a><br /><br />
 <a href="[teamresearchurl]">[teamresearchurl]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Készítette: <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Nyílt Forráskódú Digitális Eszközkezelés</a>';
+$lang['all__footer'] = 'Készítette: <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Nyílt Forráskódú Digitális Eszközkezelés</a>';
 $lang['all__researchrequest'] = 'Hagyja, hogy az erőforrásaink csapata megtalálja az Ön által szükséges erőforrásokat.';
 $lang['change_language__introtext'] = 'Kérlek, válassz az alábbi nyelvek közül.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Beágyazza az erőforrás metaadatait a letöltött fájl(ok)ba? Ennek engedélyezése lelassítja a letöltést.';
@@ -2434,7 +2434,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Személyes adatokat tartalmazhat';
 $lang['api-test-tool'] = 'API tesztelő eszköz';
 $lang['api-function'] = 'API funkció';
-$lang['api-help'] = 'Kérlek, hivatkozz a <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API dokumentációra</a> a funkciók részleteiért. <strong>Légy óvatos - bármely parancs, amelyet beírsz, a valós adataival lesz végrehajtva.</strong>';
+$lang['api-help'] = 'Kérlek, hivatkozz a <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API dokumentációra</a> a funkciók részleteiért. <strong>Légy óvatos - bármely parancs, amelyet beírsz, a valós adataival lesz végrehajtva.</strong>';
 $lang['api-view-documentation'] = 'Dokumentáció megtekintése';
 $lang['api-php-help'] = 'Használja az alábbi PHP kódot egy távoli rendszeren az API függvény hívásához a megadott paraméterekkel.';
 $lang['api-curl-example'] = 'cURL példa';
@@ -2770,7 +2770,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 <a href="[url]">[url]</a>
 
 [text_footer]';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['themes__manage'] = 'Szervezd és szerkeszd az online elérhető kiemelt gyűjteményeket. A kiemelt gyűjtemények különlegesen promóció alatt állnak. <br /><br /> <strong>1 Új bejegyzés létrehozásához egy Kiemelt gyűjtemény alatt - gyűjtemény létrehozása</strong><br /> Válaszd ki a fő felső menüből a <strong>Saját Gyűjteményeim</strong> lehetőséget, és hozz létre egy teljesen <strong>nyilvános</strong> gyűjteményt. Ne felejtsd el a kiemelt gyűjtemény nevét beilleszteni a beállítások során. Használj egy már létező kiemelt gyűjtemény nevet a gyűjtemény csoportosításához egy már meglévő kiemelt gyűjtemény alá (győződj meg róla, hogy pontosan ugyanazt írod be), vagy válassz egy új címet egy teljesen új kiemelt gyűjtemény létrehozásához. Soha ne engedd meg a felhasználóknak, hogy hozzáadjanak/eltávolítsanak erőforrásokat a kiemelt gyűjteményekből. <br /> <br /><strong>2 Egy meglévő bejegyzés tartalmának szerkesztéséhez egy kiemelt gyűjtemény alatt </strong><br /> Válaszd ki a <strong>gyűjtemény szerkesztése</strong> lehetőséget. A gyűjteményben található elemek megjelennek a képernyő alján található <strong>Saját Gyűjteményeim</strong> panelen. Használd a szabványos eszközöket a szerkesztéshez, eltávolításhoz vagy hozzáadáshoz. <br /> <br /><strong>3 Egy kiemelt gyűjtemény nevének módosításához vagy egy gyűjtemény áthelyezéséhez egy másik kiemelt gyűjtemény alá</strong><br /> Válaszd ki a <strong>tulajdonságok szerkesztése</strong> lehetőséget, és módosítsd a kiemelt gyűjtemény kategóriát vagy a gyűjtemény nevét. Használj egy már létező kiemelt gyűjtemény nevet a gyűjtemény csoportosításához egy már meglévő kiemelt gyűjtemény alá (győződj meg róla, hogy pontosan ugyanazt írod be), vagy válassz egy új címet egy teljesen új kiemelt gyűjtemény létrehozásához. <br /> <br /><strong>4 Egy gyűjtemény eltávolításához egy kiemelt gyűjteményből </strong><br /> Válaszd ki a <strong>tulajdonságok szerkesztése</strong> lehetőséget, és töröld ki a szavakat a kiemelt gyűjtemény kategória mezőből.';
 $lang['systemconfig_debug_log_on_specific_user'] = 'A(z) (konkrét felhasználó)';
 $lang['report_breakdown_pie'] = 'Kibővített kördiagram';

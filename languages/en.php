@@ -135,7 +135,7 @@ $lang["property-order_by"] = "Order by";
 $lang["property-indexing"] = "<b>Indexing</b>";
 $lang["information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field"] = "If you enable or disable indexing and the field already contains data, you will need to <a target=_blank href=../tools/reindex_field.php?field=%ref>reindex this field</a>."; # %ref will be replaced with the field id
 $lang["property-index_this_field"] = "Index this field";
-$lang["information_index_warning"] = "Please refer to the <a href='https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata' target='_blank'>Knowledge Base</a> for detailed information on field indexing.";
+$lang["information_index_warning"] = "Please refer to the <a href='https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata' target='_blank'>Knowledge Base</a> for detailed information on field indexing.";
 $lang["information-enable_partial_indexing"] = "Partial keyword indexing (prefix+infix indexing) should be used sparingly as it will significantly increase the index size. See the Knowledge Base for details. This option is incompatible with complete indexing.";
 $lang["property-enable_partial_indexing"] = "Enable partial indexing";
 $lang["information-enable_complete_indexing"] = "Index field values as one unbroken keyword for this field. This option is incompatible with partial indexing.";
@@ -1296,7 +1296,7 @@ $lang["setup-successheader"] = "Congratulations!";
 $lang["setup-successdetails"] = "Your initial ResourceSpace setup is complete.  Be sure to check out 'include/config.default.php' for more configuration options.";
 $lang["setup-successnextsteps"] = "Next steps:";
 $lang["setup-successremovewrite"] = "You can now remove write access to 'include/'.";
-$lang["setup-visitwiki"] = 'Visit the <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace Knowledge Base</a> for more information about customizing your installation.';
+$lang["setup-visitwiki"] = 'Visit the <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Knowledge Base</a> for more information about customizing your installation.';
 $lang["php-config-file"] = "PHP config: '%phpinifile'"; # %phpinifile will be replaced, e.g. PHP config: '/etc/php5/apache2/php.ini'
 $lang["setup-checkconfigwrite"] = "Write access to config directory:";
 $lang["setup-checkstoragewrite"] = "Write access to storage directory:";
@@ -2263,7 +2263,7 @@ $lang['page-title_user_group_management_edit'] = "Edit user group";
 $lang['page-subtitle_user_group_management_edit'] = "Use this section to modify user group properties.";
 $lang["action-title_remove_user_group_logo"] = "Tick to remove user group logo";
 $lang["action-title_remove_user_group_logo_dark"] = "Tick to remove user group logo - Dark";
-$lang["action-title_see_wiki_for_user_group_advanced_options"] = "Please refer to the <a href='https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options'>Knowledge Base</a> for further help with Advanced options.";
+$lang["action-title_see_wiki_for_user_group_advanced_options"] = "Please refer to the <a href='https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options'>Knowledge Base</a> for further help with Advanced options.";
 
 # admin web edit
 $lang['page-title_web_edit'] = "Edit file";
@@ -2533,7 +2533,7 @@ $lang["all__emailresearchrequestassigned"] = "<br />\n[lang_researchrequestassig
 $lang["all__emailresearchrequestcomplete"] = "<br />\n[lang_researchrequestcompletemessage] <br /><br /> \n[lang_clicklinkviewcollection] <br /><br /> \n<a href=\"[url]\">[url]</a><br /><br />\n[text_footer]\n";
 $lang["all__emailresource"] = "<br />\n[fromusername] [lang_hasemailedyouaresource]<br /><br />\n[message]<br /><br />\n<a href=\"[url]\">[embed_thumbnail]</a><br /><br />\n[lang_clicktoviewresource]<br /><a href=\"[url]\">[resourcename] - [url]</a><br /><br />\n[text_footer]\n";
 $lang["all__emailresourcerequest"] = "<br />\n[lang_username] : [username] <br />\n[list] <br />\n[details]<br /><br />\n[lang_clicktoviewresource] <br /><br />\n<a href=\"[url]\">[url]</a>\n";
-$lang["all__footer"] = "Powered by <a target=\"_blank\" href=\"https://www.resourcespace.com/\">ResourceSpace Open Source Digital Asset Management</a>";
+$lang["all__footer"] = "Powered by <a target=\"_blank\" href=\"https://rhss.info/resourcedam/\">ResourceSpace Open Source Digital Asset Management</a>";
 $lang["all__researchrequest"] = "Let our resources team find the resources you need.";
 $lang["change_language__introtext"] = "Please select your language below.";
 $lang['collection_download__write_metadata_on_download_label'] = 'Embed resource metadata in the downloaded file(s)? Enabling this will slow down your download.';
@@ -2558,7 +2558,7 @@ $lang["download_progress__introtext"] = "Your download will start shortly. When 
 $lang["downloadfile_nofile"] = "The file requested was not found.";
 $lang["edit__batch"] = "";
 $lang["edit__multiple"] = "Please select which fields you wish to overwrite. Fields you do not select will be left untouched.";
-$lang["help__introtext"] = '<p>Get the most out of ResourceSpace. The Knowledge Base will help you use the system and the resources more effectively.</p><p><a href="https://www.resourcespace.com/knowledge-base/" target="_blank" rel="noopener noreferrer">ResourceSpace Knowledge Base</a></p>';
+$lang["help__introtext"] = '<p>Get the most out of ResourceSpace. The Knowledge Base will help you use the system and the resources more effectively.</p><p><a href="https://rhss.info/resourcedam/knowledge-base/" target="_blank" rel="noopener noreferrer">ResourceSpace Knowledge Base</a></p>';
 $lang["home__restrictedtext"] = "Please click on the link that you were e-mailed to access the resources selected for you.";
 $lang["home__restrictedtitle"] = "Welcome to ResourceSpace [ver]";
 $lang["home__welcometext"] = "The leading open source enterprise digital asset management system.";
@@ -3145,7 +3145,7 @@ $lang["iiif"] = "IIIF";
 $lang["property-personal_data"] = "May contain personal data";
 $lang["api-test-tool"] = "API test tool";
 $lang["api-function"] = "API function";
-$lang["api-help"] = 'Please refer to the <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">API documentation</a> for function specifics. <strong>Be careful - any commands you enter will be executed using your live data.</strong>';
+$lang["api-help"] = 'Please refer to the <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">API documentation</a> for function specifics. <strong>Be careful - any commands you enter will be executed using your live data.</strong>';
 $lang["api-view-documentation"] = "View documentation";
 $lang["api-php-code"] = "PHP code";
 $lang["api-php-help"] = "Use the below PHP code on a remote system to call the entered API function with the provided parameters.";

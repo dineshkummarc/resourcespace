@@ -117,7 +117,7 @@ $lang['property-order_by'] = 'Сортувати за';
 $lang['property-indexing'] = '<b>Індексація</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Якщо ви ввімкнете індексацію нижче і поле вже містить дані, вам потрібно буде <a target=_blank href=../tools/reindex_field.php?field=%ref>переіндексувати це поле</a>.';
 $lang['property-index_this_field'] = 'Індексувати це поле';
-$lang['information_index_warning'] = 'Будь ласка, зверніться до <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Бази знань</a> для отримання детальної інформації про індексацію полів.';
+$lang['information_index_warning'] = 'Будь ласка, зверніться до <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Бази знань</a> для отримання детальної інформації про індексацію полів.';
 $lang['information-enable_partial_indexing'] = 'Часткове індексування ключових слів (префіксне+інфіксне індексування) слід використовувати обережно, оскільки це значно збільшить розмір індексу. Дивіться базу знань для деталей.';
 $lang['property-enable_partial_indexing'] = 'Увімкнути часткове індексування';
 $lang['information-shorthand_name'] = 'Важливо: Коротке ім\'я повинно бути встановлене для того, щоб поле з\'явилося на панелі пошуку, в Розширеному пошуку або використовувалося в фільтрах пошуку/редагування. Воно повинно містити лише малі літери алфавіту та/або цифри - без пробілів або символів.';
@@ -1130,7 +1130,7 @@ $lang['setup-successheader'] = 'Вітаємо!';
 $lang['setup-successdetails'] = 'Ваше початкове налаштування ResourceSpace завершено. Обов\'язково перегляньте \'include/config.default.php\' для додаткових параметрів конфігурації.';
 $lang['setup-successnextsteps'] = 'Наступні кроки:';
 $lang['setup-successremovewrite'] = 'Тепер ви можете видалити доступ на запис до \'include/\'.';
-$lang['setup-visitwiki'] = 'Відвідайте <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">Базу знань ResourceSpace</a> для отримання додаткової інформації про налаштування вашої інсталяції.';
+$lang['setup-visitwiki'] = 'Відвідайте <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Базу знань ResourceSpace</a> для отримання додаткової інформації про налаштування вашої інсталяції.';
 $lang['php-config-file'] = 'PHP конфігурація: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Доступ на запис до каталогу конфігурації:';
 $lang['setup-checkstoragewrite'] = 'Доступ на запис до каталогу зберігання:';
@@ -1916,7 +1916,7 @@ $lang['download_limit_request_text'] = 'Досягнуто ліміт заван
 $lang['page-title_user_group_management_edit'] = 'Редагувати групу користувачів';
 $lang['page-subtitle_user_group_management_edit'] = 'Використовуйте цей розділ для зміни властивостей групи користувачів.';
 $lang['action-title_remove_user_group_logo'] = 'Поставте галочку, щоб видалити логотип групи користувачів';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Будь ласка, зверніться до <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Бази знань</a> для отримання додаткової допомоги з розширеними параметрами.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Будь ласка, зверніться до <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Бази знань</a> для отримання додаткової допомоги з розширеними параметрами.';
 $lang['page-title_web_edit'] = 'Редагувати файл';
 $lang['page-subtitle_web_edit'] = 'Використовуйте цей розділ для безпосереднього редагування файлів - використовуйте з обережністю.';
 $lang['page-title_user_group_permissions_edit'] = 'Редагувати дозволи групи користувачів';
@@ -2019,7 +2019,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Працює на <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Працює на <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Дозвольте нашій команді ресурсів знайти ресурси, які вам потрібні.';
 $lang['change_language__introtext'] = 'Будь ласка, виберіть свою мову нижче.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Вбудувати метадані ресурсу в завантажений файл(и)? Увімкнення цього уповільнить ваше завантаження.';
@@ -2049,7 +2049,7 @@ $lang['download_click__introtext'] = 'Щоб завантажити файл р�
 $lang['download_progress__introtext'] = 'Ваше завантаження скоро розпочнеться. Після завершення завантаження скористайтеся наведеними нижче посиланнями, щоб продовжити.';
 $lang['downloadfile_nofile'] = 'Запитаний файл не знайдено.';
 $lang['edit__multiple'] = 'Будь ласка, виберіть поля, які ви бажаєте перезаписати. Поля, які ви не виберете, залишаться незмінними.';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['home__restrictedtext'] = 'Будь ласка, натисніть на посилання, яке вам надіслали електронною поштою, щоб отримати доступ до ресурсів, обраних для вас.';
 $lang['home__restrictedtitle'] = 'Ласкаво просимо до ResourceSpace [ver]';
 $lang['home__welcometitle'] = 'Ласкаво просимо до ResourceSpace [ver]';
@@ -2478,7 +2478,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Може містити персональні дані';
 $lang['api-test-tool'] = 'Інструмент тестування API';
 $lang['api-function'] = 'Функція API';
-$lang['api-help'] = 'Будь ласка, зверніться до <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">документації API</a> для отримання конкретної інформації про функції. <strong>Будьте обережні - будь-які команди, які ви введете, будуть виконані з використанням ваших реальних даних.</strong>';
+$lang['api-help'] = 'Будь ласка, зверніться до <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">документації API</a> для отримання конкретної інформації про функції. <strong>Будьте обережні - будь-які команди, які ви введете, будуть виконані з використанням ваших реальних даних.</strong>';
 $lang['api-view-documentation'] = 'Переглянути документацію';
 $lang['api-php-code'] = 'PHP код';
 $lang['api-php-help'] = 'Використовуйте наведений нижче PHP-код на віддаленій системі, щоб викликати введену API-функцію з наданими параметрами.';

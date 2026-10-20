@@ -119,7 +119,7 @@ $lang['property-order_by'] = 'Ayusin ayon sa';
 $lang['property-indexing'] = '<b>Pagsusunod-sunod</b>';
 $lang['information-if_you_enable_indexing_below_and_the_field_already_contains_data-you_will_need_to_reindex_this_field'] = 'Kung i-enable mo ang indexing sa ibaba at ang field ay mayroon nang data, kakailanganin mong <a target=_blank href=../tools/reindex_field.php?field=%ref>i-reindex ang field na ito</a>.';
 $lang['property-index_this_field'] = 'I-index ang larangang ito';
-$lang['information_index_warning'] = 'Mangyaring sumangguni sa <a href=\'https://www.resourcespace.com/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Knowledge Base</a> para sa detalyadong impormasyon sa pag-index ng mga patlang.';
+$lang['information_index_warning'] = 'Mangyaring sumangguni sa <a href=\'https://rhss.info/resourcedam/knowledge-base/resourceadmin/indexing-metadata\' target=\'_blank\'>Knowledge Base</a> para sa detalyadong impormasyon sa pag-index ng mga patlang.';
 $lang['information-enable_partial_indexing'] = 'Dapat gamitin ang bahagyang pag-index ng keyword (prefix+infix indexing) nang may pag-iingat dahil ito ay makabuluhang magpapalaki sa laki ng index. Tingnan ang Knowledge Base para sa mga detalye. Ang opsyong ito ay hindi tugma sa kumpletong pag-index.';
 $lang['property-enable_partial_indexing'] = 'Paganahin ang bahagyang pag-index';
 $lang['information-enable_complete_indexing'] = 'I-index ang mga halaga ng field bilang isang tuloy-tuloy na keyword para sa field na ito. Ang opsyong ito ay hindi tugma sa partial indexing.';
@@ -1144,7 +1144,7 @@ $lang['setup-successheader'] = 'Congratulations!';
 $lang['setup-successdetails'] = 'Kumpleto na ang iyong paunang setup ng ResourceSpace. Tiyaking tingnan ang \'include/config.default.php\' para sa higit pang mga opsyon sa pagsasaayos.';
 $lang['setup-successnextsteps'] = 'Susunod na mga hakbang:';
 $lang['setup-successremovewrite'] = 'Maaari mo nang alisin ang write access sa \'include/\'.';
-$lang['setup-visitwiki'] = 'Bisitahin ang <a target="_blank" href="https://www.resourcespace.com/knowledge-base/">ResourceSpace Knowledge Base</a> para sa karagdagang impormasyon tungkol sa pag-customize ng iyong installation.';
+$lang['setup-visitwiki'] = 'Bisitahin ang <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Knowledge Base</a> para sa karagdagang impormasyon tungkol sa pag-customize ng iyong installation.';
 $lang['php-config-file'] = 'PHP config: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Pagsusulat ng access sa config directory';
 $lang['setup-checkstoragewrite'] = 'Pagsusulat ng access sa direktoryo ng imbakan';
@@ -1938,7 +1938,7 @@ $lang['page-title_user_group_management_edit'] = 'I-edit ang grupo ng gumagamit'
 $lang['page-subtitle_user_group_management_edit'] = 'Gamitin ang seksyong ito upang baguhin ang mga katangian ng grupo ng gumagamit.';
 $lang['action-title_remove_user_group_logo'] = 'Lagyan ng tsek upang alisin ang logo ng grupo ng gumagamit';
 $lang['action-title_remove_user_group_logo_dark'] = 'Lagyan ng tsek upang alisin ang logo ng grupo ng gumagamit - Madilim';
-$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Mangyaring sumangguni sa <a href=\'https://www.resourcespace.com/knowledge-base/systemadmin/advanced-user-group-options\'>Knowledge Base</a> para sa karagdagang tulong sa Advanced options.';
+$lang['action-title_see_wiki_for_user_group_advanced_options'] = 'Mangyaring sumangguni sa <a href=\'https://rhss.info/resourcedam/knowledge-base/systemadmin/advanced-user-group-options\'>Knowledge Base</a> para sa karagdagang tulong sa Advanced options.';
 $lang['page-title_web_edit'] = 'I-edit ang file';
 $lang['page-subtitle_web_edit'] = 'Gamitin ang seksyong ito upang direktang i-edit ang mga file - gamitin nang may pag-iingat.';
 $lang['page-title_user_group_permissions_edit'] = 'I-edit ang mga pahintulot ng grupo ng gumagamit';
@@ -2046,7 +2046,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Pinapagana ng <a target="_blank" href="https://www.resourcespace.com/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Pinapagana ng <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Hayaan ang aming koponan ng mga yaman na hanapin ang mga yaman na kailangan mo.';
 $lang['change_language__introtext'] = 'Paki pili ang iyong wika sa ibaba.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Isama ang metadata ng resource sa na-download na file(s)? Ang pag-enable nito ay magpapabagal sa iyong pag-download.';
@@ -2076,7 +2076,7 @@ $lang['download_click__introtext'] = 'Upang i-download ang resource file, i-righ
 $lang['download_progress__introtext'] = 'Ang iyong pag-download ay magsisimula sa lalong madaling panahon. Kapag natapos ang iyong pag-download, gamitin ang mga link sa ibaba upang magpatuloy.';
 $lang['downloadfile_nofile'] = 'Hindi natagpuan ang hiniling na file.';
 $lang['edit__multiple'] = 'Paki piliin kung aling mga patlang ang nais mong palitan. Ang mga patlang na hindi mo pipiliin ay mananatiling hindi nagalaw.';
-$lang['help__introtext'] = '<iframe src="https://www.resourcespace.com/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
+$lang['help__introtext'] = '<iframe src="https://rhss.info/resourcedam/knowledge-base/?from_rs=true" style="width:1235px;height:600px;border:none;margin:-20px;" id="knowledge_base" />';
 $lang['home__restrictedtext'] = 'Mangyaring i-click ang link na ipinadala sa iyo sa e-mail upang ma-access ang mga mapagkukunan na napili para sa iyo.';
 $lang['home__restrictedtitle'] = 'Maligayang pagdating sa ResourceSpace [ver]';
 $lang['home__welcometitle'] = 'Maligayang pagdating sa ResourceSpace [ver]';
@@ -2511,7 +2511,7 @@ $lang['iiif'] = 'IIIF';
 $lang['property-personal_data'] = 'Maaaring maglaman ng personal na impormasyon';
 $lang['api-test-tool'] = 'API test tool';
 $lang['api-function'] = 'API function';
-$lang['api-help'] = 'Mangyaring sumangguni sa <a target="_blank" href="https://www.resourcespace.com/knowledge-base/api">dokumentasyon ng API</a> para sa mga detalye ng function. <strong>Mag-ingat - anumang utos na iyong ipapasok ay isasagawa gamit ang iyong aktwal na data.</strong>';
+$lang['api-help'] = 'Mangyaring sumangguni sa <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/api">dokumentasyon ng API</a> para sa mga detalye ng function. <strong>Mag-ingat - anumang utos na iyong ipapasok ay isasagawa gamit ang iyong aktwal na data.</strong>';
 $lang['api-view-documentation'] = 'Tingnan ang dokumentasyon';
 $lang['api-php-code'] = 'PHP code';
 $lang['api-php-help'] = 'Gamitin ang ibinigay na PHP code sa isang malalayong sistema upang tawagan ang ipinasok na API function gamit ang ibinigay na mga parameter.';
