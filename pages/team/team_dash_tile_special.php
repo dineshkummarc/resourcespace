@@ -49,7 +49,7 @@ include "../../include/header.php";
                     "modifylink"     => "true",
                     "freetext"       => "Helpful tips here",
                     "tile_audience"  => "true",
-                    "link"           => "https://resourcespace.com/knowledge-base/",
+                    "link"           => "https://rhss.info/resourcedam/knowledge-base/",
                     "title"          => "Knowledge Base"
                 ]); ?>"
             >

@@ -146,7 +146,7 @@ include "../../include/header.php";
                             "modifylink"    => "true",
                             "freetext"      => "Helpful tips here",
                             "all_users"     => "0",
-                            "link"          => "https://resourcespace.com/knowledge-base/",
+                            "link"          => "https://rhss.info/resourcedam/knowledge-base/",
                             "title"         => "Knowledge Base",
                         ]
                     ); ?>"><?php echo LINK_CARET ?><?php echo escape($lang["createdashtilefreetext"]); ?></a>
