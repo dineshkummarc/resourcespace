@@ -880,7 +880,7 @@ $lang['setup-successheader'] = 'Glückwunsch!';
 $lang['setup-successdetails'] = 'Ihre ResourceDAM Installation ist abgeschlossen. Weitere Konfigurationsoptionen finden Sie in der Datei \'include/config.default.php\'.';
 $lang['setup-successnextsteps'] = 'Nächste Schritte:';
 $lang['setup-successremovewrite'] = 'Sie können nun den Schreibzugriff auf den Ordner \'include/\' entfernen.';
-$lang['setup-visitwiki'] = 'Besuchen Sie das <a target="_blank" href="http://www.resourcespace.com/knowledge-base/">ResourceSpace Knowledge Base</a> für weitere Informationen über die Anpassung Ihrer Installation';
+$lang['setup-visitwiki'] = 'Besuchen Sie das <a target="_blank" href="http://www.ResourceDAM.com/knowledge-base/">ResourceSpace Knowledge Base</a> für weitere Informationen über die Anpassung Ihrer Installation';
 $lang['php-config-file'] = 'PHP config: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Schreibzugriff auf Konfigurationsverzeichnis:';
 $lang['setup-checkstoragewrite'] = 'Schreibzugriff auf Datenverzeichnis:';
@@ -1023,7 +1023,7 @@ $lang['plugins-deactivate'] = 'Deaktivieren';
 $lang['plugins-moreinfo'] = 'Weitere Infos';
 $lang['plugins-activate'] = 'Aktivieren';
 $lang['plugins-purge'] = 'Konfiguration bereinigen';
-$lang['plugins-headertext'] = 'Plugins erweitern die Funktionalität von ResourceSpace.';
+$lang['plugins-headertext'] = 'Plugins erweitern die Funktionalität von ResourceDAM.';
 $lang['plugins-legacyinst'] = 'Aktiviert durch die Datei config.php';
 $lang['plugins-upload-title'] = 'Konfiguration aus Datei laden';
 $lang['plugins-upload'] = 'Konfiguration hochladen';
@@ -1542,7 +1542,7 @@ $lang['edit__multiple'] = 'Bitte wählen Sie die Felder aus, die Sie verändern 
 $lang['home__restrictedtext'] = 'Bitte klicken Sie auf den Link, den Sie per E-Mail erhalten haben, um auf die für Sie ausgesuchten Ressourcen zuzugreifen.';
 $lang['home__restrictedtitle'] = 'Willkommen bei ResourceDAM [ver]';
 $lang['home__welcometitle'] = 'Willkommen bei ResourceDAM [ver]';
-$lang['login__welcomelogin'] = 'Willkommen bei ResourceSpace. Bitte loggen Sie sich ein...';
+$lang['login__welcomelogin'] = 'Willkommen bei ResourceDAM. Bitte loggen Sie sich ein...';
 $lang['research_request__introtext'] = 'Unser Team unterstützt Sie dabei, die optimalen Ressourcen für Ihre Projekte zu finden. Füllen Sie dieses Formular bitte möglichst vollständig aus, damit wir Ihre Anforderungen erfüllen können.
 <br /><br />
 Wir werden Sie kontinuierlich informieren. Sobald wir Ihre Anfrage bearbeitet haben, werden Sie eine E-Mail mit einem Link zu den von uns empfohlenen Bildern erhalten.';
@@ -1991,7 +1991,7 @@ $lang['contact_sheet-field_name_option'] = 'Feldnamen mit Daten einschließen?';
 $lang['contact_sheet_field_template_fields'] = 'Angezeigte Felder';
 $lang['contact_sheet_select_fields'] = 'Wählen Sie Metadatenfelder aus, die auf dem Kontaktbogen angezeigt werden sollen';
 $lang['contact_sheet_footer_address'] = 'XXX HAUPTSTRASSE, STADT, ABC 123 - TEL: (111) 000-8888 - FAX: (000) 111-9999';
-$lang['contact_sheet_footer_copyright'] = '&#0169; ResourceSpace. Alle Rechte vorbehalten.';
+$lang['contact_sheet_footer_copyright'] = '&#0169; ResourceDAM. Alle Rechte vorbehalten.';
 $lang['pdffile'] = 'PDF-Datei';
 $lang['metadata-pdf-title'] = 'Metadaten-Download für Ressource';
 $lang['group_download_limit_title'] = 'Ressourcen-Download-Limit. Auf 0 setzen für kein Limit';

@@ -2751,7 +2751,7 @@ $lang['kilobyte-symbol-binary'] = 'KiB';
 $lang['megabyte-symbol-binary'] = 'MiB';
 $lang['gigabyte-symbol-binary'] = 'GiB';
 $lang['contact_sheet_footer_address'] = 'XXX MAIN STREET, CITY, ABC 123 - TEL: (111) 000-8888 - FAX: (000) 111-9999';
-$lang['contact_sheet_footer_copyright'] = '&#0169; ResourceSpace. สงวนลิขสิทธิ์ทั้งหมด';
+$lang['contact_sheet_footer_copyright'] = '&#0169; ResourceDAM. สงวนลิขสิทธิ์ทั้งหมด';
 $lang['all__emailnotifyresourcesapproved'] = '[lang_userresourcesapproved] [list] <br /> [lang_viewcontributedsubittedl] <br /><br /> <a href="[url]">[url]</a><br /><br /> [text_footer]';
 $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessage] <br /><br /> 
 [lang_clicklinkviewcollection] <br /><br /> 

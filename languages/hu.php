@@ -2760,7 +2760,7 @@ $lang['yyyy-mm-dd'] = 'YYYY-MM-DD';
 $lang['kilobyte-symbol-binary'] = 'KiB';
 $lang['megabyte-symbol-binary'] = 'MiB';
 $lang['contact_sheet_footer_address'] = 'XXX MAIN STREET, CITY, ABC 123 - TEL: (111) 000-8888 - FAX: (000) 111-9999';
-$lang['contact_sheet_footer_copyright'] = '&#0169; ResourceSpace. Minden jog fenntartva.';
+$lang['contact_sheet_footer_copyright'] = '&#0169; ResourceDAM. Minden jog fenntartva.';
 $lang['comments_in-response-to-on'] = 'be';
 $lang['all__emailcontactadmin'] = '<br />[fromusername] ([emailfrom])[lang_contactadminemailtext]<br /><br />[message]<br /><br /><a href="[url]">[embed_thumbnail]</a><br /><br />[text_footer]';
 $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessage]
