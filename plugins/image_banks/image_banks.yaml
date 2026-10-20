@@ -2,7 +2,7 @@ name: image_banks
 title: Image Banks
 author: Montala Ltd.
 version: 1.0
-desc: Search free/commercial image libraries from within ResourceSpace.
+desc: Search free/commercial image libraries from within ResourceDAM.
 icon: camera
 icon-colour: black
 info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/image-banks
