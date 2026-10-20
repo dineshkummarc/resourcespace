@@ -1,6 +1,6 @@
 <?php
 
-use Montala\ResourceSpace\CommandPlaceholderArg;
+use Montala\ResourceDAM\CommandPlaceholderArg;
 
 include_once "../../../include/boot.php";
 include_once "../../../include/authenticate.php";
