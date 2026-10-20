@@ -1,7 +1,7 @@
 <?php
 
 # English
-# Language File for the ResourceSpace Falcon Link Plugin
+# Language File for the resourceDAM Falcon Link Plugin
 # -------
 #
 #

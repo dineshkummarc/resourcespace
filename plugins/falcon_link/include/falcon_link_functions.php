@@ -84,7 +84,7 @@ function falcon_link_publish($resources, $template_text, $template_tags)
     }
     $falcon_errors = array();
 
-    $hide_real_filepath = true; // Set so that Falcon doesn't use the real filestore path. This allows access to be revoked from ResourceSpace if necessary
+    $hide_real_filepath = true; // Set so that Falcon doesn't use the real filestore path. This allows access to be revoked from resourceDAM if necessary
 
     foreach ($resources as $resource) {
         $ref = $resource["ref"];
