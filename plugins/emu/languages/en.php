@@ -28,7 +28,7 @@ $lang['emu_search_criteria'] = 'Search criteria for syncing EMu with resourceDAM
 $lang['emu_rs_mappings_header'] = 'EMu - resourceDAM mapping rules';
 $lang['emu_module'] = 'EMu module';
 $lang['emu_column_name'] = 'EMu module column';
-$lang['emu_rs_field'] = 'ResourceSpace field';
+$lang['emu_rs_field'] = 'ResourceDAM field';
 $lang['emu_add_mapping'] = 'Add mapping';
 
 $lang['emu_upload_emu_field_label'] = 'EMu IRN';
