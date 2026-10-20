@@ -1,7 +1,7 @@
 <?php
 
 // Included from preview_preprocessing.php
-use Montala\ResourceSpace\CommandPlaceholderArg;
+use Montala\ResourceDAM\CommandPlaceholderArg;
 
 /**
  * Processes all unprocessed audio/video resources supported by tesseract.
