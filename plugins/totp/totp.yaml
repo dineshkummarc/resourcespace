@@ -6,4 +6,4 @@ desc: TFA/MFA support via Google Authenticator
 icon: qr-code
 category: Authentication
 config_url: /plugins/totp/pages/setup.php
-info_url: https://www.resourcespace.com/knowledge-base/plugins/totp
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/totp
