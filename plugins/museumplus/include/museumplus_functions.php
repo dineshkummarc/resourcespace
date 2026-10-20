@@ -567,7 +567,7 @@ function mplus_validate_association(array $ramc, bool $use_technical_id, bool $f
                     continue;
                     }
                 // Search returned more records than we searched for. Issue on MuseumPlus side, a virtual ID has been re-used
-                // on multiple module items. ResourceSpace would be unable to determine which module item is the one 
+                // on multiple module items. resourceDAM would be unable to determine which module item is the one 
                 // meant to be "linked" to the resource.
                 elseif($totalSize > count($resources_chunk))
                     {

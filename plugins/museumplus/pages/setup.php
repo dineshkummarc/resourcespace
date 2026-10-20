@@ -30,7 +30,7 @@ $page_def[] = config_add_text_input('museumplus_application', $lang['museumplus_
 $page_def[] = config_add_text_input('museumplus_api_user', $lang['museumplus_api_user']);
 $page_def[] = config_add_text_input('museumplus_api_pass', $lang['museumplus_api_pass'], true);
 
-// ResourceSpace settings
+// resourceDAM settings
 $page_def[] = config_add_section_header($lang['museumplus_RS_settings_header']);
 $page_def[] = config_add_single_ftype_select(
     'museumplus_module_name_field',

@@ -12,7 +12,7 @@ $lang['museumplus_api_pass'] = $lang['password'] = "Password";
 $lang['museumplus_RS_settings_header'] = 'ResourceSpace settings';
 $lang['museumplus_mpid_field'] = 'Metadata field used to store the MuseumPlus identifier (MpID)';
 $lang['museumplus_module_name_field'] = 'Metadata field used to hold the modules\' name for which the MpID is valid. IF not set, the plugin will fallback to the "Object" module configuration.';
-$lang['museumplus_secondary_links_field'] = 'Metadata field used to hold the secondary links to other modules. ResourceSpace will generate a MuseumPlus URL for each of the links. Links will have a special syntax format: module_name:ID (e.g. "Object:1234")';
+$lang['museumplus_secondary_links_field'] = 'Metadata field used to hold the secondary links to other modules. resourceDAM will generate a MuseumPlus URL for each of the links. Links will have a special syntax format: module_name:ID (e.g. "Object:1234")';
 $lang['museumplus_object_details_title'] = 'MuseumPlus details';
 
 $lang['museumplus_script_header'] = 'Script settings';
@@ -37,7 +37,7 @@ $lang["museumplus_mplus_id_field"] = "MuseumPlus ID field name";
 $lang["museumplus_mplus_id_field_helptxt"] = "Leave empty to use the technical ID '__id' (default)";
 $lang["museumplus_rs_uid_field"] = "ResourceSpace UID field";
 $lang["museumplus_applicable_resource_types"] = "Applicable resource type(s)";
-$lang["museumplus_field_mappings"] = "MuseumPlus - ResourceSpace field mappings";
+$lang["museumplus_field_mappings"] = "MuseumPlus - resourceDAM field mappings";
 $lang['museumplus_add_mapping'] = 'Add mapping';
 
 

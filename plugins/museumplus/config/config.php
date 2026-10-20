@@ -27,7 +27,7 @@ $museumplus_api_batch_chunk_size = (isset($GLOBALS['museumplus_api_batch_chunk_s
 
 
 ############################################################
-### ResourceSpace settings #################################
+### resourceDAM settings #################################
 ############################################################
 $museumplus_module_name_field = 0;
 // Field to hold extra secondary links. RS will just generate appropriate M+ URLs based on each link. Secondary links 
@@ -62,7 +62,7 @@ $museumplus_integrity_check_field = 0; # NOT IN USE until we can reliably get in
 
 
 ############################################################
-### MuseumPlus - ResourceSpace modules setup ###############
+### MuseumPlus - resourceDAM modules setup ###############
 ############################################################
 $museumplus_modules_saved_config = plugin_encode_complex_configs([
     1 => [
