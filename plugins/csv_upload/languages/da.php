@@ -61,7 +61,7 @@ $lang["csv_upload_error_file_missing"] = 'Fejl - CSV-fil mangler: [file]';
 $lang["csv_upload_full_messages_link"] = 'Viser kun de første 1000 linjer. Klik <a href=\'[log_url]\' target=\'_blank\'>her</a> for at downloade hele logfilen';
 $lang["csv_upload_ignore_errors"] = 'Ignorer fejl og behandle filen alligevel';
 $lang["csv_upload_process_offline_quick"] = 'Spring over validering og behandle CSV-fil offline? Dette bør kun bruges til store CSV-filer, når test på mindre filer er afsluttet. Du vil blive underrettet via en ResourceDAM-besked, når upload er fuldført';
-$lang["csv_upload_force_offline"] = 'Denne store CSV-fil kan tage lang tid at behandle, så den vil blive kørt offline. Du vil blive underrettet via en besked i ResourceSpace, når behandlingen er færdig';
+$lang["csv_upload_force_offline"] = 'Denne store CSV-fil kan tage lang tid at behandle, så den vil blive kørt offline. Du vil blive underrettet via en besked i ResourceDAM, når behandlingen er færdig';
 $lang["csv_upload_recommend_offline"] = 'Denne store CSV-fil kan tage meget lang tid at behandle. Det anbefales at aktivere offline-job, hvis du har brug for at behandle store CSV-filer';
 $lang["csv_upload_createdfromcsvupload"] = 'Oprettet fra CSV Upload-plugin';
 $lang["plugin-csv_upload-title"] = 'CSV Upload';
