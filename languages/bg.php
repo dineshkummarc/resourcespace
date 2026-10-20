@@ -1204,7 +1204,7 @@ $lang['setup-successheader'] = 'Поздравления!';
 $lang['setup-successdetails'] = 'Вашата първоначална настройка на ResourceSpace е завършена. Не забравяйте да прегледате \'include\\/config.default.php\' за повече опции за конфигуриране.';
 $lang['setup-successnextsteps'] = 'Следващи стъпки:';
 $lang['setup-successremovewrite'] = 'Сега можете да премахнете правата за писане към \'include\\/\' .';
-$lang['setup-visitwiki'] = 'Посетете <a target="_blank" href="https:\\/\\/www.resourcespace.com\\/knowledge-base\\/">Базата знания ResourceSpace<\\/a> за повече информация относно персонализирането на вашата инсталация.';
+$lang['setup-visitwiki'] = 'Посетете <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/">Базата знания ResourceSpace<\\/a> за повече информация относно персонализирането на вашата инсталация.';
 $lang['php-config-file'] = 'PHP конфигурационен файл: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Права за писане към конфигурационната директория:';
 $lang['setup-checkstoragewrite'] = 'Права за писане към директорията за съхранение:';
@@ -2301,7 +2301,7 @@ $lang['download_click__introtext'] = 'За да изтеглите файла с
 $lang['download_progress__introtext'] = 'Изтеглянето ви ще започне скоро. Когато завърши, използвайте линковете по-долу, за да продължите.';
 $lang['downloadfile_nofile'] = 'Заявеното файл не беше намерен.';
 $lang['edit__multiple'] = 'Моля, изберете полетата, които желаете да презапишете. Полетата, които не изберете, ще останат непроменени.';
-$lang['help__introtext'] = '<p>Използвайте ResourceSpace максимално. Базата знания ще ви помогне да използвате системата и ресурсите по-ефективно.<\\/p><p><a href="https:\\/\\/www.resourcespace.com\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">База знания ResourceSpace<\\/a><\\/p>';
+$lang['help__introtext'] = '<p>Използвайте ResourceSpace максимално. Базата знания ще ви помогне да използвате системата и ресурсите по-ефективно.<\\/p><p><a href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">База знания ResourceSpace<\\/a><\\/p>';
 $lang['home__restrictedtext'] = 'Моля, кликнете върху линка, който ви беше изпратен по имейл, за да получите достъп до избраните ресурси.';
 $lang['home__restrictedtitle'] = 'Добре дошли в ResourceSpace [ver]';
 $lang['home__welcometitle'] = 'Добре дошли в ResourceSpace [ver]';

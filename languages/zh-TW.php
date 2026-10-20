@@ -1189,7 +1189,7 @@ $lang['setup-successheader'] = '恭喜！';
 $lang['setup-successdetails'] = '您的初始 ResourceSpace 設置已完成。請務必查看 \'include\\/config.default.php\' 以獲取更多配置選項。';
 $lang['setup-successnextsteps'] = '下一步：';
 $lang['setup-successremovewrite'] = '您現在可以移除對 \'include\\/\' 的寫入權限。';
-$lang['setup-visitwiki'] = '訪問 <a target="_blank" href="https:\\/\\/www.resourcespace.com\\/knowledge-base\\/">ResourceSpace 知識庫</a> 以獲取有關自定義您的安裝的更多資訊。';
+$lang['setup-visitwiki'] = '訪問 <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/">ResourceSpace 知識庫</a> 以獲取有關自定義您的安裝的更多資訊。';
 $lang['php-config-file'] = 'PHP 配置： \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = '配置目錄的寫入權限：';
 $lang['setup-checkstoragewrite'] = '存儲目錄的寫入權限：';
@@ -2289,7 +2289,7 @@ $lang['download_click__introtext'] = '要下載資源檔案，請右鍵點擊下
 $lang['download_progress__introtext'] = '您的下載即將開始。下載完成後，請使用下方的連結繼續操作。';
 $lang['downloadfile_nofile'] = '未找到所請求的檔案。';
 $lang['edit__multiple'] = '請選擇您想要覆蓋的欄位。未選擇的欄位將保持不變。';
-$lang['help__introtext'] = '<p>充分利用 ResourceSpace。知識庫將幫助您更有效地使用系統和資源。<\\/p><p><a href="https:\\/\\/www.resourcespace.com\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">ResourceSpace 知識庫<\\/a><\\/p>';
+$lang['help__introtext'] = '<p>充分利用 ResourceSpace。知識庫將幫助您更有效地使用系統和資源。<\\/p><p><a href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">ResourceSpace 知識庫<\\/a><\\/p>';
 $lang['home__restrictedtext'] = '請點擊您收到的電子郵件中的連結，以存取為您選擇的資源。';
 $lang['home__restrictedtitle'] = '歡迎使用 ResourceSpace [ver]';
 $lang['home__welcometitle'] = '歡迎使用 ResourceSpace [ver]';
