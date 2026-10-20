@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Εισαγωγή χρηστών μαζικά';
 $lang["csv_user_import_import"] = 'Εισαγωγή';
 $lang["csv_user_import"] = 'Εισαγωγή χρηστών CSV';
-$lang["csv_user_import_intro"] = 'Χρησιμοποιήστε αυτήν τη δυνατότητα για να εισαγάγετε μια παρτίδα χρηστών στο ResourceSpace. Παρακαλούμε δώστε ιδιαίτερη προσοχή στη μορφή του αρχείου CSV σας και ακολουθήστε τα παρακάτω πρότυπα:';
+$lang["csv_user_import_intro"] = 'Χρησιμοποιήστε αυτήν τη δυνατότητα για να εισαγάγετε μια παρτίδα χρηστών στο ResourceDAM. Παρακαλούμε δώστε ιδιαίτερη προσοχή στη μορφή του αρχείου CSV σας και ακολουθήστε τα παρακάτω πρότυπα:';
 $lang["csv_user_import_upload_file"] = 'Επιλέξτε αρχείο';
 $lang["csv_user_import_processing_file"] = 'ΕΠΕΞΕΡΓΑΣΙΑ ΑΡΧΕΙΟΥ...';
 $lang["csv_user_import_error_found"] = 'Βρέθηκαν σφάλματα - ακύρωση';

@@ -4,7 +4,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Import pengguna secara pukal';
 $lang["csv_user_import_import"] = 'Importar';
 $lang["csv_user_import"] = 'Import pengguna CSV';
-$lang["csv_user_import_intro"] = 'Gunakan ciri ini untuk mengimport sekumpulan pengguna ke ResourceSpace. Sila beri perhatian yang teliti kepada format fail CSV anda dan ikuti piawaian di bawah:';
+$lang["csv_user_import_intro"] = 'Gunakan ciri ini untuk mengimport sekumpulan pengguna ke ResourceDAM. Sila beri perhatian yang teliti kepada format fail CSV anda dan ikuti piawaian di bawah:';
 $lang["csv_user_import_upload_file"] = 'Pilih fail';
 $lang["csv_user_import_processing_file"] = 'MEMPROSES FAIL...';
 $lang["csv_user_import_error_found"] = 'Ralat yang ditemui - membatalkan';

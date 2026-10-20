@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Ingizo la watumiaji kwa wingi';
 $lang["csv_user_import_import"] = 'Ingiza';
 $lang["csv_user_import"] = 'Uagizaji wa watumiaji wa CSV';
-$lang["csv_user_import_intro"] = 'Tumia kipengele hiki kuingiza kundi la watumiaji kwenye ResourceSpace. Tafadhali zingatia kwa makini muundo wa faili yako ya CSV na fuata viwango vilivyo hapa chini:';
+$lang["csv_user_import_intro"] = 'Tumia kipengele hiki kuingiza kundi la watumiaji kwenye ResourceDAM. Tafadhali zingatia kwa makini muundo wa faili yako ya CSV na fuata viwango vilivyo hapa chini:';
 $lang["csv_user_import_upload_file"] = 'Chagua faili';
 $lang["csv_user_import_processing_file"] = 'INACHAMBUA FAILI...';
 $lang["csv_user_import_error_found"] = 'Hitilafu zimepatikana - kusitisha';

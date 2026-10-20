@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Import partii użytkowników';
 $lang["csv_user_import_import"] = 'Import - Importuj';
 $lang["csv_user_import"] = 'Import użytkowników z pliku CSV';
-$lang["csv_user_import_intro"] = 'Użyj tej funkcji, aby zaimportować partię użytkowników do ResourceSpace. Proszę zwrócić szczególną uwagę na format pliku CSV i postępować zgodnie ze standardami poniżej:';
+$lang["csv_user_import_intro"] = 'Użyj tej funkcji, aby zaimportować partię użytkowników do ResourceDAM. Proszę zwrócić szczególną uwagę na format pliku CSV i postępować zgodnie ze standardami poniżej:';
 $lang["csv_user_import_upload_file"] = 'Wybierz plik';
 $lang["csv_user_import_processing_file"] = 'PRZETWARZANIE PLIKU...';
 $lang["csv_user_import_error_found"] = 'Błąd(y) znaleziono - przerywanie';

@@ -4,7 +4,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Nhập khẩu người dùng theo lô';
 $lang["csv_user_import_import"] = 'Nhập khẩu';
 $lang["csv_user_import"] = 'Nhập người dùng từ CSV';
-$lang["csv_user_import_intro"] = 'Sử dụng tính năng này để nhập một lô người dùng vào ResourceSpace. Vui lòng chú ý đến định dạng của tệp CSV của bạn và tuân theo các tiêu chuẩn dưới đây:';
+$lang["csv_user_import_intro"] = 'Sử dụng tính năng này để nhập một lô người dùng vào ResourceDAM. Vui lòng chú ý đến định dạng của tệp CSV của bạn và tuân theo các tiêu chuẩn dưới đây:';
 $lang["csv_user_import_upload_file"] = 'Chọn tệp';
 $lang["csv_user_import_processing_file"] = 'ĐANG XỬ LÝ TẬP TIN...';
 $lang["csv_user_import_error_found"] = 'Lỗi được phát hiện - hủy bỏ';

@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Mewnos defnyddiwr swp';
 $lang["csv_user_import_import"] = 'Mewnos';
 $lang["csv_user_import"] = 'Mewnos defnyddiwr CSV';
-$lang["csv_user_import_intro"] = 'Defnyddiwch y nodwedd hon i fewngofnodi swp o ddefnyddwyr i ResourceSpace. Sylwch yn fanwl ar fformat eich ffeil CSV a dilynwch y safonau isod:';
+$lang["csv_user_import_intro"] = 'Defnyddiwch y nodwedd hon i fewngofnodi swp o ddefnyddwyr i ResourceDAM. Sylwch yn fanwl ar fformat eich ffeil CSV a dilynwch y safonau isod:';
 $lang["csv_user_import_upload_file"] = 'Dewiswch ffeil';
 $lang["csv_user_import_processing_file"] = 'PROSESU FFEIL...';
 $lang["csv_user_import_error_found"] = 'Gwallau wedi\'u darganfod - yn canslo';

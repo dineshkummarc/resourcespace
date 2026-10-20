@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Importació massiva d\'usuaris';
 $lang["csv_user_import_import"] = 'Importar';
 $lang["csv_user_import"] = 'Importació d\'usuaris CSV';
-$lang["csv_user_import_intro"] = 'Utilitzeu aquesta funció per importar un lot d\'usuaris a ResourceSpace. Si us plau, presteu molta atenció al format del fitxer CSV i seguiu les normes següents:';
+$lang["csv_user_import_intro"] = 'Utilitzeu aquesta funció per importar un lot d\'usuaris a ResourceDAM. Si us plau, presteu molta atenció al format del fitxer CSV i seguiu les normes següents:';
 $lang["csv_user_import_upload_file"] = 'Selecciona fitxer';
 $lang["csv_user_import_processing_file"] = 'PROCESSANT FITXER...';
 $lang["csv_user_import_error_found"] = 'S\'han trobat error(s) - avortant';

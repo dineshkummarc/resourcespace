@@ -4,7 +4,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Batch user import';
 $lang["csv_user_import_import"] = 'I-import';
 $lang["csv_user_import"] = 'CSV na pag-import ng gumagamit';
-$lang["csv_user_import_intro"] = 'Gamitin ang tampok na ito upang mag-import ng isang batch ng mga gumagamit sa ResourceSpace. Mangyaring bigyang-pansin ang format ng iyong CSV file at sundin ang mga pamantayang nasa ibaba:';
+$lang["csv_user_import_intro"] = 'Gamitin ang tampok na ito upang mag-import ng isang batch ng mga gumagamit sa ResourceDAM. Mangyaring bigyang-pansin ang format ng iyong CSV file at sundin ang mga pamantayang nasa ibaba:';
 $lang["csv_user_import_upload_file"] = 'Pumili ng file';
 $lang["csv_user_import_processing_file"] = 'NAGPROPROSESO NG FILE...';
 $lang["csv_user_import_error_found"] = 'Nahanap ang error(s) - itinatigil';

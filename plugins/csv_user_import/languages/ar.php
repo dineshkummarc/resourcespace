@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'استيراد مستخدمين دفعة واحدة';
 $lang["csv_user_import_import"] = 'استيراد';
 $lang["csv_user_import"] = 'استيراد مستخدمي CSV';
-$lang["csv_user_import_intro"] = 'استخدم هذه الميزة لاستيراد دفعة من المستخدمين إلى ResourceSpace. يرجى إيلاء اهتمام كبير لتنسيق ملف CSV الخاص بك واتباع المعايير التالية:';
+$lang["csv_user_import_intro"] = 'استخدم هذه الميزة لاستيراد دفعة من المستخدمين إلى ResourceDAM. يرجى إيلاء اهتمام كبير لتنسيق ملف CSV الخاص بك واتباع المعايير التالية:';
 $lang["csv_user_import_upload_file"] = 'اختر ملف';
 $lang["csv_user_import_processing_file"] = 'معالجة الملف...';
 $lang["csv_user_import_error_found"] = 'تم العثور على خطأ (أخطاء) - إحباط';

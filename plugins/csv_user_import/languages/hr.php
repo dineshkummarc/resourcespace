@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Grupni uvoz korisnika';
 $lang["csv_user_import_import"] = 'Uvoz';
 $lang["csv_user_import"] = 'Uvoz korisnika putem CSV-a';
-$lang["csv_user_import_intro"] = 'Koristite ovu značajku za uvoz grupe korisnika u ResourceSpace. Molimo obratite pažnju na format vaše CSV datoteke i slijedite sljedeće standarde:';
+$lang["csv_user_import_intro"] = 'Koristite ovu značajku za uvoz grupe korisnika u ResourceDAM. Molimo obratite pažnju na format vaše CSV datoteke i slijedite sljedeće standarde:';
 $lang["csv_user_import_upload_file"] = 'Odaberi datoteku';
 $lang["csv_user_import_processing_file"] = 'OBRADA DATOTEKE...';
 $lang["csv_user_import_error_found"] = 'Pronađene su greške - prekidam';

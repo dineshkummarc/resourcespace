@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Importazione in blocco di utenti';
 $lang["csv_user_import_import"] = 'Importazione';
 $lang["csv_user_import"] = 'Importazione utenti CSV';
-$lang["csv_user_import_intro"] = 'Usa questa funzione per importare un gruppo di utenti in ResourceSpace. Presta attenzione al formato del tuo file CSV e segui gli standard riportati di seguito:';
+$lang["csv_user_import_intro"] = 'Usa questa funzione per importare un gruppo di utenti in ResourceDAM. Presta attenzione al formato del tuo file CSV e segui gli standard riportati di seguito:';
 $lang["csv_user_import_upload_file"] = 'Seleziona file';
 $lang["csv_user_import_processing_file"] = 'ELABORAZIONE DEL FILE...';
 $lang["csv_user_import_error_found"] = 'Error(i) trovato(i) - abortendo';

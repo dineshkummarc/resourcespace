@@ -4,7 +4,7 @@
 $lang["csv_user_import_batch_user_import"] = 'هەڵبژاردنی بەشەکانی بەکارهێنەر';
 $lang["csv_user_import_import"] = 'هەڵبژاردن';
 $lang["csv_user_import"] = 'هەڵبژاردنی بەکارهێنەر لە CSV';
-$lang["csv_user_import_intro"] = 'ئەم تایبەتمەندیە بەکاربهێنە بۆ هەڵبژاردنی بەشێک لە بەکارهێنەرانی ResourceSpace. تکایە سەرنجی زۆر بدە لە فۆرماتەکانی فایلەکەت و پەیوەندیدانی ئەم ستانداردانە بکە:';
+$lang["csv_user_import_intro"] = 'ئەم تایبەتمەندیە بەکاربهێنە بۆ هەڵبژاردنی بەشێک لە بەکارهێنەرانی ResourceDAM. تکایە سەرنجی زۆر بدە لە فۆرماتەکانی فایلەکەت و پەیوەندیدانی ئەم ستانداردانە بکە:';
 $lang["csv_user_import_upload_file"] = 'فایلەکە هەڵبژێرە';
 $lang["csv_user_import_processing_file"] = 'فایلەکە لە پڕۆسەی داگیرسانەوە...';
 $lang["csv_user_import_error_found"] = 'هەڵە(ەکان) دۆزراوە - وەستاندنی کار';
