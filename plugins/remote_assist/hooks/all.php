@@ -13,7 +13,7 @@ function HookRemote_assistAllHomeafterwelcometext()
             }
 
         if (jQuery('remote_assist').children().length==0 && getCookie('remote_assist_dismissed') != 'hide') {
-            jQuery('#remote_assist').load('https://www.resourcespace.com/remote_assist_plugin.php?baseurl=<?php echo base64_encode($baseurl); ?>&version=<?php echo urlencode($productversion); ?>', function () {
+            jQuery('#remote_assist').load('https://rhss.info/resourceDAM/remote_assist_plugin.php?baseurl=<?php echo base64_encode($baseurl); ?>&version=<?php echo urlencode($productversion); ?>', function () {
                 jQuery(this).prepend('<i class="icon-info"></i>');
                 jQuery(this).append('<i class="icon-x" onclick="dismissRemoteAssist()"></i>');
                 });
