@@ -9,4 +9,4 @@ default_priority: 100
 config_url: /plugins/rse_workflow/pages/setup.php
 category: Workflow And Access
 disable_group_select: 1
-info_url: https://www.resourcespace.com/knowledge-base/plugins/workflow
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/workflow
