@@ -59,7 +59,7 @@ if (in_array($test15000_resources[2], array_column($tovalidate, "ref"))) {
 // Test E - Validate resource checksums
 $file_checksums = true;
 $file_checksums_offline = false;
-upload_file($test15000_resources[2], true, false, false, __DIR__ . "/../../documentation/licenses/resourcespace.txt", false, false);
+upload_file($test15000_resources[2], true, false, false, __DIR__ . "/../../documentation/licenses/resourcedam.txt", false, false);
 generate_file_checksum($test15000_resources[0], "png");
 generate_file_checksum($test15000_resources[2], "txt");
 

@@ -123,7 +123,7 @@ if ($expected_cat_tree_fieldx_value !== $cat_tree_fieldx_value) {
     return false;
 }
 
-// Check disabled options use cases. Info: https://www.resourcespace.com/knowledge-base/developers/fixed-list-fields
+// Check disabled options use cases. Info: https://rhss.info/resourceDAM/knowledge-base/developers/fixed-list-fields
 toggle_active_state_for_nodes([$ckb_opt_c, $drpd_opt_b]);
 // - Disabled options shouldn't be added to resources
 $_POST['nodes'][$rtf_checkbox] = [$ckb_opt_b, $ckb_opt_c];
