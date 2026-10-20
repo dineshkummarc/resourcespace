@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"] = '您將以以下身份在 Vimeo 發佈�
 $lang["vimeo_publish_delete_token"] = '使用不同的Vimeo帳戶（請確保您已登出此Vimeo帳戶）';
 $lang["vimeo_publish_button_text"] = '發布';
 $lang["vimeo_publish_legal_warning"] = '點擊「確定」即表示您證明您擁有內容的所有權利，或已獲得所有者授權在Vimeo上公開內容，並且內容符合Vimeo的服務條款，詳見https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"] = '您需要將ResourceSpace註冊為Vimeo的應用程式，並取得OAuth客戶端ID和密鑰';
+$lang["vimeo_api_instructions_condition_1"] = '您需要將ResourceDAM註冊為Vimeo的應用程式，並取得OAuth客戶端ID和密鑰';
 $lang["vimeo_api_instructions_condition_2"] = '使用任何有效的Vimeo帳戶登入Vimeo（此帳戶不必與您的Vimeo帳戶相關聯），然後前往<a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"] = '點擊右上角的「新建應用程式」';
 $lang["vimeo_api_instructions_condition_4"] = '填寫所有詳細資料。';
