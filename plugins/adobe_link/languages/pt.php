@@ -12,6 +12,6 @@ $lang["adobe_link_upload_document"] = 'Salvar';
 $lang["adobe_link_saving"] = 'Salvando...';
 $lang["adobe_link_saving_wait"] = 'O arquivo está sendo salvo, por favor aguarde a mensagem de confirmação. Talvez seja necessário atualizar a página para atualizar a imagem de visualização.';
 $lang["plugin-adobe_link-title"] = 'Link do Adobe';
-$lang["plugin-adobe_link-desc"] = '[Avançado] Permitir a ingestão de arquivos Adobe do ResourceSpace para o Adobe CC';
+$lang["plugin-adobe_link-desc"] = '[Avançado] Permitir a ingestão de arquivos Adobe do resourceDAM para o Adobe CC';
 
 $lang["page-title_adobe_link_setup"] = 'Configurar o Plugin Adobe Link';

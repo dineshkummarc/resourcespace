@@ -1,7 +1,7 @@
 <?php
 
 # English
-# Language File for the ResourceSpace Adobe Link Plugin
+# Language File for the resourceDAM Adobe Link Plugin
 # -------
 #
 #

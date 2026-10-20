@@ -1,6 +1,6 @@
 name: adobe_link
 title: Adobe Link
-desc: Allow ingest of Adobe files from ResourceSpace into Adobe CC.
+desc: Allow ingest of Adobe files from resourceDAM into Adobe CC.
 icon: palette
 icon-colour: #ff0000
 author: Montala Limited

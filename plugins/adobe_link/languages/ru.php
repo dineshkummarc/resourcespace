@@ -12,6 +12,6 @@ $lang["adobe_link_saving"] = 'Сохранение...';
 $lang["adobe_link_saving_wait"] = 'Файл сохраняется, пожалуйста, дождитесь сообщения о подтверждении. Возможно, вам потребуется обновить страницу, чтобы обновить изображение предварительного просмотра.';
 $lang["adobe_link_import"] = 'Импорт';
 $lang["plugin-adobe_link-title"] = 'Ссылка Adobe';
-$lang["plugin-adobe_link-desc"] = '[Расширенные] Разрешить импорт файлов Adobe из ResourceSpace в Adobe CC';
+$lang["plugin-adobe_link-desc"] = '[Расширенные] Разрешить импорт файлов Adobe из resourceDAM в Adobe CC';
 
 $lang["page-title_adobe_link_setup"] = 'Настройка плагина Adobe Link';

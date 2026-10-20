@@ -12,6 +12,6 @@ $lang["adobe_link_upload_document"] = 'Enregistrer';
 $lang["adobe_link_saving"] = 'Enregistrement en cours...';
 $lang["adobe_link_saving_wait"] = 'Le fichier est en cours d\'enregistrement, veuillez patienter pour le message de confirmation. Vous devrez peut-être rafraîchir la page pour mettre à jour l\'image de prévisualisation.';
 $lang["plugin-adobe_link-title"] = 'Lien Adobe';
-$lang["plugin-adobe_link-desc"] = '[Avancé] Autoriser l\'importation de fichiers Adobe depuis ResourceSpace dans Adobe CC';
+$lang["plugin-adobe_link-desc"] = '[Avancé] Autoriser l\'importation de fichiers Adobe depuis resourceDAM dans Adobe CC';
 
 $lang["page-title_adobe_link_setup"] = 'Configurer le plugin Adobe Link';

@@ -12,6 +12,6 @@ $lang["adobe_link_upload_document"] = 'Zapisz';
 $lang["adobe_link_saving"] = 'Zapisywanie...';
 $lang["adobe_link_saving_wait"] = 'Plik jest zapisywany, proszę czekać na wiadomość potwierdzającą. Być może będziesz musiał odświeżyć stronę, aby zaktualizować podgląd obrazu.';
 $lang["plugin-adobe_link-title"] = 'Adobe Link';
-$lang["plugin-adobe_link-desc"] = ' Zezwól na import plików Adobe z ResourceSpace do Adobe CC';
+$lang["plugin-adobe_link-desc"] = ' Zezwól na import plików Adobe z resourceDAM do Adobe CC';
 
 $lang["page-title_adobe_link_setup"] = 'Skonfiguruj wtyczkę Adobe Link';

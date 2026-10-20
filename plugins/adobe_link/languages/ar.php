@@ -12,6 +12,6 @@ $lang["adobe_link_saving"] = 'حفظ...';
 $lang["adobe_link_saving_wait"] = 'جاري حفظ الملف، يرجى الانتظار لتلقي رسالة التأكيد. قد تحتاج إلى تحديث الصفحة لتحديث صورة المعاينة.';
 $lang["adobe_link_import"] = 'استيراد';
 $lang["plugin-adobe_link-title"] = 'رابط Adobe';
-$lang["plugin-adobe_link-desc"] = '[متقدم] السماح باستيراد ملفات Adobe من ResourceSpace إلى Adobe CC';
+$lang["plugin-adobe_link-desc"] = '[متقدم] السماح باستيراد ملفات Adobe من resourceDAM إلى Adobe CC';
 
 $lang["page-title_adobe_link_setup"] = 'إعداد مكون Adobe Link';

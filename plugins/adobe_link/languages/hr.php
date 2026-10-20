@@ -12,6 +12,6 @@ $lang["adobe_link_upload_document"] = 'Spremi';
 $lang["adobe_link_saving"] = 'Spremanje..';
 $lang["adobe_link_saving_wait"] = 'Datoteka se sprema, molimo pričekajte potvrdu. Možda ćete morati osvježiti stranicu da biste ažurirali preglednu sliku.';
 $lang["plugin-adobe_link-title"] = 'Adobe Link';
-$lang["plugin-adobe_link-desc"] = ' Dopusti unos Adobe datoteka iz ResourceSpace u Adobe CC';
+$lang["plugin-adobe_link-desc"] = ' Dopusti unos Adobe datoteka iz resourceDAM u Adobe CC';
 
 $lang["page-title_adobe_link_setup"] = 'Postavite Adobe Link dodatak';
