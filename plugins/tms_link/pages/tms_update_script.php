@@ -299,7 +299,7 @@ foreach(tms_link_get_modules_mappings() as $module)
                     }
                 else
                     {
-                    $logmessage="Checksum differs but no changes were found when comparing ResourceSpace data with TMS data." . PHP_EOL;
+                    $logmessage="Checksum differs but no changes were found when comparing resourceDAM data with TMS data." . PHP_EOL;
                     $tmserrors[$tms_resources[$ri]["resource"]]=$logmessage;
                     echo $logmessage;
                     if($tms_log)

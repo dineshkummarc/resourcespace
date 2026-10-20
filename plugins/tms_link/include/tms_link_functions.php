@@ -441,7 +441,7 @@ function tms_link_create_tms_thumbnail($resource, $alternative=-1)
  * This will store the resource ID in the MediaMaster table when creating the new ID so that it is not used by another Resource
  *
  * @param  bool $create    flag to create a new ID if none found
- * @param  int  $resource  ResourceSpace resource ID
+ * @param  int  $resource  resourceDAM resource ID
  * @return bool|string      False if no ID found, otherwise the Media Master ID is returned
  */
 function tms_get_mediamasterid(bool $create = true, ?int $resource = null)

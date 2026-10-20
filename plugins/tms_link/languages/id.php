@@ -41,7 +41,7 @@ Identifier Objek TMS';
 $lang["tms_link_upload_nodata"]='Tidak ditemukan data TMS untuk ObjectID ini:';
 $lang["tms_link_confirm_upload_nodata"]='Silakan centang kotak untuk mengkonfirmasi bahwa Anda ingin melanjutkan dengan pengunggahan';
 $lang["tms_link_enable_update_script"]='Aktifkan skrip pembaruan TMS';
-$lang["tms_link_enable_update_script_info"]='Aktifkan skrip yang akan secara otomatis memperbarui data TMS setiap kali tugas terjadwal ResourceSpace (cron_copy_hitcount.php) dijalankan.';
+$lang["tms_link_enable_update_script_info"]='Aktifkan skrip yang akan secara otomatis memperbarui data TMS setiap kali tugas terjadwal resourceDAM (cron_copy_hitcount.php) dijalankan.';
 $lang["tms_link_log_directory"]='Direktori untuk menyimpan log skrip. Jika ini dikosongkan atau tidak valid, maka tidak akan ada pencatatan log.';
 $lang["tms_link_log_expiry"]='Jumlah hari untuk menyimpan log skrip. Semua log TMS dalam direktori ini yang lebih lama akan dihapus';
 $lang["tms_link_column_type_required"]='<strong>CATATAN</strong>: Jika menambahkan kolom baru, harap tambahkan nama kolom ke daftar yang sesuai di bawah ini untuk menunjukkan apakah kolom baru berisi data numerik atau teks.';
@@ -49,7 +49,7 @@ $lang["tms_link_numeric_columns"]='Daftar kolom yang harus diambil sebagai UTF-8
 $lang["tms_link_text_columns"]='Daftar kolom yang harus diambil sebagai UTF-16';
 $lang["tms_link_bidirectional_options"]='Sinkronisasi dua arah (menambahkan gambar RS ke TMS)';
 $lang["tms_link_push_condition"]='Kriteria metadata yang harus dipenuhi agar gambar dapat ditambahkan ke TMS';
-$lang["tms_link_tms_loginid"]='ID login TMS yang akan digunakan oleh ResourceSpace untuk memasukkan catatan. Akun TMS harus dibuat atau sudah ada dengan ID ini';
+$lang["tms_link_tms_loginid"]='ID login TMS yang akan digunakan oleh resourceDAM untuk memasukkan catatan. Akun TMS harus dibuat atau sudah ada dengan ID ini';
 $lang["tms_link_push_image"]='Mendorong gambar ke TMS setelah pembuatan pratinjau? (Ini akan membuat catatan Media baru di TMS)';
 $lang["tms_link_push_image_sizes"]='Ukuran pratinjau yang diinginkan untuk dikirim ke TMS. Dipisahkan dengan koma sesuai urutan preferensi sehingga ukuran pertama yang tersedia akan digunakan';
 $lang["tms_link_mediatypeid"]='IDJenisMedia untuk digunakan pada catatan media yang dimasukkan';
