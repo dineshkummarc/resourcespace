@@ -10,4 +10,4 @@ $lang['vm2rs_thumb']="Thumbnail Path";
 $lang['vm2rs_online_preview'] = "Online Preview";
 $lang['vm2rs_youtube_video'] = "Youtube Video";
 
-$lang["page-title_vm2rs_setup"] = "Setup Vimeo to ResourceSpace Plugin";
+$lang["page-title_vm2rs_setup"] = "Setup Vimeo to resourceDAM Plugin";
