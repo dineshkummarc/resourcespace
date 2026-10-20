@@ -189,7 +189,7 @@ function HookEmbedslideshowCollection_shareExtra_share_options()
                         // Set resource preview size to iFrame source size
                         embedded_src = ReplaceUrlParameter(embedded_src, 'width', embedded_iframe.width);
                         embedded_src = ReplaceUrlParameter(embedded_src, 'height', embedded_iframe.height);
-                        // Let ResourceSpace know this should be dynamic
+                        // Let resourceDAM know this should be dynamic
                         embedded_src += '&dynamic=true';
                         embedded_iframe.setAttribute('src', embedded_src);
 
