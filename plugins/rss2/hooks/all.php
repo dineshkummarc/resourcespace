@@ -1,6 +1,6 @@
 <?php
 
-use Montala\ResourceSpace\UserInterfaceComponents\Icon;
+use Montala\ResourceDAM\UserInterfaceComponents\Icon;
 
 function HookRss2AllInitialise()
     {
