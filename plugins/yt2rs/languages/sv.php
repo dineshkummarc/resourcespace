@@ -8,4 +8,4 @@ $lang["yt2rs_online_preview"]='Online Förhandsvisning';
 $lang["yt2rs_youtube_video"]='Youtube-video';
 $lang["plugin-yt2rs-title"]='YouTube till resourceDAM';
 $lang["plugin-yt2rs-desc"]='Möjliggör publicering av videor från YouTube.';
-$lang["page-title_yt2rs_setup"] = 'Installera Youtube till ResourceSpace-plugin';
+$lang["page-title_yt2rs_setup"] = 'Installera Youtube till ResourceDAM-plugin';
