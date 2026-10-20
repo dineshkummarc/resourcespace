@@ -6,4 +6,4 @@ desc    : Blurs images marked as sensitive with the user able to click to deblur
 icon    : eye-off
 config_url: /plugins/sensitive_images/pages/setup.php
 category: Workflow And Access
-info_url: https://www.resourcespace.com/knowledge-base/plugins/sensitive_images
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/sensitive_images
