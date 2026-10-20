@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'وارد کردن دسته‌ای کاربران';
 $lang["csv_user_import_import"] = 'وارد کردن';
 $lang["csv_user_import"] = 'واردات کاربر CSV';
-$lang["csv_user_import_intro"] = 'از این ویژگی برای وارد کردن گروهی از کاربران به ResourceSpace استفاده کنید. لطفاً به فرمت فایل CSV خود توجه ویژه‌ای داشته باشید و استانداردهای زیر را دنبال کنید:';
+$lang["csv_user_import_intro"] = 'از این ویژگی برای وارد کردن گروهی از کاربران به resourceDAM استفاده کنید. لطفاً به فرمت فایل CSV خود توجه ویژه‌ای داشته باشید و استانداردهای زیر را دنبال کنید:';
 $lang["csv_user_import_upload_file"] = 'انتخاب فایل';
 $lang["csv_user_import_processing_file"] = 'در حال پردازش فایل...';
 $lang["csv_user_import_error_found"] = 'خطا(ها) یافت شد - متوقف کردن';

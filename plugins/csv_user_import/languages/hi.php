@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'बैच उपयोगकर्ता आयात';
 $lang["csv_user_import_import"] = 'आयात';
 $lang["csv_user_import"] = 'CSV उपयोगकर्ता आयात';
-$lang["csv_user_import_intro"] = 'इस सुविधा का उपयोग ResourceSpace में उपयोगकर्ताओं के एक बैच को आयात करने के लिए करें। कृपया अपने CSV फ़ाइल के प्रारूप पर विशेष ध्यान दें और नीचे दिए गए मानकों का पालन करें:';
+$lang["csv_user_import_intro"] = 'इस सुविधा का उपयोग resourceDAM में उपयोगकर्ताओं के एक बैच को आयात करने के लिए करें। कृपया अपने CSV फ़ाइल के प्रारूप पर विशेष ध्यान दें और नीचे दिए गए मानकों का पालन करें:';
 $lang["csv_user_import_upload_file"] = 'फ़ाइल चुनें';
 $lang["csv_user_import_processing_file"] = 'फ़ाइल संसाधित हो रही है...';
 $lang["csv_user_import_error_found"] = 'त्रुटि(याँ) पाई गईं - प्रक्रिया रोक दी गई';

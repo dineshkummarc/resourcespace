@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'ਬੈਚ ਯੂਜ਼ਰ ਆਯਾਤ';
 $lang["csv_user_import_import"] = 'ਆਯਾਤ ਕਰੋ';
 $lang["csv_user_import"] = 'CSV ਯੂਜ਼ਰ ਆਯਾਤ';
-$lang["csv_user_import_intro"] = 'ਇਸ ਫੀਚਰ ਨੂੰ ਵਰਤ ਕੇ ਯੂਜ਼ਰਾਂ ਦੇ ਬੈਚ ਨੂੰ ResourceSpace ਵਿੱਚ ਆਯਾਤ ਕਰੋ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ CSV ਫਾਈਲ ਦੇ ਫਾਰਮੈਟ ਤੇ ਧਿਆਨ ਦਿਓ ਅਤੇ ਹੇਠਾਂ ਦਿੱਤੇ ਮਾਪਦੰਡਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ:';
+$lang["csv_user_import_intro"] = 'ਇਸ ਫੀਚਰ ਨੂੰ ਵਰਤ ਕੇ ਯੂਜ਼ਰਾਂ ਦੇ ਬੈਚ ਨੂੰ resourceDAM ਵਿੱਚ ਆਯਾਤ ਕਰੋ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ CSV ਫਾਈਲ ਦੇ ਫਾਰਮੈਟ ਤੇ ਧਿਆਨ ਦਿਓ ਅਤੇ ਹੇਠਾਂ ਦਿੱਤੇ ਮਾਪਦੰਡਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ:';
 $lang["csv_user_import_upload_file"] = 'ਫਾਈਲ ਚੁਣੋ';
 $lang["csv_user_import_processing_file"] = 'ਫਾਈਲ ਪ੍ਰਕਿਰਿਆ ਵਿੱਚ...';
 $lang["csv_user_import_error_found"] = 'ਗਲਤੀ(ਆਂ) ਮਿਲੀ - ਰੋਕਿਆ ਜਾ ਰਿਹਾ ਹੈ';

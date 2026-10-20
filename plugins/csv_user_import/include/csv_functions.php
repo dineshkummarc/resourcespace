@@ -50,7 +50,7 @@ function csv_user_import_process($csv_file, $user_group_id, &$messages, $process
     // Validation of column headers in csv - only allow those matching table column names.
     $unknown_columns = array_diff($headers, $possible_columns);
     foreach ($unknown_columns as $column_header) {
-        array_push($messages, 'Info: ResourceSpace has no use (ie. unknown) for column "' . $column_header . '" and as such it will not be taken into account');
+        array_push($messages, 'Info: resourceDAM has no use (ie. unknown) for column "' . $column_header . '" and as such it will not be taken into account');
     }
 
     // No point to continue since headers are not right

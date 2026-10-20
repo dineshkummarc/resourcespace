@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'بیچ صارف درآمد';
 $lang["csv_user_import_import"] = 'درآمد کریں';
 $lang["csv_user_import"] = 'CSV صارف درآمد';
-$lang["csv_user_import_intro"] = 'اس خصوصیت کو استعمال کریں تاکہ ResourceSpace میں صارفین کے ایک بیچ کو درآمد کیا جا سکے۔ براہ کرم اپنے CSV فائل کے فارمیٹ پر خاص توجہ دیں اور نیچے دیے گئے معیارات کی پیروی کریں:';
+$lang["csv_user_import_intro"] = 'اس خصوصیت کو استعمال کریں تاکہ resourceDAM میں صارفین کے ایک بیچ کو درآمد کیا جا سکے۔ براہ کرم اپنے CSV فائل کے فارمیٹ پر خاص توجہ دیں اور نیچے دیے گئے معیارات کی پیروی کریں:';
 $lang["csv_user_import_upload_file"] = 'فائل منتخب کریں';
 $lang["csv_user_import_processing_file"] = 'فائل پر عملدرآمد ہو رہا ہے...';
 $lang["csv_user_import_error_found"] = 'غلطی(غلطیاں) ملی - عمل منسوخ کیا جا رہا ہے';
