@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = '일괄 사용자 가져오기';
 $lang["csv_user_import_import"] = '가져오기';
 $lang["csv_user_import"] = 'CSV 사용자 가져오기';
-$lang["csv_user_import_intro"] = '이 기능을 사용하여 ResourceSpace에 사용자 일괄 가져오기를 수행하십시오. CSV 파일의 형식에 주의하고 아래 표준을 따르십시오:';
+$lang["csv_user_import_intro"] = '이 기능을 사용하여 ResourceDAM에 사용자 일괄 가져오기를 수행하십시오. CSV 파일의 형식에 주의하고 아래 표준을 따르십시오:';
 $lang["csv_user_import_upload_file"] = '파일 선택';
 $lang["csv_user_import_processing_file"] = '파일 처리 중...';
 $lang["csv_user_import_error_found"] = '오류가 발견되었습니다 - 중단합니다';

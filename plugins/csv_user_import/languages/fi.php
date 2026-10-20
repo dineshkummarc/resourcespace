@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = 'Erän käyttäjien tuonti';
 $lang["csv_user_import_import"] = 'Tuonti';
 $lang["csv_user_import"] = 'CSV-käyttäjätietojen tuonti';
-$lang["csv_user_import_intro"] = 'Käytä tätä ominaisuutta tuodaksesi käyttäjäerän ResourceSpaceen. Ole hyvä ja kiinnitä erityistä huomiota CSV-tiedoston muotoon ja noudata alla olevia standardeja:';
+$lang["csv_user_import_intro"] = 'Käytä tätä ominaisuutta tuodaksesi käyttäjäerän ResourceDAMen. Ole hyvä ja kiinnitä erityistä huomiota CSV-tiedoston muotoon ja noudata alla olevia standardeja:';
 $lang["csv_user_import_upload_file"] = 'Valitse tiedosto';
 $lang["csv_user_import_processing_file"] = 'KÄSITELLÄÄN TIEDOSTOA...';
 $lang["csv_user_import_error_found"] = 'Virhe(t) löydetty - keskeytetään';

@@ -4,7 +4,7 @@
 $lang["csv_user_import_batch_user_import"] = '批次用戶匯入';
 $lang["csv_user_import_import"] = '匯入';
 $lang["csv_user_import"] = 'CSV 用戶匯入';
-$lang["csv_user_import_intro"] = '使用此功能來批次匯入用戶到 ResourceSpace。請密切注意您的 CSV 檔案格式，並遵循以下標準：';
+$lang["csv_user_import_intro"] = '使用此功能來批次匯入用戶到 ResourceDAM。請密切注意您的 CSV 檔案格式，並遵循以下標準：';
 $lang["csv_user_import_upload_file"] = '選擇檔案';
 $lang["csv_user_import_processing_file"] = '處理中...';
 $lang["csv_user_import_error_found"] = '發現錯誤 - 中止';

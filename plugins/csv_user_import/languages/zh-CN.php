@@ -3,7 +3,7 @@
 $lang["csv_user_import_batch_user_import"] = '批量用户导入';
 $lang["csv_user_import_import"] = '导入 (Dǎo rù)';
 $lang["csv_user_import"] = 'CSV用户导入';
-$lang["csv_user_import_intro"] = '使用此功能将一批用户导入到ResourceSpace。请注意您的CSV文件格式并遵循以下标准：';
+$lang["csv_user_import_intro"] = '使用此功能将一批用户导入到ResourceDAM。请注意您的CSV文件格式并遵循以下标准：';
 $lang["csv_user_import_upload_file"] = '请选择文件。';
 $lang["csv_user_import_processing_file"] = '处理文件中...';
 $lang["csv_user_import_error_found"] = '发现错误 - 中止操作';
