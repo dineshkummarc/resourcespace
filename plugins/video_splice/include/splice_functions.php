@@ -1,5 +1,5 @@
 <?php
-use Montala\ResourceSpace\CommandPlaceholderArg;
+use Montala\ResourceDAM\CommandPlaceholderArg;
 
 function generate_merged_video($videos, $video_splice_type, $target_video_command, $target_video_extension, $target_audio_command, $target_width, $target_height, $target_frame_rate, $description, $auto_populate_video_info, $offline)
 {

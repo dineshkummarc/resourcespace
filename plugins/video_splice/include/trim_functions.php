@@ -1,5 +1,5 @@
 <?php
-use Montala\ResourceSpace\CommandPlaceholderArg;
+use Montala\ResourceDAM\CommandPlaceholderArg;
 
 /**
  * Trim video as requested from pages/trim.php
