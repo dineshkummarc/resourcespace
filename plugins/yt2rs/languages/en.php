@@ -10,4 +10,4 @@ $lang['yt2rs_thumb']="Thumbnail Path";
 $lang['yt2rs_online_preview'] = "Online Preview";
 $lang['yt2rs_youtube_video'] = "Youtube Video";
 
-$lang["page-title_yt2rs_setup"] = "Setup Youtube to ResourceSpace Plugin";
+$lang["page-title_yt2rs_setup"] = "Setup Youtube to resourceDAM Plugin";

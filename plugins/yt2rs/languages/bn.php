@@ -6,4 +6,4 @@ $lang["yt2rs_field_id_l"]='ফিল্ড আইডি (ইউটিউব প�
 $lang["yt2rs_thumb"]='থাম্বনেইল পথ';
 $lang["yt2rs_online_preview"]='অনলাইন প্রিভিউ';
 $lang["yt2rs_youtube_video"]='ইউটিউব ভিডিও';
-$lang["page-title_yt2rs_setup"] = 'Youtube থেকে ResourceSpace প্লাগইন সেটআপ করুন';
+$lang["page-title_yt2rs_setup"] = 'Youtube থেকে resourceDAM প্লাগইন সেটআপ করুন';
