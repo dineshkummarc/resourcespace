@@ -8,9 +8,9 @@
     ],
     "homepage": "https://www.resourcespace.com",
     "bugs": {
-        "url": "https://www.resourcespace.com/bug_report"
+        "url": "https://rhss.info/resourceDAM/bug_report"
     },
-    "license": "documentation/licenses/resourcespace.txt",
+    "license": "documentation/licenses/resourcedam.txt",
     "main": "index.js",
     "packageManager": "pnpm@10.25.0",
     "dependencies": {
