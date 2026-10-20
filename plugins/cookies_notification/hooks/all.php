@@ -21,7 +21,7 @@ function HookCookies_notificationAllHandleuserref()
 
     /*
     * We redirect back to login in 2 cases:
-    * - if plugin is set to now allow users to continue using ResourceSpace if users did not select one of the options for cookies use
+    * - if plugin is set to now allow users to continue using resourceDAM if users did not select one of the options for cookies use
     * - if user opted to NOT ACCEPT cookies use
     */
     if (is_null($accepted_cookies_use) && !$cookies_notification_allow_using_site_on_no_feedback) {
