@@ -8,7 +8,7 @@ $lang['vimeo_publish_vimeo_instructions']   = 'Vimeo OAuth 2.0 Instructions';
 $lang['vimeo_publish_oauth2_client_id']     = 'Client ID';
 $lang['vimeo_publish_oauth2_client_secret'] = 'Client Secret';
 
-$lang['vimeo_publish_rs_field_mappings']         = 'ResourceSpace - Vimeo field mappings';
+$lang['vimeo_publish_rs_field_mappings']         = 'ResourceDAM - Vimeo field mappings';
 $lang['vimeo_publish_video_details']             = 'Vimeo - video details';
 $lang['vimeo_publish_vimeo_link']                = 'Vimeo link';
 $lang['vimeo_publish_video_title']               = 'Video title';
@@ -32,9 +32,9 @@ $lang['vimeo_api_instructions_condition_8'] = 'Copy the client ID and Secret and
 $lang['vimeo_api_instructions_condition_9'] = 'Make a request to be allowed to upload videos to Vimeo. Make sure you provide enough information regarding what kind of videos you are going to upload';
 
 // Errors
-$lang['vimeo_publish_no_vimeoAPI_files']          = 'ResourceSpace seems to not be able to access Vimeo\'s PHP API files!';
+$lang['vimeo_publish_no_vimeoAPI_files']          = 'ResourceDAM seems to not be able to access Vimeo\'s PHP API files!';
 $lang['vimeo_publish_access_denied']              = 'Access denied!';
-$lang['vimeo_publish_not_configured']             = 'ResourceSpace plugin "vimeo_publish" has not been configured. Please go to: ';
+$lang['vimeo_publish_not_configured']             = 'ResourceDAM plugin "vimeo_publish" has not been configured. Please go to: ';
 $lang['vimeo_publish_resource_already_published'] = 'Resource with ID  [ref] has already been published to Vimeo. You can check it out at [vimeo_url]';
 $lang['vimeo_publish_resource_published']         = 'Resource has been published to Vimeo. You can check it out at [vimeo_url]';
 
