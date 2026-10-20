@@ -61,7 +61,7 @@ $lang["csv_upload_error_file_missing"] = 'Chyba - Chybí soubor CSV: [file]';
 $lang["csv_upload_full_messages_link"] = 'Zobrazuje se pouze prvních 1000 řádků, pro stažení celého souboru protokolu klikněte <a href=\'[log_url]\' target=\'_blank\'>zde</a>';
 $lang["csv_upload_ignore_errors"] = 'Ignorovat chyby a přesto zpracovat soubor';
 $lang["csv_upload_process_offline_quick"] = 'Přeskočit ověření a zpracovat CSV soubor offline? Toto by mělo být použito pouze pro velké CSV soubory, když bylo testování na menších souborech dokončeno. Budete informováni prostřednictvím zprávy v ResourceDAM, jakmile bude nahrávání dokončeno';
-$lang["csv_upload_force_offline"] = 'Tento velký CSV může trvat dlouho zpracovat, takže bude spuštěn offline. Po dokončení zpracování budete informováni prostřednictvím zprávy v ResourceSpace.';
+$lang["csv_upload_force_offline"] = 'Tento velký CSV může trvat dlouho zpracovat, takže bude spuštěn offline. Po dokončení zpracování budete informováni prostřednictvím zprávy v ResourceDAM.';
 $lang["csv_upload_recommend_offline"] = 'Tento velký CSV soubor může trvat velmi dlouho zpracovat. Doporučuje se povolit offline úlohy, pokud potřebujete zpracovávat velké CSV soubory';
 $lang["csv_upload_createdfromcsvupload"] = 'Vytvořeno z pluginu pro nahrávání CSV';
 $lang["plugin-csv_upload-title"] = 'Nahrání CSV';
