@@ -1,7 +1,7 @@
 CLIP Plugin for ResourceSpace
 =============================
 
-This plugin adds smart image search functionality to ResourceSpace using the CLIP model from OpenAI running locally via a Python service.
+This plugin adds smart image search functionality to resourceDAM using the CLIP model from OpenAI running locally via a Python service.
 
 It allows you to:
 - Automatically generate vector embeddings for resource images
@@ -19,8 +19,8 @@ You will need:
 
 - Python 3.8 or later
 - pip (Python package manager)
-- ResourceSpace with image resources
-- A working MySQL login that has access to all relevant ResourceSpace databases
+- resourceDAM with image resources
+- A working MySQL login that has access to all relevant resourceDAM databases
 
 
 INSTALLATION
@@ -65,5 +65,5 @@ Store the 512-dim vector in the resource_clip_vector table
 TROUBLESHOOTING
 If the Python script says ModuleNotFoundError: No module named 'fastapi', make sure you activated your virtual environment.
 
-For the Python service, the MySQL credentials must have access to all ResourceSpace databases on the server if using a shared Python service. The calling plugin will
+For the Python service, the MySQL credentials must have access to all resourceDAM databases on the server if using a shared Python service. The calling plugin will
 pass the database, ensuring multi-tenant support.

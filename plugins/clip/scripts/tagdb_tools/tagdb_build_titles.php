@@ -16,7 +16,7 @@ $done_titles = [];
 // Blank file
 file_put_contents("titles.tagdb", "");
 
-// Assuming field8 is OK - this is just a dev tool to build the .tagdb file hosted on the ResourceSpace website.
+// Assuming field8 is OK - this is just a dev tool to build the .tagdb file hosted on the resourceDAM website.
 $resources = ps_query("select field8 title,vector_blob from resource join resource_clip_vector on resource.ref=resource_clip_vector.resource");
 foreach ($resources as $resource) {
     $title = $resource["title"];

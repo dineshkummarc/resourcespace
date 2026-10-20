@@ -15,7 +15,7 @@ ob_implicit_flush(true);
 file_put_contents("titles_textonly.tagdb", "");
 $prefix = "A photo of a ";
 
-// Assuming field8 is OK - this is just a dev tool to build the .tagdb file hosted on the ResourceSpace website.
+// Assuming field8 is OK - this is just a dev tool to build the .tagdb file hosted on the resourceDAM website.
 $titles = ps_array("select distinct field8 value from resource");
 $c = 0;
 foreach ($titles as $title) {
