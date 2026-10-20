@@ -32,7 +32,7 @@ OPTIONS SUMMARY
 
     -h, --help              display this help and exit
     -u, --user              run script as a ResourceSpace user. Use the ID of the user
-    -l, --language          Set the language when translating i18n strings (see https://www.resourcespace.com/knowledge-base/systemadmin/translations)
+    -l, --language          Set the language when translating i18n strings (see https://rhss.info/resourceDAM/knowledge-base/systemadmin/translations)
                             Useful to prevent duplicate fixed list field options because one side has translations and
                             the other doesn't.
                             Please note if using the option multiple times, only the last occurence will take precedence.

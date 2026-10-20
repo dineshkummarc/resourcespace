@@ -164,7 +164,7 @@ include "../../include/header.php";
             <?php hook("customteamfunction"); ?>
 
             <li title="<?php echo escape(text('knowledgebase-tooltip')); ?>">
-                <a href="https://www.resourcespace.com/knowledge-base/" target="_blank" rel="noopener noreferrer">
+                <a href="https://rhss.info/resourceDAM/knowledge-base/" target="_blank" rel="noopener noreferrer">
                     <i aria-hidden="true" class="icon-book-marked"></i>
                     <br /><?php echo escape(text('knowledgebase')); ?>
                 </a>

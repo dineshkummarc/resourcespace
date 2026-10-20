@@ -1530,7 +1530,7 @@ if (get_post_bool('ajax')) {
                             <div class="configitem">
                                 <label for="google_vision_enable"><?php echo escape($lang["setup_google_vision_enable"]); ?></label>
                                 <input id="google_vision_enable" name="google_vision_enable" type="checkbox" <?php echo $google_vision_enable ? "checked" : ""; ?>/>
-                                <a class="iflink" href="https://www.resourcespace.com/knowledge-base/plugins/google-vision" target="_blank">?</a>
+                                <a class="iflink" href="https://rhss.info/resourceDAM/knowledge-base/plugins/google-vision" target="_blank">?</a>
                             </div>
                             <div id="plugin_google_vision_settings">
                                 <div class="configitem">
