@@ -8,4 +8,4 @@ icon-colour: goldenrod
 config_url: /plugins/simpleldap/pages/setup.php
 category: Authentication
 disable_group_select: 1
-info_url: https://www.resourcespace.com/knowledge-base/plugins/simpleldap
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/simpleldap
