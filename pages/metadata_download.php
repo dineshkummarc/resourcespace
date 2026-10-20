@@ -161,7 +161,7 @@ if ($download && $data_only) {
     if (!generate_pdf($pdf_template_path, $PDF_filename, $placeholders)) {
         $GLOBALs["onload_message"] = array(
             'title' => 'Warning',
-            'message' => 'ResourceSpace could not generate PDF for data only type!'
+            'message' => 'ResourceDAM could not generate PDF for data only type!'
         );
     }
 }
