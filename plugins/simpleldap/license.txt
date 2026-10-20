@@ -1,5 +1,5 @@
 ResourceSpace Simple LDAP Plugin
-	a plugin for the ResourceSpace Digital Asset Management system to allow authentication against
+	a plugin for the resourceDAM Digital Asset Management system to allow authentication against
 	an LDAP directory server
 	Copyright David Dwiggins, Historic New England, 2011
 	ddwiggins [at] historicnewengland [dot] org
