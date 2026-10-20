@@ -111,7 +111,7 @@ if (EMU_SCRIPT_MODE_SYNC == $emu_script_mode) {
     $page_def[] = config_add_text_input('emu_search_criteria', $lang['emu_search_criteria']);
 }
 
-// EMu - ResourceSpace mappings
+// EMu - resourceDAM mappings
 $page_def[] = config_add_section_header($lang['emu_rs_mappings_header']);
 $emu_rs_mappings_html = "
 <div class='Question'>

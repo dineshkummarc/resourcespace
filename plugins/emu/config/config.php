@@ -41,8 +41,8 @@ $emu_irn_field       = null;
 $emu_resource_types  = array();
 $emu_search_criteria = '';
 
-/* EMu - ResourceSpace mappings
-IMPORTANT: ResourceSpace is expecting an atomic value for the field, anything else will fail
+/* EMu - resourceDAM mappings
+IMPORTANT: resourceDAM is expecting an atomic value for the field, anything else will fail
 
 $emu_rs_saved_mappings[module_name][column] = rs_field_id
 
@@ -54,5 +54,5 @@ $emu_rs_saved_mappings['emultimedia']['ChaAspectRatio'] = 32;
 $emu_rs_saved_mappings = plugin_encode_complex_configs([]);
 
 // Modifying plugin configs requires bypassing the check for "modifiedTimeStamp" and forces
-// ResourceSpace to get all records again so that newly added columns will be updated
+// resourceDAM to get all records again so that newly added columns will be updated
 $emu_config_modified_timestamp = null;

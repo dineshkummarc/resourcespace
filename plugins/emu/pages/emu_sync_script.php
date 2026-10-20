@@ -155,8 +155,8 @@ foreach ($emu_rs_mappings as $emu_module => $emu_module_columns) {
     }
 }
 
-// Step 2 - Get existing ResourceSpace resources with an IRN set
-emu_script_log(PHP_EOL . 'Finding existing ResourceSpace resources with an IRN set', $emu_log_file);
+// Step 2 - Get existing resourceDAM resources with an IRN set
+emu_script_log(PHP_EOL . 'Finding existing resourceDAM resources with an IRN set', $emu_log_file);
 /*
 Example:
 Array
@@ -181,13 +181,13 @@ Array
 */
 $rs_emu_resources       = get_emu_resources();
 $rs_emu_resources_count = count($rs_emu_resources);
-emu_script_log("Found {$rs_emu_resources_count} resources in ResourceSpace with IRN set.", $emu_log_file);
+emu_script_log("Found {$rs_emu_resources_count} resources in resourceDAM with IRN set.", $emu_log_file);
 
 /*
 Using step 1 & 2 to figure out how many:
 - existing resources created by SCRIPT and not found in the latest search need to be archived,
 - new resources need to be added,
-- multimedia files need to be added as alternatives in ResourceSpace because checksums don't match anymore
+- multimedia files need to be added as alternatives in resourceDAM because checksums don't match anymore
 - resources simply just need their metadata updated
 */
 if (0 < $rs_emu_resources_count) {

@@ -345,11 +345,11 @@ function emu_update_resource($ref, $type, $file_path)
 
 
 /**
-* Utility function to get the mapped ResourceSpace field from
+* Utility function to get the mapped resourceDAM field from
 * the mapping we set for emu plugin
 *
 * @param array  $rs_module_column_field_mappings
-* @param string $column                          EMu column that should have a map to a ResourceSpace field
+* @param string $column                          EMu column that should have a map to a resourceDAM field
 *
 * @return integer Returns 0 if could not find value
 */
@@ -397,7 +397,7 @@ function emu_update_resource_metadata_from_record($resource, array $record, arra
 
 
 /**
-* Update ResourceSpace field based on an EMu record field value (atomic/ non-atomic)
+* Update resourceDAM field based on an EMu record field value (atomic/ non-atomic)
 * Note: non-atomic values will be converted to a CSV value
 *
 * @param integer      $ref          Resource ID
@@ -434,7 +434,7 @@ function emu_update_rs_field($ref, $field, $record_value)
 
 
 /**
-* Utility function which allows ResourceSpace to convert any EMu record field to an
+* Utility function which allows resourceDAM to convert any EMu record field to an
 * atomic field with its value formatted as CSV
 *
 * @param string|array $values The value client code wants to convert to

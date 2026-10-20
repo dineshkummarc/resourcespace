@@ -10,7 +10,7 @@ $lang['emu_resource_types'] = 'Select resource types linked to EMu';
 $lang['emu_email_notify'] = 'E-mail address that script will send notifications to. Leave blank to default to the system notification address';
 $lang['emu_script_failure_notify_days'] = 'Number of days after which to display alert and send e-mail if script has not completed';
 
-$lang['emu_script_header'] = 'Enable script that will automatically update the EMu data whenever ResourceSpace runs its scheduled task (cron_copy_hitcount.php)';
+$lang['emu_script_header'] = 'Enable script that will automatically update the EMu data whenever resourceDAM runs its scheduled task (cron_copy_hitcount.php)';
 $lang['emu_last_run_date'] = 'Script last run';
 $lang['emu_script_mode'] = 'Script mode';
 $lang['emu_script_mode_option_1'] = 'Import metadata from EMu';
@@ -25,7 +25,7 @@ $lang['emu_settings_header'] = 'EMu settings';
 $lang['emu_irn_field'] = 'Metadata field used to store the EMu identifier (IRN)';
 $lang['emu_search_criteria'] = 'Search criteria for syncing EMu with ResourceSpace';
 
-$lang['emu_rs_mappings_header'] = 'EMu - ResourceSpace mapping rules';
+$lang['emu_rs_mappings_header'] = 'EMu - resourceDAM mapping rules';
 $lang['emu_module'] = 'EMu module';
 $lang['emu_column_name'] = 'EMu module column';
 $lang['emu_rs_field'] = 'ResourceSpace field';
