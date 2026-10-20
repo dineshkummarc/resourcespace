@@ -1,6 +1,6 @@
 <?php
 
-# English Language File for ResourceSpace
+# English Language File for ResourceDAM
 # Note: when translating to a new language, preserve the original case if possible.
 
 # User group names (for the default user groups)
@@ -1296,11 +1296,11 @@ $lang["setup-successheader"] = "Congratulations!";
 $lang["setup-successdetails"] = "Your initial ResourceDAM setup is complete.  Be sure to check out 'include/config.default.php' for more configuration options.";
 $lang["setup-successnextsteps"] = "Next steps:";
 $lang["setup-successremovewrite"] = "You can now remove write access to 'include/'.";
-$lang["setup-visitwiki"] = 'Visit the <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Knowledge Base</a> for more information about customizing your installation.';
+$lang["setup-visitwiki"] = 'Visit the <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM Knowledge Base</a> for more information about customizing your installation.';
 $lang["php-config-file"] = "PHP config: '%phpinifile'"; # %phpinifile will be replaced, e.g. PHP config: '/etc/php5/apache2/php.ini'
 $lang["setup-checkconfigwrite"] = "Write access to config directory:";
 $lang["setup-checkstoragewrite"] = "Write access to storage directory:";
-$lang["setup-welcome"] = "Welcome to ResourceSpace";
+$lang["setup-welcome"] = "Welcome to ResourceDAM";
 $lang["setup-introtext"] = "This configuration script will help you setup ResourceDAM.  This process only needs to be completed once. Required items are marked with a <strong>*</strong>";
 $lang["setup-checkerrors"] = "Pre-configuration errors were detected.<br />  Please resolve these errors and return to this page to continue.";
 $lang["setup-errorheader"] = "There were errors detected in your configuration.  See below for detailed error messages.";
@@ -1352,7 +1352,7 @@ $lang["setup-err_path"] = "Unable to verify location of";
 $lang["setup-err_phar_injection"] = "Potential Phar PHP Object Injection detected.";
 $lang["setup-emailerr"] = "Not a valid email address.";
 $lang["setup-admin_fullname_error"] = "You must complete the full name field";
-$lang["setup-rs_initial_configuration"] = "ResourceSpace: Initial Configuration";
+$lang["setup-rs_initial_configuration"] = "ResourceDAM: Initial Configuration";
 $lang["setup-include_not_writable"] = "'/include' not writable. Only required during setup.";
 $lang["setup-binpath"] = "%bin Path"; #%bin will be replaced, e.g. "Imagemagick Path"
 $lang["setup-begin_installation"] = "Begin installation!";
@@ -2533,7 +2533,7 @@ $lang["all__emailresearchrequestassigned"] = "<br />\n[lang_researchrequestassig
 $lang["all__emailresearchrequestcomplete"] = "<br />\n[lang_researchrequestcompletemessage] <br /><br /> \n[lang_clicklinkviewcollection] <br /><br /> \n<a href=\"[url]\">[url]</a><br /><br />\n[text_footer]\n";
 $lang["all__emailresource"] = "<br />\n[fromusername] [lang_hasemailedyouaresource]<br /><br />\n[message]<br /><br />\n<a href=\"[url]\">[embed_thumbnail]</a><br /><br />\n[lang_clicktoviewresource]<br /><a href=\"[url]\">[resourcename] - [url]</a><br /><br />\n[text_footer]\n";
 $lang["all__emailresourcerequest"] = "<br />\n[lang_username] : [username] <br />\n[list] <br />\n[details]<br /><br />\n[lang_clicktoviewresource] <br /><br />\n<a href=\"[url]\">[url]</a>\n";
-$lang["all__footer"] = "Powered by <a target=\"_blank\" href=\"https://rhss.info/resourcedam/\">ResourceSpace Open Source Digital Asset Management</a>";
+$lang["all__footer"] = "Powered by <a target=\"_blank\" href=\"https://rhss.info/resourcedam/\">ResourceDAM Open Source Digital Asset Management</a>";
 $lang["all__researchrequest"] = "Let our resources team find the resources you need.";
 $lang["change_language__introtext"] = "Please select your language below.";
 $lang['collection_download__write_metadata_on_download_label'] = 'Embed resource metadata in the downloaded file(s)? Enabling this will slow down your download.';
@@ -2558,7 +2558,7 @@ $lang["download_progress__introtext"] = "Your download will start shortly. When 
 $lang["downloadfile_nofile"] = "The file requested was not found.";
 $lang["edit__batch"] = "";
 $lang["edit__multiple"] = "Please select which fields you wish to overwrite. Fields you do not select will be left untouched.";
-$lang["help__introtext"] = '<p>Get the most out of ResourceDAM. The Knowledge Base will help you use the system and the resources more effectively.</p><p><a href="https://rhss.info/resourcedam/knowledge-base/" target="_blank" rel="noopener noreferrer">ResourceSpace Knowledge Base</a></p>';
+$lang["help__introtext"] = '<p>Get the most out of ResourceDAM. The Knowledge Base will help you use the system and the resources more effectively.</p><p><a href="https://rhss.info/resourcedam/knowledge-base/" target="_blank" rel="noopener noreferrer">ResourceDAM Knowledge Base</a></p>';
 $lang["home__restrictedtext"] = "Please click on the link that you were e-mailed to access the resources selected for you.";
 $lang["home__restrictedtitle"] = "Welcome to ResourceDAM [ver]";
 $lang["home__welcometext"] = "The leading open source enterprise digital asset management system.";
@@ -3044,7 +3044,7 @@ $lang["api-url"] = "API URL";
 $lang["force_edit_resource_type"] = "Force edit access to resource type: ";
 
 // Responsive
-$lang['linkedheaderimgsrc'] = "Location of the logo image in the header (Defaults to ResourceSpace):";
+$lang['linkedheaderimgsrc'] = "Location of the logo image in the header (Defaults to ResourceDAM):";
 
 /* Actions */
 $lang["actions_myactions"] = "Actions";
@@ -3395,7 +3395,7 @@ $lang["skip-to-main-content"]               = "Skip to main content";
 $lang["cleanup_invalid_nodes"]              = "Clean field data from invalid resource types";
 $lang["cleanup_invalid_node_dry_run"]       = "Don't delete data, just return the number of rows to be deleted?";
 $lang["advancedsearch_resource_section"]    = "Resource data";
-$lang["error-reload-required"]              = "ResourceSpace has been updated. Please reload the page";
+$lang["error-reload-required"]              = "ResourceDAM has been updated. Please reload the page";
 $lang["user_pref_new_action_emails"]        = "Email me if new actions are created";
 
 $lang["email_rate_limit_active"] = "The maximum number of e-mails per hour sent by this system has been exceeded. E-mails are not currently being sent by this system.";
@@ -3520,7 +3520,7 @@ $lang["my_jobs-tooltip"] = "Check the status of your offline jobs";
 $lang["my_shares-tooltip"] = "Manage your external shares";
 $lang["dash-tooltip"] = "Manage dash tiles available for your dash";
 $lang["userpreferences-tooltip"] = "Configure your personal preferences";
-$lang["logout-tooltip"] = "Log out of ResourceSpace";
+$lang["logout-tooltip"] = "Log out of ResourceDAM";
 $lang["manageresources-tooltip"] = "Create, replace and view resources";
 $lang["managerequestsorders-tooltip"] = "Manage requests from users to access resources";
 $lang["manageresearchrequests-tooltip"] = "Organise and manage research requests";

@@ -1190,7 +1190,7 @@ $lang["setup-successheader"] = 'پێشوازی!';
 $lang["setup-successdetails"] = 'ئامادەکردنی سەرەکی ResourceDAM تەواو بوو.  دڵنیابە لەوەی کە \'include\\/config.default.php\' بۆ هەڵبژاردنەکانی زیادەی ڕێکخستنەوە تێپەڕەوە.';
 $lang["setup-successnextsteps"] = 'گامەکانی دواتر:';
 $lang["setup-successremovewrite"] = 'ئەتوانیت ئێستا دەستگەیشتن بە نووسین لە \'include\\/\' بسڕیەوە.';
-$lang["setup-visitwiki"] = 'سەردانی <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/">بنکە زانیاری ResourceSpace</a> بکە بۆ زانیاری زیاتر لەسەر ڕەخنەکردنەوەی دامەزراندنت.';
+$lang["setup-visitwiki"] = 'سەردانی <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/">بنکە زانیاری ResourceDAM</a> بکە بۆ زانیاری زیاتر لەسەر ڕەخنەکردنەوەی دامەزراندنت.';
 $lang["php-config-file"] = 'پەڕگەی ڕێکخستنەوەی PHP: \'%phpinifile\'';
 $lang["setup-checkconfigwrite"] = 'دەستگەیشتن بە نووسین لە فۆڵدەری ڕێکخستنەوە:';
 $lang["setup-checkstoragewrite"] = 'دەستگەیشتن بە نووسین لە فۆڵدەری هەڵگرتن:';
@@ -2259,7 +2259,7 @@ $lang["all__emailresearchrequestcomplete"] = '<br \\/>
 <a href="[url]">[url]<\\/a><br \\/><br \\/>
 [text_footer]
 ';
-$lang["all__footer"] = 'Powered by <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/">ResourceSpace Open Source Digital Asset Management<\\/a>';
+$lang["all__footer"] = 'Powered by <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/">ResourceDAM Open Source Digital Asset Management<\\/a>';
 $lang["all__researchrequest"] = 'تیم منابعمان بگرنەوە بۆ دۆزینەوەی سەرچاوەکانت.';
 $lang["change_language__introtext"] = 'تکایە زمانەکەت لە خوارەوە هەڵبژێرە.';
 $lang["collection_download__write_metadata_on_download_label"] = 'مەتا داتای سەرچاوەکە لە فایلەکانی داونلۆد بکەوە؟ چالاککردن ئەمە دێت کە داونلۆدکردنت کەمتر بێت.';
@@ -2289,7 +2289,7 @@ $lang["download_click__introtext"] = 'بۆ داونلۆدکردنی فایلەک
 $lang["download_progress__introtext"] = 'داونلۆدکردنەکەت زوو دەست پێدەکات. کاتێک داونلۆدکەت تەواو بوو، بەستەرەکانی خوارەوە بەکاربهێنە بۆ بەردەوامی.';
 $lang["downloadfile_nofile"] = 'فایلە داوەکراوە نەدۆزرایەوە.';
 $lang["edit__multiple"] = 'تکایە خانەکان دیاری بکە کە دەتەوێت لەسەرەوە نوێ بکەیت. خانەکان کە دیاری نەکراون، لەسەر ئەمانە نایە.';
-$lang["help__introtext"] = '<p>لە ResourceDAM بە باشترین شێوە بەکارهێنە. بنکەی زانیاری یارمەتیدەربێت بۆ بەکارهێنانی سیستەم و سەرچاوەکان بە باشتر.<\\/p><p><a href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">بنکەی زانیاری ResourceSpace<\\/a><\\/p>';
+$lang["help__introtext"] = '<p>لە ResourceDAM بە باشترین شێوە بەکارهێنە. بنکەی زانیاری یارمەتیدەربێت بۆ بەکارهێنانی سیستەم و سەرچاوەکان بە باشتر.<\\/p><p><a href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">بنکەی زانیاری ResourceDAM<\\/a><\\/p>';
 $lang["home__restrictedtext"] = 'تکایە لەسەر بەستەرەکە کە نێردراوە کلیک بکە بۆ دەستگەیشتن بە سەرچاوەکانی دیاریکراو.';
 $lang["home__restrictedtitle"] = 'بەخێربێیت بۆ ResourceDAM [ver]';
 $lang["home__welcometext"] = 'سیستەمی سەرچاوەی دیجیتاڵی کەسایەتی فەرمی وەک پێشکەشکراوە.';
@@ -2721,7 +2721,7 @@ $lang["private-api-key"] = 'کلیل API تایبەتی';
 $lang["api-key"] = 'کلیل API';
 $lang["api-url"] = 'ناونیشانی API';
 $lang["force_edit_resource_type"] = 'هەژماری دەستکارییەکانی بۆ جۆری سەرچاوە: ';
-$lang["linkedheaderimgsrc"] = 'شوێنی وێنەی لوگۆ لە سەرپەڕە (بە بنەڕەت لە ResourceSpace):';
+$lang["linkedheaderimgsrc"] = 'شوێنی وێنەی لوگۆ لە سەرپەڕە (بە بنەڕەت لە ResourceDAM):';
 $lang["actions_myactions"] = 'کردارەکان';
 $lang["actions_introtext"] = 'دەتوانیت مەرجەکانی کردارەکان لەوێ بڕوایە بە گۆڕینی پێشەکی بەکارهێنەرەکەت';
 $lang["actions_noactions"] = 'هیچ کردارێک نەماوە';
