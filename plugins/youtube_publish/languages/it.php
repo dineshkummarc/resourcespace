@@ -32,7 +32,7 @@ $lang["youtube_publish_button_text"]='Pubblicare';
 $lang["youtube_publish_authentication"]='Autenticazione';
 $lang["youtube_publish_use_oauth2"]='Usare OAuth 2.0?';
 $lang["youtube_publish_oauth2_advice"]='Istruzioni per YouTube OAuth 2.0';
-$lang["youtube_publish_oauth2_advice_desc"]='Per configurare questo plugin è necessario impostare OAuth 2.0 poiché tutti gli altri metodi di autenticazione sono ufficialmente deprecati. Per fare ciò, è necessario registrare il sito di ResourceSpace come progetto su Google e ottenere un ID client e un segreto OAuth. Non ci sono costi associati
+$lang["youtube_publish_oauth2_advice_desc"]='Per configurare questo plugin è necessario impostare OAuth 2.0 poiché tutti gli altri metodi di autenticazione sono ufficialmente deprecati. Per fare ciò, è necessario registrare il sito di resourceDAM come progetto su Google e ottenere un ID client e un segreto OAuth. Non ci sono costi associati
 
 Ecco i passaggi da seguire:
 <ul>

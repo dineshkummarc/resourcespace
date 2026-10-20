@@ -7,7 +7,7 @@ $lang["youtube_publish_configuration"]='Terbitkan ke YouTube - Pengaturan';
 $lang["youtube_publish_notconfigured"]='Plugin unggah YouTube belum dikonfigurasi. Mohon minta administrator Anda untuk mengonfigurasi plugin di';
 $lang["youtube_publish_legal_warning"]='Dengan mengklik \'OK\', Anda menyatakan bahwa Anda memiliki semua hak atas konten atau diizinkan oleh pemilik untuk membuat konten tersebut tersedia untuk umum di YouTube, dan bahwa konten tersebut mematuhi Ketentuan Layanan YouTube yang terdapat di http://www.youtube.com/t/terms.';
 $lang["youtube_publish_resource_types_to_include"]='Pilih jenis Sumber Daya YouTube yang valid';
-$lang["youtube_publish_mappings_title"]='Pemetaan kolom ResourceSpace - YouTube';
+$lang["youtube_publish_mappings_title"]='Pemetaan kolom resourceDAM - YouTube';
 $lang["youtube_publish_title_field"]='Bidang Judul';
 $lang["youtube_publish_descriptionfields"]='Kolom Deskripsi';
 $lang["youtube_publish_keywords_fields"]='Kolom tag';
@@ -32,7 +32,7 @@ $lang["youtube_publish_button_text"]='Terbitkan';
 $lang["youtube_publish_authentication"]='Otentikasi';
 $lang["youtube_publish_use_oauth2"]='Gunakan OAuth 2.0?';
 $lang["youtube_publish_oauth2_advice"]='Petunjuk YouTube OAuth 2.0';
-$lang["youtube_publish_oauth2_advice_desc"]='Untuk mengatur plugin ini, Anda perlu mengatur OAuth 2.0 karena semua metode otentikasi lainnya secara resmi sudah tidak digunakan. Untuk ini, Anda perlu mendaftarkan situs ResourceSpace Anda sebagai proyek dengan Google dan mendapatkan ID klien dan rahasia OAuth. Tidak ada biaya yang terlibat
+$lang["youtube_publish_oauth2_advice_desc"]='Untuk mengatur plugin ini, Anda perlu mengatur OAuth 2.0 karena semua metode otentikasi lainnya secara resmi sudah tidak digunakan. Untuk ini, Anda perlu mendaftarkan situs resourceDAM Anda sebagai proyek dengan Google dan mendapatkan ID klien dan rahasia OAuth. Tidak ada biaya yang terlibat
 
 Berikut adalah langkah-langkahnya:
 <ul>
