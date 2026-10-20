@@ -6,4 +6,4 @@ $lang["yt2rs_field_id_l"] = 'Идентификатор на полето (пъ�
 $lang["yt2rs_thumb"] = 'Път към миниатюрата';
 $lang["yt2rs_online_preview"] = 'Онлайн преглед';
 $lang["yt2rs_youtube_video"] = 'YouTube видео';
-$lang["page-title_yt2rs_setup"] = 'Настройка на плъгина YouTube към ResourceSpace';
+$lang["page-title_yt2rs_setup"] = 'Настройка на плъгина YouTube към resourceDAM';
