@@ -98,7 +98,7 @@
         "build:applyDownstreamChanges": "Apply downstream changes to ResourceSpace dependencies. Any changes that the upstream has fixed should be removed from the list as we want minimum (to no) divergence from upstreams."
     },
     "support": {
-        "source": "https://svn.resourcespace.com/svn/rs/trunk/",
+        "source": "https://svn.rhss.info/resourcedam/svn/rs/trunk/",
         "docs": "https://rhss.info/resourceDAM/knowledge-base/",
         "forum": "https://groups.google.com/g/resourcespace",
         "issues": "https://rhss.info/resourceDAM/bug_report",
