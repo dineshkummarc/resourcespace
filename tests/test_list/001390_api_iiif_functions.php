@@ -9,7 +9,7 @@ ps_query("TRUNCATE resource_node");
 ps_query("TRUNCATE resource_log");
 $baseurl_saved = $baseurl;
 $baseurl_short_saved = $baseurl_short;
-$baseurl = "https://test010105.resourcespace.com/resourcespace";
+$baseurl = "https://test010105.rhss.info/resourcedam/resourcespace";
 $baseurl_short = "/resourcespace/";
 
 include_once __DIR__ . "/../../include/api_functions.php";

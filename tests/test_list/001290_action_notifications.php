@@ -23,7 +23,7 @@ $send_default_notifications = false;
 
 // Admin user A
 $adminusera = new_user("actionuser005100_a");
-$emailaddress = "adminuser005100_a@test.resourcespace.com";
+$emailaddress = "adminuser005100_a@test.resourcedam.com";
 $usergroup  = 3;
 $approved   = 1;
 $params = ["i",$approved,"s",$emailaddress,"i",$usergroup,"s",$language,"i",$adminusera];
@@ -31,7 +31,7 @@ ps_query("UPDATE user SET approved = ?,email = ?,usergroup = ?,lang = ? WHERE re
 
 // Admin user B
 $adminuserb = new_user("actionuser005100_b");
-$emailaddress = "adminuser005100_b@test.resourcespace.com";
+$emailaddress = "adminuser005100_b@test.resourcedam.com";
 $usergroup  = 3;
 $approved   = 1;
 $params = ["i",$approved,"s",$emailaddress,"i",$usergroup,"s",$language,"i",$adminuserb];
@@ -39,7 +39,7 @@ ps_query("UPDATE user SET approved = ?,email = ?,usergroup = ?,lang = ? WHERE re
 
 // General user
 $generaluser = new_user("generaluser005100_2");
-$emailaddress = "actionuser005100_1@test.resourcespace.com";
+$emailaddress = "actionuser005100_1@test.resourcedam.com";
 $usergroup  = 2;
 $approved   = 1;
 $params = ["i",$approved,"s",$emailaddress,"i",$usergroup,"s",$language,"i",$generaluser];

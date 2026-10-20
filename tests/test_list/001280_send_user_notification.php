@@ -5,7 +5,7 @@ command_line_only();
 // Set up a test user to receive notifications
 $notifyuser = new_user("notifyuser005000");
 $language   = "fr";
-$emailadress = "notifyuser5000@test.resourcespace.com";
+$emailadress = "notifyuser5000@test.resourcedam.com";
 $usergroup  = 3;
 $approved   = 1;
 $params = ["i",$approved,"s",$emailadress,"i",$usergroup,"s",$language,"i",$notifyuser];
