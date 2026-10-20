@@ -9,7 +9,7 @@ $lang['museumplus_application'] = 'Application name (not required for newer M+ H
 $lang['museumplus_api_user'] = $lang['user'] = "User";
 $lang['museumplus_api_pass'] = $lang['password'] = "Password";
 
-$lang['museumplus_RS_settings_header'] = 'ResourceSpace settings';
+$lang['museumplus_RS_settings_header'] = 'ResourceDAM settings';
 $lang['museumplus_mpid_field'] = 'Metadata field used to store the MuseumPlus identifier (MpID)';
 $lang['museumplus_module_name_field'] = 'Metadata field used to hold the modules\' name for which the MpID is valid. IF not set, the plugin will fallback to the "Object" module configuration.';
 $lang['museumplus_secondary_links_field'] = 'Metadata field used to hold the secondary links to other modules. resourceDAM will generate a MuseumPlus URL for each of the links. Links will have a special syntax format: module_name:ID (e.g. "Object:1234")';
@@ -27,7 +27,7 @@ $lang['museumplus_modules_configuration_header'] = 'Modules configuration';
 $lang["museumplus_module"] = "Module";
 $lang["museumplus_add_new_module"] = "Add new MuseumPlus module";
 $lang['museumplus_mplus_field_name'] = 'MuseumPlus field name';
-$lang['museumplus_rs_field'] = 'ResourceSpace field';
+$lang['museumplus_rs_field'] = 'ResourceDAM field';
 $lang['museumplus_view_in_museumplus'] = 'View in MuseumPlus';
 $lang["museumplus_confirm_delete_module_config"] = "Are you sure you would like to delete this module configuration? This action cannot be undone!";
 
