@@ -10,7 +10,7 @@ use function Montala\ResourceSpace\Plugins\BrandGuidelines\richtext_input_parser
 /**
  * Render decorator of custom fields used by Brand Guidelines
  * @param array $field Custom field structure - {@see process_custom_fields_submission()}
- * @return bool Returns true to indicate to ResourceSpace that the core render functionality is being overriden by the
+ * @return bool Returns true to indicate to resourceDAM that the core render functionality is being overriden by the
  * plugin (for this field type), false otherwise.
  */
 function HookBrand_guidelinesContentRender_custom_fields_default_case_override(array $field): bool
@@ -57,7 +57,7 @@ function HookBrand_guidelinesContentRender_custom_fields_default_case_override(a
 
 /**
  * Validate custom fields' submitted input.
- * @return false|string Return custom fields' type input validation error or false to let ResourceSpace core handling
+ * @return false|string Return custom fields' type input validation error or false to let resourceDAM core handling
  * to run.
  */
 function HookBrand_guidelinesContentProcess_custom_fields_submission_validator(array $field)

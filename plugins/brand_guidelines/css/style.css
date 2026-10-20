@@ -305,7 +305,7 @@ form.guidelines .FormError {
     min-height: 48px;
 }
 
-/* ResourceSpace global.css is setting these and TinyMCE then has some logic which makes the buttons spread more than
+/* resourceDAM global.css is setting these and TinyMCE then has some logic which makes the buttons spread more than
 necessary */
 form.guidelines .tox-toolbar__group > button {
     min-width: unset;
