@@ -1,6 +1,6 @@
 <?php
 # English
-# Language File for the ResourceSpace propose_changes plugin
+# Language File for the resourceDAM propose_changes plugin
 # -------
 #
 
