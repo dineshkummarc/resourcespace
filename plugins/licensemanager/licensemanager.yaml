@@ -6,5 +6,5 @@ desc: Manage resource licensing.
 icon: id-card
 category: Compliance
 config_url: /plugins/licensemanager/pages/setup.php
-info_url: https://www.resourcespace.com/knowledge-base/plugins/license-manager
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/license-manager
 
