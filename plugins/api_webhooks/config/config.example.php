@@ -6,13 +6,13 @@ $api_webhooks_urls = [
     [
     "location" => "edit",
     "buttontext" => "Fetch object data from CMS",
-    "url" => "https://www.resourcespace.com/some_script.abc?resource_id="
+    "url" => "https://rhss.info/resourceDAM/some_script.abc?resource_id="
      ]
     ,
     [
     "location" => "edit",
     "buttontext" => "Push image to CMS",
-    "url" => "https://www.resourcespace.com/another_script.abc?resource_id=",
+    "url" => "https://rhss.info/resourceDAM/another_script.abc?resource_id=",
     "hash" => "xyzxyz" // Optional hash for security
     ]
 ];
