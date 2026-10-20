@@ -26,7 +26,7 @@ $lang["tms_link_checksum"]="Checksum";
 $lang["tms_link_no_tms_data"]="No data returned from TMS";
 
 $lang["tms_link_field_mappings"]="TMS field to resourceDAM field mappings";
-$lang["tms_link_resourcespace_field"]="ResourceSpace field";
+$lang["tms_link_resourcespace_field"]="ResourceDAM field";
 $lang["tms_link_column_name"]="TMS Column";
 $lang["tms_link_add_mapping"]="Add mapping";
 $lang["tms_link_performance_options"]="TMS Script settings - these settings will affect the scheduled task that updates resources data from TMS";
@@ -61,7 +61,7 @@ $lang["tms_link_modules_mappings"] = "Synchronisation from extra modules (tables
 $lang["tms_link_module"] = "Module";
 $lang["tms_link_tms_uid_field"] = "TMS UID field";
 $lang["tms_link_uid_field_int"] = "TMS Integer UIDs. Set to false to allow non integer UIDs.";
-$lang["tms_link_rs_uid_field"] = "ResourceSpace UID field";
+$lang["tms_link_rs_uid_field"] = "ResourceDAM UID field";
 $lang["tms_link_applicable_rt"] = "Applicable resource type(s)";
 $lang["tms_link_modules_mappings_tools"] = "Tools";
 $lang["tms_link_add_new_tms_module"] = "Add new extra TMS module";

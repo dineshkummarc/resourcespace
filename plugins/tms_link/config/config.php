@@ -20,7 +20,7 @@ $tms_link_script_failure_notify_days=3;
 $tms_link_log_expiry=7;
 $tms_link_write_to_debug_log = false;
 
-// Additional options for bidirectional syncing (ResourceSpace -> TMS)
+// Additional options for bidirectional syncing (ResourceDAM -> TMS)
 $tms_link_push_image=false;
 $tms_link_push_image_sizes=array("pre","thm","col");
 $tms_link_push_condition="";
