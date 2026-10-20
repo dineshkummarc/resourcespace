@@ -1,6 +1,6 @@
 <?php
 
-use Montala\ResourceSpace\CommandPlaceholderArg;
+use Montala\ResourceDAM\CommandPlaceholderArg;
 
 ob_start(); 
 
