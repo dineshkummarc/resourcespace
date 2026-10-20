@@ -30,7 +30,7 @@ include_once __DIR__ . '/../include/typesense_search_functions.php';
  * @param PreparedStatementQuery $sql_join                Existing resourceDAM JOIN SQL.
  * @param PreparedStatementQuery $select                  Existing resourceDAM SELECT SQL.
  *
- * @return array|false ResourceSpace-compatible search results, or false to fall back to core search.
+ * @return array|false ResourceDAM-compatible search results, or false to fall back to core search.
  */
 function HookTypesense_searchAllExternal_search(
     string $search,

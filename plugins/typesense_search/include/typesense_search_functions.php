@@ -49,7 +49,7 @@ function typesense_search_supported(
 
 
 /**
- * Run a resourceDAM search using Typesense and return ResourceSpace-compatible results.
+ * Run a resourceDAM search using Typesense and return ResourceDAM-compatible results.
  *
  * @param string $search Search string.
  * @param mixed $restypes Resource type filter.
@@ -59,7 +59,7 @@ function typesense_search_supported(
  * @param PreparedStatementQuery $select Existing resourceDAM SELECT fields.
  * @param string $order_by The order by SQL from the standard resourceDAM search construction.
  *
- * @return array|false ResourceSpace-compatible results, or false to fall back to core search.
+ * @return array|false ResourceDAM-compatible results, or false to fall back to core search.
  */
 function typesense_search_do_search(
     string $search,
@@ -227,7 +227,7 @@ function typesense_search_filter_by($restypes, array $archive): string
  * @param PreparedStatementQuery $select Existing resourceDAM SELECT fields.
  * @param string $order_by The order by SQL from the standard resourceDAM search construction.
  *
- * @return array ResourceSpace-compatible search results.
+ * @return array ResourceDAM-compatible search results.
  */
 function typesense_search_hydrate_refs(
     array $refs,
