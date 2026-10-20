@@ -1,6 +1,6 @@
 <?php
 
-use function Montala\ResourceSpace\Plugins\OpenAiImageEdit\process_encoded_file;
+use function Montala\ResourceDAM\Plugins\OpenAiImageEdit\process_encoded_file;
 
 include "../../../include/boot.php";
 include "../../../include/authenticate.php";

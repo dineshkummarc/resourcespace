@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Montala\ResourceSpace\Plugins\OpenAiImageEdit;
+namespace Montala\ResourceDAM\Plugins\OpenAiImageEdit;
 
 use finfo;
 use Throwable;
