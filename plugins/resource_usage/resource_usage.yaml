@@ -7,4 +7,4 @@ version: 1.0
 default_priority: 100
 config_url: /plugins/resource_usage/pages/setup.php
 category: Workflow And Access
-info_url: https://www.resourcespace.com/knowledge-base/plugins/resource-usage
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/resource-usage
