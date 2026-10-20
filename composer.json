@@ -99,9 +99,9 @@
     },
     "support": {
         "source": "https://svn.resourcespace.com/svn/rs/trunk/",
-        "docs": "https://www.resourcespace.com/knowledge-base/",
+        "docs": "https://rhss.info/resourceDAM/knowledge-base/",
         "forum": "https://groups.google.com/g/resourcespace",
-        "issues": "https://www.resourcespace.com/bug_report",
-        "security": "https://www.resourcespace.com/bug_report"
+        "issues": "https://rhss.info/resourceDAM/bug_report",
+        "security": "https://rhss.info/resourceDAM/bug_report"
     }
 }
