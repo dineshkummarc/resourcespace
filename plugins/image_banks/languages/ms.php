@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"] = 'Token Shutterstock (<a href=\'https:/
 $lang["image_banks_shutterstock_result_limit"] = 'Had batas hasil (maks. 1000 untuk akaun percuma)';
 $lang["image_banks_shutterstock_id"] = 'ID imej Shutterstock';
 $lang["image_banks_label_resourcespace_instances_cfg"] = 'Akses instans (format: i18n nama|baseURL|nama pengguna|kunci|konfigurasi)';
-$lang["image_banks_resourcespace_file_information_description"] = 'ResourceSpace %SIZE_CODE saiz';
+$lang["image_banks_resourcespace_file_information_description"] = 'ResourceDAM %SIZE_CODE saiz';
 $lang["image_banks_label_select_providers"] = 'Pilih penyedia aktif';
 $lang["image_banks_view_on_provider_system"] = 'Lihat pada sistem %PROVIDER';
 $lang["image_banks_system_unmet_dependencies"] = 'Plugin ImageBanks mempunyai keperluan sistem yang tidak dipenuhi!';

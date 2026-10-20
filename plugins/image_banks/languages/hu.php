@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"] = 'Shutterstock token (<a href=\'https:/
 $lang["image_banks_shutterstock_result_limit"] = 'Eredménykorlát (max. 1000 ingyenes fiókok esetén)';
 $lang["image_banks_shutterstock_id"] = 'Shutterstock képazonosító';
 $lang["image_banks_label_resourcespace_instances_cfg"] = 'Példányok hozzáférés (formátum: i18n név|alapURL|felhasználónév|kulcs|beállítás)';
-$lang["image_banks_resourcespace_file_information_description"] = 'ResourceSpace %SIZE_CODE méret';
+$lang["image_banks_resourcespace_file_information_description"] = 'ResourceDAM %SIZE_CODE méret';
 $lang["image_banks_label_select_providers"] = 'Válassza ki az aktív szolgáltatókat';
 $lang["image_banks_view_on_provider_system"] = 'Nézet a %PROVIDER rendszeren';
 $lang["image_banks_system_unmet_dependencies"] = 'Az ImageBanks bővítménynek nem teljesült a rendszerfüggősége!';

@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"]='Shutterstock belirteci (<a href=\'https
 $lang["image_banks_shutterstock_result_limit"]='Sonuç limiti (ücretsiz hesaplar için en fazla 1000)';
 $lang["image_banks_shutterstock_id"]='Shutterstock resim kimliği';
 $lang["image_banks_label_resourcespace_instances_cfg"]='Örnekler erişimi (format: i18n adı|temelURL|kullanıcı adı|anahtar|yapılandırma)';
-$lang["image_banks_resourcespace_file_information_description"]='ResourceSpace %SIZE_CODE boyutu';
+$lang["image_banks_resourcespace_file_information_description"]='ResourceDAM %SIZE_CODE boyutu';
 $lang["image_banks_label_select_providers"]='Aktif sağlayıcıları seç';
 $lang["image_banks_view_on_provider_system"]='%PROVIDER sisteminde görüntüle';
 $lang["image_banks_system_unmet_dependencies"]='ImageBanks eklentisinin karşılanmamış sistem bağımlılıkları var!';

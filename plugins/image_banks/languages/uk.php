@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"]='Токен Shutterstock (<a href=\'http
 $lang["image_banks_shutterstock_result_limit"]='Обмеження результатів (макс. 1000 для безкоштовних акаунтів)';
 $lang["image_banks_shutterstock_id"]='ID зображення Shutterstock';
 $lang["image_banks_label_resourcespace_instances_cfg"]='Доступ до екземплярів (формат: i18n name|baseURL|username|key|config)';
-$lang["image_banks_resourcespace_file_information_description"]='ResourceSpace розмір %SIZE_CODE';
+$lang["image_banks_resourcespace_file_information_description"]='ResourceDAM розмір %SIZE_CODE';
 $lang["image_banks_label_select_providers"]='Виберіть активних постачальників';
 $lang["image_banks_view_on_provider_system"]='Переглянути на системі %PROVIDER';
 $lang["image_banks_system_unmet_dependencies"]='Плагін ImageBanks має невиконані системні залежності!';

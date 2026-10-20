@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"] = 'Shutterstock token (<a href=\'https:/
 $lang["image_banks_shutterstock_result_limit"] = 'Hangganan ng resulta (max. 1000 para sa mga libreng account)';
 $lang["image_banks_shutterstock_id"] = 'Shutterstock na ID ng imahe';
 $lang["image_banks_label_resourcespace_instances_cfg"] = 'Mga access ng instance (format: i18n name|baseURL|username|key|config)';
-$lang["image_banks_resourcespace_file_information_description"] = 'ResourceSpace %SIZE_CODE laki';
+$lang["image_banks_resourcespace_file_information_description"] = 'ResourceDAM %SIZE_CODE laki';
 $lang["image_banks_label_select_providers"] = 'Pumili ng mga aktibong tagapagbigay';
 $lang["image_banks_view_on_provider_system"] = 'Tingnan sa %PROVIDER na sistema';
 $lang["image_banks_system_unmet_dependencies"] = 'Ang plugin na ImageBanks ay may mga hindi natutugunang kinakailangan sa sistema!';

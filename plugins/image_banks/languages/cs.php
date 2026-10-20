@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"]='Shutterstock token (<a href=\'https://w
 $lang["image_banks_shutterstock_result_limit"]='Limit výsledků (max. 1000 pro bezplatné účty)';
 $lang["image_banks_shutterstock_id"]='ID obrázku Shutterstock';
 $lang["image_banks_label_resourcespace_instances_cfg"]='Přístup k instancím (formát: i18n název|baseURL|uživatelské jméno|klíč|konfigurace)';
-$lang["image_banks_resourcespace_file_information_description"]='ResourceSpace velikost %SIZE_CODE';
+$lang["image_banks_resourcespace_file_information_description"]='ResourceDAM velikost %SIZE_CODE';
 $lang["image_banks_label_select_providers"]='Vyberte aktivní poskytovatele';
 $lang["image_banks_view_on_provider_system"]='Zobrazit v systému %PROVIDER';
 $lang["image_banks_system_unmet_dependencies"]='Plugin ImageBanks má nesplněné systémové závislosti!';

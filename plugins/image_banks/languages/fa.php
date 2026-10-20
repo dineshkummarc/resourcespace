@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"]='توکن شاتراستاک (<a href=\'
 $lang["image_banks_shutterstock_result_limit"]='محدودیت نتیجه (حداکثر 1000 برای حساب‌های رایگان)';
 $lang["image_banks_shutterstock_id"]='شناسه تصویر Shutterstock';
 $lang["image_banks_label_resourcespace_instances_cfg"]='دسترسی به نمونه‌ها (فرمت: i18n name|baseURL|username|key|config)';
-$lang["image_banks_resourcespace_file_information_description"]='ResourceSpace اندازه %SIZE_CODE';
+$lang["image_banks_resourcespace_file_information_description"]='ResourceDAM اندازه %SIZE_CODE';
 $lang["image_banks_label_select_providers"]='انتخاب ارائه‌دهندگان فعال';
 $lang["image_banks_view_on_provider_system"]='مشاهده در سیستم %PROVIDER';
 $lang["image_banks_system_unmet_dependencies"]='پلاگین ImageBanks دارای وابستگی‌های سیستمی برآورده نشده است!';

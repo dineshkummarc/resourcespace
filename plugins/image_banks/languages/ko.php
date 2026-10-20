@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"]='셔터스톡 토큰 (<a href=\'https://
 $lang["image_banks_shutterstock_result_limit"]='결과 제한 (무료 계정의 경우 최대 1000)';
 $lang["image_banks_shutterstock_id"]='Shutterstock 이미지 ID';
 $lang["image_banks_label_resourcespace_instances_cfg"]='인스턴스 접근 (형식: i18n 이름|기본 URL|사용자 이름|키|구성)';
-$lang["image_banks_resourcespace_file_information_description"]='ResourceSpace %SIZE_CODE 크기';
+$lang["image_banks_resourcespace_file_information_description"]='ResourceDAM %SIZE_CODE 크기';
 $lang["image_banks_label_select_providers"]='활성 제공자 선택';
 $lang["image_banks_view_on_provider_system"]='%PROVIDER 시스템에서 보기';
 $lang["image_banks_system_unmet_dependencies"]='ImageBanks 플러그인에 충족되지 않은 시스템 종속성이 있습니다!';

@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"] = 'Shutterstock токен (<a href=\'ht
 $lang["image_banks_shutterstock_result_limit"] = 'Ограничение на резултатите (макс. 1000 за безплатни акаунти)';
 $lang["image_banks_shutterstock_id"] = 'Shutterstock ID на изображението';
 $lang["image_banks_label_resourcespace_instances_cfg"] = 'Достъп до инстанции (формат: i18n име|базов URL|потребителско име|ключ|конфигурация)';
-$lang["image_banks_resourcespace_file_information_description"] = 'ResourceSpace %SIZE_CODE размер';
+$lang["image_banks_resourcespace_file_information_description"] = 'ResourceDAM %SIZE_CODE размер';
 $lang["image_banks_label_select_providers"] = 'Изберете активни доставчици';
 $lang["image_banks_view_on_provider_system"] = 'Вижте в системата на %PROVIDER';
 $lang["image_banks_system_unmet_dependencies"] = 'Плъгинът ImageBanks има неизпълнени системни зависимости!';

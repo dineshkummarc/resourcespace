@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"]='Ishara ya Shutterstock (<a href=\'https
 $lang["image_banks_shutterstock_result_limit"]='Kikomo cha matokeo (max. 1000 kwa akaunti za bure)';
 $lang["image_banks_shutterstock_id"]='Kitambulisho cha picha cha Shutterstock';
 $lang["image_banks_label_resourcespace_instances_cfg"]='Ufikiaji wa matukio (muundo: jina la i18n|baseURL|jina la mtumiaji|ufunguo|mipangilio)';
-$lang["image_banks_resourcespace_file_information_description"]='ResourceSpace ukubwa wa %SIZE_CODE';
+$lang["image_banks_resourcespace_file_information_description"]='ResourceDAM ukubwa wa %SIZE_CODE';
 $lang["image_banks_label_select_providers"]='Chagua watoa huduma wanaofanya kazi';
 $lang["image_banks_view_on_provider_system"]='Tazama kwenye mfumo wa %PROVIDER';
 $lang["image_banks_system_unmet_dependencies"]='Programu-jalizi ya ImageBanks ina utegemezi wa mfumo ambao haujatimizwa!';

@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"] = 'Shutterstock 令牌 (<a href=\'https:
 $lang["image_banks_shutterstock_result_limit"] = '結果限制 (免費帳戶最多 1000)';
 $lang["image_banks_shutterstock_id"] = 'Shutterstock 圖像 ID';
 $lang["image_banks_label_resourcespace_instances_cfg"] = '實例存取 (格式：i18n 名稱|baseURL|使用者名稱|金鑰|設定)';
-$lang["image_banks_resourcespace_file_information_description"] = 'ResourceSpace %SIZE_CODE 大小';
+$lang["image_banks_resourcespace_file_information_description"] = 'ResourceDAM %SIZE_CODE 大小';
 $lang["image_banks_label_select_providers"] = '選擇啟用的提供者';
 $lang["image_banks_view_on_provider_system"] = '在 %PROVIDER 系統中查看';
 $lang["image_banks_system_unmet_dependencies"] = 'ImageBanks 插件有未滿足的系統依賴！';

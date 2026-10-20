@@ -11,7 +11,7 @@ $lang["image_banks_shutterstock_token"]='شٹر اسٹاک ٹوکن (<a href=\'h
 $lang["image_banks_shutterstock_result_limit"]='نتائج کی حد (مفت اکاؤنٹس کے لیے زیادہ سے زیادہ 1000)';
 $lang["image_banks_shutterstock_id"]='شٹر اسٹاک تصویر ID';
 $lang["image_banks_label_resourcespace_instances_cfg"]='انسٹینسز تک رسائی (فارمیٹ: i18n نام|بیس یو آر ایل|صارف نام|کلید|کنفیگ)';
-$lang["image_banks_resourcespace_file_information_description"]='ResourceSpace %SIZE_CODE سائز';
+$lang["image_banks_resourcespace_file_information_description"]='ResourceDAM %SIZE_CODE سائز';
 $lang["image_banks_label_select_providers"]='فعال فراہم کنندگان منتخب کریں';
 $lang["image_banks_view_on_provider_system"]='%PROVIDER سسٹم پر دیکھیں';
 $lang["image_banks_system_unmet_dependencies"]='ImageBanks پلگ ان کی سسٹم کی ضروریات پوری نہیں ہوئیں!';
