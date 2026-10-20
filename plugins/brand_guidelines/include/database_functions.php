@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Montala\ResourceSpace\Plugins\BrandGuidelines;
+namespace Montala\ResourceDAM\Plugins\BrandGuidelines;
 
 /** Get all Brand Guidelines pages */
 function get_all_pages(): array

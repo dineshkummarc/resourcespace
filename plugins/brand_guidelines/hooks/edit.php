@@ -12,7 +12,7 @@ function HookBrand_guidelinesEditEditbeforeheader(): void
         'guidelines_cb',
         '',
         false,
-        'Montala\ResourceSpace\Plugins\BrandGuidelines\is_brand_guidelines_callback'
+        'Montala\ResourceDAM\Plugins\BrandGuidelines\is_brand_guidelines_callback'
     );
     if ($guidelines_cb !== '') {
         $GLOBALS['urlparams']['guidelines_cb'] = $guidelines_cb;
@@ -32,7 +32,7 @@ function HookBrand_guidelinesEditUploadreviewabortnext(): bool
         'guidelines_cb',
         '',
         false,
-        'Montala\ResourceSpace\Plugins\BrandGuidelines\is_brand_guidelines_callback'
+        'Montala\ResourceDAM\Plugins\BrandGuidelines\is_brand_guidelines_callback'
     );
 
     $query_string = parse_url($guidelines_cb, PHP_URL_QUERY);
@@ -62,7 +62,7 @@ function HookBrand_guidelinesEditRedirectaftersavetemplate(): bool
         'guidelines_cb',
         '',
         false,
-        'Montala\ResourceSpace\Plugins\BrandGuidelines\is_brand_guidelines_callback'
+        'Montala\ResourceDAM\Plugins\BrandGuidelines\is_brand_guidelines_callback'
     );
     if ($guidelines_cb !== '') {
         $GLOBALS['uploadparams']['redirecturl'] = $guidelines_cb;

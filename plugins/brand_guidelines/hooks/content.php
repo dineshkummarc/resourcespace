@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-use function Montala\ResourceSpace\Plugins\BrandGuidelines\colour_cmyk_input_validator;
-use function Montala\ResourceSpace\Plugins\BrandGuidelines\colour_hex_input_validator;
-use function Montala\ResourceSpace\Plugins\BrandGuidelines\colour_rgb_input_validator;
-use function Montala\ResourceSpace\Plugins\BrandGuidelines\richtext_input_parser;
+use function Montala\ResourceDAM\Plugins\BrandGuidelines\colour_cmyk_input_validator;
+use function Montala\ResourceDAM\Plugins\BrandGuidelines\colour_hex_input_validator;
+use function Montala\ResourceDAM\Plugins\BrandGuidelines\colour_rgb_input_validator;
+use function Montala\ResourceDAM\Plugins\BrandGuidelines\richtext_input_parser;
 
 /**
  * Render decorator of custom fields used by Brand Guidelines

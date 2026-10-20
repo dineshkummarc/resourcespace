@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Montala\ResourceSpace\Plugins\BrandGuidelines;
+namespace Montala\ResourceDAM\Plugins\BrandGuidelines;
 
 include_once dirname(__DIR__, 3) . '/include/boot.php';
 include_once RESOURCESPACE_BASE_PATH . '/include/authenticate.php';

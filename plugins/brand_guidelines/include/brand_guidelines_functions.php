@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Montala\ResourceSpace\Plugins\BrandGuidelines;
+namespace Montala\ResourceDAM\Plugins\BrandGuidelines;
 
 /**
  * Helper function for access control purposes to check if user can view the Brand Guidelines

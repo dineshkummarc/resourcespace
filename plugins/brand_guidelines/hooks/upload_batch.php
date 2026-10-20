@@ -12,7 +12,7 @@ function HookBrand_guidelinesUpload_batchModify_redirecturl()
         'guidelines_cb',
         '',
         false,
-        'Montala\ResourceSpace\Plugins\BrandGuidelines\is_brand_guidelines_callback'
+        'Montala\ResourceDAM\Plugins\BrandGuidelines\is_brand_guidelines_callback'
     );
     if ($guidelines_cb !== '') {
         return $GLOBALS['redirecturl'] . "&guidelines_cb=" . urlencode($guidelines_cb);

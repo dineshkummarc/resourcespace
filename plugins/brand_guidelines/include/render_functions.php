@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Montala\ResourceSpace\Plugins\BrandGuidelines;
+namespace Montala\ResourceDAM\Plugins\BrandGuidelines;
 
 function render_individual_menu(): void
 {

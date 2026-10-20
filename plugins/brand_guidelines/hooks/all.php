@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use function Montala\ResourceSpace\Plugins\BrandGuidelines\acl_can_view_brand_guidelines;
+use function Montala\ResourceDAM\Plugins\BrandGuidelines\acl_can_view_brand_guidelines;
 
 function HookBrand_guidelinesAllInitialise()
 {
