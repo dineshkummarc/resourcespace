@@ -103,7 +103,7 @@ function csv_user_import_process($csv_file, $user_group_id, &$messages, $process
             if ('username' === $header || 'email' === $header) {
                 $check = ps_value("SELECT count(*) AS value FROM user WHERE `{$header}` = ?", array("s",$cell_value), 0);
                 if (0 < $check) {
-                    array_push($messages, ucfirst($header) . ' "' . $cell_value . '" exists already in ResourceSpace');
+                    array_push($messages, ucfirst($header) . ' "' . $cell_value . '" exists already in resourceDAM');
                     $error_count++;
 
                     continue;
