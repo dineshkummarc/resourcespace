@@ -8,7 +8,7 @@
  * This allows us to exclude certain parameters for security reasons (such as $use_permissions) and also to
  * map to more API-appropriate parameters and output if necessary.
  *
- * For documentation please see: http://www.resourcespace.com/knowledge-base/api/
+ * For documentation please see: http://www.rhss.info/resourcedam/knowledge-base/api/
  *
  */
 

@@ -3256,7 +3256,7 @@ $api_issue_valid_destinations = [
     ],
     "canva" => [
         "name" => "Canva",
-        "url" => "https://auth.resourcespace.com/oauth/sso/callback",
+        "url" => "https://auth.rhss.info/resourcedam/oauth/sso/callback",
         "querydata" => ["username", "email", "fullname"],
         "stateparam" => "state",
     ],

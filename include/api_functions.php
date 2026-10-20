@@ -5,7 +5,7 @@
  *
  * Montala Limited, July 2016
  *
- * For documentation please see: http://www.resourcespace.com/knowledge-base/api/
+ * For documentation please see: http://www.rhss.info/resourcedam/knowledge-base/api/
  *
  */
 global $iiif_enabled;
