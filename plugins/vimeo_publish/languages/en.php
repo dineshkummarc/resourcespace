@@ -21,7 +21,7 @@ $lang['vimeo_publish_button_text']     = 'Publish';
 $lang['vimeo_publish_legal_warning']   = 'By clicking \'OK\' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on Vimeo and that it otherwise complies with the Vimeo\'s Terms of Service located at https://vimeo.com/terms';
 
 // Vimeo API instructions:
-$lang['vimeo_api_instructions_condition_1'] = 'You will need to register ResourceSpace as an app with Vimeo and get an OAuth client ID and Secret';
+$lang['vimeo_api_instructions_condition_1'] = 'You will need to register resourceDAM as an app with Vimeo and get an OAuth client ID and Secret';
 $lang['vimeo_api_instructions_condition_2'] = 'Log on to Vimeo with any valid Vimeo account (this does not need to be related to your Vimeo account), then go to <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang['vimeo_api_instructions_condition_3'] = 'Click on "New App" in the top right';
 $lang['vimeo_api_instructions_condition_4'] = 'Fill in all the details.';

@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Utachapisha kwenye Vimeo kama:';
 $lang["vimeo_publish_delete_token"]='Tumia akaunti tofauti ya Vimeo (hakikisha umejiondoa kwenye akaunti hii ya Vimeo kwanza)';
 $lang["vimeo_publish_button_text"]='Chapisha';
 $lang["vimeo_publish_legal_warning"]='Kwa kubofya \'Sawa\' unathibitisha kwamba unamiliki haki zote za maudhui au kwamba umeidhinishwa na mmiliki kufanya maudhui hayo kupatikana kwa umma kwenye Vimeo na kwamba yanakubaliana na Masharti ya Huduma ya Vimeo yaliyoko kwenye https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"]='Utahitaji kusajili ResourceSpace kama programu na Vimeo na kupata kitambulisho cha mteja cha OAuth na Siri';
+$lang["vimeo_api_instructions_condition_1"]='Utahitaji kusajili resourceDAM kama programu na Vimeo na kupata kitambulisho cha mteja cha OAuth na Siri';
 $lang["vimeo_api_instructions_condition_2"]='Ingia kwenye Vimeo kwa kutumia akaunti yoyote halali ya Vimeo (hii haihitaji kuwa na uhusiano na akaunti yako ya Vimeo), kisha nenda kwenye <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"]='Bofya "App Mpya" kwenye kona ya juu kulia';
 $lang["vimeo_api_instructions_condition_4"]='Jaza maelezo yote.';
@@ -30,7 +30,7 @@ $lang["vimeo_api_instructions_condition_8"]='Nakili Kitambulisho cha mteja na Si
 $lang["vimeo_api_instructions_condition_9"]='Tuma ombi la kuruhusiwa kupakia video kwenye Vimeo. Hakikisha unatoa taarifa za kutosha kuhusu aina ya video unazokusudia kupakia.';
 $lang["vimeo_publish_no_vimeoAPI_files"]='ResourceSpace inaonekana haiwezi kufikia faili za API za PHP za Vimeo!';
 $lang["vimeo_publish_access_denied"]='Ufikiaji umekataliwa!';
-$lang["vimeo_publish_not_configured"]='Programu jalizi ya ResourceSpace "vimeo_publish" haijasanidiwa. Tafadhali nenda kwa:';
+$lang["vimeo_publish_not_configured"]='Programu jalizi ya resourceDAM "vimeo_publish" haijasanidiwa. Tafadhali nenda kwa:';
 $lang["vimeo_publish_resource_already_published"]='Rasilimali yenye kitambulisho [ref] tayari imechapishwa kwenye Vimeo. Unaweza kuikagua kwenye [vimeo_url]';
 $lang["vimeo_publish_resource_published"]='Rasilimali imechapishwa kwenye Vimeo. Unaweza kuikagua kwenye [vimeo_url]';
 $lang["vimeo_publish_account_options"]='Chaguo za akaunti ya Vimeo';

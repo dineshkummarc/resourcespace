@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='ਤੁਸੀਂ Vimeo \'ਤੇ ਇਸ �
 $lang["vimeo_publish_delete_token"]='ਵੱਖਰਾ Vimeo ਖਾਤਾ ਵਰਤੋ (ਪਹਿਲਾਂ ਇਹ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਇਸ Vimeo ਖਾਤੇ ਤੋਂ ਲੌਗ ਆਉਟ ਹੋ)';
 $lang["vimeo_publish_button_text"]='ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ';
 $lang["vimeo_publish_legal_warning"]='\'ਠੀਕ ਹੈ\' \'ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਤੁਸੀਂ ਇਹ ਪ੍ਰਮਾਣਿਤ ਕਰਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਸਮੱਗਰੀ ਦੇ ਸਾਰੇ ਹੱਕ ਰੱਖਦੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਮਾਲਕ ਦੁਆਰਾ ਸਮੱਗਰੀ ਨੂੰ Vimeo \'ਤੇ ਜਨਤਕ ਤੌਰ \'ਤੇ ਉਪਲਬਧ ਕਰਨ ਲਈ ਅਧਿਕ੍ਰਿਤ ਹੋ ਅਤੇ ਇਹ ਹੋਰ ਕਿਸੇ ਵੀ ਤਰੀਕੇ ਨਾਲ Vimeo ਦੀਆਂ ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ ਨਾਲ ਅਨੁਕੂਲ ਹੈ ਜੋ https://vimeo.com/terms \'ਤੇ ਸਥਿਤ ਹਨ।';
-$lang["vimeo_api_instructions_condition_1"]='ਤੁਹਾਨੂੰ Vimeo ਨਾਲ ResourceSpace ਨੂੰ ਇੱਕ ਐਪ ਵਜੋਂ ਰਜਿਸਟਰ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ ਅਤੇ ਇੱਕ OAuth ਕਲਾਇੰਟ ID ਅਤੇ ਸਿਕ੍ਰੇਟ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।';
+$lang["vimeo_api_instructions_condition_1"]='ਤੁਹਾਨੂੰ Vimeo ਨਾਲ resourceDAM ਨੂੰ ਇੱਕ ਐਪ ਵਜੋਂ ਰਜਿਸਟਰ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ ਅਤੇ ਇੱਕ OAuth ਕਲਾਇੰਟ ID ਅਤੇ ਸਿਕ੍ਰੇਟ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।';
 $lang["vimeo_api_instructions_condition_2"]='ਕਿਸੇ ਵੀ ਵੈਧ Vimeo ਖਾਤੇ ਨਾਲ Vimeo \'ਤੇ ਲੌਗ ਇਨ ਕਰੋ (ਇਹ ਤੁਹਾਡੇ Vimeo ਖਾਤੇ ਨਾਲ ਸੰਬੰਧਿਤ ਹੋਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ), ਫਿਰ <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a> \'ਤੇ ਜਾਓ।';
 $lang["vimeo_api_instructions_condition_3"]='ਉੱਪਰ ਸੱਜੇ ਕੋਨੇ ਵਿੱਚ "ਨਵੀਂ ਐਪ" \'ਤੇ ਕਲਿੱਕ ਕਰੋ।';
 $lang["vimeo_api_instructions_condition_4"]='ਸਾਰੇ ਵੇਰਵੇ ਭਰੋ।';

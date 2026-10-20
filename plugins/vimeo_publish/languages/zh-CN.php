@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='您将发布到 Vimeo 作为：';
 $lang["vimeo_publish_delete_token"]='请使用另一个 Vimeo 帐户（请确保您已先退出此 Vimeo 帐户）。';
 $lang["vimeo_publish_button_text"]='发布';
 $lang["vimeo_publish_legal_warning"]='点击“确定”即表示您证明您拥有所有内容的权利，或者您已获得所有者的授权，使内容可以在 Vimeo 上公开，并且它符合 Vimeo 的服务条款，该服务条款位于 https://vimeo.com/terms。';
-$lang["vimeo_api_instructions_condition_1"]='您需要在 Vimeo 中将 ResourceSpace 注册为一个应用程序，并获取 OAuth 客户端 ID 和 Secret。';
+$lang["vimeo_api_instructions_condition_1"]='您需要在 Vimeo 中将 resourceDAM 注册为一个应用程序，并获取 OAuth 客户端 ID 和 Secret。';
 $lang["vimeo_api_instructions_condition_2"]='使用任何有效的 Vimeo 帐户登录（此帐户不需要与您的 Vimeo 帐户相关），然后转到 <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>。';
 $lang["vimeo_api_instructions_condition_3"]='请点击右上角的“新应用程序”。';
 $lang["vimeo_api_instructions_condition_4"]='请填写所有细节。';

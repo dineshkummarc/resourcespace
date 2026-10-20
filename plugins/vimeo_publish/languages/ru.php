@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Вы будете публиковать
 $lang["vimeo_publish_delete_token"]='Используйте другую учетную запись Vimeo (убедитесь, что вы сначала вышли из этой учетной записи Vimeo)';
 $lang["vimeo_publish_button_text"]='Опубликовать';
 $lang["vimeo_publish_legal_warning"]='Нажимая кнопку "ОК", вы подтверждаете, что обладаете всеми правами на контент или что у вас есть разрешение владельца на публикацию контента на Vimeo, и что он соответствует Условиям использования Vimeo, которые можно найти по адресу https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"]='Вам необходимо зарегистрировать ResourceSpace как приложение в Vimeo и получить идентификатор и секрет клиента OAuth';
+$lang["vimeo_api_instructions_condition_1"]='Вам необходимо зарегистрировать resourceDAM как приложение в Vimeo и получить идентификатор и секрет клиента OAuth';
 $lang["vimeo_api_instructions_condition_2"]='Войдите в Vimeo с помощью любой действительной учетной записи Vimeo (она не обязательно должна быть связана с вашей учетной записью Vimeo), затем перейдите на <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"]='Нажмите на "Новое приложение" в правом верхнем углу';
 $lang["vimeo_api_instructions_condition_4"]='Заполните все детали.';
@@ -30,7 +30,7 @@ $lang["vimeo_api_instructions_condition_8"]='Скопируйте идентиф
 $lang["vimeo_api_instructions_condition_9"]='Сделайте запрос на разрешение загрузки видео на Vimeo. Убедитесь, что вы предоставили достаточно информации о том, какие видео вы собираетесь загружать';
 $lang["vimeo_publish_no_vimeoAPI_files"]='ResourceSpace, кажется, не может получить доступ к файлам PHP API Vimeo!';
 $lang["vimeo_publish_access_denied"]='Отказано в доступе!';
-$lang["vimeo_publish_not_configured"]='Плагин ResourceSpace "vimeo_publish" не настроен. Пожалуйста, перейдите по ссылке:';
+$lang["vimeo_publish_not_configured"]='Плагин resourceDAM "vimeo_publish" не настроен. Пожалуйста, перейдите по ссылке:';
 $lang["vimeo_publish_resource_already_published"]='Ресурс с ID [ref] уже был опубликован на Vimeo. Вы можете проверить его по ссылке [vimeo_url]';
 $lang["vimeo_publish_resource_published"]='Ресурс был опубликован на Vimeo. Вы можете проверить его по ссылке [vimeo_url]';
 $lang["vimeo_publish_account_options"]='Опции учетной записи Vimeo';

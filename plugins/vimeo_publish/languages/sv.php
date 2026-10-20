@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Du kommer att publicera till Vimeo som:'
 $lang["vimeo_publish_delete_token"]='Använd ett annat Vimeo-konto (se till att du först loggar ut från detta Vimeo-konto)';
 $lang["vimeo_publish_button_text"]='Publicera';
 $lang["vimeo_publish_legal_warning"]='Genom att klicka på "OK" intygar du att du äger alla rättigheter till innehållet eller att du är auktoriserad av ägaren att göra innehållet offentligt tillgängligt på Vimeo och att det i övrigt följer Vimeo\'s användarvillkor som finns på https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"]='Du behöver registrera ResourceSpace som en app med Vimeo och få en OAuth-klient-ID och hemlig nyckel';
+$lang["vimeo_api_instructions_condition_1"]='Du behöver registrera resourceDAM som en app med Vimeo och få en OAuth-klient-ID och hemlig nyckel';
 $lang["vimeo_api_instructions_condition_2"]='Logga in på Vimeo med ett giltigt Vimeo-konto (detta behöver inte vara relaterat till ditt Vimeo-konto), gå sedan till <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"]='Klicka på "Ny app" i övre högra hörnet';
 $lang["vimeo_api_instructions_condition_4"]='Fyll i alla detaljer.';

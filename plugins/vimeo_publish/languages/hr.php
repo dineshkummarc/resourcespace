@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Objavit ćete na Vimeo kao:';
 $lang["vimeo_publish_delete_token"]='Koristite drugi Vimeo račun (obavezno se odjavite s ovog Vimeo računa prvo)';
 $lang["vimeo_publish_button_text"]='Objaviti';
 $lang["vimeo_publish_legal_warning"]='Klikom na \'OK\' potvrđujete da posjedujete sva prava na sadržaj ili da ste ovlašteni od vlasnika da sadržaj javno objavite na Vimeo platformi te da ujedno ispunjava uvjete korištenja Vimeo platforme koji se nalaze na https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"]='Morate registrirati ResourceSpace kao aplikaciju s Vimeo-om i dobiti OAuth ID klijenta i tajni ključ';
+$lang["vimeo_api_instructions_condition_1"]='Morate registrirati resourceDAM kao aplikaciju s Vimeo-om i dobiti OAuth ID klijenta i tajni ključ';
 $lang["vimeo_api_instructions_condition_2"]='Prijavite se na Vimeo s bilo kojim važećim Vimeo računom (ne mora biti povezan s vašim Vimeo računom), a zatim idite na <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"]='Kliknite na "Nova aplikacija" u gornjem desnom kutu';
 $lang["vimeo_api_instructions_condition_4"]='Molimo popunite sve pojedinosti.';
@@ -30,7 +30,7 @@ $lang["vimeo_api_instructions_condition_8"]='Kopirajte ID klijenta i tajnu lozin
 $lang["vimeo_api_instructions_condition_9"]='Pošaljite zahtjev za dopuštenje za prijenos videa na Vimeo. Obavezno pružite dovoljno informacija o vrsti videa koje ćete prenositi';
 $lang["vimeo_publish_no_vimeoAPI_files"]='ResourceSpace se čini da ne može pristupiti PHP API datotekama za Vimeo!';
 $lang["vimeo_publish_access_denied"]='Pristup odbijen!';
-$lang["vimeo_publish_not_configured"]='Dodatak ResourceSpace "vimeo_publish" nije konfiguriran. Molimo idite na:';
+$lang["vimeo_publish_not_configured"]='Dodatak resourceDAM "vimeo_publish" nije konfiguriran. Molimo idite na:';
 $lang["vimeo_publish_resource_already_published"]='Resurs s ID-om [ref] već je objavljen na Vimeo platformi. Možete ga pregledati na [vimeo_url]';
 $lang["vimeo_publish_resource_published"]='Resurs je objavljen na Vimeo platformi. Možete ga provjeriti na [vimeo_url]';
 $lang["vimeo_publish_account_options"]='Opcije računa na Vimeo platformi';

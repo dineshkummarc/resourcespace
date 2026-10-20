@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"] = 'Bạn sẽ xuất bản lên Vimeo v�
 $lang["vimeo_publish_delete_token"] = 'Sử dụng một tài khoản Vimeo khác (đảm bảo bạn đã đăng xuất khỏi tài khoản Vimeo này trước)';
 $lang["vimeo_publish_button_text"] = 'Xuất bản';
 $lang["vimeo_publish_legal_warning"] = 'Bằng cách nhấp vào \'OK\', bạn xác nhận rằng bạn sở hữu tất cả các quyền đối với nội dung hoặc bạn được chủ sở hữu ủy quyền để công khai nội dung trên Vimeo và rằng nó tuân thủ các Điều khoản Dịch vụ của Vimeo được đặt tại https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"] = 'Bạn sẽ cần đăng ký ResourceSpace như một ứng dụng với Vimeo và nhận ID khách hàng OAuth và Mật khẩu';
+$lang["vimeo_api_instructions_condition_1"] = 'Bạn sẽ cần đăng ký resourceDAM như một ứng dụng với Vimeo và nhận ID khách hàng OAuth và Mật khẩu';
 $lang["vimeo_api_instructions_condition_2"] = 'Đăng nhập vào Vimeo với bất kỳ tài khoản Vimeo hợp lệ nào (không cần phải liên quan đến tài khoản Vimeo của bạn), sau đó truy cập <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"] = 'Nhấp vào "New App" ở góc trên bên phải';
 $lang["vimeo_api_instructions_condition_4"] = 'Điền tất cả các chi tiết.';
@@ -30,7 +30,7 @@ $lang["vimeo_api_instructions_condition_8"] = 'Sao chép ID khách hàng và M�
 $lang["vimeo_api_instructions_condition_9"] = 'Yêu cầu được phép tải lên video lên Vimeo. Hãy chắc chắn cung cấp đủ thông tin về loại video bạn sẽ tải lên';
 $lang["vimeo_publish_no_vimeoAPI_files"] = 'ResourceSpace dường như không thể truy cập các tệp API PHP của Vimeo!';
 $lang["vimeo_publish_access_denied"] = 'Truy cập bị từ chối!';
-$lang["vimeo_publish_not_configured"] = 'Plugin ResourceSpace "vimeo_publish" chưa được cấu hình. Vui lòng truy cập:';
+$lang["vimeo_publish_not_configured"] = 'Plugin resourceDAM "vimeo_publish" chưa được cấu hình. Vui lòng truy cập:';
 $lang["vimeo_publish_resource_already_published"] = 'Tài nguyên với ID [ref] đã được xuất bản lên Vimeo. Bạn có thể xem tại [vimeo_url]';
 $lang["vimeo_publish_resource_published"] = 'Tài nguyên đã được xuất bản lên Vimeo. Bạn có thể xem tại [vimeo_url]';
 $lang["vimeo_publish_account_options"] = 'Tùy chọn tài khoản Vimeo';

@@ -65,7 +65,7 @@ $userquestion = "<div class='Question'>
     </div>";
 $page_def[] = config_add_html($userquestion);
 
-// ResourceSpace - metadata mappings
+// resourceDAM - metadata mappings
 $page_def[] = config_add_section_header($lang['vimeo_publish_rs_field_mappings']);
 $page_def[] = config_add_single_ftype_select('vimeo_publish_vimeo_link_field', $lang['vimeo_publish_vimeo_link']);
 $page_def[] = config_add_single_ftype_select('vimeo_publish_video_title_field', $lang['vimeo_publish_video_title']);

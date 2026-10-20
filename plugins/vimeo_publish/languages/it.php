@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Stai pubblicando su Vimeo come:';
 $lang["vimeo_publish_delete_token"]='Utilizza un diverso account Vimeo (assicurati di aver effettuato il logout da questo account Vimeo prima)';
 $lang["vimeo_publish_button_text"]='Pubblicare';
 $lang["vimeo_publish_legal_warning"]='Cliccando su \'OK\' certifichi di possedere tutti i diritti sul contenuto o di essere autorizzato dal proprietario a rendere il contenuto pubblicamente disponibile su Vimeo e che esso rispetta i Termini di Servizio di Vimeo disponibili su https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"]='Dovrai registrare ResourceSpace come applicazione su Vimeo e ottenere un ID client OAuth e un segreto';
+$lang["vimeo_api_instructions_condition_1"]='Dovrai registrare resourceDAM come applicazione su Vimeo e ottenere un ID client OAuth e un segreto';
 $lang["vimeo_api_instructions_condition_2"]='Accedi a Vimeo con qualsiasi account Vimeo valido (non necessariamente correlato al tuo account Vimeo), quindi vai su <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"]='Clicca su "Nuova App" in alto a destra';
 $lang["vimeo_api_instructions_condition_4"]='Compila tutti i dettagli.';
@@ -30,7 +30,7 @@ $lang["vimeo_api_instructions_condition_8"]='Copia l\'ID cliente e il segreto e 
 $lang["vimeo_api_instructions_condition_9"]='Fai una richiesta per essere autorizzato a caricare video su Vimeo. Assicurati di fornire informazioni sufficienti riguardo al tipo di video che stai per caricare';
 $lang["vimeo_publish_no_vimeoAPI_files"]='ResourceSpace sembra non essere in grado di accedere ai file API PHP di Vimeo!';
 $lang["vimeo_publish_access_denied"]='Accesso negato!';
-$lang["vimeo_publish_not_configured"]='Il plugin ResourceSpace "vimeo_publish" non è stato configurato. Per favore, vai su:';
+$lang["vimeo_publish_not_configured"]='Il plugin resourceDAM "vimeo_publish" non è stato configurato. Per favore, vai su:';
 $lang["vimeo_publish_resource_already_published"]='La risorsa con ID [ref] è già stata pubblicata su Vimeo. Puoi controllarla su [vimeo_url]';
 $lang["vimeo_publish_resource_published"]='La risorsa è stata pubblicata su Vimeo. Puoi controllarla su [vimeo_url]';
 $lang["vimeo_publish_account_options"]='Opzioni dell\'account Vimeo';

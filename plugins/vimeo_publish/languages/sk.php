@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Budete publikovať na Vimeo ako:';
 $lang["vimeo_publish_delete_token"]='Použite iný účet Vimeo (ubezpečte sa, že ste sa najprv odhlásili z tohto účtu Vimeo)';
 $lang["vimeo_publish_button_text"]='Zverejniť';
 $lang["vimeo_publish_legal_warning"]='Kliknutím na tlačidlo \'OK\' potvrdzujete, že vlastníte všetky práva na obsah alebo ste oprávnení vlastníkom umožniť verejný prístup k obsahu na Vimeo a že inak splňuje podmienky služby Vimeo uvedené na adrese https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"]='Budete musieť zaregistrovať ResourceSpace ako aplikáciu s Vimeo a získať OAuth klient ID a tajomstvo';
+$lang["vimeo_api_instructions_condition_1"]='Budete musieť zaregistrovať resourceDAM ako aplikáciu s Vimeo a získať OAuth klient ID a tajomstvo';
 $lang["vimeo_api_instructions_condition_2"]='Prihláste sa na Vimeo pomocou akéhokoľvek platného účtu Vimeo (nemusí to byť váš Vimeo účet), potom prejdite na <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"]='Kliknite na "Nová aplikácia" v pravom hornom rohu';
 $lang["vimeo_api_instructions_condition_4"]='Vyplňte všetky podrobnosti.';
@@ -30,7 +30,7 @@ $lang["vimeo_api_instructions_condition_8"]='Zkopírujte ID klienta a tajný kó
 $lang["vimeo_api_instructions_condition_9"]='Pošljite zahtevo za dovoljenje za nalaganje videoposnetkov na Vimeo. Prepričajte se, da zagotovite dovolj informacij o vrsti videoposnetkov, ki jih boste naložili';
 $lang["vimeo_publish_no_vimeoAPI_files"]='ResourceSpace sa zdá byť neschopný pristupovať k PHP API súborom z Vimeo!';
 $lang["vimeo_publish_access_denied"]='Prístup zamietnutý!';
-$lang["vimeo_publish_not_configured"]='Plugin ResourceSpace "vimeo_publish" nie je nakonfigurovaný. Prosím, prejdite na:';
+$lang["vimeo_publish_not_configured"]='Plugin resourceDAM "vimeo_publish" nie je nakonfigurovaný. Prosím, prejdite na:';
 $lang["vimeo_publish_resource_already_published"]='Zdroj s ID [ref] už bol publikovaný na Vimeo. Môžete si ho pozrieť na [vimeo_url]';
 $lang["vimeo_publish_resource_published"]='Zdrojový súbor bol publikovaný na Vimeo. Môžete si ho pozrieť na [vimeo_url]';
 $lang["vimeo_publish_account_options"]='Možnosti računa Vimeo';

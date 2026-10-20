@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='آپ Vimeo پر اس نام سے شائ�
 $lang["vimeo_publish_delete_token"]='ایک مختلف Vimeo اکاؤنٹ استعمال کریں (پہلے اس Vimeo اکاؤنٹ سے لاگ آؤٹ ہونا یقینی بنائیں)';
 $lang["vimeo_publish_button_text"]='شائع کریں';
 $lang["vimeo_publish_legal_warning"]='\'OK\' پر کلک کر کے آپ تصدیق کرتے ہیں کہ آپ کے پاس مواد کے تمام حقوق ہیں یا آپ کو مالک کی طرف سے مواد کو Vimeo پر عوامی طور پر دستیاب کرنے کی اجازت ہے اور یہ کہ یہ بصورت دیگر Vimeo کی سروس کی شرائط کے مطابق ہے جو https://vimeo.com/terms پر موجود ہیں۔';
-$lang["vimeo_api_instructions_condition_1"]='آپ کو ResourceSpace کو Vimeo کے ساتھ ایک ایپ کے طور پر رجسٹر کرنے کی ضرورت ہوگی اور ایک OAuth کلائنٹ آئی ڈی اور سیکرٹ حاصل کرنا ہوگا۔';
+$lang["vimeo_api_instructions_condition_1"]='آپ کو resourceDAM کو Vimeo کے ساتھ ایک ایپ کے طور پر رجسٹر کرنے کی ضرورت ہوگی اور ایک OAuth کلائنٹ آئی ڈی اور سیکرٹ حاصل کرنا ہوگا۔';
 $lang["vimeo_api_instructions_condition_2"]='کسی بھی درست Vimeo اکاؤنٹ کے ساتھ Vimeo میں لاگ ان کریں (یہ آپ کے Vimeo اکاؤنٹ سے متعلق نہیں ہونا چاہیے)، پھر <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a> پر جائیں۔';
 $lang["vimeo_api_instructions_condition_3"]='اوپر دائیں جانب "نیا ایپ" پر کلک کریں';
 $lang["vimeo_api_instructions_condition_4"]='تمام تفصیلات پُر کریں۔';
