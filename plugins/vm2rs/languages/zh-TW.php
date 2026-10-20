@@ -6,4 +6,4 @@ $lang["vm2rs_field_id_l"] = '欄位ID（Vimeo路徑）';
 $lang["vm2rs_thumb"] = '縮圖路徑';
 $lang["vm2rs_online_preview"] = '線上預覽';
 $lang["vm2rs_youtube_video"] = 'YouTube影片';
-$lang["page-title_vm2rs_setup"] = '設定Vimeo至ResourceSpace插件';
+$lang["page-title_vm2rs_setup"] = '設定Vimeo至ResourceDAM插件';
