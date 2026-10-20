@@ -46,7 +46,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Mengaktifkan resourceDAM 
 $lang["simplesaml_authorisation_claim_name_label"] = 'Nama atribut (pernyataan/klaim)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Nilai Atribut (pernyataan/klaim)';
 $lang["simplesaml_authorisation_login_error"] = 'Anda tidak memiliki akses ke aplikasi ini! Silakan hubungi administrator untuk akun Anda!';
-$lang["simplesaml_authorisation_version_error"] = 'PENTING: Konfigurasi SimpleSAML Anda perlu diperbarui. Silakan lihat bagian \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrasi SP untuk menggunakan konfigurasi ResourceSpace</a>\' di Basis Pengetahuan untuk informasi lebih lanjut';
+$lang["simplesaml_authorisation_version_error"] = 'PENTING: Konfigurasi SimpleSAML Anda perlu diperbarui. Silakan lihat bagian \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrasi SP untuk menggunakan konfigurasi ResourceSpace</a>\' di Basis Pengetahuan untuk informasi lebih lanjut';
 $lang["simplesaml_healthcheck_error"] = 'Kesalahan plugin SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Gunakan file konfigurasi standar resourceDAM untuk mengatur konfigurasi SP dan metadata? Jika ini diatur ke false maka pengeditan manual file diperlukan';
 $lang["simplesaml_sp_generate_config"] = 'Membuat konfigurasi SP';

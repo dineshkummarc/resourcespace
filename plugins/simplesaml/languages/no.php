@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Tillat at resourceDAM kan
 $lang["simplesaml_authorisation_claim_name_label"] = 'Attributt (påstand/navn) navn';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Attributtverdi (påstand/krav-verdi)';
 $lang["simplesaml_authorisation_login_error"] = 'Du har ikke tilgang til denne applikasjonen! Vennligst kontakt administratoren for din konto!';
-$lang["simplesaml_authorisation_version_error"] = 'VIKTIG: Konfigurasjonen din for SimpleSAML må oppdateres. Se seksjonen \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrering av SP for å bruke ResourceDAM-konfigurasjon</a>\' i kunnskapsbasen for mer informasjon';
+$lang["simplesaml_authorisation_version_error"] = 'VIKTIG: Konfigurasjonen din for SimpleSAML må oppdateres. Se seksjonen \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrering av SP for å bruke ResourceDAM-konfigurasjon</a>\' i kunnskapsbasen for mer informasjon';
 $lang["simplesaml_healthcheck_error"] = 'EnkelSAML-tilleggsfeil';
 $lang["simplesaml_rsconfig"] = 'Bruk standard resourceDAM konfigurasjonsfiler for å sette SP konfigurasjon og metadata? Hvis dette er satt til false, kreves manuell redigering av filer';
 $lang["simplesaml_sp_generate_config"] = 'Generer SP-konfigurasjon';

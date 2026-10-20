@@ -81,7 +81,7 @@ $lang["simplesaml_idp_cert_expired"] = 'Mae tystysgrif IdP %idpname wedi dod i b
 $lang["simplesaml_idp_cert_expires"] = 'Mae tystysgrif IdP %idpname yn dod i ben ar %expiretime';
 $lang["simplesaml_check_idp_cert_expiry"] = 'Gwiriwch ddirwygiad tystysgrif IdP?';
 $lang["simplesaml_custom_attribute_label"] = 'atribwt SSO';
-$lang["simplesaml_authorisation_version_error"] = 'PWYSIG: Mae angen diweddaru eich ffurfweddiad SimpleSAML. Cyfeiriwch at adran \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Mudo\'r SP i ddefnyddio ffurfweddiad ResourceSpace</a>\' o\'r Gofod Gwybodaeth am ragor o wybodaeth';
+$lang["simplesaml_authorisation_version_error"] = 'PWYSIG: Mae angen diweddaru eich ffurfweddiad SimpleSAML. Cyfeiriwch at adran \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Mudo\'r SP i ddefnyddio ffurfweddiad ResourceSpace</a>\' o\'r Gofod Gwybodaeth am ragor o wybodaeth';
 $lang["simplesaml_sp_auth.adminpassword"] = 'SP Test site admin password';
 $lang["simplesaml_acs_url"] = 'ACS URL / Reply URL';
 

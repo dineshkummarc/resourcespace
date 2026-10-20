@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceSpace\'in, IdP\'d
 $lang["simplesaml_authorisation_claim_name_label"] = 'Öznitelik (iddia/ talep) adı';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Öznitelik (iddia/ talep) değeri';
 $lang["simplesaml_authorisation_login_error"] = 'Bu uygulamaya erişiminiz yok! Lütfen hesabınızın yöneticisiyle iletişime geçin!';
-$lang["simplesaml_authorisation_version_error"] = 'ÖNEMLİ: SimpleSAML yapılandırmanızın güncellenmesi gerekiyor. Daha fazla bilgi için Bilgi Tabanı\'ndaki \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM yapılandırmasını kullanmak için SP\'yi Taşıma</a>\' bölümüne bakın';
+$lang["simplesaml_authorisation_version_error"] = 'ÖNEMLİ: SimpleSAML yapılandırmanızın güncellenmesi gerekiyor. Daha fazla bilgi için Bilgi Tabanı\'ndaki \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM yapılandırmasını kullanmak için SP\'yi Taşıma</a>\' bölümüne bakın';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML eklentisi hatası';
 $lang["simplesaml_rsconfig"] = 'Standart resourceDAM yapılandırma dosyalarını kullanarak SP yapılandırmasını ve metadatasını ayarlayın? Bu yanlış olarak ayarlanırsa dosyaların manuel olarak düzenlenmesi gerekir';
 $lang["simplesaml_sp_generate_config"] = 'SP yapılandırmasını oluştur';

@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'เปิดใช้ง�
 $lang["simplesaml_authorisation_claim_name_label"] = 'ชื่อคุณลักษณะ (การยืนยัน/การเรียกร้อง)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'ค่าแอตทริบิวต์ (การยืนยัน/การเรียกร้อง)';
 $lang["simplesaml_authorisation_login_error"] = 'คุณไม่มีสิทธิ์เข้าถึงแอปพลิเคชันนี้! กรุณาติดต่อผู้ดูแลระบบสำหรับบัญชีของคุณ!';
-$lang["simplesaml_authorisation_version_error"] = 'สำคัญ: การตั้งค่า SimpleSAML ของคุณต้องได้รับการอัปเดต โปรดดูที่ \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> การย้าย SP เพื่อใช้การตั้งค่า ResourceSpace</a>\' ในส่วนของฐานความรู้เพื่อข้อมูลเพิ่มเติม';
+$lang["simplesaml_authorisation_version_error"] = 'สำคัญ: การตั้งค่า SimpleSAML ของคุณต้องได้รับการอัปเดต โปรดดูที่ \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> การย้าย SP เพื่อใช้การตั้งค่า ResourceSpace</a>\' ในส่วนของฐานความรู้เพื่อข้อมูลเพิ่มเติม';
 $lang["simplesaml_healthcheck_error"] = 'ข้อผิดพลาดปลั๊กอิน SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'ใช้ไฟล์การกำหนดค่ามาตรฐานของ resourceDAM เพื่อตั้งค่าการกำหนดค่า SP และข้อมูลเมตา หากตั้งค่าเป็นเท็จ จะต้องมีการแก้ไขไฟล์ด้วยตนเอง';
 $lang["simplesaml_sp_generate_config"] = 'สร้างการกำหนดค่า SP';

@@ -274,7 +274,7 @@ function simplesaml_config_check(): array
         if (get_sysvar("SAML_UPGRADE_REQUIRED", 0) != 1) {
             system_notification(
                 $lang['simplesaml_authorisation_version_error'],
-                "https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate"
+                "https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate"
             );
             // Set flag so this is not sent multiple times
             set_sysvar("SAML_UPGRADE_REQUIRED", 1);

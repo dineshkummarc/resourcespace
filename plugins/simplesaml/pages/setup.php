@@ -321,7 +321,7 @@ config_text_input('set_simplesaml_admin_password', $lang['simplesaml_admin_passw
             : str_replace($_SERVER["DOCUMENT_ROOT"], "", $simplesaml_lib_path . "/public/admin");
 
         if (isset($simplesaml_lib_path) && file_exists($simplesaml_lib_path . "/config/authsources.php")) {
-            echo "<a href='https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate' target='_blank'>" . LINK_CARET . escape($lang["simplesaml_existing_config"]) . "</a>";
+            echo "<a href='https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate' target='_blank'>" . LINK_CARET . escape($lang["simplesaml_existing_config"]) . "</a>";
         } 
         echo "<a id='generate_sp_config_link' href='generate_sp_config.php' onclick='return CentralSpaceLoad(this,true)'>" . LINK_CARET . escape($lang["simplesaml_sp_generate_config"]) . "</a><br>";
         // Show link to SimpleSAMLphp test site

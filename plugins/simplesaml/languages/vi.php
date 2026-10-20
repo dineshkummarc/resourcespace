@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Cho phép resourceDAM đ�
 $lang["simplesaml_authorisation_claim_name_label"] = 'Tên thuộc tính (khẳng định/yêu cầu)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Giá trị thuộc tính (khẳng định/yêu cầu)';
 $lang["simplesaml_authorisation_login_error"] = 'Bạn không có quyền truy cập vào ứng dụng này! Vui lòng liên hệ với quản trị viên cho tài khoản của bạn!';
-$lang["simplesaml_authorisation_version_error"] = 'QUAN TRỌNG: Cấu hình SimpleSAML của bạn cần được cập nhật. Vui lòng tham khảo phần \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Di chuyển SP để sử dụng cấu hình ResourceSpace</a>\' trong Cơ sở Kiến thức để biết thêm thông tin';
+$lang["simplesaml_authorisation_version_error"] = 'QUAN TRỌNG: Cấu hình SimpleSAML của bạn cần được cập nhật. Vui lòng tham khảo phần \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Di chuyển SP để sử dụng cấu hình ResourceSpace</a>\' trong Cơ sở Kiến thức để biết thêm thông tin';
 $lang["simplesaml_healthcheck_error"] = 'Lỗi plugin SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Sử dụng các tệp cấu hình resourceDAM tiêu chuẩn để thiết lập cấu hình SP và siêu dữ liệu? Nếu điều này được đặt thành sai thì cần chỉnh sửa thủ công các tệp';
 $lang["simplesaml_sp_generate_config"] = 'Tạo cấu hình SP';

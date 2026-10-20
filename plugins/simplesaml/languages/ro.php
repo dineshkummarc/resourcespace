@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Permiteți configurarea r
 $lang["simplesaml_authorisation_claim_name_label"] = 'Nume atribut (afirmație/reclamație)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Valoare atribut (afirmație/reclamație)';
 $lang["simplesaml_authorisation_login_error"] = 'Nu aveți acces la această aplicație! Vă rugăm să contactați administratorul contului dumneavoastră!';
-$lang["simplesaml_authorisation_version_error"] = 'IMPORTANT: Configurația dvs. SimpleSAML trebuie actualizată. Vă rugăm să consultați secțiunea \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrarea SP pentru a utiliza configurația ResourceSpace</a>\' din Baza de cunoștințe pentru mai multe informații';
+$lang["simplesaml_authorisation_version_error"] = 'IMPORTANT: Configurația dvs. SimpleSAML trebuie actualizată. Vă rugăm să consultați secțiunea \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrarea SP pentru a utiliza configurația ResourceSpace</a>\' din Baza de cunoștințe pentru mai multe informații';
 $lang["simplesaml_healthcheck_error"] = 'Eroare la modulul suplimentar SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Folosiți fișierele de configurare standard resourceDAM pentru a seta configurarea SP și metadatele? Dacă aceasta este setată la fals, atunci este necesară editarea manuală a fișierelor';
 $lang["simplesaml_sp_generate_config"] = 'Generați configurația SP';

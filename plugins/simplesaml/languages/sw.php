@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Wezesha resourceDAM kusan
 $lang["simplesaml_authorisation_claim_name_label"] = 'Jina la sifa (madai/ dai)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Thamani ya sifa (madai/ dai)';
 $lang["simplesaml_authorisation_login_error"] = 'Huna ruhusa ya kufikia programu hii! Tafadhali wasiliana na msimamizi wa akaunti yako!';
-$lang["simplesaml_authorisation_version_error"] = 'MUHIMU: Usanidi wako wa SimpleSAML unahitaji kusasishwa. Tafadhali rejelea sehemu ya \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Kuhamisha SP kutumia usanidi wa ResourceSpace</a>\' katika Msingi wa Maarifa kwa maelezo zaidi.';
+$lang["simplesaml_authorisation_version_error"] = 'MUHIMU: Usanidi wako wa SimpleSAML unahitaji kusasishwa. Tafadhali rejelea sehemu ya \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Kuhamisha SP kutumia usanidi wa ResourceSpace</a>\' katika Msingi wa Maarifa kwa maelezo zaidi.';
 $lang["simplesaml_healthcheck_error"] = 'Hitilafu ya programu-jalizi ya SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Tumia faili za usanidi wa resourceDAM za kawaida kuweka usanidi wa SP na metadata? Ikiwa hii imewekwa kuwa ya uongo basi uhariri wa faili kwa mkono unahitajika';
 $lang["simplesaml_sp_generate_config"] = 'Tengeneza usanidi wa SP';

@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Omogućite konfiguriranje
 $lang["simplesaml_authorisation_claim_name_label"] = 'Naziv atributa (tvrdnje/zahtjeva)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Atribut (tvrdnja/vrijednost tvrdnje)';
 $lang["simplesaml_authorisation_login_error"] = 'Nemate pristup ovoj aplikaciji! Molimo kontaktirajte administratora svog računa!';
-$lang["simplesaml_authorisation_version_error"] = 'VAŽNO: Potrebno je ažurirati vašu SimpleSAML konfiguraciju. Molimo pogledajte odjeljak \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migracija SP-a za korištenje resourceDAM konfiguracije</a>\' u bazi znanja za više informacija';
+$lang["simplesaml_authorisation_version_error"] = 'VAŽNO: Potrebno je ažurirati vašu SimpleSAML konfiguraciju. Molimo pogledajte odjeljak \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migracija SP-a za korištenje resourceDAM konfiguracije</a>\' u bazi znanja za više informacija';
 $lang["simplesaml_healthcheck_error"] = 'Jednostavna greška u dodatku SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Koristite standardne konfiguracijske datoteke ResourceDAM-a za postavljanje konfiguracije SP-a i metapodataka? Ako je ovo postavljeno na "false", tada je potrebno ručno uređivanje datoteka';
 $lang["simplesaml_sp_generate_config"] = 'Generiraj konfiguraciju SP-a';

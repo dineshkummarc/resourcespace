@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceSpace-কে অ�
 $lang["simplesaml_authorisation_claim_name_label"] = 'বৈশিষ্ট্য (দাবি/উক্তি) নাম';
 $lang["simplesaml_authorisation_claim_value_label"] = 'বৈশিষ্ট্য (দাবি/প্রত্যয়ন) মান';
 $lang["simplesaml_authorisation_login_error"] = 'আপনার এই অ্যাপ্লিকেশনে প্রবেশাধিকার নেই! আপনার অ্যাকাউন্টের জন্য প্রশাসকের সাথে যোগাযোগ করুন!';
-$lang["simplesaml_authorisation_version_error"] = 'গুরুত্বপূর্ণ: আপনার SimpleSAML কনফিগারেশন আপডেট করা প্রয়োজন। আরও তথ্যের জন্য অনুগ্রহ করে জ্ঞানভান্ডারের \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM কনফিগারেশন ব্যবহার করতে SP স্থানান্তর</a>\' বিভাগটি দেখুন।';
+$lang["simplesaml_authorisation_version_error"] = 'গুরুত্বপূর্ণ: আপনার SimpleSAML কনফিগারেশন আপডেট করা প্রয়োজন। আরও তথ্যের জন্য অনুগ্রহ করে জ্ঞানভান্ডারের \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM কনফিগারেশন ব্যবহার করতে SP স্থানান্তর</a>\' বিভাগটি দেখুন।';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML প্লাগইন ত্রুটি';
 $lang["simplesaml_rsconfig"] = 'স্ট্যান্ডার্ড resourceDAM কনফিগারেশন ফাইলগুলি ব্যবহার করে SP কনফিগারেশন এবং মেটাডেটা সেট করবেন? যদি এটি মিথ্যা হিসাবে সেট করা হয় তবে ফাইলগুলির ম্যানুয়াল সম্পাদনা প্রয়োজন।';
 $lang["simplesaml_sp_generate_config"] = 'SP কনফিগ তৈরি করুন';

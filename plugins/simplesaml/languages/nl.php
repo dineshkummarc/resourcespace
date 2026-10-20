@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Maak het mogelijk om reso
 $lang["simplesaml_authorisation_claim_name_label"] = 'Attribuutnaam (bewering/claimnaam)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Attribuutwaarde (bewering/waarde)';
 $lang["simplesaml_authorisation_login_error"] = 'Je hebt geen toegang tot deze applicatie! Neem contact op met de beheerder van je account!';
-$lang["simplesaml_authorisation_version_error"] = 'BELANGRIJK: Uw SimpleSAML-configuratie moet worden bijgewerkt. Raadpleeg de sectie \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migreren van de SP naar het gebruik van ResourceDAM-configuratie</a>\' van de Kennisbank voor meer informatie';
+$lang["simplesaml_authorisation_version_error"] = 'BELANGRIJK: Uw SimpleSAML-configuratie moet worden bijgewerkt. Raadpleeg de sectie \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migreren van de SP naar het gebruik van ResourceDAM-configuratie</a>\' van de Kennisbank voor meer informatie';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML plugin fout';
 $lang["simplesaml_rsconfig"] = 'Gebruik standaard resourceDAM configuratiebestanden om SP-configuratie en metadata in te stellen? Als dit op false is ingesteld, is handmatige bewerking van bestanden vereist';
 $lang["simplesaml_sp_generate_config"] = 'Genereer SP-configuratie';

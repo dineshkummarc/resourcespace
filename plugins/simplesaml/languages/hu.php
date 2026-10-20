@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Engedélyezze a resourceD
 $lang["simplesaml_authorisation_claim_name_label"] = 'Attribútum (állítás/igény) neve';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Attribútum (állítás/igény) érték';
 $lang["simplesaml_authorisation_login_error"] = 'Nincs hozzáférése ehhez az alkalmazáshoz! Kérjük, lépjen kapcsolatba a fiókjáért felelős adminisztrátorral!';
-$lang["simplesaml_authorisation_version_error"] = 'FONTOS: A SimpleSAML konfigurációját frissíteni kell. Kérjük, nézze meg a \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> A SP migrálása a resourceDAM konfiguráció használatára</a>\' szakaszt a Tudásbázisban további információkért';
+$lang["simplesaml_authorisation_version_error"] = 'FONTOS: A SimpleSAML konfigurációját frissíteni kell. Kérjük, nézze meg a \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> A SP migrálása a resourceDAM konfiguráció használatára</a>\' szakaszt a Tudásbázisban további információkért';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML bővítmény hiba';
 $lang["simplesaml_rsconfig"] = 'Használja a standard resourceDAM konfigurációs fájlokat az SP konfiguráció és a metaadatok beállításához? Ha ez hamisra van állítva, akkor a fájlok manuális szerkesztése szükséges.';
 $lang["simplesaml_sp_generate_config"] = 'Generálj SP konfigurációt';

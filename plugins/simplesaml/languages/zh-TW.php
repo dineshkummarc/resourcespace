@@ -48,7 +48,7 @@ $lang["simplesaml_authorisation_rules_description"] = '啟用 ResourceSpace，�
 $lang["simplesaml_authorisation_claim_name_label"] = '屬性（斷言/聲明）名稱';
 $lang["simplesaml_authorisation_claim_value_label"] = '屬性（斷言／聲明）值';
 $lang["simplesaml_authorisation_login_error"] = '您無法訪問此應用程式！請聯繫您的帳戶管理員！';
-$lang["simplesaml_authorisation_version_error"] = '重要：您的 SimpleSAML 配置需要更新。請參考知識庫中的「<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>將 SP 遷移以使用 resourceDAM 配置</a>」部分以獲取更多資訊';
+$lang["simplesaml_authorisation_version_error"] = '重要：您的 SimpleSAML 配置需要更新。請參考知識庫中的「<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>將 SP 遷移以使用 resourceDAM 配置</a>」部分以獲取更多資訊';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML 插件錯誤';
 $lang["simplesaml_rsconfig"] = '是否使用標準的 resourceDAM 配置文件來設置 SP 配置和元數據？如果設為 false，則需要手動編輯文件';
 $lang["simplesaml_sp_generate_config"] = '生成 SP 配置';

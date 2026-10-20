@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceDAM ਨੂੰ ਵ
 $lang["simplesaml_authorisation_claim_name_label"] = 'ਗੁਣ (ਦਾਅਵਾ/ਦਾਅਵਾ) ਨਾਮ';
 $lang["simplesaml_authorisation_claim_value_label"] = 'ਗੁਣ (ਦਾਅਵਾ/ਦਰਜਾ) ਮੁੱਲ';
 $lang["simplesaml_authorisation_login_error"] = 'ਤੁਹਾਨੂੰ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੈ! ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਖਾਤੇ ਲਈ ਪ੍ਰਸ਼ਾਸਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ!';
-$lang["simplesaml_authorisation_version_error"] = 'ਮਹੱਤਵਪੂਰਨ: ਤੁਹਾਡੀ SimpleSAML ਸੰਰਚਨਾ ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ Knowledge Base ਦੇ \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM ਸੰਰਚਨਾ ਦੀ ਵਰਤੋਂ ਲਈ SP ਨੂੰ ਮਾਈਗ੍ਰੇਟ ਕਰਨਾ</a>\' ਭਾਗ ਨੂੰ ਵੇਖੋ।';
+$lang["simplesaml_authorisation_version_error"] = 'ਮਹੱਤਵਪੂਰਨ: ਤੁਹਾਡੀ SimpleSAML ਸੰਰਚਨਾ ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ Knowledge Base ਦੇ \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM ਸੰਰਚਨਾ ਦੀ ਵਰਤੋਂ ਲਈ SP ਨੂੰ ਮਾਈਗ੍ਰੇਟ ਕਰਨਾ</a>\' ਭਾਗ ਨੂੰ ਵੇਖੋ।';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML ਪਲੱਗਇਨ ਗਲਤੀ';
 $lang["simplesaml_rsconfig"] = 'ਸਟੈਂਡਰਡ resourceDAM ਕਨਫਿਗਰੇਸ਼ਨ ਫਾਈਲਾਂ ਨੂੰ SP ਕਨਫਿਗਰੇਸ਼ਨ ਅਤੇ ਮੈਟਾਡੇਟਾ ਸੈੱਟ ਕਰਨ ਲਈ ਵਰਤੋ? ਜੇ ਇਹ ਫਾਲਸ \'ਤੇ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ ਤਾਂ ਫਾਈਲਾਂ ਦੀ ਹੱਥੋਂ ਸੋਧ ਲੋੜੀਂਦੀ ਹੈ।';
 $lang["simplesaml_sp_generate_config"] = 'SP ਕਨਫਿਗ ਜਨਰੇਟ ਕਰੋ';

@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Mahdollista ResourceSpace
 $lang["simplesaml_authorisation_claim_name_label"] = 'Attribuutin (väitteen/nimen) nimi';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Attribuutin (väitteen/ vaatimuksen) arvo';
 $lang["simplesaml_authorisation_login_error"] = 'Sinulla ei ole pääsyä tähän sovellukseen! Ota yhteyttä tilisi ylläpitäjään!';
-$lang["simplesaml_authorisation_version_error"] = 'TÄRKEÄÄ: SimpleSAML-konfiguraatiosi on päivitettävä. Katso lisätietoja Knowledge Basen \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrating the SP to use resourceDAM configuration</a>\' -osasta';
+$lang["simplesaml_authorisation_version_error"] = 'TÄRKEÄÄ: SimpleSAML-konfiguraatiosi on päivitettävä. Katso lisätietoja Knowledge Basen \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrating the SP to use resourceDAM configuration</a>\' -osasta';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML-liitännäisen virhe';
 $lang["simplesaml_rsconfig"] = 'Käytä standardia ResourceDAM-konfiguraatiotiedostoa määrittääksesi SP-konfiguraation ja metatiedot. Jos tämä on asetettu epätodeksi, tiedostojen manuaalinen muokkaus on tarpeen';
 $lang["simplesaml_sp_generate_config"] = 'Tuota SP-määritys';

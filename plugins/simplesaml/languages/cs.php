@@ -46,7 +46,7 @@ $lang["simplesaml_authorisation_rules_header"] = 'Pravidlo autorizace';
 $lang["simplesaml_authorisation_rules_description"] = 'Povolit konfiguraci resourceDAM s dodatečným místním ověřováním uživatelů na základě dalšího atributu (tj. tvrzení/ nároku) v odpovědi od IdP. Toto tvrzení bude použito pluginem k určení, zda je uživateli povoleno se přihlásit do resourceDAM nebo ne.';
 $lang["simplesaml_authorisation_claim_name_label"] = 'Název atributu (tvrzení/ nárok)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Hodnota atributu (tvrzení/ nárok)';
-$lang["simplesaml_authorisation_version_error"] = 'DŮLEŽITÉ: Vaše konfigurace SimpleSAML musí být aktualizována. Podívejte se prosím na sekci \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrace SP k použití konfigurace ResourceSpace</a>\' v Knowledge Base pro více informací';
+$lang["simplesaml_authorisation_version_error"] = 'DŮLEŽITÉ: Vaše konfigurace SimpleSAML musí být aktualizována. Podívejte se prosím na sekci \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Migrace SP k použití konfigurace ResourceSpace</a>\' v Knowledge Base pro více informací';
 $lang["simplesaml_healthcheck_error"] = 'Chyba pluginu SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Použijte standardní konfigurační soubory resourceDAM k nastavení konfigurace SP a metadat? Pokud je tato možnost nastavena na false, je vyžadována ruční úprava souborů';
 $lang["simplesaml_sp_generate_config"] = 'Vygenerovat SP konfiguraci';

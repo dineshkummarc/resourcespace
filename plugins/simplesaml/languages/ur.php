@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceDAM کو اضاف
 $lang["simplesaml_authorisation_claim_name_label"] = 'صفات (دعویٰ/ دعویٰ) کا نام';
 $lang["simplesaml_authorisation_claim_value_label"] = 'قدر (دعویٰ/ دعویٰ) وصف';
 $lang["simplesaml_authorisation_login_error"] = 'آپ کو اس ایپلیکیشن تک رسائی نہیں ہے! براہ کرم اپنے اکاؤنٹ کے لیے منتظم سے رابطہ کریں!';
-$lang["simplesaml_authorisation_version_error"] = 'اہم: آپ کی SimpleSAML ترتیب کو اپ ڈیٹ کرنے کی ضرورت ہے۔ مزید معلومات کے لیے Knowledge Base کے \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM ترتیب استعمال کرنے کے لیے SP کی منتقلی</a>\' سیکشن کا حوالہ دیں۔';
+$lang["simplesaml_authorisation_version_error"] = 'اہم: آپ کی SimpleSAML ترتیب کو اپ ڈیٹ کرنے کی ضرورت ہے۔ مزید معلومات کے لیے Knowledge Base کے \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM ترتیب استعمال کرنے کے لیے SP کی منتقلی</a>\' سیکشن کا حوالہ دیں۔';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML پلگ ان کی خرابی';
 $lang["simplesaml_rsconfig"] = 'ResourceDAM کی معیاری ترتیب فائلوں کو SP ترتیب اور میٹا ڈیٹا سیٹ کرنے کے لیے استعمال کریں؟ اگر یہ غلط پر سیٹ ہے تو فائلوں کی دستی تدوین کی ضرورت ہوگی۔';
 $lang["simplesaml_sp_generate_config"] = 'ایس پی کنفیگ تیار کریں';

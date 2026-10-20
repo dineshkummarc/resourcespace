@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'فعال‌سازی resou
 $lang["simplesaml_authorisation_claim_name_label"] = 'نام ویژگی (ادعا/ اظهار)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'مقدار ویژگی (ادعا/ اظهار)';
 $lang["simplesaml_authorisation_login_error"] = 'شما به این برنامه دسترسی ندارید! لطفاً با مدیر حساب خود تماس بگیرید!';
-$lang["simplesaml_authorisation_version_error"] = 'مهم: پیکربندی SimpleSAML شما نیاز به به‌روزرسانی دارد. لطفاً به بخش \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> مهاجرت SP برای استفاده از پیکربندی ResourceSpace</a>\' در پایگاه دانش برای اطلاعات بیشتر مراجعه کنید.';
+$lang["simplesaml_authorisation_version_error"] = 'مهم: پیکربندی SimpleSAML شما نیاز به به‌روزرسانی دارد. لطفاً به بخش \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> مهاجرت SP برای استفاده از پیکربندی ResourceSpace</a>\' در پایگاه دانش برای اطلاعات بیشتر مراجعه کنید.';
 $lang["simplesaml_healthcheck_error"] = 'خطای افزونه SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'از فایل‌های پیکربندی استاندارد resourceDAM برای تنظیم پیکربندی SP و فراداده استفاده کنید؟ اگر این به false تنظیم شود، ویرایش دستی فایل‌ها لازم است';
 $lang["simplesaml_sp_generate_config"] = 'تولید پیکربندی SP';

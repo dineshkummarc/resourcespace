@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceSpace가 IdP의 �
 $lang["simplesaml_authorisation_claim_name_label"] = '속성 (주장/클레임) 이름';
 $lang["simplesaml_authorisation_claim_value_label"] = '속성 (주장/클레임) 값';
 $lang["simplesaml_authorisation_login_error"] = '이 애플리케이션에 접근할 수 없습니다! 계정 관리자에게 문의하십시오!';
-$lang["simplesaml_authorisation_version_error"] = '중요: SimpleSAML 구성을 업데이트해야 합니다. 자세한 내용은 지식 베이스의 \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>ResourceDAM 구성을 사용하도록 SP 마이그레이션</a>\' 섹션을 참조하십시오';
+$lang["simplesaml_authorisation_version_error"] = '중요: SimpleSAML 구성을 업데이트해야 합니다. 자세한 내용은 지식 베이스의 \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>ResourceDAM 구성을 사용하도록 SP 마이그레이션</a>\' 섹션을 참조하십시오';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML 플러그인 오류';
 $lang["simplesaml_rsconfig"] = '표준 resourceDAM 구성 파일을 사용하여 SP 구성 및 메타데이터를 설정하시겠습니까? 이 값을 false로 설정하면 파일을 수동으로 편집해야 합니다';
 $lang["simplesaml_sp_generate_config"] = 'SP 구성 생성';

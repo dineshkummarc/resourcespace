@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'تمكين resourceDAM م
 $lang["simplesaml_authorisation_claim_name_label"] = 'اسم السمة (الادعاء / المطالبة)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'قيمة السمة (الادعاء / المطالبة)';
 $lang["simplesaml_authorisation_login_error"] = 'ليس لديك صلاحية الوصول إلى هذا التطبيق! يرجى الاتصال بمدير الحساب الخاص بك!';
-$lang["simplesaml_authorisation_version_error"] = 'مهم: يجب تحديث تكوين SimpleSAML الخاص بك. يرجى الرجوع إلى قسم "ترحيل SP لاستخدام تكوين ResourceSpace" في قاعدة المعرفة على الرابط التالي: \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>.</a>\' لمزيد من المعلومات';
+$lang["simplesaml_authorisation_version_error"] = 'مهم: يجب تحديث تكوين SimpleSAML الخاص بك. يرجى الرجوع إلى قسم "ترحيل SP لاستخدام تكوين ResourceSpace" في قاعدة المعرفة على الرابط التالي: \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>.</a>\' لمزيد من المعلومات';
 $lang["simplesaml_healthcheck_error"] = 'خطأ في ملحق SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'استخدم ملفات تكوين resourceDAM القياسية لتعيين تكوين SP والبيانات الوصفية؟ إذا تم تعيين هذا على "false" ، فسيتطلب ذلك تحرير الملفات يدويًا';
 $lang["simplesaml_sp_generate_config"] = 'توليد تكوين SP';

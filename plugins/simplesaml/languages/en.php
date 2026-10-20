@@ -49,7 +49,7 @@ $lang['simplesaml_authorisation_rules_description'] = 'Enable resourceDAM to be 
 $lang['simplesaml_authorisation_claim_name_label'] = 'Attribute (assertion/ claim) name';
 $lang['simplesaml_authorisation_claim_value_label'] = 'Attribute (assertion/ claim) value';
 $lang['simplesaml_authorisation_login_error'] = "You don't have access to this application! Please contact the administrator for your account!";
-$lang['simplesaml_authorisation_version_error'] = "IMPORTANT: Your SimpleSAML configuration needs to be updated. Please refer to the '<a href='https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate' target='_blank'> Migrating the SP to use resourceDAM configuration</a>' section of the Knowledge Base for more information";
+$lang['simplesaml_authorisation_version_error'] = "IMPORTANT: Your SimpleSAML configuration needs to be updated. Please refer to the '<a href='https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate' target='_blank'> Migrating the SP to use resourceDAM configuration</a>' section of the Knowledge Base for more information";
 $lang['simplesaml_healthcheck_error'] = "SimpleSAML plugin error";
 $lang['simplesaml_rsconfig'] = "Use standard resourceDAM configuration files to set SP configuration and metadata? If this set to false then manual editing of files is required";
 $lang['simplesaml_sp_generate_config'] = "Generate SP config";

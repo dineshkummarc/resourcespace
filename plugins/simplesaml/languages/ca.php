@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Permetre que resourceDAM 
 $lang["simplesaml_authorisation_claim_name_label"] = 'Nom d\'atribut (afirmació/reclamació)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Valor d\'atribut (afirmació/reclamació)';
 $lang["simplesaml_authorisation_login_error"] = 'No tens accés a aquesta aplicació! Si us plau, contacta amb l\'administrador del teu compte!';
-$lang["simplesaml_authorisation_version_error"] = 'IMPORTANT: La configuració del teu SimpleSAML ha de ser actualitzada. Si us plau, consulta la secció \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrating the SP to use resourceDAM configuration</a>\' de la Base de Coneixement per obtenir més informació';
+$lang["simplesaml_authorisation_version_error"] = 'IMPORTANT: La configuració del teu SimpleSAML ha de ser actualitzada. Si us plau, consulta la secció \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrating the SP to use resourceDAM configuration</a>\' de la Base de Coneixement per obtenir més informació';
 $lang["simplesaml_healthcheck_error"] = 'Error del connector SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Utilitzeu els fitxers de configuració estàndard de resourceDAM per establir la configuració de SP i les metadades? Si això està establert com a fals, llavors es requereix l\'edició manual dels fitxers';
 $lang["simplesaml_sp_generate_config"] = 'Generar la configuració de SP';

@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceSpaceを追加の
 $lang["simplesaml_authorisation_claim_name_label"] = '属性（主張/クレーム）名';
 $lang["simplesaml_authorisation_claim_value_label"] = '属性（主張/クレーム）値';
 $lang["simplesaml_authorisation_login_error"] = 'このアプリケーションにアクセス権限がありません！アカウントの管理者に連絡してください！';
-$lang["simplesaml_authorisation_version_error"] = '重要: SimpleSAMLの設定を更新する必要があります。詳細については、Knowledge Baseの\'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>SPをResourceSpace設定に移行する手順</a>\'セクションを参照してください。';
+$lang["simplesaml_authorisation_version_error"] = '重要: SimpleSAMLの設定を更新する必要があります。詳細については、Knowledge Baseの\'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>SPをResourceSpace設定に移行する手順</a>\'セクションを参照してください。';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML プラグインエラー';
 $lang["simplesaml_rsconfig"] = '標準のResourceSpace設定ファイルを使用してSPの設定とメタデータを設定しますか？これがfalseに設定されている場合、ファイルの手動編集が必要です。';
 $lang["simplesaml_sp_generate_config"] = 'SP設定を生成する';

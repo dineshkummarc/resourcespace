@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'ResourceDAM को अत
 $lang["simplesaml_authorisation_claim_name_label"] = 'गुण (दावा/ कथन) नाम';
 $lang["simplesaml_authorisation_claim_value_label"] = 'गुण (दावा/ कथन) मान';
 $lang["simplesaml_authorisation_login_error"] = 'आपको इस एप्लिकेशन का उपयोग करने की अनुमति नहीं है! कृपया अपने खाते के लिए व्यवस्थापक से संपर्क करें!';
-$lang["simplesaml_authorisation_version_error"] = 'महत्वपूर्ण: आपके SimpleSAML कॉन्फ़िगरेशन को अपडेट करने की आवश्यकता है। अधिक जानकारी के लिए कृपया Knowledge Base के \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM कॉन्फ़िगरेशन का उपयोग करने के लिए SP को माइग्रेट करना</a>\' अनुभाग को देखें।';
+$lang["simplesaml_authorisation_version_error"] = 'महत्वपूर्ण: आपके SimpleSAML कॉन्फ़िगरेशन को अपडेट करने की आवश्यकता है। अधिक जानकारी के लिए कृपया Knowledge Base के \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> resourceDAM कॉन्फ़िगरेशन का उपयोग करने के लिए SP को माइग्रेट करना</a>\' अनुभाग को देखें।';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML प्लगइन त्रुटि';
 $lang["simplesaml_rsconfig"] = 'मानक resourceDAM कॉन्फ़िगरेशन फ़ाइलों का उपयोग करके SP कॉन्फ़िगरेशन और मेटाडेटा सेट करें? यदि इसे false पर सेट किया गया है तो फ़ाइलों को मैन्युअल रूप से संपादित करना आवश्यक है';
 $lang["simplesaml_sp_generate_config"] = 'एसपी कॉन्फ़िगरेशन उत्पन्न करें';

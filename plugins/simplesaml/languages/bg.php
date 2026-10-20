@@ -48,7 +48,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Активирайте re
 $lang["simplesaml_authorisation_claim_name_label"] = 'Име на атрибута (твърдението/претенцията)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Стойност на атрибута (утвърждение/претенция)';
 $lang["simplesaml_authorisation_login_error"] = 'Нямате достъп до това приложение! Моля, свържете се с администратора на вашия акаунт!';
-$lang["simplesaml_authorisation_version_error"] = 'ВАЖНО: Трябва да актуализирате конфигурацията на SimpleSAML. Моля, вижте раздела \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Миграция на SP към конфигурацията на ResourceSpace</a>\' в Базата знания за повече информация';
+$lang["simplesaml_authorisation_version_error"] = 'ВАЖНО: Трябва да актуализирате конфигурацията на SimpleSAML. Моля, вижте раздела \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Миграция на SP към конфигурацията на ResourceSpace</a>\' в Базата знания за повече информация';
 $lang["simplesaml_healthcheck_error"] = 'Грешка в плъгина SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Използвайте стандартните конфигурационни файлове на resourceDAM за настройка на SP и метаданни? Ако е настроено на false, е необходима ръчна редакция на файловете';
 $lang["simplesaml_sp_generate_config"] = 'Генериране на конфигурация на SP';

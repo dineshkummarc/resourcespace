@@ -48,7 +48,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Уключыць resource
 $lang["simplesaml_authorisation_claim_name_label"] = 'Назва атрыбута (заява/прэтэнзія)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Значэнне атрыбута (заява/прэтэнзія)';
 $lang["simplesaml_authorisation_login_error"] = 'Вы не маеце доступу да гэтага прыкладання! Калі ласка, звяжыцеся з адміністратарам вашага акаўнта!';
-$lang["simplesaml_authorisation_version_error"] = 'ВАЖНА: Ваша канфігурацыя SimpleSAML павінна быць абноўлена. Калі ласка, звярніцеся да раздзела \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Міграцыя SP для выкарыстання канфігурацыі ResourceSpace</a>\' у Базе ведаў для атрымання дадатковай інфармацыі';
+$lang["simplesaml_authorisation_version_error"] = 'ВАЖНА: Ваша канфігурацыя SimpleSAML павінна быць абноўлена. Калі ласка, звярніцеся да раздзела \'<a href=\'https://rhss.info/resourceDAM/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'> Міграцыя SP для выкарыстання канфігурацыі ResourceSpace</a>\' у Базе ведаў для атрымання дадатковай інфармацыі';
 $lang["simplesaml_healthcheck_error"] = 'Памылка плагіна SimpleSAML';
 $lang["simplesaml_rsconfig"] = 'Выкарыстоўвайце стандартныя файлы канфігурацыі resourceDAM для ўстаноўкі канфігурацыі SP і метададзеных? Калі гэта ўстаноўлена на false, то патрабуецца ручное рэдагаванне файлаў';
 $lang["simplesaml_sp_generate_config"] = 'Сгенераваць канфігурацыю SP';
