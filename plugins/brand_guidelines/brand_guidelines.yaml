@@ -3,7 +3,7 @@ version: 1.0
 title: Brand Guidelines
 desc: Create a brand guidelines area with custom content, resources links and colours.
 author: Montala Limited
-info_url: https://www.resourcespace.com/knowledge-base/plugins/brand-guidelines
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/brand-guidelines
 config_url: /plugins/brand_guidelines/pages/setup.php
 default_priority: 999
 icon: list
