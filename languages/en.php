@@ -1291,9 +1291,9 @@ $lang["selectedresources"] = "Selected resources";
 $lang["phpextensions"] = "PHP extensions";
 
 # Setup Script
-$lang["setup-alreadyconfigured"] = "Your ResourceSpace installation is already configured.  To reconfigure, you may delete <pre>include/config.php</pre> and point your browser to this page again.";
+$lang["setup-alreadyconfigured"] = "Your ResourceDAM installation is already configured.  To reconfigure, you may delete <pre>include/config.php</pre> and point your browser to this page again.";
 $lang["setup-successheader"] = "Congratulations!";
-$lang["setup-successdetails"] = "Your initial ResourceSpace setup is complete.  Be sure to check out 'include/config.default.php' for more configuration options.";
+$lang["setup-successdetails"] = "Your initial ResourceDAM setup is complete.  Be sure to check out 'include/config.default.php' for more configuration options.";
 $lang["setup-successnextsteps"] = "Next steps:";
 $lang["setup-successremovewrite"] = "You can now remove write access to 'include/'.";
 $lang["setup-visitwiki"] = 'Visit the <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Knowledge Base</a> for more information about customizing your installation.';
@@ -1641,7 +1641,7 @@ $lang["backtothemes"] = "Back to featured collections";
 $lang["downloadreport"] = "Download report";
 
 #Bug Report Page
-$lang['reportbug'] = "Prepare bug report for ResourceSpace team";
+$lang['reportbug'] = "Prepare bug report for ResourceDAM team";
 $lang['reportbug-detail'] = "The following information has been compiled for inclusion in the bug report.  You'll be able to change all values before submitting a report.";
 $lang['reportbug-login'] = "NOTE: Click here to login to the bug tracker BEFORE clicking prepare.";
 $lang['reportbug-preparebutton'] = "Prepare bug report";
@@ -2560,9 +2560,9 @@ $lang["edit__batch"] = "";
 $lang["edit__multiple"] = "Please select which fields you wish to overwrite. Fields you do not select will be left untouched.";
 $lang["help__introtext"] = '<p>Get the most out of ResourceSpace. The Knowledge Base will help you use the system and the resources more effectively.</p><p><a href="https://rhss.info/resourcedam/knowledge-base/" target="_blank" rel="noopener noreferrer">ResourceSpace Knowledge Base</a></p>';
 $lang["home__restrictedtext"] = "Please click on the link that you were e-mailed to access the resources selected for you.";
-$lang["home__restrictedtitle"] = "Welcome to ResourceSpace [ver]";
+$lang["home__restrictedtitle"] = "Welcome to ResourceDAM [ver]";
 $lang["home__welcometext"] = "The leading open source enterprise digital asset management system.";
-$lang["home__welcometitle"] = "Welcome to ResourceSpace [ver]";
+$lang["home__welcometitle"] = "Welcome to ResourceDAM [ver]";
 $lang["login__welcomelogin"] = "Welcome to ResourceSpace. Please log in.";
 $lang["local_tz"] = "Local time zone";
 $lang["research_request__introtext"] = "Our professional researchers are here to assist you in finding the very best resources for your projects. Complete this form as thoroughly as possible so we're able to meet your criteria accurately. <br /><br />A member of the research team will be assigned to your request. We'll keep in contact via email throughout the process, and once we've completed the research you'll receive an email with a link to all the resources that we recommend.  ";
@@ -2667,7 +2667,7 @@ $lang['manage_all_user_dash_tiles_note'] = 'Note: Tiles shown with a red border 
 $lang['manage_dash_tiles'] = 'Dash tiles';
 $lang['view_tiles'] = 'View tiles';
 $lang['upgrade_available_title'] = 'Upgrade available';
-$lang['upgrade_available_text'] = 'View version information on the ResourceSpace website';
+$lang['upgrade_available_text'] = 'View version information on the ResourceDAM website';
 $lang["upgrade_in_progress"] = "Upgrade in progress";
 $lang["upgrade_script"] = "Upgrade script";
 $lang['upgrade_026_notification'] = "The upgrade has deprecated some configuration options which your %entity% is overriding.\r\n\r\nTo continue having the download filename formatted as close as possible to the old way please update its configuration override with:\r\n\$download_filename_format = '%format%';";
@@ -3313,7 +3313,7 @@ $lang["job_value"]                          = "Value";
 $lang["job_boost"]                          = "Boost job";
 $lang["job_priority"]                       = "Priority";
 
-$lang['csv_export_offline_option']          = "Generate CSV file offline? This should be used for large result sets. You will be notified via a ResourceSpace message once the CSV is available";
+$lang['csv_export_offline_option']          = "Generate CSV file offline? This should be used for large result sets. You will be notified via a ResourceDAM message once the CSV is available";
 $lang["csv_export_filename"]                = "metadata_export_[search]_[time]";
 $lang["csv_export_file_ready"]              = "Your CSV export is ready";
 $lang["offline_processing_disabled"]        = "Offline job processing is not configured on this system. To enable this please contact your system administrator";
@@ -3529,7 +3529,7 @@ $lang["manage_dash_tiles-tooltip"] = "Manage default user dash tiles";
 $lang["manage_external_shares-tooltip"] = "View and manage external share links";
 $lang["rse_analytics-tooltip"] = "Create charts of resource usage and system statistics";
 $lang["viewreports-tooltip"] = "View tables of data from the system";
-$lang["knowledgebase-tooltip"] = "View ResourceSpace (Knowledge Base) documentation";
+$lang["knowledgebase-tooltip"] = "View ResourceDAM (Knowledge Base) documentation";
 $lang["systemsetup-tooltip"] = "System setup area";
 $lang["page-title_user_group_management-tooltip"] = "Manage user groups and permissions";
 $lang["resource_types_manage-tooltip"] = "Create and configure resource types";
