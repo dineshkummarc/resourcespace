@@ -14,7 +14,7 @@
  *
  * @global array  $lang              Global language strings.
  * @global int    $ref               Resource ID being viewed.
- * @global string $baseurl           Base URL of the ResourceSpace installation.
+ * @global string $baseurl           Base URL of the resourceDAM installation.
  * @global int    $faces_tag_field   The metadata field used to tag faces with person names.
  *
  * @uses ps_query()
@@ -155,7 +155,7 @@ function HookFacesViewCustompanels()
 
     <script>
         /**
-         * Assigns a metadata node (tag) to a detected face using the ResourceSpace API in native mode.
+         * Assigns a metadata node (tag) to a detected face using the resourceDAM API in native mode.
          *
          * @param {number} face - The ID of the face to tag.
          * @param {number} node - The node ID to assign to the face.
@@ -165,7 +165,7 @@ function HookFacesViewCustompanels()
         }
 
         /**
-         * Assigns a metadata node (tag) to a detected face using the ResourceSpace API in native mode.
+         * Assigns a metadata node (tag) to a detected face using the resourceDAM API in native mode.
          *
          * @param {number} face - The ID of the face to tag.
          * @param {number} node - The node ID to assign to the face.
