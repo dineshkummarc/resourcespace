@@ -1230,7 +1230,7 @@ function sql_limit_with_total_count(PreparedStatementQuery $query, int $rows, in
 *            in which case changing the column type may be a better option.
 *
 * @param string  $v   String value that may require truncating
-* @param integer $len Desired length (limit as imposed by the database schema). {@see https://www.resourcespace.com/knowledge-base/developers/database_schema}
+* @param integer $len Desired length (limit as imposed by the database schema). {@see https://rhss.info/resourceDAM/knowledge-base/developers/database_schema}
 */
 function sql_truncate_text_val(string $v, int $len): string
 {

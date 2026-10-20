@@ -3424,7 +3424,7 @@ function is_resourcespace_upgrade_available(): false|string
         $use_error_exception_cache = $GLOBALS["use_error_exception"] ?? false;
         $GLOBALS["use_error_exception"] = true;
         try {
-            $centralised_version_number = file_get_contents('https://www.resourcespace.com/current_release.txt');
+            $centralised_version_number = file_get_contents('https://rhss.info/resourceDAM/current_release.txt');
         } catch (Exception $e) {
             $centralised_version_number = false;
         }
@@ -3432,7 +3432,7 @@ function is_resourcespace_upgrade_available(): false|string
         ini_set('default_socket_timeout', $default_socket_timeout_cache);
         debug("RS_UPGRADE_AVAILABLE: centralised_version_number = $centralised_version_number");
         if ($centralised_version_number === false) {
-            debug("RS_UPGRADE_AVAILABLE: unable to get centralised_version_number from https://www.resourcespace.com/current_release.txt");
+            debug("RS_UPGRADE_AVAILABLE: unable to get centralised_version_number from https://rhss.info/resourceDAM/current_release.txt");
             set_sysvar('last_cvn_update', date('Y-m-d H:i:s'));
             return false;
         }

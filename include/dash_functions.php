@@ -1621,7 +1621,7 @@ function render_upgrade_available_tile($user)
         return;
     }
     ?>
-    <a href="https://www.resourcespace.com/versions"
+    <a href="https://rhss.info/resourceDAM/versions"
         target="_blank"
         class="HomePanel DashTile"
         id="upgrade_available_tile">

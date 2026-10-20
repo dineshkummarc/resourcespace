@@ -57,7 +57,7 @@ $page_title = get_page_title($pagename, pluginname());
     <html lang="<?php echo $language; ?>" <?php if (isset($colour_theme) && $colour_theme != "") { echo 'class="mode-' . escape($colour_theme) . '"'; } ?>>   
     <!--
     ResourceSpace version <?php echo $productversion; ?>
-    For copyright and license information see /documentation/licenses/resourcespace.txt
+    For copyright and license information see /documentation/licenses/resourcedam.txt
     https://www.resourcespace.com
     -->
     <head>

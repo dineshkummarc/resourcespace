@@ -1538,7 +1538,7 @@ function api_get_edit_access(int $resource): bool
 
 /**
  * Toggle active state for nodes
- * @see https://www.resourcespace.com/knowledge-base/developers/fixed-list-fields
+ * @see https://rhss.info/resourceDAM/knowledge-base/developers/fixed-list-fields
  * @param array $refs List of node IDs
  * @return array Returns the affected nodes' active state (including empty list) and 403 HTTP status if not authorised.
  */

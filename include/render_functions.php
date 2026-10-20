@@ -6225,7 +6225,7 @@ function escape(string $unsafe): string
  * IMPORTANT: encoding failures result in NULL. 
  *
  * @example echo 'const x = ' . encode_js_value($value) . ';';
- * @see https://www.resourcespace.com/knowledge-base/developers/security/injection
+ * @see https://rhss.info/resourceDAM/knowledge-base/developers/security/injection
  */
 function encode_js_value(mixed $unsafe): string
 {

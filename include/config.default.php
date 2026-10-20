@@ -553,7 +553,7 @@ $archive_search = false;
 $research_request = false;
 
 // custom research request fields
-// see https://www.resourcespace.com/knowledge-base/resourceadmin/user-research-requests
+// see https://rhss.info/resourceDAM/knowledge-base/resourceadmin/user-research-requests
 $custom_researchrequest_fields = array();
 
 // Country search in the right nav? (requires a field with the short name 'country')
@@ -3150,7 +3150,7 @@ $vendor_tus_cache_adapter = 'file';
 // $related_pushed_order_by - This is an optional setting to order resources differently when displaying 'pushed' related metadata
 // This can be set to either a metadata field ID or a valid search 'order by' string (e.g. 'resourcetype', 'extension', 'colour' etc.)
 // When ordering by a metadata field ID, the order will only be applied for users who have read access to the field specified.
-// See https://www.resourcespace.com/knowledge-base/resourceadmin/push-metadata for more information
+// See https://rhss.info/resourceDAM/knowledge-base/resourceadmin/push-metadata for more information
 // $related_pushed_order_by = 0;
 
 /*
