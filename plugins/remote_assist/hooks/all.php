@@ -1,7 +1,7 @@
 <?php
 function HookRemote_assistAllHomeafterwelcometext()
     {
-    # Load HTML from the ResourceSpace site, passing the base URL. The base URL allows the ResourceSpace website to feed appropriate options based
+    # Load HTML from the resourceDAM site, passing the base URL. The base URL allows the resourceDAM website to feed appropriate options based
     # on whether the installation is a registered trial system, user installation, etc.
     global $baseurl, $productversion;
 
