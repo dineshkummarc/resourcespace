@@ -1116,7 +1116,7 @@ $lang['setup-successheader'] = 'Chúc mừng!';
 $lang['setup-successdetails'] = 'Cài đặt ResourceDAM ban đầu của bạn đã hoàn tất. Hãy chắc chắn kiểm tra \'include/config.default.php\' để biết thêm tùy chọn cấu hình.';
 $lang['setup-successnextsteps'] = 'Các bước tiếp theo:';
 $lang['setup-successremovewrite'] = 'Bạn bây giờ có thể xóa quyền ghi đối với \'include/\'.';
-$lang['setup-visitwiki'] = 'Hãy truy cập <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Cơ sở tri thức ResourceSpace</a> để biết thêm thông tin về việc tùy chỉnh cài đặt của bạn.';
+$lang['setup-visitwiki'] = 'Hãy truy cập <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Cơ sở tri thức ResourceDAM</a> để biết thêm thông tin về việc tùy chỉnh cài đặt của bạn.';
 $lang['setup-checkconfigwrite'] = 'Quyền ghi vào thư mục cấu hình';
 $lang['setup-checkstoragewrite'] = 'Quyền ghi vào thư mục lưu trữ:';
 $lang['setup-welcome'] = 'Chào mừng bạn đến với ResourceDAM';
@@ -2028,7 +2028,7 @@ $lang['all__emailresearchrequestcomplete'] = 'Vui lòng dịch: <br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Được cung cấp bởi <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Được cung cấp bởi <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Hãy để đội ngũ tài nguyên của chúng tôi tìm những tài nguyên bạn cần.';
 $lang['change_language__introtext'] = 'Vui lòng chọn ngôn ngữ của bạn bên dưới.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Nhúng siêu dữ liệu tài nguyên vào tệp tin đã tải xuống? Bật tùy chọn này sẽ làm chậm quá trình tải xuống của bạn.';
@@ -2421,7 +2421,7 @@ $lang['collection_restype_blocked'] = 'Các loại tài nguyên sau đây không
 $lang['retina_mode'] = 'Chế độ Retina';
 $lang['private-api-key'] = 'Khóa API riêng tư';
 $lang['force_edit_resource_type'] = 'Buộc quyền chỉnh sửa cho loại tài nguyên:';
-$lang['linkedheaderimgsrc'] = 'Vị trí của hình ảnh logo trong tiêu đề (Mặc định là ResourceSpace)';
+$lang['linkedheaderimgsrc'] = 'Vị trí của hình ảnh logo trong tiêu đề (Mặc định là ResourceDAM)';
 $lang['actions_myactions'] = 'Hành động';
 $lang['actions_introtext'] = 'Bạn có thể cấu hình các tiêu chí cho các hành động xuất hiện ở đây bằng cách thay đổi sở thích người dùng của bạn';
 $lang['actions_noactions'] = 'Bạn không có hành động nào đang chờ xử lý';

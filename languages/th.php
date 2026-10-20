@@ -1120,7 +1120,7 @@ $lang['setup-successheader'] = 'ขอแสดงความยินดี!';
 $lang['setup-successdetails'] = 'การตั้งค่า ResourceDAM เบื้องต้นของคุณเสร็จสมบูรณ์แล้ว อย่าลืมตรวจสอบ \'include/config.default.php\' เพื่อดูตัวเลือกการตั้งค่าเพิ่มเติม';
 $lang['setup-successnextsteps'] = 'ขั้นตอนถัดไป:';
 $lang['setup-successremovewrite'] = 'คุณสามารถลบการเข้าถึงการเขียนไปยัง \'include/\' ได้แล้ว';
-$lang['setup-visitwiki'] = 'เยี่ยมชม <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ฐานข้อมูลความรู้ของ ResourceSpace</a> เพื่อข้อมูลเพิ่มเติมเกี่ยวกับการปรับแต่งการติดตั้งของคุณ';
+$lang['setup-visitwiki'] = 'เยี่ยมชม <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ฐานข้อมูลความรู้ของ ResourceDAM</a> เพื่อข้อมูลเพิ่มเติมเกี่ยวกับการปรับแต่งการติดตั้งของคุณ';
 $lang['setup-checkconfigwrite'] = 'การเข้าถึงการเขียนไปยังไดเรกทอรีการกำหนดค่า';
 $lang['setup-checkstoragewrite'] = 'การเข้าถึงการเขียนไปยังไดเรกทอรีการจัดเก็บ:';
 $lang['setup-welcome'] = 'ยินดีต้อนรับสู่ ResourceDAM';
@@ -1975,7 +1975,7 @@ $lang['all__emailnewresearchrequestwaiting'] = '[username] ([userfullname] - [us
 <a href="[url]">[url]</a>  
 <a href="[teamresearchurl]">[teamresearchurl]</a>  
 [text_footer]';
-$lang['all__footer'] = 'ขับเคลื่อนโดย <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'ขับเคลื่อนโดย <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'ให้ทีมทรัพยากรของเราค้นหาทรัพยากรที่คุณต้องการ';
 $lang['change_language__introtext'] = 'กรุณาเลือกภาษาของคุณด้านล่าง';
 $lang['collection_download__write_metadata_on_download_label'] = 'ฝังข้อมูลเมตาของทรัพยากรในไฟล์ที่ดาวน์โหลดหรือไม่? การเปิดใช้งานนี้จะทำให้การดาวน์โหลดของคุณช้าลง';
@@ -2366,7 +2366,7 @@ $lang['collection_restype_blocked'] = 'ไม่สามารถเพิ่�
 $lang['retina_mode'] = 'โหมดเรตินา';
 $lang['private-api-key'] = 'กุญแจ API ส่วนตัว';
 $lang['force_edit_resource_type'] = 'บังคับการเข้าถึงการแก้ไขประเภททรัพยากร:';
-$lang['linkedheaderimgsrc'] = 'ตำแหน่งของภาพโลโก้ในส่วนหัว (ค่าเริ่มต้นคือ ResourceSpace)';
+$lang['linkedheaderimgsrc'] = 'ตำแหน่งของภาพโลโก้ในส่วนหัว (ค่าเริ่มต้นคือ ResourceDAM)';
 $lang['actions_myactions'] = 'การดำเนินการ';
 $lang['actions_introtext'] = 'คุณสามารถกำหนดเกณฑ์สำหรับการกระทำที่ปรากฏที่นี่โดยการเปลี่ยนแปลงการตั้งค่าผู้ใช้ของคุณ';
 $lang['actions_noactions'] = 'คุณไม่มีการดำเนินการที่ค้างอยู่';

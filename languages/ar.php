@@ -769,7 +769,7 @@ $lang['property-field_full_width'] = 'عرض بالعرض الكامل على ص
 $lang['property-enable_advanced_search'] = 'تمكين البحث المتقدم';
 $lang['property-system_date_help_text'] = 'غير قادر على تعطيل هذا الحقل حيث أنه تم تعيينه كحقل تاريخ النظام الخاص، يمكنك تغيير ذلك عن طريق التكوين أو الاستفسار من المسؤول';
 $lang['property-enable_simple_search'] = 'تمكين البحث البسيط';
-$lang['property-iptc_equiv'] = 'المعادلة IPTC تشير إلى معيار تبادل المعلومات الصحفية، وهو نظام لتعريف وتبادل المعلومات الوصفية للصور والوثائق الصحفية. في ResourceSpace، يتم استخدام IPTC لتخزين المعلومات الوصفية للموارد، مثل عنوان الموارد، والمؤلف، والتاريخ، والموضوع، والموقع، والحقوق، وغيرها';
+$lang['property-iptc_equiv'] = 'المعادلة IPTC تشير إلى معيار تبادل المعلومات الصحفية، وهو نظام لتعريف وتبادل المعلومات الوصفية للصور والوثائق الصحفية. في ResourceDAM، يتم استخدام IPTC لتخزين المعلومات الوصفية للموارد، مثل عنوان الموارد، والمؤلف، والتاريخ، والموضوع، والموقع، والحقوق، وغيرها';
 $lang['property-display_template'] = 'قالب العرض';
 $lang['property-value_filter'] = 'مرشح القيمة';
 $lang['property-regexp_filter'] = 'تصفية النص بواسطة التعبيرات العادية (Regexp)';
@@ -1935,7 +1935,7 @@ $lang['action-move-down'] = 'نزل';
 $lang['action-move-to'] = 'الانتقال إلى';
 $lang['delete_user_group_checkbox_alert_message'] = 'يرجى ملاحظة أن هذا الإجراء سيؤدي أيضًا إلى حذف جميع نصوص المحتوى التي كانت ذات صلة بهذه المجموعة من المستخدمين. تم العثور على [recordscount] سجلات في إدارة المحتوى.';
 $lang['about__about'] = 'يمكنك وضع نص حولك هنا.';
-$lang['all__footer'] = 'مدعوم بواسطة <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'مدعوم بواسطة <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'دع فريق مواردنا يجد لك الموارد التي تحتاجها.';
 $lang['change_language__introtext'] = 'يرجى اختيار لغتك أدناه.';
 $lang['collection_download__write_metadata_on_download_label'] = 'هل ترغب في تضمين بيانات التعريف الوصفية للمصدر في الملفات التي تم تنزيلها؟ يؤدي تمكين هذا الخيار إلى بطء عملية التنزيل.';
@@ -2302,7 +2302,7 @@ $lang['collection_restype_blocked'] = 'لا يمكن إضافة أنواع ال�
 $lang['retina_mode'] = 'وضع الشبكية (Retina mode)';
 $lang['private-api-key'] = 'مفتاح API الخاص';
 $lang['force_edit_resource_type'] = 'فرض صلاحية التعديل القسري على نوع المورد:';
-$lang['linkedheaderimgsrc'] = 'موقع صورة الشعار في الهيدر (يتم تعيين القيمة الافتراضية على ResourceSpace)';
+$lang['linkedheaderimgsrc'] = 'موقع صورة الشعار في الهيدر (يتم تعيين القيمة الافتراضية على ResourceDAM)';
 $lang['actions_myactions'] = 'الإجراءات';
 $lang['actions_introtext'] = 'يمكنك تكوين معايير الإجراءات التي تظهر هنا عن طريق تغيير تفضيلات المستخدم الخاصة بك';
 $lang['actions_noactions'] = 'ليس لديك أي إجراءات معلقة';

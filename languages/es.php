@@ -514,7 +514,7 @@ $lang['noexternalsharing'] = 'No hay compartición externa.';
 $lang['externalselectresourceaccess'] = 'Si el destinatario es un usuario externo, por favor especifique el nivel acceso que quiere establecer para este recurso.';
 $lang['externalselectresourceexpires'] = 'Si el destinatario es un usuario externo, por favor especifique una fecha de caducidad para la URL generada.';
 $lang['about__about'] = 'Imágenes y Palabras pretende ser un lugar...';
-$lang['all__footer'] = 'Accionado por el <a href="https://rhss.info/resourcedam/">ResourceSpace</a>';
+$lang['all__footer'] = 'Accionado por el <a href="https://rhss.info/resourcedam/">ResourceDAM</a>';
 $lang['all__researchrequest'] = 'Let our resources team find the resources you need.';
 $lang['change_language__introtext'] = 'Por favor, selecciona el idioma en el que deseas trabajar.';
 $lang['collection_edit__introtext'] = 'Organiza tu trabajo agrupando recursos. Crea tantas colecciones como necesites.
@@ -573,7 +573,7 @@ $lang['team_user__introtext'] = 'Utiliza esta sección para añadir, eliminar o 
 $lang['terms__introtext'] = 'Antes de iniciar el proceso de descarga debes aceptar los siguientes términos y condiciones de uso.
 
 ';
-$lang['themes__findpublic'] = 'Powered by <a href="https://rhss.info/resourcedam/">ResourceSpace</a>';
+$lang['themes__findpublic'] = 'Powered by <a href="https://rhss.info/resourcedam/">ResourceDAM</a>';
 $lang['themes__introtext'] = 'Los temas están formados por grupos con nuestros mejores materiales';
 $lang['themes__manage'] = 'Organiza y edita los temas disponibles en la red. Los temas aparecen organizados en colecciones. Para crear una nueva entrada e incluirla en un tema, debes pinchar en "Construye una colección" y elegir "Mis Colecciones" del menú principal. Recuerda incluir el nombre de un tema durante la configuración y crear una nueva colección. Puedes usar un nombre ya existente para agrupar la nueva colección en un apartado ya establecido (es importante asegurarse de que el nombre es exactamente el mismo) o elegir un nuevo título para crear una nueva categoría de temas. Nunca permitas a los usuarios que añadan o cambien materiales de las colecciones ya establecidas. Para editar el contenido de una entrada existente bajo un tema, elige “Editar una Colección”. Los iconos de esta colección aparecerán en el botón de la pantalla “Mis Colecciones”. Emplea las herramientas estándar para editar, mover o añadir material. Para cambiar el  nombre de un tema o mover una colección y que ésta aparezca ubicada en un tema diferente. Elige: “Editar Propiedades” y edita la categoría del tema o el nombre de la colección. Selecciona un nombre existente para el tema y así agruparlo en de las categorías existentes (asegúrate de que lo escribes exactamente igual), o elige un nuevo título para crear un nuevo tipo de tema. Para borrar una selección del tema. Elige: “Editar Propiedades” y borra las palabras de la caja de categorías del tema.';
 $lang['upload__introtext'] = '';
@@ -1177,7 +1177,7 @@ $lang['setup-successheader'] = '¡Felicitaciones!';
 $lang['setup-successdetails'] = 'La configuración inicial de ResourceDAM está completa. Asegúrese de revisar \'include/config.default.php\' para más opciones de configuración.';
 $lang['setup-successnextsteps'] = 'Próximos pasos:';
 $lang['setup-successremovewrite'] = 'Ahora puedes quitar el acceso de escritura a \'include/\'.';
-$lang['setup-visitwiki'] = 'Visite la <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Base de Conocimientos de ResourceSpace</a> para obtener más información sobre cómo personalizar su instalación.';
+$lang['setup-visitwiki'] = 'Visite la <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Base de Conocimientos de ResourceDAM</a> para obtener más información sobre cómo personalizar su instalación.';
 $lang['php-config-file'] = 'Configuración de PHP: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Acceso de escritura al directorio de configuración:';
 $lang['setup-checkstoragewrite'] = 'Acceso de escritura al directorio de almacenamiento:';
@@ -2311,7 +2311,7 @@ $lang['collection_restype_blocked'] = 'Los siguientes tipos de recursos no se pu
 $lang['retina_mode'] = 'Modo Retina';
 $lang['private-api-key'] = 'Clave API privada';
 $lang['force_edit_resource_type'] = 'Forzar el acceso de edición al tipo de recurso:';
-$lang['linkedheaderimgsrc'] = 'Ubicación de la imagen del logotipo en el encabezado (por defecto en ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Ubicación de la imagen del logotipo en el encabezado (por defecto en ResourceDAM):';
 $lang['actions_myactions'] = 'Acciones';
 $lang['actions_introtext'] = 'Puede configurar los criterios para las acciones que aparecen aquí cambiando sus preferencias de usuario';
 $lang['actions_noactions'] = 'No tienes acciones pendientes';

@@ -1130,7 +1130,7 @@ $lang['setup-successheader'] = 'बधाई हो!';
 $lang['setup-successdetails'] = 'आपकी प्रारंभिक ResourceDAM सेटअप पूरी हो गई है। अधिक कॉन्फ़िगरेशन विकल्पों के लिए \'include/config.default.php\' अवश्य देखें।';
 $lang['setup-successnextsteps'] = 'अगले कदम:';
 $lang['setup-successremovewrite'] = 'अब आप \'include/\' से लिखने की अनुमति हटा सकते हैं।';
-$lang['setup-visitwiki'] = 'अपनी स्थापना को अनुकूलित करने के बारे में अधिक जानकारी के लिए <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace ज्ञान आधार</a> पर जाएं।';
+$lang['setup-visitwiki'] = 'अपनी स्थापना को अनुकूलित करने के बारे में अधिक जानकारी के लिए <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM ज्ञान आधार</a> पर जाएं।';
 $lang['php-config-file'] = 'PHP कॉन्फ़िग: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'कॉन्फ़िगरेशन निर्देशिका में लिखने की अनुमति:';
 $lang['setup-checkstoragewrite'] = 'भंडारण निर्देशिका के लिए लिखने की अनुमति:';
@@ -2030,7 +2030,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'द्वारा संचालित <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace ओपन सोर्स डिजिटल एसेट मैनेजमेंट</a>';
+$lang['all__footer'] = 'द्वारा संचालित <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM ओपन सोर्स डिजिटल एसेट मैनेजमेंट</a>';
 $lang['all__researchrequest'] = 'हमारे संसाधन टीम को आपके आवश्यक संसाधन खोजने दें।';
 $lang['change_language__introtext'] = 'कृपया नीचे अपनी भाषा चुनें।';
 $lang['collection_download__write_metadata_on_download_label'] = 'डाउनलोड की गई फ़ाइल(फ़ाइलों) में संसाधन मेटाडेटा एम्बेड करें? इसे सक्षम करने से आपका डाउनलोड धीमा हो जाएगा।';
@@ -2424,7 +2424,7 @@ $lang['collection_restype_blocked'] = 'निम्नलिखित संस�
 $lang['retina_mode'] = 'रेटिना मोड';
 $lang['private-api-key'] = 'निजी एपीआई कुंजी';
 $lang['force_edit_resource_type'] = 'संसाधन प्रकार के लिए संपादन पहुंच को मजबूर करें:';
-$lang['linkedheaderimgsrc'] = 'हेडर में लोगो छवि का स्थान (डिफ़ॉल्ट रूप से ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'हेडर में लोगो छवि का स्थान (डिफ़ॉल्ट रूप से ResourceDAM):';
 $lang['actions_myactions'] = 'क्रियाएँ';
 $lang['actions_introtext'] = 'आप अपने उपयोगकर्ता प्राथमिकताएँ बदलकर यहाँ दिखाई देने वाली क्रियाओं के लिए मानदंड कॉन्फ़िगर कर सकते हैं';
 $lang['actions_noactions'] = 'आपके पास कोई लंबित कार्य नहीं है';

@@ -1129,7 +1129,7 @@ $lang['setup-successheader'] = '축하합니다!';
 $lang['setup-successdetails'] = '초기 ResourceDAM 설정이 완료되었습니다. 추가 구성 옵션을 확인하려면 \'include/config.default.php\' 파일을 확인하세요.';
 $lang['setup-successnextsteps'] = '다음 단계:';
 $lang['setup-successremovewrite'] = '이제 \'include/\'에 대한 쓰기 접근을 제거할 수 있습니다.';
-$lang['setup-visitwiki'] = '<a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace 지식 베이스</a>를 방문하여 설치를 사용자 정의하는 방법에 대한 자세한 정보를 확인하세요.';
+$lang['setup-visitwiki'] = '<a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM 지식 베이스</a>를 방문하여 설치를 사용자 정의하는 방법에 대한 자세한 정보를 확인하세요.';
 $lang['php-config-file'] = 'PHP 구성: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = '구성 디렉토리에 쓰기 권한:';
 $lang['setup-checkstoragewrite'] = '저장 디렉토리에 쓰기 권한:';
@@ -1310,7 +1310,7 @@ $lang['plugins-deactivate'] = '비활성화';
 $lang['plugins-moreinfo'] = '자세히 보기';
 $lang['plugins-activate'] = '활성화';
 $lang['plugins-purge'] = '구성 삭제';
-$lang['plugins-headertext'] = '플러그인은 ResourceSpace의 기능을 확장합니다.';
+$lang['plugins-headertext'] = '플러그인은 ResourceDAM의 기능을 확장합니다.';
 $lang['plugins-legacyinst'] = 'config.php를 통해 활성화됨';
 $lang['plugins-upload-title'] = '파일에서 구성 가져오기';
 $lang['plugins-upload'] = '업로드 구성';
@@ -2030,7 +2030,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = '구동: <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace 오픈 소스 디지털 자산 관리</a>';
+$lang['all__footer'] = '구동: <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM 오픈 소스 디지털 자산 관리</a>';
 $lang['all__researchrequest'] = '우리 자원 팀이 필요한 자원을 찾아드리겠습니다.';
 $lang['change_language__introtext'] = '아래에서 언어를 선택하세요.';
 $lang['collection_download__write_metadata_on_download_label'] = '다운로드된 파일에 리소스 메타데이터를 포함하시겠습니까? 이를 활성화하면 다운로드 속도가 느려질 수 있습니다.';
@@ -2096,7 +2096,7 @@ $lang['notify_resource_change_notification'] = '과거 [days]일 동안 다운�
 $lang['passwordresetemail'] = '비밀번호를 재설정하려면 아래 링크를 클릭하세요.';
 $lang['password_reset_email_html'] = '사용자 이름: [username]<br /><br />비밀번호를 재설정하려면 아래 링크를 클릭하세요.<br /><br /><a href="[url]" target="_blank" >[url]</a>';
 $lang['passwordnewemail'] = '아래 링크를 클릭하여 계정의 새 비밀번호를 설정하세요.';
-$lang['passwordresetexternalauth'] = '귀하의 계정은 ResourceSpace에 의해 인증되지 않았습니다. 로그인 지침에 대해서는 시스템 관리자에게 문의하십시오';
+$lang['passwordresetexternalauth'] = '귀하의 계정은 ResourceDAM에 의해 인증되지 않았습니다. 로그인 지침에 대해서는 시스템 관리자에게 문의하십시오';
 $lang['passwordlinkexpired'] = '비밀번호 재설정 링크가 만료되었거나 이미 사용되었습니다. 로그인하거나 새 링크를 요청하십시오.';
 $lang['passwordresetnotpossible'] = '비밀번호 재설정 요청을 완료할 수 없습니다.';
 $lang['done__user_password_link_sent'] = '귀하의 이메일 주소가 유효한 계정으로 인식되었다면 비밀번호를 재설정할 수 있는 링크가 포함된 이메일이 발송되었습니다.<br /><br /> 이메일을 받지 못하고 계정이 유효하다고 생각되면 시스템 관리자에게 문의하기 전에 이메일 필터를 확인하십시오.';
@@ -2421,7 +2421,7 @@ $lang['collection_restype_blocked'] = '다음 리소스 유형은 추가할 수 
 $lang['retina_mode'] = '레티나 모드';
 $lang['private-api-key'] = '개인 API 키';
 $lang['force_edit_resource_type'] = '리소스 유형에 대한 편집 액세스 강제:';
-$lang['linkedheaderimgsrc'] = '헤더에 있는 로고 이미지의 위치 (기본값은 ResourceSpace):';
+$lang['linkedheaderimgsrc'] = '헤더에 있는 로고 이미지의 위치 (기본값은 ResourceDAM):';
 $lang['actions_myactions'] = '작업';
 $lang['actions_introtext'] = '여기 나타나는 작업의 기준을 사용자 환경 설정을 변경하여 구성할 수 있습니다';
 $lang['actions_noactions'] = '진행 중인 작업이 없습니다';

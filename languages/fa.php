@@ -1133,7 +1133,7 @@ $lang['setup-successheader'] = 'تبریک!';
 $lang['setup-successdetails'] = 'راه‌اندازی اولیه ResourceDAM شما کامل شده است. حتماً فایل \'include/config.default.php\' را برای گزینه‌های پیکربندی بیشتر بررسی کنید.';
 $lang['setup-successnextsteps'] = 'مراحل بعدی:';
 $lang['setup-successremovewrite'] = 'اکنون می‌توانید دسترسی نوشتن به \'include/\' را حذف کنید.';
-$lang['setup-visitwiki'] = 'برای اطلاعات بیشتر درباره سفارشی‌سازی نصب خود، به <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">پایگاه دانش ResourceSpace</a> مراجعه کنید.';
+$lang['setup-visitwiki'] = 'برای اطلاعات بیشتر درباره سفارشی‌سازی نصب خود، به <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">پایگاه دانش ResourceDAM</a> مراجعه کنید.';
 $lang['php-config-file'] = 'پیکربندی PHP: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'دسترسی نوشتن به دایرکتوری پیکربندی:';
 $lang['setup-checkstoragewrite'] = 'دسترسی نوشتن به دایرکتوری ذخیره‌سازی:';
@@ -2029,7 +2029,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'پشتیبانی شده توسط <a target="_blank" href="https://rhss.info/resourcedam/">مدیریت دارایی دیجیتال منبع باز ResourceSpace</a>';
+$lang['all__footer'] = 'پشتیبانی شده توسط <a target="_blank" href="https://rhss.info/resourcedam/">مدیریت دارایی دیجیتال منبع باز ResourceDAM</a>';
 $lang['all__researchrequest'] = 'بگذارید تیم منابع ما منابع مورد نیاز شما را پیدا کند.';
 $lang['change_language__introtext'] = 'لطفاً زبان خود را در زیر انتخاب کنید.';
 $lang['collection_download__write_metadata_on_download_label'] = 'آیا می‌خواهید فراداده‌های منبع را در فایل(های) دانلود شده جاسازی کنید؟ فعال کردن این گزینه سرعت دانلود شما را کاهش می‌دهد.';
@@ -2424,7 +2424,7 @@ $lang['collection_restype_blocked'] = 'انواع منابع زیر نمی‌ت�
 $lang['retina_mode'] = 'حالت رتینا';
 $lang['private-api-key'] = 'کلید API خصوصی';
 $lang['force_edit_resource_type'] = 'اجبار دسترسی ویرایش به نوع منبع:';
-$lang['linkedheaderimgsrc'] = 'محل تصویر لوگو در سربرگ (به طور پیش‌فرض ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'محل تصویر لوگو در سربرگ (به طور پیش‌فرض ResourceDAM):';
 $lang['actions_myactions'] = 'اقدامات';
 $lang['actions_introtext'] = 'می‌توانید معیارهای اقدامات نمایش داده شده در اینجا را با تغییر تنظیمات کاربری خود پیکربندی کنید';
 $lang['actions_noactions'] = 'شما هیچ اقدام معوقه‌ای ندارید';

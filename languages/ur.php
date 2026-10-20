@@ -1133,7 +1133,7 @@ $lang['setup-successheader'] = 'مبارک ہو!';
 $lang['setup-successdetails'] = 'آپ کی ابتدائی ResourceDAM ترتیب مکمل ہو گئی ہے۔ مزید ترتیب کے اختیارات کے لیے \'include/config.default.php\' کو ضرور دیکھیں۔';
 $lang['setup-successnextsteps'] = 'اگلے اقدامات:';
 $lang['setup-successremovewrite'] = 'آپ اب \'include/\' سے لکھنے کی رسائی ہٹا سکتے ہیں۔';
-$lang['setup-visitwiki'] = 'اپنی تنصیب کو حسب ضرورت بنانے کے بارے میں مزید معلومات کے لیے <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace نالج بیس</a> پر جائیں۔';
+$lang['setup-visitwiki'] = 'اپنی تنصیب کو حسب ضرورت بنانے کے بارے میں مزید معلومات کے لیے <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM نالج بیس</a> پر جائیں۔';
 $lang['php-config-file'] = 'PHP کنفیگ: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'کنفیگ ڈائریکٹری تک لکھنے کی رسائی:';
 $lang['setup-checkstoragewrite'] = 'اسٹوریج ڈائریکٹری تک لکھنے کی رسائی:';
@@ -2018,7 +2018,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'پاورڈ بائی <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace اوپن سورس ڈیجیٹل اثاثہ مینجمنٹ</a>';
+$lang['all__footer'] = 'پاورڈ بائی <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM اوپن سورس ڈیجیٹل اثاثہ مینجمنٹ</a>';
 $lang['all__researchrequest'] = 'ہمارے وسائل کی ٹیم کو آپ کی مطلوبہ وسائل تلاش کرنے دیں۔';
 $lang['change_language__introtext'] = 'براہ کرم نیچے اپنی زبان منتخب کریں۔';
 $lang['collection_download__write_metadata_on_download_label'] = 'کیا ڈاؤن لوڈ کی گئی فائل(فائلوں) میں وسائل کی میٹا ڈیٹا شامل کی جائے؟ اسے فعال کرنے سے آپ کی ڈاؤن لوڈ کی رفتار کم ہو جائے گی۔';
@@ -2421,7 +2421,7 @@ $lang['collection_restype_blocked'] = 'مندرجہ ذیل وسائل کی اق�
 $lang['retina_mode'] = 'ریٹینا موڈ';
 $lang['private-api-key'] = 'نجی API کلید';
 $lang['force_edit_resource_type'] = 'وسائل کی قسم پر ترمیمی رسائی کو مجبور کریں:';
-$lang['linkedheaderimgsrc'] = 'ہیڈر میں لوگو تصویر کا مقام (ڈیفالٹ ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'ہیڈر میں لوگو تصویر کا مقام (ڈیفالٹ ResourceDAM):';
 $lang['actions_myactions'] = 'اعمال';
 $lang['actions_introtext'] = 'آپ یہاں ظاہر ہونے والے اعمال کے معیار کو اپنی صارف ترجیحات تبدیل کر کے ترتیب دے سکتے ہیں۔';
 $lang['actions_noactions'] = 'آپ کے پاس کوئی زیر التواء کارروائیاں نہیں ہیں';

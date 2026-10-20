@@ -1,7 +1,7 @@
 <?php
 
 # American English
-# Language File for ResourceSpace
+# Language File for ResourceDAM
 # -------
 # Note: when translating to a new language, preserve the original case if possible.
 

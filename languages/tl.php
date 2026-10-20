@@ -1144,7 +1144,7 @@ $lang['setup-successheader'] = 'Congratulations!';
 $lang['setup-successdetails'] = 'Kumpleto na ang iyong paunang setup ng ResourceDAM. Tiyaking tingnan ang \'include/config.default.php\' para sa higit pang mga opsyon sa pagsasaayos.';
 $lang['setup-successnextsteps'] = 'Susunod na mga hakbang:';
 $lang['setup-successremovewrite'] = 'Maaari mo nang alisin ang write access sa \'include/\'.';
-$lang['setup-visitwiki'] = 'Bisitahin ang <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Knowledge Base</a> para sa karagdagang impormasyon tungkol sa pag-customize ng iyong installation.';
+$lang['setup-visitwiki'] = 'Bisitahin ang <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM Knowledge Base</a> para sa karagdagang impormasyon tungkol sa pag-customize ng iyong installation.';
 $lang['php-config-file'] = 'PHP config: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Pagsusulat ng access sa config directory';
 $lang['setup-checkstoragewrite'] = 'Pagsusulat ng access sa direktoryo ng imbakan';
@@ -2046,7 +2046,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Pinapagana ng <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Pinapagana ng <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Hayaan ang aming koponan ng mga yaman na hanapin ang mga yaman na kailangan mo.';
 $lang['change_language__introtext'] = 'Paki pili ang iyong wika sa ibaba.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Isama ang metadata ng resource sa na-download na file(s)? Ang pag-enable nito ay magpapabagal sa iyong pag-download.';
@@ -2442,7 +2442,7 @@ $lang['private-api-key'] = 'Pribadong susi ng API';
 $lang['api-key'] = 'API key';
 $lang['api-url'] = 'API URL';
 $lang['force_edit_resource_type'] = 'Puwersahin ang pag-edit ng access sa uri ng yaman:';
-$lang['linkedheaderimgsrc'] = 'Lokasyon ng logo na imahe sa header (Naka-default sa ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Lokasyon ng logo na imahe sa header (Naka-default sa ResourceDAM):';
 $lang['actions_myactions'] = 'Mga Aksyon';
 $lang['actions_introtext'] = 'Maaari mong i-configure ang mga pamantayan para sa mga aksyon na lumalabas dito sa pamamagitan ng pagbabago ng iyong mga kagustuhan sa gumagamit';
 $lang['actions_noactions'] = 'Wala kang natitirang mga aksyon';

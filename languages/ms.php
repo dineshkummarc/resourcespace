@@ -1143,7 +1143,7 @@ $lang['setup-successheader'] = 'Tahniah!';
 $lang['setup-successdetails'] = 'Pemasangan awal ResourceDAM anda telah selesai. Pastikan untuk menyemak \'include/config.default.php\' untuk lebih banyak pilihan konfigurasi.';
 $lang['setup-successnextsteps'] = 'Langkah seterusnya:';
 $lang['setup-successremovewrite'] = 'Anda kini boleh menghapuskan akses tulis kepada \'include/\'.';
-$lang['setup-visitwiki'] = 'Lawati <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Pangkalan Pengetahuan ResourceSpace</a> untuk maklumat lanjut tentang menyesuaikan pemasangan anda.';
+$lang['setup-visitwiki'] = 'Lawati <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Pangkalan Pengetahuan ResourceDAM</a> untuk maklumat lanjut tentang menyesuaikan pemasangan anda.';
 $lang['php-config-file'] = 'Konfigurasi PHP: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Akses tulis ke direktori config:';
 $lang['setup-checkstoragewrite'] = 'Akses tulis ke direktori penyimpanan';
@@ -2046,7 +2046,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Dikuasakan oleh <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Dikuasakan oleh <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Biarkan pasukan sumber kami mencari sumber yang anda perlukan.';
 $lang['change_language__introtext'] = 'Sila pilih bahasa anda di bawah.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Sisipkan metadata sumber dalam fail yang dimuat turun? Mengaktifkan ini akan melambatkan muat turun anda.';
@@ -2442,7 +2442,7 @@ $lang['private-api-key'] = 'Kunci API Peribadi';
 $lang['api-key'] = 'kunci API';
 $lang['api-url'] = 'API URL';
 $lang['force_edit_resource_type'] = 'Paksa akses edit kepada jenis sumber:';
-$lang['linkedheaderimgsrc'] = 'Lokasi imej logo di header (Secara lalai kepada ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Lokasi imej logo di header (Secara lalai kepada ResourceDAM):';
 $lang['actions_myactions'] = 'Tindakan';
 $lang['actions_introtext'] = 'Anda boleh mengkonfigurasi kriteria untuk tindakan yang muncul di sini dengan mengubah pilihan pengguna anda';
 $lang['actions_noactions'] = 'Anda tiada tindakan yang tertunggak';

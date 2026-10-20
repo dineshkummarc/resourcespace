@@ -1142,7 +1142,7 @@ $lang['userresourcesunsubmitted'] = 'Οι παρακάτω πόροι που υ�
 $lang['userresourcesunsubmittednotification'] = 'Αυτός ο χρήστης άλλαξε την κατάσταση αυτών των πόρων, οπότε δεν απαιτείται πλέον αναθεώρηση.';
 $lang['clicktoviewlog'] = 'Προβολή αρχείου καταγραφής (or Προβολή αρχείου καταγραφών for plural)';
 $lang['phpextensions'] = 'Επεκτάσεις PHP';
-$lang['setup-visitwiki'] = 'Επισκεφθείτε τη Βάση Γνώσεων του ResourceDAM <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">(ResourceSpace Knowledge Base)</a> για περισσότερες πληροφορίες σχετικά με την προσαρμογή της εγκατάστασής σας.';
+$lang['setup-visitwiki'] = 'Επισκεφθείτε τη Βάση Γνώσεων του ResourceDAM <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">(ResourceDAM Knowledge Base)</a> για περισσότερες πληροφορίες σχετικά με την προσαρμογή της εγκατάστασής σας.';
 $lang['php-config-file'] = 'Ρύθμιση PHP: \'%phpinifile\'';
 $lang['setup-mysqltestfailed'] = 'Αποτυχία δοκιμής (αδυναμία επαλήθευσης του MySQL)';
 $lang['setup-admin_fullname'] = 'Πλήρες όνομα διαχειριστή';
@@ -1897,7 +1897,7 @@ $lang['action-move-up'] = 'Μετακίνηση προς τα πάνω';
 $lang['action-move-down'] = 'Μετακίνηση προς τα κάτω';
 $lang['action-move-to'] = 'Μετακίνηση σε';
 $lang['about__about'] = 'Ο κείμενος σχετικά με εσάς τοποθετείται εδώ.';
-$lang['all__footer'] = 'Κινούμενο από <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Κινούμενο από <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Αφήστε την ομάδα των πόρων μας να βρει τους πόρους που χρειάζεστε.';
 $lang['change_language__introtext'] = 'Παρακαλώ επιλέξτε τη γλώσσα σας παρακάτω.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Θέλετε να ενσωματώσετε τα μεταδεδομένα του αντικειμένου στο/στα αρχείο/α που θα κατεβάσετε; Η ενεργοποίηση αυτής της λειτουργίας θα επιβραδύνει τη λήψη σας.';
@@ -2230,7 +2230,7 @@ $lang['collection_restype_blocked'] = 'Οι ακόλουθοι τύποι πόρ
 $lang['retina_mode'] = 'Λειτουργία Retina';
 $lang['private-api-key'] = 'Ιδιωτικό κλειδί API';
 $lang['force_edit_resource_type'] = 'Επιβολή πρόσβασης επεξεργασίας στον τύπο πόρου:';
-$lang['linkedheaderimgsrc'] = 'Τοποθεσία της εικόνας λογότυπου στην κεφαλίδα (Προεπιλογή στο ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Τοποθεσία της εικόνας λογότυπου στην κεφαλίδα (Προεπιλογή στο ResourceDAM):';
 $lang['actions_myactions'] = 'Ενέργειες';
 $lang['actions_introtext'] = 'Μπορείτε να διαμορφώσετε τα κριτήρια για τις ενέργειες που εμφανίζονται εδώ αλλάζοντας τις προτιμήσεις χρήστη σας';
 $lang['actions_noactions'] = 'Δεν έχετε εκκρεμείς ενέργειες';

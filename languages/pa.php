@@ -1128,7 +1128,7 @@ $lang['setup-successheader'] = 'ਵਧਾਈਆਂ!';
 $lang['setup-successdetails'] = 'ਤੁਹਾਡੀ ਪ੍ਰਾਰੰਭਿਕ ResourceDAM ਸੈਟਅੱਪ ਪੂਰੀ ਹੋ ਗਈ ਹੈ। ਹੋਰ ਸੰਰਚਨਾ ਵਿਕਲਪਾਂ ਲਈ \'include/config.default.php\' ਨੂੰ ਜ਼ਰੂਰ ਦੇਖੋ।';
 $lang['setup-successnextsteps'] = 'ਅਗਲੇ ਕਦਮ:';
 $lang['setup-successremovewrite'] = 'ਤੁਸੀਂ ਹੁਣ \'include/\' ਤੋਂ ਲਿਖਣ ਦੀ ਪਹੁੰਚ ਹਟਾ ਸਕਦੇ ਹੋ।';
-$lang['setup-visitwiki'] = 'ਆਪਣੀ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace ਗਿਆਨ ਅਧਾਰ</a> \'ਤੇ ਜਾਓ।';
+$lang['setup-visitwiki'] = 'ਆਪਣੀ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM ਗਿਆਨ ਅਧਾਰ</a> \'ਤੇ ਜਾਓ।';
 $lang['php-config-file'] = 'PHP ਕਨਫਿਗ: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'ਕੰਫਿਗ ਡਾਇਰੈਕਟਰੀ ਲਈ ਲਿਖਣ ਦੀ ਪਹੁੰਚ:';
 $lang['setup-checkstoragewrite'] = 'ਸਟੋਰੇਜ ਡਾਇਰੈਕਟਰੀ ਲਈ ਲਿਖਣ ਦੀ ਪਹੁੰਚ:';
@@ -2020,7 +2020,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'ਦੁਆਰਾ ਸੰਚਾਲਿਤ <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace ਖੁੱਲ੍ਹਾ ਸਰੋਤ ਡਿਜ਼ਿਟਲ ਐਸੈੱਟ ਮੈਨੇਜਮੈਂਟ</a>';
+$lang['all__footer'] = 'ਦੁਆਰਾ ਸੰਚਾਲਿਤ <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM ਖੁੱਲ੍ਹਾ ਸਰੋਤ ਡਿਜ਼ਿਟਲ ਐਸੈੱਟ ਮੈਨੇਜਮੈਂਟ</a>';
 $lang['all__researchrequest'] = 'ਸਾਡੇ ਸਰੋਤ ਟੀਮ ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਲੋੜੀਂਦੇ ਸਰੋਤ ਲੱਭਣ ਦਿਓ।';
 $lang['change_language__introtext'] = 'ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ।';
 $lang['collection_download__write_metadata_on_download_label'] = 'ਕੀ ਡਾਊਨਲੋਡ ਕੀਤੇ ਗਏ ਫਾਈਲ(ਾਂ) ਵਿੱਚ ਸਰੋਤ ਮੈਟਾਡੇਟਾ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ? ਇਸਨੂੰ ਯੋਗ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਮੰਦ ਹੋ ਜਾਵੇਗਾ।';
@@ -2411,7 +2411,7 @@ $lang['collection_restype_blocked'] = 'ਹੇਠਾਂ ਦਿੱਤੇ ਸਰੋ
 $lang['retina_mode'] = 'ਰੇਟੀਨਾ ਮੋਡ';
 $lang['private-api-key'] = 'ਨਿੱਜੀ API ਕੁੰਜੀ';
 $lang['force_edit_resource_type'] = 'ਰਿਸੋਰਸ ਕਿਸਮ ਲਈ ਐਡਿਟ ਐਕਸੈਸ ਨੂੰ ਮਜਬੂਰ ਕਰੋ:';
-$lang['linkedheaderimgsrc'] = 'ਹੈਡਰ ਵਿੱਚ ਲੋਗੋ ਚਿੱਤਰ ਦਾ ਸਥਾਨ (ਮੂਲ ਰੂਪ ਵਿੱਚ ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'ਹੈਡਰ ਵਿੱਚ ਲੋਗੋ ਚਿੱਤਰ ਦਾ ਸਥਾਨ (ਮੂਲ ਰੂਪ ਵਿੱਚ ResourceDAM):';
 $lang['actions_myactions'] = 'ਕਾਰਵਾਈਆਂ';
 $lang['actions_introtext'] = 'ਤੁਸੀਂ ਆਪਣੇ ਯੂਜ਼ਰ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲ ਕੇ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣ ਵਾਲੇ ਕਾਰਵਾਈਆਂ ਲਈ ਮਾਪਦੰਡਾਂ ਨੂੰ ਕਨਫਿਗਰ ਕਰ ਸਕਦੇ ਹੋ।';
 $lang['actions_noactions'] = 'ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਬਕਾਇਆ ਕਾਰਵਾਈ ਨਹੀਂ ਹੈ';

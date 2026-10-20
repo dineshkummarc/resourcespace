@@ -1134,7 +1134,7 @@ $lang['setup-successheader'] = 'অভিনন্দন!';
 $lang['setup-successdetails'] = 'আপনার প্রাথমিক ResourceDAM সেটআপ সম্পন্ন হয়েছে। আরও কনফিগারেশন বিকল্পের জন্য \'include/config.default.php\' চেক করতে ভুলবেন না।';
 $lang['setup-successnextsteps'] = 'পরবর্তী পদক্ষেপ:';
 $lang['setup-successremovewrite'] = 'আপনি এখন \'include/\' থেকে লেখার অ্যাক্সেস সরাতে পারেন।';
-$lang['setup-visitwiki'] = 'আপনার ইনস্টলেশন কাস্টমাইজ করার বিষয়ে আরও তথ্যের জন্য <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace জ্ঞানভান্ডার</a> পরিদর্শন করুন।';
+$lang['setup-visitwiki'] = 'আপনার ইনস্টলেশন কাস্টমাইজ করার বিষয়ে আরও তথ্যের জন্য <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM জ্ঞানভান্ডার</a> পরিদর্শন করুন।';
 $lang['php-config-file'] = 'PHP কনফিগ: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'কনফিগ ডিরেক্টরিতে লেখার অ্যাক্সেস:';
 $lang['setup-checkstoragewrite'] = 'সংরক্ষণ ডিরেক্টরিতে লেখার অ্যাক্সেস:';
@@ -2024,7 +2024,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'চালিত <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace ওপেন সোর্স ডিজিটাল অ্যাসেট ম্যানেজমেন্ট</a> দ্বারা';
+$lang['all__footer'] = 'চালিত <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM ওপেন সোর্স ডিজিটাল অ্যাসেট ম্যানেজমেন্ট</a> দ্বারা';
 $lang['all__researchrequest'] = 'আমাদের রিসোর্স টিমকে আপনার প্রয়োজনীয় রিসোর্স খুঁজে পেতে দিন।';
 $lang['change_language__introtext'] = 'অনুগ্রহ করে নিচে আপনার ভাষা নির্বাচন করুন।';
 $lang['collection_download__write_metadata_on_download_label'] = 'ডাউনলোড করা ফাইল(গুলি)-তে রিসোর্স মেটাডেটা এম্বেড করবেন? এটি সক্রিয় করলে আপনার ডাউনলোড ধীর হবে।';

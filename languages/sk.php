@@ -1779,7 +1779,7 @@ $lang['all__comments_flag_notification_email_body'] = '';
 $lang['all__comments_flag_notification_email_subject'] = '';
 $lang['all__comments_policy'] = '';
 $lang['all__comments_removal_message'] = '';
-$lang['all__footer'] = 'Powered by <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Powered by <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Nechajte náš tím nájsť pre Vás potrebné zdroje.';
 $lang['change_language__introtext'] = 'Nižšie si zvoľte jazyk, prosím .';
 $lang['collection_download__write_metadata_on_download_label'] = 'Chcete do sťahovaných súborov vložiť metadáta zdrojov? Aktiváciou tejto voľby, môže dôjsť k spomaleniu sťahovania.';
@@ -1823,7 +1823,7 @@ $lang['edit__multiple'] = 'Vyberte, ktoré polia chcete prepísať. Polia, ktor�
 $lang['home__restrictedtext'] = 'Kliknutím na odkaz, ktorý vám bol zaslaný e-mailom, získate prístup k vybraným zdrojom.';
 $lang['home__restrictedtitle'] = 'Vitajte v ResourceDAM [ver]';
 $lang['home__welcometitle'] = 'Vitajte v ResourceDAM [ver]';
-$lang['login__welcomelogin'] = 'Vitajte v ResourceSpace, prosím prihláste sa ...';
+$lang['login__welcomelogin'] = 'Vitajte v ResourceDAM, prosím prihláste sa ...';
 $lang['local_tz'] = 'Miestne časové pásmo';
 $lang['research_request__introtext'] = 'Naši asistenti sú tu, aby vám pomohli nájsť tie najlepšie zdroje pre vaše projekty. Vyplňte tento formulár čo najpodrobnejšie, aby sme mohli presne splniť Vaše kritériá. <br /><br /> Počas tohto procesu Vás budeme v prípade potreby kontaktovať prostredníctvom e-mailu a po dokončení prieskumu dostanete e-mail s odkazom na všetky zdroje, ktoré Vám odporúčame.';
 $lang['resource_email__introtext'] = 'Tento zdroj môžete rýchlo zdieľať s ostatnými používateľmi e-mailom. Súčasťou e-mailu môže byť aj sprievodný text.';
@@ -2130,7 +2130,7 @@ $lang['collection_restype_blocked'] = 'Nasledujúce typy prostriedkov nie je mo�
 $lang['retina_mode'] = 'Režim RETINA';
 $lang['private-api-key'] = 'Súkromný kľúč API';
 $lang['can_edit_resource_type'] = 'Môže upravovať zdroje typu [resourcetype]. Ignoruje sa, ak nie je nastavené oprávnenie "Zakázať prístup k úpravám všetkých typov zdrojov" (pozri vyššie).';
-$lang['linkedheaderimgsrc'] = 'Umiestnenie obrázka loga  pre záhlavie (predvolená hodnota je ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Umiestnenie obrázka loga  pre záhlavie (predvolená hodnota je ResourceDAM):';
 $lang['actions_myactions'] = 'Moje akcie';
 $lang['actions_introtext'] = 'Kritériá pre akcie, ktoré sa tu zobrazujú, môžete nakonfigurovať zmenou používateľských preferencií';
 $lang['actions_noactions'] = 'Nemáte žiadne nevyriešené akcie';

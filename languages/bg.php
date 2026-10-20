@@ -1204,7 +1204,7 @@ $lang['setup-successheader'] = 'Поздравления!';
 $lang['setup-successdetails'] = 'Вашата първоначална настройка на ResourceDAM е завършена. Не забравяйте да прегледате \'include\\/config.default.php\' за повече опции за конфигуриране.';
 $lang['setup-successnextsteps'] = 'Следващи стъпки:';
 $lang['setup-successremovewrite'] = 'Сега можете да премахнете правата за писане към \'include\\/\' .';
-$lang['setup-visitwiki'] = 'Посетете <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/">Базата знания ResourceSpace<\\/a> за повече информация относно персонализирането на вашата инсталация.';
+$lang['setup-visitwiki'] = 'Посетете <a target="_blank" href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/">Базата знания ResourceDAM<\\/a> за повече информация относно персонализирането на вашата инсталация.';
 $lang['php-config-file'] = 'PHP конфигурационен файл: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Права за писане към конфигурационната директория:';
 $lang['setup-checkstoragewrite'] = 'Права за писане към директорията за съхранение:';
@@ -2271,7 +2271,7 @@ $lang['all__emailresearchrequestcomplete'] = '<br />
 <br />
 [text_footer]
 ';
-$lang['all__footer'] = 'Задвижвано от <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Отворен код за управление на дигитални активи</a>';
+$lang['all__footer'] = 'Задвижвано от <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Отворен код за управление на дигитални активи</a>';
 $lang['all__researchrequest'] = 'Нека нашият екип за ресурси намери необходимите ви ресурси.';
 $lang['change_language__introtext'] = 'Моля, изберете езика си по-долу.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Вградете метаданните на ресурса във файла(ите), който/които изтегляте? Активирането на тази опция ще забави изтеглянето ви.';
@@ -2301,7 +2301,7 @@ $lang['download_click__introtext'] = 'За да изтеглите файла с
 $lang['download_progress__introtext'] = 'Изтеглянето ви ще започне скоро. Когато завърши, използвайте линковете по-долу, за да продължите.';
 $lang['downloadfile_nofile'] = 'Заявеното файл не беше намерен.';
 $lang['edit__multiple'] = 'Моля, изберете полетата, които желаете да презапишете. Полетата, които не изберете, ще останат непроменени.';
-$lang['help__introtext'] = '<p>Използвайте ResourceDAM максимално. Базата знания ще ви помогне да използвате системата и ресурсите по-ефективно.<\\/p><p><a href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">База знания ResourceSpace<\\/a><\\/p>';
+$lang['help__introtext'] = '<p>Използвайте ResourceDAM максимално. Базата знания ще ви помогне да използвате системата и ресурсите по-ефективно.<\\/p><p><a href="https:\\/\\/rhss.info\\/resourcedam\\/knowledge-base\\/" target="_blank" rel="noopener noreferrer">База знания ResourceDAM<\\/a><\\/p>';
 $lang['home__restrictedtext'] = 'Моля, кликнете върху линка, който ви беше изпратен по имейл, за да получите достъп до избраните ресурси.';
 $lang['home__restrictedtitle'] = 'Добре дошли в ResourceDAM [ver]';
 $lang['home__welcometitle'] = 'Добре дошли в ResourceDAM [ver]';
@@ -2732,7 +2732,7 @@ $lang['private-api-key'] = 'Частен API ключ';
 $lang['api-key'] = 'API ключ';
 $lang['api-url'] = 'API URL';
 $lang['force_edit_resource_type'] = 'Принудително редактиране на достъпа до тип ресурс: ';
-$lang['linkedheaderimgsrc'] = 'Местоположение на логото в заглавието (по подразбиране ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Местоположение на логото в заглавието (по подразбиране ResourceDAM):';
 $lang['actions_myactions'] = 'Действия';
 $lang['actions_introtext'] = 'Можете да конфигурирате критериите за действията, които се появяват тук, като промените предпочитанията си за потребителя';
 $lang['actions_noactions'] = 'Нямате незавършени действия';
@@ -2956,7 +2956,7 @@ $lang['job_data'] = 'Данни за работата';
 $lang['job_value'] = 'Стойност';
 $lang['job_boost'] = 'Усилване на задача';
 $lang['job_priority'] = 'Приоритет';
-$lang['csv_export_offline_option'] = 'Генериране на CSV файл офлайн? Това трябва да се използва за големи резултатни множества. Ще бъдете уведомени чрез съобщение на ResourceSpace, когато CSV файлът е наличен';
+$lang['csv_export_offline_option'] = 'Генериране на CSV файл офлайн? Това трябва да се използва за големи резултатни множества. Ще бъдете уведомени чрез съобщение на ResourceDAM, когато CSV файлът е наличен';
 $lang['csv_export_filename'] = 'експорт_метаданни_[search]_[time]';
 $lang['csv_export_file_ready'] = 'Вашият CSV експорт е готов';
 $lang['offline_processing_disabled'] = 'Обработката на задачи офлайн не е конфигурирана на тази система. За да активирате това, моля, свържете се с администратора на системата си';

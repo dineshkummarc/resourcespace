@@ -1116,7 +1116,7 @@ $lang['setup-successheader'] = 'Llongyfarchiadau!';
 $lang['setup-successdetails'] = 'Mae eich gosodiad cychwynnol ResourceDAM wedi\'i gwblhau. Gwnewch yn siŵr i edrych ar \'include/config.default.php\' am ragor o opsiynau gosod.';
 $lang['setup-successnextsteps'] = 'Camau nesaf:';
 $lang['setup-successremovewrite'] = 'Gallwch nawr ddileu mynediad ysgrifennu i \'include/\'.';
-$lang['setup-visitwiki'] = 'Ewch i\'r <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Sefydliad Gwybodaeth ResourceSpace</a> am ragor o wybodaeth am addasu eich gosodiad.';
+$lang['setup-visitwiki'] = 'Ewch i\'r <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Sefydliad Gwybodaeth ResourceDAM</a> am ragor o wybodaeth am addasu eich gosodiad.';
 $lang['setup-checkconfigwrite'] = 'Amodau ysgrifennu i\'r cyfeiriadur config:';
 $lang['setup-checkstoragewrite'] = 'Awdurdod ysgrifennu i\'r cyfeiriadur storio:';
 $lang['setup-welcome'] = 'Croeso i ResourceDAM';
@@ -1965,7 +1965,7 @@ Mae [lang_haspostedresearchrequest]
 <a href="[url]">[url]</a>  
 <a href="[teamresearchurl]">[teamresearchurl]</a>  
 [text_footer]';
-$lang['all__footer'] = 'Wedi\'i bweru gan <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Wedi\'i bweru gan <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Gadewch i\'n tîm adnoddau ddod o hyd i\'r adnoddau sydd eu hangen arnoch.';
 $lang['change_language__introtext'] = 'Dewiswch eich iaith isod.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Ydych chi\'n siŵr eich bod am gynnwys metadata\'r adnodd yn y ffeil(iau) a lawrlwythwyd? Bydd galluogi hyn yn arafu eich lawrlwythiad.';
@@ -2353,7 +2353,7 @@ $lang['collection_restype_blocked'] = 'Ni ellir ychwanegu\'r mathau adnodd canly
 $lang['retina_mode'] = 'modd Retina';
 $lang['private-api-key'] = 'Allwedd API preifat';
 $lang['force_edit_resource_type'] = 'Gorfodwch fynediad i olygu i fath adnodd:';
-$lang['linkedheaderimgsrc'] = 'Lleoliad y delwedd logo yn y penawd (Mae\'n dychwelyd i ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Lleoliad y delwedd logo yn y penawd (Mae\'n dychwelyd i ResourceDAM):';
 $lang['actions_myactions'] = 'Camau';
 $lang['actions_introtext'] = 'Gallwch ffurfweddu\'r meini prawf ar gyfer gweithredoedd sy\'n ymddangos yma trwy newid eich dewisiadau defnyddiwr';
 $lang['actions_noactions'] = 'Nid oes gennych unrhyw weithredoedd heb eu cwblhau';

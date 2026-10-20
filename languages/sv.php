@@ -865,7 +865,7 @@ $lang['setup-successheader'] = 'Gratulerar!';
 $lang['setup-successdetails'] = 'Den grundläggande delen av installationen av ResourceDAM är nu slutförd. Gå igenom filen ’include/config.default.php’ om du vill se fler konfigurationsmöjligheter.';
 $lang['setup-successnextsteps'] = 'Nästa steg:';
 $lang['setup-successremovewrite'] = 'Du bör nu avlägsna skrivrättigheten till katalogen ’include/’.';
-$lang['setup-visitwiki'] = 'Besök <a target="_blank" href="http://www.ResourceDAM.com/knowledge-base/">ResourceSpace Knowledge Base</a> (engelskspråkig wiki) om du vill hitta mer information om hur du anpassar din installation.';
+$lang['setup-visitwiki'] = 'Besök <a target="_blank" href="http://www.ResourceDAM.com/knowledge-base/">ResourceDAM Knowledge Base</a> (engelskspråkig wiki) om du vill hitta mer information om hur du anpassar din installation.';
 $lang['php-config-file'] = 'Konfiguration för php: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Skrivrättighet till konfigurationskatalog:';
 $lang['setup-checkstoragewrite'] = 'Skrivrättighet till lagringskatalog:';
@@ -1402,7 +1402,7 @@ $lang['download_usage_option_blocked'] = 'Detta användningsalternativ är inte 
 $lang['tagcloudtext'] = 'Med vilken metadata har materialen taggats? Ju oftare en tagg har använts desto större storlek har den i molnet.<br /><br />Klicka på valfri tagg om du vill göra en sökning.';
 $lang['tagcloud'] = 'Taggmoln';
 $lang['about__about'] = 'Din egen text för ’Om oss’ …';
-$lang['all__footer'] = '<a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace</a>: Digital materialförvaltning (dam) med öppen källkod';
+$lang['all__footer'] = '<a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM</a>: Digital materialförvaltning (dam) med öppen källkod';
 $lang['all__researchrequest'] = 'Låt vårt team hitta materialen du är ute efter.';
 $lang['change_language__introtext'] = 'Välj ditt önskade språk nedan.';
 $lang['collection_edit__introtext'] = 'Organisera och hantera dina material genom att dela upp dem i samlingar.
@@ -2341,7 +2341,7 @@ $lang['collection_restype_blocked'] = 'Följande resurstyper kan inte läggas ti
 $lang['retina_mode'] = 'Retina-läge';
 $lang['private-api-key'] = 'Privat API-nyckel';
 $lang['force_edit_resource_type'] = 'Tvinga redigeringsåtkomst till resurstyp:';
-$lang['linkedheaderimgsrc'] = 'Platsen för logobilden i sidhuvudet (standardinställning är ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Platsen för logobilden i sidhuvudet (standardinställning är ResourceDAM):';
 $lang['actions_myactions'] = 'Åtgärder';
 $lang['actions_introtext'] = 'Du kan konfigurera kriterierna för åtgärder som visas här genom att ändra dina användarinställningar';
 $lang['actions_noactions'] = 'Du har inga utstående åtgärder';
@@ -2519,7 +2519,7 @@ $lang['job_data'] = 'Jobbdata';
 $lang['job_value'] = 'Värde';
 $lang['job_boost'] = 'Öka jobb';
 $lang['job_priority'] = 'Prioritet';
-$lang['csv_export_offline_option'] = 'Generera CSV-fil offline? Detta bör användas för stora resultatuppsättningar. Du kommer att meddelas via ett ResourceSpace-meddelande när CSV-filen är tillgänglig';
+$lang['csv_export_offline_option'] = 'Generera CSV-fil offline? Detta bör användas för stora resultatuppsättningar. Du kommer att meddelas via ett ResourceDAM-meddelande när CSV-filen är tillgänglig';
 $lang['csv_export_file_ready'] = 'Din CSV-export är klar';
 $lang['offline_processing_disabled'] = 'Offline-jobbhantering är inte konfigurerat på detta system. För att aktivera detta, kontakta din systemadministratör';
 $lang['csv_export_offline_only'] = 'Offline-behandling måste användas när data exporteras för mer än [resource_count] resurser';

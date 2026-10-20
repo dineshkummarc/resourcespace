@@ -1126,7 +1126,7 @@ $lang['setup-successheader'] = 'Gratulujeme!';
 $lang['setup-successdetails'] = 'Vaše počáteční nastavení ResourceDAM je dokončeno. Nezapomeňte se podívat na \'include/config.default.php\' pro další možnosti konfigurace.';
 $lang['setup-successnextsteps'] = 'Další kroky:';
 $lang['setup-successremovewrite'] = 'Nyní můžete odebrat přístup k zápisu do \'include/\'.';
-$lang['setup-visitwiki'] = 'Navštivte <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceSpace Knowledge Base</a> pro více informací o přizpůsobení vaší instalace.';
+$lang['setup-visitwiki'] = 'Navštivte <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">ResourceDAM Knowledge Base</a> pro více informací o přizpůsobení vaší instalace.';
 $lang['php-config-file'] = 'PHP konfigurace: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Přístup k zápisu do konfiguračního adresáře:';
 $lang['setup-checkstoragewrite'] = 'Přístup k zápisu do úložného adresáře:';
@@ -2018,7 +2018,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Poháněno <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Poháněno <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Nechte náš tým zdrojů najít zdroje, které potřebujete.';
 $lang['change_language__introtext'] = 'Vyberte prosím svůj jazyk níže.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Vložit metadata zdroje do staženého souboru/souborů? Povolení této funkce zpomalí vaše stahování.';
@@ -2409,7 +2409,7 @@ $lang['collection_restype_blocked'] = 'Následující typy zdrojů nelze přidat
 $lang['retina_mode'] = 'Režim Retina';
 $lang['private-api-key'] = 'Soukromý API klíč';
 $lang['force_edit_resource_type'] = 'Vynutit přístup k úpravám pro typ zdroje:';
-$lang['linkedheaderimgsrc'] = 'Umístění obrázku loga v záhlaví (výchozí je ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Umístění obrázku loga v záhlaví (výchozí je ResourceDAM):';
 $lang['actions_myactions'] = 'Akce';
 $lang['actions_introtext'] = 'Můžete nakonfigurovat kritéria pro akce, které se zde zobrazují, změnou uživatelských předvoleb';
 $lang['actions_noactions'] = 'Nemáte žádné nevyřízené akce';
@@ -2610,7 +2610,7 @@ $lang['job_data'] = 'Data úlohy';
 $lang['job_value'] = 'Hodnota';
 $lang['job_boost'] = 'Zvýšit úlohu';
 $lang['job_priority'] = 'Priorita';
-$lang['csv_export_offline_option'] = 'Vygenerovat CSV soubor offline? Toto by mělo být použito pro velké množiny výsledků. Budete upozorněni prostřednictvím zprávy v ResourceSpace, jakmile bude CSV k dispozici';
+$lang['csv_export_offline_option'] = 'Vygenerovat CSV soubor offline? Toto by mělo být použito pro velké množiny výsledků. Budete upozorněni prostřednictvím zprávy v ResourceDAM, jakmile bude CSV k dispozici';
 $lang['csv_export_filename'] = 'metadata_export_[search]_[time]';
 $lang['csv_export_file_ready'] = 'Váš export CSV je připraven';
 $lang['offline_processing_disabled'] = 'Zpracování offline úloh není na tomto systému nakonfigurováno. Pro jeho povolení kontaktujte svého správce systému';

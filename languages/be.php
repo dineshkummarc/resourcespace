@@ -1147,7 +1147,7 @@ $lang['setup-successheader'] = 'Сардэчна віншуем!';
 $lang['setup-successdetails'] = 'Ваш пачатковы наладка ResourceDAM завершана. Не забудзьцеся праверыць \'include/config.default.php\' для большай колькасці параметраў наладкі.';
 $lang['setup-successnextsteps'] = 'Наступныя крокі:';
 $lang['setup-successremovewrite'] = 'Цяпер вы можаце адключыць доступ на запіс да \'include/\'.';
-$lang['setup-visitwiki'] = 'Наведайцеся ў <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Базу ведаў ResourceSpace</a> для атрымання дадатковай інфармацыі аб наладзе вашай ўстаноўкі.';
+$lang['setup-visitwiki'] = 'Наведайцеся ў <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Базу ведаў ResourceDAM</a> для атрымання дадатковай інфармацыі аб наладзе вашай ўстаноўкі.';
 $lang['php-config-file'] = 'PHP канфігурацыя: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Доступ на запіс да каталога канфігурацыі:';
 $lang['setup-checkstoragewrite'] = 'Доступ на запіс да каталога захоўвання:';
@@ -2052,7 +2052,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Падтрымліваецца <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Падтрымліваецца <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Няхай наша каманда рэсурсаў знойдзе рэсурсы, якія вам патрэбны.';
 $lang['change_language__introtext'] = 'Калі ласка, выберыце вашу мову ніжэй.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Уключыць метаданыя рэсурсаў у загружаным файле(ах)? Уключэнне гэтага запаволіць вашу загрузку.';
@@ -2449,7 +2449,7 @@ $lang['private-api-key'] = 'Приватны ключ API';
 $lang['api-key'] = 'API ключ';
 $lang['api-url'] = 'API URL';
 $lang['force_edit_resource_type'] = 'Сіла доступу да рэсурснага тыпу:';
-$lang['linkedheaderimgsrc'] = 'Месцазнаходжанне выявы лагатыпа ў загалоўку (па змаўчанні ResourceSpace)';
+$lang['linkedheaderimgsrc'] = 'Месцазнаходжанне выявы лагатыпа ў загалоўку (па змаўчанні ResourceDAM)';
 $lang['actions_myactions'] = 'Дзеянні';
 $lang['actions_introtext'] = 'Вы можаце наладзіць крытэрыі для дзеянняў, якія з\'яўляюцца тут, змяняючы вашы перавагі карыстальніка';
 $lang['actions_noactions'] = 'У вас няма непакрытых дзеянняў';
@@ -2670,7 +2670,7 @@ $lang['job_data'] = 'Дадзеныя працы';
 $lang['job_value'] = 'Значэнне';
 $lang['job_boost'] = 'Павялічыць працу';
 $lang['job_priority'] = 'Прыярытэт';
-$lang['csv_export_offline_option'] = 'Сгенераваць CSV файл офлайн? Гэта павінна выкарыстоўвацца для вялікіх набораў вынікаў. Вы будзеце паведамлены праз паведамленне ResourceSpace, калі CSV будзе даступны';
+$lang['csv_export_offline_option'] = 'Сгенераваць CSV файл офлайн? Гэта павінна выкарыстоўвацца для вялікіх набораў вынікаў. Вы будзеце паведамлены праз паведамленне ResourceDAM, калі CSV будзе даступны';
 $lang['csv_export_filename'] = 'экспарт_метададзеных_[search]_[time]';
 $lang['csv_export_file_ready'] = 'Ваш экспарт CSV гатовы';
 $lang['offline_processing_disabled'] = 'Апрацоўка офлайн-задач не наладжана на гэтай сістэме. Каб уключыць гэта, калі ласка, звяжыцеся з вашым сістэмным адміністратарам.';

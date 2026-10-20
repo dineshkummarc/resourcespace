@@ -1128,7 +1128,7 @@ $lang['setup-successheader'] = 'Hongera!';
 $lang['setup-successdetails'] = 'Usanidi wako wa awali wa ResourceDAM umekamilika. Hakikisha kuangalia \'include/config.default.php\' kwa chaguo zaidi za usanidi.';
 $lang['setup-successnextsteps'] = 'Hatua zinazofuata:';
 $lang['setup-successremovewrite'] = 'Sasa unaweza kuondoa ruhusa ya kuandika kwenye \'include/\'.';
-$lang['setup-visitwiki'] = 'Tembelea <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Msingi wa Maarifa wa ResourceSpace</a> kwa maelezo zaidi kuhusu kubinafsisha usakinishaji wako.';
+$lang['setup-visitwiki'] = 'Tembelea <a target="_blank" href="https://rhss.info/resourcedam/knowledge-base/">Msingi wa Maarifa wa ResourceDAM</a> kwa maelezo zaidi kuhusu kubinafsisha usakinishaji wako.';
 $lang['php-config-file'] = 'Usanidi wa PHP: \'%phpinifile\'';
 $lang['setup-checkconfigwrite'] = 'Andika ufikiaji kwenye saraka ya usanidi:';
 $lang['setup-checkstoragewrite'] = 'Andika ruhusa kwa saraka ya kuhifadhi:';
@@ -2022,7 +2022,7 @@ $lang['all__emailresearchrequestcomplete'] = '[lang_researchrequestcompletemessa
 [lang_clicklinkviewcollection] <br /><br /> 
 <a href="[url]">[url]</a><br /><br />
 [text_footer]';
-$lang['all__footer'] = 'Imewezeshwa na <a target="_blank" href="https://rhss.info/resourcedam/">ResourceSpace Open Source Digital Asset Management</a>';
+$lang['all__footer'] = 'Imewezeshwa na <a target="_blank" href="https://rhss.info/resourcedam/">ResourceDAM Open Source Digital Asset Management</a>';
 $lang['all__researchrequest'] = 'Wacha timu yetu ya rasilimali ipate rasilimali unazohitaji.';
 $lang['change_language__introtext'] = 'Tafadhali chagua lugha yako hapa chini.';
 $lang['collection_download__write_metadata_on_download_label'] = 'Je, unataka kuingiza metadata ya rasilimali katika faili zilizopakuliwa? Kuwasha hii kutapunguza kasi ya upakuaji wako.';
@@ -2414,7 +2414,7 @@ $lang['collection_restype_blocked'] = 'Aina zifuatazo za rasilimali haziwezi kuo
 $lang['retina_mode'] = 'Hali ya Retina';
 $lang['private-api-key'] = 'Ufunguo wa API wa Kibinafsi';
 $lang['force_edit_resource_type'] = 'Lazimisha ufikiaji wa kuhariri kwa aina ya rasilimali:';
-$lang['linkedheaderimgsrc'] = 'Mahali pa picha ya nembo kwenye kichwa (Chaguo-msingi ni ResourceSpace):';
+$lang['linkedheaderimgsrc'] = 'Mahali pa picha ya nembo kwenye kichwa (Chaguo-msingi ni ResourceDAM):';
 $lang['actions_myactions'] = 'Vitendo';
 $lang['actions_introtext'] = 'Unaweza kusanidi vigezo vya vitendo vinavyoonekana hapa kwa kubadilisha mapendeleo yako ya mtumiaji';
 $lang['actions_noactions'] = 'Huna vitendo vilivyobaki';
