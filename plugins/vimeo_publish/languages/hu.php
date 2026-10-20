@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"] = 'Vimeo-ra a következő néven fogsz k�
 $lang["vimeo_publish_delete_token"] = 'Használj egy másik Vimeo fiókot (győződj meg róla, hogy először kijelentkeztél erről a Vimeo fiókról)';
 $lang["vimeo_publish_button_text"] = 'Közzététel';
 $lang["vimeo_publish_legal_warning"] = 'A \'OK\' gombra kattintva tanúsítja, hogy Ön rendelkezik a tartalom minden jogával, vagy hogy az tulajdonos által felhatalmazott arra, hogy a tartalmat nyilvánosan elérhetővé tegye a Vimeo-n, és hogy az egyébként megfelel a Vimeo Szolgáltatási Feltételeinek, amelyeket itt talál: https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"] = 'Regisztrálnod kell a ResourceSpace-t mint alkalmazást a Vimeo-n, és szerezned kell egy OAuth kliensazonosítót és titkot.';
+$lang["vimeo_api_instructions_condition_1"] = 'Regisztrálnod kell a ResourceDAM-t mint alkalmazást a Vimeo-n, és szerezned kell egy OAuth kliensazonosítót és titkot.';
 $lang["vimeo_api_instructions_condition_2"] = 'Jelentkezzen be bármely érvényes Vimeo fiókkal (ennek nem kell kapcsolódnia a saját Vimeo fiókjához), majd menjen a <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a> oldalra.';
 $lang["vimeo_api_instructions_condition_3"] = 'Kattintson az "Új alkalmazás" gombra a jobb felső sarokban';
 $lang["vimeo_api_instructions_condition_4"] = 'Töltse ki az összes adatot.';

@@ -19,7 +19,7 @@ $lang["vimeo_publish_publish_as_user"]='Julkaiset Vimeoon nimellä:';
 $lang["vimeo_publish_delete_token"]='Käytä eri Vimeo-tiliä (varmista ensin, että olet kirjautunut ulos tästä Vimeo-tilistä)';
 $lang["vimeo_publish_button_text"]='Julkaise';
 $lang["vimeo_publish_legal_warning"]='Napsauttamalla \'OK\' vahvistat omistavasi kaikki oikeudet sisältöön tai että sinulla on omistajan valtuutus tehdä sisältö julkisesti saataville Vimeo-palvelussa ja että se muutoin noudattaa Vimeon käyttöehtoja, jotka löytyvät osoitteesta https://vimeo.com/terms';
-$lang["vimeo_api_instructions_condition_1"]='Sinun tulee rekisteröidä ResourceSpace-sovellus Vimeoon ja hankkia OAuth-asiakas tunniste ja salainen avain';
+$lang["vimeo_api_instructions_condition_1"]='Sinun tulee rekisteröidä ResourceDAM-sovellus Vimeoon ja hankkia OAuth-asiakas tunniste ja salainen avain';
 $lang["vimeo_api_instructions_condition_2"]='Kirjaudu Vimeoon millä tahansa kelvollisella Vimeo-tilillä (tämän ei tarvitse liittyä omaan Vimeo-tiliisi), ja siirry sitten osoitteeseen <a href="https://developer.vimeo.com/" target="_blank">https://developer.vimeo.com/</a>';
 $lang["vimeo_api_instructions_condition_3"]='Napsauta "Uusi sovellus" yläoikealla';
 $lang["vimeo_api_instructions_condition_4"]='Täytä kaikki yksityiskohdat.';
