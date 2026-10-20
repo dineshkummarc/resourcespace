@@ -10,10 +10,10 @@ $clip_text_search_fields = [8];
 $clip_vector_on_upload = true;
 
 $clip_title_field = 0;
-$clip_title_url = "https://www.resourcespace.com/downloads/clip/titles_textonly.tagdb";
+$clip_title_url = "https://rhss.info/resourceDAM/downloads/clip/titles_textonly.tagdb";
 
 $clip_keyword_field = 0;
-$clip_keyword_url = "https://www.resourcespace.com/downloads/clip/taggable_nouns.tagdb";
+$clip_keyword_url = "https://rhss.info/resourceDAM/downloads/clip/taggable_nouns.tagdb";
 $clip_keyword_count = 5;
 $clip_resource_types = array(1,3); // Default resource types to index
 

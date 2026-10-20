@@ -7,5 +7,5 @@ icon: brain
 icon-colour: seagreen
 category: AI
 config_url: /plugins/clip/pages/setup.php
-info_url: https://www.resourcespace.com/knowledge-base/plugins/clip
+info_url: https://rhss.info/resourceDAM/knowledge-base/plugins/clip
 disable_group_select: 1
