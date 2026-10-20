@@ -15,7 +15,7 @@ $lang["simplesaml_fullname_attribute"] = 'Attribut(er) til brug for fulde navn. 
 $lang["simplesaml_fullname_separator"] = 'Hvis du slår sammen felterne for fulde navn, skal du bruge dette tegn som adskiller';
 $lang["simplesaml_email_attribute"] = 'Attribut til brug for e-mailadresse';
 $lang["simplesaml_group_attribute"] = 'Attribut til brug for at bestemme gruppetilhørsforhold';
-$lang["simplesaml_username_suffix"] = 'Endelse tilføjet til oprettede brugernavne for at adskille dem fra standard ResourceSpace-konti';
+$lang["simplesaml_username_suffix"] = 'Endelse tilføjet til oprettede brugernavne for at adskille dem fra standard ResourceDAM-konti';
 $lang["simplesaml_update_group"] = 'Opdater brugergruppe ved hver logon. Hvis SSO-gruppeattribut ikke bruges til at bestemme adgang, så sæt dette til falsk, så brugere kan flyttes manuelt mellem grupper';
 $lang["simplesaml_groupmapping"] = 'SAML - RessourceSpace Gruppemapping';
 $lang["simplesaml_fallback_group"] = 'Standard brugergruppe, som vil blive anvendt til nyligt oprettede brugere';
@@ -33,7 +33,7 @@ $lang["origin_simplesaml"] = 'SimpleSAML-plugin';
 $lang["simplesaml_lib_path_label"] = 'SAML lib sti (angiv venligst fuld serversti)';
 $lang["simplesaml_login"] = 'Brug SAML-legitimationsoplysninger til at logge ind på ResourceSpace? (Dette er kun relevant, hvis ovenstående indstilling er aktiveret)';
 $lang["simplesaml_create_new_match_email"] = 'E-mail-match: Inden der oprettes nye brugere, skal du kontrollere, om SAML-brugerens e-mail matcher en eksisterende RS-konto-e-mail. Hvis der findes et match, vil SAML-brugeren \'overtage\' den konto';
-$lang["simplesaml_allow_duplicate_email"] = 'Tillad oprettelse af nye konti, hvis der allerede eksisterer ResourceSpace-konti med den samme e-mailadresse? (dette tilsidesættes, hvis e-mail-match er angivet ovenfor, og der findes et match)';
+$lang["simplesaml_allow_duplicate_email"] = 'Tillad oprettelse af nye konti, hvis der allerede eksisterer ResourceDAM-konti med den samme e-mailadresse? (dette tilsidesættes, hvis e-mail-match er angivet ovenfor, og der findes et match)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - konfliktende e-mail login forsøg';
 $lang["simplesaml_multiple_email_match_text"] = 'En ny SAML-bruger har fået adgang til systemet, men der er allerede mere end én konto med den samme e-mailadresse.';
 $lang["simplesaml_multiple_email_notify"] = 'E-mailadresse til at underrette, hvis der opstår en e-mailkonflikt';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Aktivér resourceDAM til 
 $lang["simplesaml_authorisation_claim_name_label"] = 'Attributnavn (udsagn/ påstand)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Attribut (udsagn/værdi) værdi';
 $lang["simplesaml_authorisation_login_error"] = 'Du har ikke adgang til denne applikation! Kontakt venligst administrator for din konto!';
-$lang["simplesaml_authorisation_version_error"] = 'VIGTIGT: Din SimpleSAML-konfiguration skal opdateres. Henvis venligst til afsnittet \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrering af SP til at bruge ResourceSpace-konfiguration</a>\' i vidensbasen for mere information';
+$lang["simplesaml_authorisation_version_error"] = 'VIGTIGT: Din SimpleSAML-konfiguration skal opdateres. Henvis venligst til afsnittet \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migrering af SP til at bruge ResourceDAM-konfiguration</a>\' i vidensbasen for mere information';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML-pluginfejl';
 $lang["simplesaml_rsconfig"] = 'Brug standard resourceDAM konfigurationsfiler til at indstille SP-konfiguration og metadata? Hvis dette er sat til falsk, kræves manuel redigering af filer';
 $lang["simplesaml_sp_generate_config"] = 'Generer SP-konfiguration';

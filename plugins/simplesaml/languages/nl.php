@@ -15,7 +15,7 @@ $lang["simplesaml_fullname_attribute"] = 'Attribuut(en) te gebruiken voor volled
 $lang["simplesaml_fullname_separator"] = 'Indien velden worden samengevoegd voor de volledige naam, gebruik dan dit teken als scheidingsteken';
 $lang["simplesaml_email_attribute"] = 'Attribuut om te gebruiken voor e-mailadres';
 $lang["simplesaml_group_attribute"] = 'Attribuut om groepslidmaatschap te bepalen';
-$lang["simplesaml_username_suffix"] = 'Achtervoegsel om toe te voegen aan gecreëerde gebruikersnamen om ze te onderscheiden van standaard ResourceSpace-accounts';
+$lang["simplesaml_username_suffix"] = 'Achtervoegsel om toe te voegen aan gecreëerde gebruikersnamen om ze te onderscheiden van standaard ResourceDAM-accounts';
 $lang["simplesaml_update_group"] = 'Gebruikersgroep bij elke aanmelding bijwerken. Als er geen SSO-groepsattribuut wordt gebruikt om toegang te bepalen, stel dit dan in op false zodat gebruikers handmatig tussen groepen kunnen worden verplaatst';
 $lang["simplesaml_groupmapping"] = 'SAML - resourceDAM Groepstoewijzing';
 $lang["simplesaml_fallback_group"] = 'Standaard gebruikersgroep die zal worden gebruikt voor nieuw aangemaakte gebruikers';
@@ -33,7 +33,7 @@ $lang["origin_simplesaml"] = 'SimpleSAML-plugin';
 $lang["simplesaml_lib_path_label"] = 'SAML bibliotheekpad (geef alstublieft het volledige serverpad op)';
 $lang["simplesaml_login"] = 'Gebruik SAML referenties om in te loggen op ResourceSpace? (Dit is alleen relevant als de bovenstaande optie is ingeschakeld)';
 $lang["simplesaml_create_new_match_email"] = 'E-mail overeenkomst: Controleer voordat nieuwe gebruikers worden aangemaakt of het SAML-gebruikers-e-mailadres overeenkomt met een bestaand RS-account e-mailadres. Als er een overeenkomst wordt gevonden, zal de SAML-gebruiker dat account \'adopteren\'';
-$lang["simplesaml_allow_duplicate_email"] = 'Toestaan dat nieuwe accounts worden aangemaakt als er bestaande ResourceSpace-accounts zijn met hetzelfde e-mailadres? (dit wordt overschreven als e-mail-match hierboven is ingesteld en er één overeenkomst is gevonden)';
+$lang["simplesaml_allow_duplicate_email"] = 'Toestaan dat nieuwe accounts worden aangemaakt als er bestaande ResourceDAM-accounts zijn met hetzelfde e-mailadres? (dit wordt overschreven als e-mail-match hierboven is ingesteld en er één overeenkomst is gevonden)';
 $lang["simplesaml_multiple_email_match_subject"] = 'ResourceDAM SAML - conflicterende e-mail login poging';
 $lang["simplesaml_multiple_email_match_text"] = 'Een nieuwe SAML-gebruiker heeft toegang gekregen tot het systeem, maar er zijn al meer dan één account met hetzelfde e-mailadres.';
 $lang["simplesaml_multiple_email_notify"] = 'E-mailadres om te waarschuwen als er een e-mailconflict wordt gevonden';
@@ -47,7 +47,7 @@ $lang["simplesaml_authorisation_rules_description"] = 'Maak het mogelijk om reso
 $lang["simplesaml_authorisation_claim_name_label"] = 'Attribuutnaam (bewering/claimnaam)';
 $lang["simplesaml_authorisation_claim_value_label"] = 'Attribuutwaarde (bewering/waarde)';
 $lang["simplesaml_authorisation_login_error"] = 'Je hebt geen toegang tot deze applicatie! Neem contact op met de beheerder van je account!';
-$lang["simplesaml_authorisation_version_error"] = 'BELANGRIJK: Uw SimpleSAML-configuratie moet worden bijgewerkt. Raadpleeg de sectie \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migreren van de SP naar het gebruik van ResourceSpace-configuratie</a>\' van de Kennisbank voor meer informatie';
+$lang["simplesaml_authorisation_version_error"] = 'BELANGRIJK: Uw SimpleSAML-configuratie moet worden bijgewerkt. Raadpleeg de sectie \'<a href=\'https://www.resourcespace.com/knowledge-base/plugins/simplesaml#saml_instructions_migrate\' target=\'_blank\'>Migreren van de SP naar het gebruik van ResourceDAM-configuratie</a>\' van de Kennisbank voor meer informatie';
 $lang["simplesaml_healthcheck_error"] = 'SimpleSAML plugin fout';
 $lang["simplesaml_rsconfig"] = 'Gebruik standaard resourceDAM configuratiebestanden om SP-configuratie en metadata in te stellen? Als dit op false is ingesteld, is handmatige bewerking van bestanden vereist';
 $lang["simplesaml_sp_generate_config"] = 'Genereer SP-configuratie';
