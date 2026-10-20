@@ -1,6 +1,6 @@
 <?php
 
-use Montala\ResourceSpace\UserInterfaceComponents\Icon;
+use Montala\ResourceDAM\UserInterfaceComponents\Icon;
 
 include_once dirname(__FILE__, 2) . '/include/clip_functions.php';
 
