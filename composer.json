@@ -1,9 +1,9 @@
 {
     "name": "montala/resourcespace",
-    "description": "ResourceSpace is the Digital Asset Management software offering a convenient, productive and easy to use solution for organising and sharing files.",
+    "description": "ResourceDAM is the Digital Asset Management software offering a convenient, productive and easy to use solution for organising and sharing files.",
     "homepage": "https://www.resourcespace.com",
     "type": "project",
-    "license": "documentation/licenses/resourcespace.txt",
+    "license": "documentation/licenses/resourceDAM.txt",
     "require": {
         "php": "^8.2",
         "ext-mbstring": "*",
