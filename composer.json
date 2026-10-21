@@ -1,7 +1,7 @@
 {
     "name": "montala/resourcespace",
     "description": "ResourceDAM is the Digital Asset Management software offering a convenient, productive and easy to use solution for organising and sharing files.",
-    "homepage": "https://www.resourcespace.com",
+    "homepage": "https://rhss.info/ResourceDAM/",
     "type": "project",
     "license": "documentation/licenses/resourceDAM.txt",
     "require": {
@@ -76,7 +76,7 @@
             "svn diff -c 24289 ^/trunk/lib/tus/vendor/ankitpokhrel/tus-php/src/Tus/Server.php | patch vendor/ankitpokhrel/tus-php/src/Tus/Server.php"
         ],
         "build:release": [
-            "echo Building ResourceSpace release",
+            "echo Building ResourceDAM release",
             "sh -c '[ -z \"$(svn diff)\" ] || (echo \"[WARN] Working copy has changes! Please address those first!\" && exit 1)'",
             "svn update",
             "@composer check-platform-reqs --no-interaction --no-cache --no-dev",
@@ -93,15 +93,15 @@
     },
     "scripts-descriptions": {
         "svn:ignoreProp": "Make SVN ignore certain files/directories by adding the pattern to the .svnignore file.",
-        "dev:tests": "Run the automated tests for ResourceSpace.",
-        "build:release": "ResourceSpace build release version. This will allow end users to continue to upgrade with a simple `svn switch` call.",
-        "build:applyDownstreamChanges": "Apply downstream changes to ResourceSpace dependencies. Any changes that the upstream has fixed should be removed from the list as we want minimum (to no) divergence from upstreams."
+        "dev:tests": "Run the automated tests for ResourceDAM.",
+        "build:release": "ResourceDAM build release version. This will allow end users to continue to upgrade with a simple `svn switch` call.",
+        "build:applyDownstreamChanges": "Apply downstream changes to ResourceDAM dependencies. Any changes that the upstream has fixed should be removed from the list as we want minimum (to no) divergence from upstreams."
     },
     "support": {
-        "source": "https://svn.resourcespace.com/svn/rs/trunk/",
-        "docs": "https://www.resourcespace.com/knowledge-base/",
-        "forum": "https://groups.google.com/g/resourcespace",
-        "issues": "https://www.resourcespace.com/bug_report",
-        "security": "https://www.resourcespace.com/bug_report"
+        "source": "https://svn.resourceDAM.com/svn/rs/trunk/",
+        "docs": "https://rhss.info/ResourceDAM/knowledge-base/",
+        "forum": "https://groups.google.com/g/resourceDAM",
+        "issues": "https://rhss.info/ResourceDAM/bug_report",
+        "security": "https://rhss.info/ResourceDAM/bug_report"
     }
 }
