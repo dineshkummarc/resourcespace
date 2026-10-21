@@ -1,6 +1,6 @@
 {
-    "short_name": "ResourceSpace",
-    "name": "ResourceSpace",
+    "short_name": "ResourceDAM",
+    "name": "ResourceDAM",
     "icons": [
       {
         "src": "./gfx/icons/icon-vector.svg",
